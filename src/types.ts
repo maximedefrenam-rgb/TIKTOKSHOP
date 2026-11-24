@@ -45,6 +45,8 @@ export type Scene =
       resultAt: number;
       /** libellé sous le résultat, défaut « LA DOSE » */
       unitLabel?: string;
+      /** libellé de la division, défaut « DOSES » (ex. « SACHETS ») */
+      divLabel?: string;
     })
   | (SceneBase & {kind: 'myth'; statement: string; crossAt: number; verdict?: string})
   | (SceneBase & {

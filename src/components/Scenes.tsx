@@ -44,7 +44,7 @@ export const PriceScene: React.FC<P<'price'>> = ({scene, cfg, offset}) => {
         <BigText text={euro(count)} size={190} color={BRAND.colors.text} y={360} progress={pPrice} />
         <div style={{position: 'absolute', left: SAFE_CX, top: 360, width: 560 * strike, height: 12, background: BRAND.colors.alert,
           transform: 'translate(-50%, -50%) rotate(-6deg)', borderRadius: 6}} />
-        <BigText text={`÷ ${scene.doses} DOSES`} size={110} color={BRAND.colors.text} y={540} progress={pDiv} />
+        <BigText text={`÷ ${scene.doses} ${scene.divLabel ?? 'DOSES'}`} size={110} color={BRAND.colors.text} y={540} progress={pDiv} />
       </div>
       <BigText text={euro(f >= rA ? resCount : perDose)} size={240} color={cfg.accent} y={770} progress={pRes} />
       <BigText text={scene.unitLabel ?? 'LA DOSE'} size={70} color={BRAND.colors.text} y={950} progress={f >= rA + 6 ? sp(f, rA + 6) : 0} />
@@ -112,7 +112,8 @@ export const CutawayScene: React.FC<P<'cutaway'>> = ({scene, cfg, offset}) => {
   const f = useAbs(offset);
   const oA = s2f(scene.openAt);
   const open = f >= oA ? sp(f, oA, {damping: 12, stiffness: 120, mass: 0.8}) : 0;
-  const cy = 1260, h = 700;
+  // emballage large (productScale < 1) : produit plus bas pour que le couvercle ne monte pas sur les textes
+  const h = 700, cy = 1260 + (1 - (cfg.productScale ?? 1)) * h * 0.5;
   const glow = lin(f, oA, oA + 8) * (1 - lin(f, oA + 20, oA + 45) * 0.5);
   return (
     <AbsoluteFill>

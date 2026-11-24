@@ -1,0 +1,371 @@
+{
+ "words": [
+  {
+   "word": "Mais",
+   "start": 0.134,
+   "end": 0.16
+  },
+  {
+   "word": "WSH",
+   "start": 0.24,
+   "end": 0.72
+  },
+  {
+   "word": "tu",
+   "start": 0.773,
+   "end": 0.88
+  },
+  {
+   "word": "prends",
+   "start": 0.907,
+   "end": 1.12
+  },
+  {
+   "word": "du",
+   "start": 1.147,
+   "end": 1.2
+  },
+  {
+   "word": "snus",
+   "start": 1.253,
+   "end": 1.68
+  },
+  {
+   "word": "maintenant",
+   "start": 1.738,
+   "end": 2.32
+  },
+  {
+   "word": "Non",
+   "start": 3.416,
+   "end": 3.44
+  },
+  {
+   "word": "frérot",
+   "start": 3.493,
+   "end": 4.32
+  },
+  {
+   "word": "ZÉRO",
+   "start": 4.52,
+   "end": 4.88
+  },
+  {
+   "word": "nicotine",
+   "start": 4.96,
+   "end": 5.92
+  },
+  {
+   "word": "zéro",
+   "start": 6.08,
+   "end": 6.4
+  },
+  {
+   "word": "tabac",
+   "start": 6.48,
+   "end": 6.8
+  },
+  {
+   "word": "C'est",
+   "start": 7.496,
+   "end": 7.52
+  },
+  {
+   "word": "de",
+   "start": 7.547,
+   "end": 7.6
+  },
+  {
+   "word": "la",
+   "start": 7.627,
+   "end": 7.68
+  },
+  {
+   "word": "caféine",
+   "start": 7.744,
+   "end": 8.56
+  },
+  {
+   "word": "cent",
+   "start": 8.608,
+   "end": 8.8
+  },
+  {
+   "word": "milligrammes",
+   "start": 8.832,
+   "end": 9.28
+  },
+  {
+   "word": "par",
+   "start": 9.3,
+   "end": 9.36
+  },
+  {
+   "word": "sachet",
+   "start": 9.424,
+   "end": 10
+  },
+  {
+   "word": "et",
+   "start": 10.027,
+   "end": 10.08
+  },
+  {
+   "word": "en",
+   "start": 10.107,
+   "end": 10.16
+  },
+  {
+   "word": "Black",
+   "start": 10.2,
+   "end": 10.4
+  },
+  {
+   "word": "Friday",
+   "start": 10.457,
+   "end": 11.12
+  },
+  {
+   "word": "c'est",
+   "start": 11.2,
+   "end": 11.36
+  },
+  {
+   "word": "vingt-huit",
+   "start": 11.48,
+   "end": 11.92
+  },
+  {
+   "word": "centimes",
+   "start": 11.984,
+   "end": 12.4
+  },
+  {
+   "word": "le",
+   "start": 12.427,
+   "end": 12.48
+  },
+  {
+   "word": "sachet",
+   "start": 12.528,
+   "end": 13.2
+  },
+  {
+   "word": "livraison",
+   "start": 13.26,
+   "end": 13.68
+  },
+  {
+   "word": "gratuite",
+   "start": 13.733,
+   "end": 14.16
+  },
+  {
+   "word": "Caféine",
+   "start": 15.077,
+   "end": 15.44
+  },
+  {
+   "word": "elle-théanine",
+   "start": 15.472,
+   "end": 16.32
+  },
+  {
+   "word": "vitamines",
+   "start": 16.38,
+   "end": 16.88
+  },
+  {
+   "word": "B",
+   "start": 16.96,
+   "end": 17.12
+  },
+  {
+   "word": "fabriqué",
+   "start": 17.2,
+   "end": 17.68
+  },
+  {
+   "word": "en",
+   "start": 17.707,
+   "end": 17.76
+  },
+  {
+   "word": "Suède",
+   "start": 17.84,
+   "end": 18.24
+  },
+  {
+   "word": "goût",
+   "start": 18.347,
+   "end": 18.64
+  },
+  {
+   "word": "cerise",
+   "start": 18.7,
+   "end": 19.04
+  },
+  {
+   "word": "noire",
+   "start": 19.093,
+   "end": 19.64
+  },
+  {
+   "word": "sous",
+   "start": 19.68,
+   "end": 19.84
+  },
+  {
+   "word": "la",
+   "start": 19.893,
+   "end": 20
+  },
+  {
+   "word": "lèvre",
+   "start": 20.04,
+   "end": 20.4
+  },
+  {
+   "word": "discret",
+   "start": 20.48,
+   "end": 21.44
+  },
+  {
+   "word": "même",
+   "start": 21.488,
+   "end": 21.68
+  },
+  {
+   "word": "au",
+   "start": 21.707,
+   "end": 21.76
+  },
+  {
+   "word": "taf",
+   "start": 21.8,
+   "end": 22.4
+  },
+  {
+   "word": "Avant",
+   "start": 22.773,
+   "end": 22.88
+  },
+  {
+   "word": "ta",
+   "start": 22.933,
+   "end": 23.04
+  },
+  {
+   "word": "séance",
+   "start": 23.093,
+   "end": 23.36
+  },
+  {
+   "word": "ou",
+   "start": 23.413,
+   "end": 23.52
+  },
+  {
+   "word": "ta",
+   "start": 23.547,
+   "end": 23.6
+  },
+  {
+   "word": "session",
+   "start": 23.64,
+   "end": 23.92
+  },
+  {
+   "word": "GTA",
+   "start": 24.02,
+   "end": 24.32
+  },
+  {
+   "word": "six",
+   "start": 24.42,
+   "end": 24.8
+  },
+  {
+   "word": "ta",
+   "start": 25.159,
+   "end": 25.212
+  },
+  {
+   "word": "machine",
+   "start": 25.252,
+   "end": 25.532
+  },
+  {
+   "word": "à",
+   "start": 25.572,
+   "end": 25.612
+  },
+  {
+   "word": "café",
+   "start": 25.676,
+   "end": 25.932
+  },
+  {
+   "word": "peut",
+   "start": 25.996,
+   "end": 26.252
+  },
+  {
+   "word": "déjà",
+   "start": 26.332,
+   "end": 26.652
+  },
+  {
+   "word": "écrire",
+   "start": 26.732,
+   "end": 27.052
+  },
+  {
+   "word": "son",
+   "start": 27.072,
+   "end": 27.132
+  },
+  {
+   "word": "testament",
+   "start": 27.188,
+   "end": 28.052
+  },
+  {
+   "word": "Trente-six",
+   "start": 28.539,
+   "end": 28.812
+  },
+  {
+   "word": "sachets",
+   "start": 28.86,
+   "end": 29.612
+  },
+  {
+   "word": "dix",
+   "start": 29.652,
+   "end": 29.772
+  },
+  {
+   "word": "balles",
+   "start": 29.832,
+   "end": 30.172
+  },
+  {
+   "word": "panier",
+   "start": 30.292,
+   "end": 30.732
+  },
+  {
+   "word": "orange",
+   "start": 30.812,
+   "end": 31.692
+  },
+  {
+   "word": "FONCE",
+   "start": 31.772,
+   "end": 32.332
+  }
+ ],
+ "durationSec": 32.601,
+ "model": "eleven_v3"
+}
