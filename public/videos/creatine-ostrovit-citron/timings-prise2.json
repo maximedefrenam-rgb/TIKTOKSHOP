@@ -1,0 +1,556 @@
+{
+ "words": [
+  {
+   "word": "Même",
+   "start": 0.063,
+   "end": 0.139
+  },
+  {
+   "word": "pas",
+   "start": 0.191,
+   "end": 0.348
+  },
+  {
+   "word": "CINQ",
+   "start": 0.522,
+   "end": 1.009
+  },
+  {
+   "word": "centimes",
+   "start": 1.043,
+   "end": 1.322
+  },
+  {
+   "word": "C'est",
+   "start": 1.844,
+   "end": 1.862
+  },
+  {
+   "word": "le",
+   "start": 1.885,
+   "end": 1.931
+  },
+  {
+   "word": "prix",
+   "start": 2.001,
+   "end": 2.279
+  },
+  {
+   "word": "d'UNE",
+   "start": 2.349,
+   "end": 2.627
+  },
+  {
+   "word": "dose",
+   "start": 2.696,
+   "end": 2.975
+  },
+  {
+   "word": "de",
+   "start": 2.998,
+   "end": 3.044
+  },
+  {
+   "word": "créatine",
+   "start": 3.114,
+   "end": 3.74
+  },
+  {
+   "word": "Trois",
+   "start": 3.981,
+   "end": 4.102
+  },
+  {
+   "word": "cents",
+   "start": 4.126,
+   "end": 4.241
+  },
+  {
+   "word": "grammes",
+   "start": 4.287,
+   "end": 4.589
+  },
+  {
+   "word": "à",
+   "start": 4.833,
+   "end": 5.076
+  },
+  {
+   "word": "quatre",
+   "start": 5.096,
+   "end": 5.215
+  },
+  {
+   "word": "euros",
+   "start": 5.261,
+   "end": 5.494
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.523,
+   "end": 6.537
+  },
+  {
+   "word": "À",
+   "start": 6.746,
+   "end": 6.954
+  },
+  {
+   "word": "trois",
+   "start": 6.989,
+   "end": 7.163
+  },
+  {
+   "word": "grammes",
+   "start": 7.198,
+   "end": 7.441
+  },
+  {
+   "word": "par",
+   "start": 7.459,
+   "end": 7.511
+  },
+  {
+   "word": "jour",
+   "start": 7.581,
+   "end": 8.415
+  },
+  {
+   "word": "ça",
+   "start": 8.461,
+   "end": 8.554
+  },
+  {
+   "word": "fait",
+   "start": 8.596,
+   "end": 8.763
+  },
+  {
+   "word": "CENT",
+   "start": 8.888,
+   "end": 9.389
+  },
+  {
+   "word": "doses",
+   "start": 9.459,
+   "end": 9.807
+  },
+  {
+   "word": "Franchement",
+   "start": 10.092,
+   "end": 10.804
+  },
+  {
+   "word": "moins",
+   "start": 10.839,
+   "end": 11.012
+  },
+  {
+   "word": "cher",
+   "start": 11.04,
+   "end": 11.152
+  },
+  {
+   "word": "que",
+   "start": 11.186,
+   "end": 11.291
+  },
+  {
+   "word": "ça",
+   "start": 11.36,
+   "end": 11.569
+  },
+  {
+   "word": "j'ai",
+   "start": 11.673,
+   "end": 11.917
+  },
+  {
+   "word": "jamais",
+   "start": 11.957,
+   "end": 12.195
+  },
+  {
+   "word": "vu",
+   "start": 12.241,
+   "end": 12.404
+  },
+  {
+   "word": "Et",
+   "start": 12.609,
+   "end": 12.62
+  },
+  {
+   "word": "non",
+   "start": 12.672,
+   "end": 12.898
+  },
+  {
+   "word": "la",
+   "start": 13.014,
+   "end": 13.246
+  },
+  {
+   "word": "créatine",
+   "start": 13.298,
+   "end": 13.802
+  },
+  {
+   "word": "ça",
+   "start": 13.826,
+   "end": 13.872
+  },
+  {
+   "word": "fait",
+   "start": 13.914,
+   "end": 14.081
+  },
+  {
+   "word": "PAS",
+   "start": 14.168,
+   "end": 14.429
+  },
+  {
+   "word": "grossir",
+   "start": 14.509,
+   "end": 15.194
+  },
+  {
+   "word": "Si",
+   "start": 15.659,
+   "end": 15.675
+  },
+  {
+   "word": "la",
+   "start": 15.699,
+   "end": 15.745
+  },
+  {
+   "word": "balance",
+   "start": 15.788,
+   "end": 16.092
+  },
+  {
+   "word": "monte",
+   "start": 16.12,
+   "end": 16.301
+  },
+  {
+   "word": "un",
+   "start": 16.325,
+   "end": 16.371
+  },
+  {
+   "word": "peu",
+   "start": 16.406,
+   "end": 16.51
+  },
+  {
+   "word": "au",
+   "start": 16.533,
+   "end": 16.579
+  },
+  {
+   "word": "début",
+   "start": 16.626,
+   "end": 17.206
+  },
+  {
+   "word": "c'est",
+   "start": 17.24,
+   "end": 17.345
+  },
+  {
+   "word": "de",
+   "start": 17.391,
+   "end": 17.484
+  },
+  {
+   "word": "l'eau",
+   "start": 17.519,
+   "end": 17.971
+  },
+  {
+   "word": "stockée",
+   "start": 18.029,
+   "end": 18.388
+  },
+  {
+   "word": "DANS",
+   "start": 18.597,
+   "end": 18.945
+  },
+  {
+   "word": "le",
+   "start": 19.014,
+   "end": 19.153
+  },
+  {
+   "word": "muscle",
+   "start": 19.203,
+   "end": 19.571
+  },
+  {
+   "word": "In",
+   "start": 20.09,
+   "end": 20.577
+  },
+  {
+   "word": "tra",
+   "start": 20.664,
+   "end": 21.69
+  },
+  {
+   "word": "mus",
+   "start": 21.812,
+   "end": 22.664
+  },
+  {
+   "word": "cu",
+   "start": 22.71,
+   "end": 23.499
+  },
+  {
+   "word": "laire",
+   "start": 23.545,
+   "end": 23.916
+  },
+  {
+   "word": "Pas",
+   "start": 24.424,
+   "end": 24.685
+  },
+  {
+   "word": "sous",
+   "start": 24.713,
+   "end": 24.824
+  },
+  {
+   "word": "la",
+   "start": 24.87,
+   "end": 24.963
+  },
+  {
+   "word": "peau",
+   "start": 25.009,
+   "end": 25.38
+  },
+  {
+   "word": "pas",
+   "start": 25.398,
+   "end": 25.45
+  },
+  {
+   "word": "dans",
+   "start": 25.478,
+   "end": 25.589
+  },
+  {
+   "word": "le",
+   "start": 25.613,
+   "end": 25.659
+  },
+  {
+   "word": "bide",
+   "start": 25.694,
+   "end": 25.867
+  },
+  {
+   "word": "Trois",
+   "start": 26.255,
+   "end": 26.342
+  },
+  {
+   "word": "grammes",
+   "start": 26.377,
+   "end": 26.62
+  },
+  {
+   "word": "de",
+   "start": 26.644,
+   "end": 26.69
+  },
+  {
+   "word": "créatine",
+   "start": 26.742,
+   "end": 27.107
+  },
+  {
+   "word": "par",
+   "start": 27.142,
+   "end": 27.246
+  },
+  {
+   "word": "jour",
+   "start": 27.316,
+   "end": 27.594
+  },
+  {
+   "word": "augmentent",
+   "start": 27.646,
+   "end": 28.081
+  },
+  {
+   "word": "la",
+   "start": 28.105,
+   "end": 28.151
+  },
+  {
+   "word": "performance",
+   "start": 28.192,
+   "end": 28.638
+  },
+  {
+   "word": "physique",
+   "start": 28.676,
+   "end": 28.985
+  },
+  {
+   "word": "lors",
+   "start": 29.027,
+   "end": 29.194
+  },
+  {
+   "word": "d'exercices",
+   "start": 29.229,
+   "end": 29.751
+  },
+  {
+   "word": "courts",
+   "start": 29.8,
+   "end": 30.307
+  },
+  {
+   "word": "intenses",
+   "start": 30.359,
+   "end": 30.864
+  },
+  {
+   "word": "et",
+   "start": 30.91,
+   "end": 31.003
+  },
+  {
+   "word": "répétés",
+   "start": 31.049,
+   "end": 31.872
+  },
+  {
+   "word": "Parfait",
+   "start": 32.433,
+   "end": 32.604
+  },
+  {
+   "word": "pour",
+   "start": 32.632,
+   "end": 32.743
+  },
+  {
+   "word": "tes",
+   "start": 32.778,
+   "end": 32.882
+  },
+  {
+   "word": "séances",
+   "start": 32.928,
+   "end": 33.16
+  },
+  {
+   "word": "de",
+   "start": 33.184,
+   "end": 33.23
+  },
+  {
+   "word": "cet",
+   "start": 33.282,
+   "end": 33.439
+  },
+  {
+   "word": "hiver",
+   "start": 33.508,
+   "end": 33.717
+  },
+  {
+   "word": "Petite",
+   "start": 34.05,
+   "end": 34.079
+  },
+  {
+   "word": "astuce",
+   "start": 34.131,
+   "end": 34.497
+  },
+  {
+   "word": "prends",
+   "start": 34.871,
+   "end": 35.242
+  },
+  {
+   "word": "DEUX",
+   "start": 35.288,
+   "end": 35.451
+  },
+  {
+   "word": "goûts",
+   "start": 35.497,
+   "end": 36.077
+  },
+  {
+   "word": "et",
+   "start": 36.1,
+   "end": 36.146
+  },
+  {
+   "word": "la",
+   "start": 36.17,
+   "end": 36.216
+  },
+  {
+   "word": "livraison",
+   "start": 36.268,
+   "end": 36.633
+  },
+  {
+   "word": "est",
+   "start": 36.668,
+   "end": 36.772
+  },
+  {
+   "word": "offerte",
+   "start": 36.807,
+   "end": 37.468
+  },
+  {
+   "word": "C'est",
+   "start": 37.865,
+   "end": 37.885
+  },
+  {
+   "word": "dans",
+   "start": 37.899,
+   "end": 37.955
+  },
+  {
+   "word": "le",
+   "start": 37.978,
+   "end": 38.025
+  },
+  {
+   "word": "panier",
+   "start": 38.059,
+   "end": 38.303
+  },
+  {
+   "word": "orange",
+   "start": 38.352,
+   "end": 38.651
+  }
+ ],
+ "durationSec": 38.818,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.18,
+  "tempo": 1.15,
+  "cuts": 9
+ }
+}

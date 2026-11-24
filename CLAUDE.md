@@ -38,7 +38,9 @@ livraison, mentions de l'emballage), parfois `script.md` validé.
 10. Ajouter une ligne dans `suivi.md`.
 
 ## Règles d'écriture des scripts
-- 25 à 35 s, soit ~75 à 95 mots.
+- 25 à 35 s, soit ~75 à 95 mots (jusqu'à 40 s accepté par l'utilisateur pour la créatine n°1).
+- Si une prise est trop longue : `python3 scripts/tighten.py --video <nom> --take <n>` raccourcit les silences
+  (rires et souffles conservés) et accélère légèrement, sans régénérer (0 crédit). Originaux gardés en `*-brut.*`.
 - 5 temps : accroche (0–2 s) → problème ou prix (2–8 s) → explication animée (8–20 s) → bénéfice autorisé (20–28 s)
   → appel à l'action vers le panier orange (28 s–fin).
 - Accroche choc dans les 2 premières secondes : chiffre fort ou idée reçue à casser.
