@@ -28,7 +28,7 @@ export const DosesScene: React.FC<P<'doses'>> = ({scene, cfg, offset}) => {
   const shown = Math.min(count, Math.max(0, Math.floor(easeOut(f, R + 4, R + 40, 0, count))));
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} height={h} cx={cx} cy={cy} enterAt={s2f(scene.from)} open={open} seed="doses" sweeps={[W + 4]} />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={h} cx={cx} cy={cy} enterAt={s2f(scene.from)} open={open} seed="doses" sweeps={[W + 4]} />
       {/* doses qui jaillissent du sachet ouvert */}
       {Array.from({length: count}).map((_, i) => {
         const st = R + 4 + i * 0.36;
@@ -135,7 +135,7 @@ export const MuscleScene: React.FC<P<'muscle'>> = ({scene, cfg, offset}) => {
       {n > 0 && f < s2f(scene.syllablesUntil ?? scene.to) && (
         <BigText text={sylText} size={done ? 130 : 120} color={done ? cfg.accent : BRAND.colors.text} y={330} progress={sp(f, last, SNAP)} />
       )}
-      <Product offset={offset} src={cfg.productImage} height={300} cx={SAFE_CX} cy={1500} enterAt={f0 + 6} seed="mus" sweeps={[inA]} />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={300} cx={SAFE_CX} cy={1500} enterAt={f0 + 6} seed="mus" sweeps={[inA]} />
       <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={300} />
     </AbsoluteFill>
   );
@@ -187,7 +187,7 @@ export const PowerScene: React.FC<P<'power'>> = ({scene, cfg, offset}) => {
           </div>
         );
       })}
-      <Product offset={offset} src={cfg.productImage} height={600} cx={productCx(cfg, scene)} cy={1300} enterAt={s2f(scene.from)} seed="pow" sweeps={[b]} />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={600} cx={productCx(cfg, scene)} cy={1300} enterAt={s2f(scene.from)} seed="pow" sweeps={[b]} />
       {snow > 0 && (
         <div style={{position: 'absolute', left: productCx(cfg, scene) + 230, top: 980, transform: 'translate(-50%, -50%)'}}>
           <Snowflake s={snow} rot={(1 - snow) * -120 + (f - s2f(scene.snowAt!)) * 0.8} />
@@ -219,10 +219,93 @@ export const FlavorsScene: React.FC<P<'flavors'>> = ({scene, cfg, offset}) => {
           </div>
         );
       })}
-      <Product offset={offset} src={cfg.productImage} height={560} cx={SAFE_CX} cy={1180} enterAt={s2f(scene.from)} seed="flc" sweeps={[s + 14]} />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={560} cx={SAFE_CX} cy={1180} enterAt={s2f(scene.from)} seed="flc" sweeps={[s + 14]} />
       <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={330} />
     </AbsoluteFill>
   );
 };
 
 export const SAFE_WIDTH = SAFE_W;
+
+/* ------------------------------------------------ PROMO (prix barré → nouveau prix) */
+export const DealScene: React.FC<P<'deal'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const B = s2f(scene.badgeAt), X = s2f(scene.strikeAt), Nw = s2f(scene.newAt);
+  const pB = f >= B ? sp(f, B) : 0;
+  const strike = f >= X ? sp(f, X, SNAP) : 0;
+  const stamp = f >= X + 3 ? sp(f, X + 3) : 0;
+  const pN = f >= Nw ? sp(f, Nw) : 0;
+  const s = cfg.productScale ?? 1;
+  return (
+    <AbsoluteFill>
+      <Product offset={offset} src={cfg.productImage} height={560} scale={s} cx={productCx(cfg, scene)} cy={1320} enterAt={s2f(scene.from)} seed="deal" sweeps={[Nw + 2]} />
+      <div style={{position: 'absolute', left: SAFE_CX, top: 250, transform: `translate(-50%, -50%) scale(${pB}) rotate(${(1 - pB) * -8}deg)`,
+        background: '#FFFFFF', color: OUT, fontFamily: BRAND.fonts.title, fontSize: 104, lineHeight: 1.12, padding: '4px 40px', borderRadius: 18,
+        boxShadow: `0 14px 50px ${cfg.accent}66`, whiteSpace: 'nowrap'}}>{scene.badge}</div>
+      <div style={{opacity: 1 - strike * 0.5}}>
+        <BigText text={euro(scene.oldPrice)} size={150} color={BRAND.colors.text} y={430} progress={sp(f, s2f(scene.from) + 2)} />
+      </div>
+      <div style={{position: 'absolute', left: SAFE_CX, top: 430, width: 540 * strike, height: 16, background: BRAND.colors.alert, borderRadius: 8,
+        transform: 'translate(-50%, -50%) rotate(-7deg)', boxShadow: `0 0 30px ${BRAND.colors.alert}`}} />
+      <div style={{position: 'absolute', left: 800, top: 430, transform: `translate(-50%, -50%) scale(${1.9 - 0.9 * stamp}) rotate(12deg)`, opacity: stamp, whiteSpace: 'nowrap',
+        border: `8px solid ${BRAND.colors.alert}`, color: BRAND.colors.alert, background: '#0B0B0Fcc', borderRadius: 16, padding: '0 20px',
+        fontFamily: BRAND.fonts.title, fontSize: 76, lineHeight: 1.15}}>{scene.discount}</div>
+      <BigText text={euro(scene.newPrice)} size={250} color={cfg.accent} y={640} progress={pN} />
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={840} />
+    </AbsoluteFill>
+  );
+};
+
+/* ------------------------------------------------ USAGE (deux moments + interdit) */
+const Controller: React.FC = () => (
+  <svg width={240} height={150} viewBox="0 0 240 150">
+    <path d="M40 30 Q120 10 200 30 Q236 40 232 100 Q228 140 196 136 Q176 134 160 106 L80 106 Q64 134 44 136 Q12 140 8 100 Q4 40 40 30 Z"
+      fill="#2A2A33" stroke={OUT} strokeWidth={8} strokeLinejoin="round" />
+    <rect x={46} y={58} width={44} height={14} rx={4} fill="#C9CDD6" /><rect x={61} y={43} width={14} height={44} rx={4} fill="#C9CDD6" />
+    {[[176, 50, '#4FC3F7'], [196, 70, '#FF3B30'], [156, 70, '#7ED957'], [176, 90, '#FFD60A']].map(([x, y, c], i) => (
+      <circle key={i} cx={x as number} cy={y as number} r={10} fill={c as string} stroke={OUT} strokeWidth={3} />
+    ))}
+  </svg>
+);
+
+const EnergyCan: React.FC = () => (
+  <svg width={150} height={240} viewBox="0 0 150 240">
+    <rect x={20} y={20} width={110} height={205} rx={18} fill="#9AA0AC" stroke={OUT} strokeWidth={8} />
+    <rect x={20} y={60} width={110} height={130} fill="#5B6270" />
+    <path d="M84 72 L58 128 L78 128 L66 176 L98 114 L78 114 L90 72 Z" fill="#FFFFFF" stroke={OUT} strokeWidth={4} strokeLinejoin="round" />
+    <ellipse cx={75} cy={22} rx={55} ry={10} fill="#C9CDD6" stroke={OUT} strokeWidth={6} />
+  </svg>
+);
+
+export const UsageScene: React.FC<P<'usage'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const L = s2f(scene.leftAt), R = s2f(scene.rightAt), C = s2f(scene.crossAt);
+  const pL = f >= L ? sp(f, L) : 0, pR = f >= R ? sp(f, R) : 0;
+  const pC = f >= C ? sp(f, C) : 0;
+  const x1 = f >= C + 4 ? sp(f, C + 4, SNAP) : 0, x2 = f >= C + 7 ? sp(f, C + 7, SNAP) : 0;
+  const dim = 1 - 0.75 * pC;
+  const panel = (p: number, x: number, icon: React.ReactNode, label: string) => (
+    <div style={{position: 'absolute', left: x, top: 560, transform: `translate(-50%, -50%) scale(${p})`, opacity: Math.min(1, p * 2) * dim,
+      display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 18}}>
+      <div style={{width: 300, height: 220, borderRadius: 32, background: '#ffffff10', border: `5px solid ${cfg.accent}`, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>{icon}</div>
+      <div style={{fontFamily: BRAND.fonts.title, fontSize: 62, color: BRAND.colors.text, whiteSpace: 'nowrap'}}>{label}</div>
+    </div>
+  );
+  return (
+    <AbsoluteFill>
+      <Product offset={offset} src={cfg.productImage} height={560} scale={cfg.productScale ?? 1} cx={productCx(cfg, scene)} cy={1330} enterAt={s2f(scene.from)} seed="use" sweeps={[R]} />
+      {panel(pL, 280, <div style={{transform: 'scale(2)'}}><Dumbbell s={1} /></div>, scene.leftLabel)}
+      {panel(pR, 720, <Controller />, scene.rightLabel)}
+      {pC > 0 && (
+        <div style={{position: 'absolute', left: SAFE_CX, top: 600, transform: `translate(-50%, -50%) scale(${pC}) rotate(${(1 - pC) * 20}deg)`}}>
+          <EnergyCan />
+          {[x1, x2].map((p, i) => (
+            <div key={i} style={{position: 'absolute', left: 75, top: 120, width: 300 * p, height: 26, background: BRAND.colors.alert, borderRadius: 13,
+              transform: `translate(-50%, -50%) rotate(${i ? -45 : 45}deg)`, boxShadow: `0 0 30px ${BRAND.colors.alert}88`}} />
+          ))}
+        </div>
+      )}
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={300} />
+    </AbsoluteFill>
+  );
+};

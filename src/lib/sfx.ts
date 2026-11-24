@@ -56,6 +56,16 @@ export const buildSfx = (cfg: VideoConfig): SfxCue[] => {
         case 'flavors':
           s.images.slice(0, 4).forEach((_, k) => cues.push({name: 'whoosh', at: s.spreadAt + k * 0.1, volume: 0.3}));
           break;
+        case 'deal':
+          cues.push({name: 'pop', at: s.badgeAt, volume: 0.4});
+          cues.push({name: 'impact', at: s.strikeAt, volume: 0.5});
+          cues.push({name: 'ding', at: s.newAt, volume: 0.5});
+          break;
+        case 'usage':
+          cues.push({name: 'pop', at: s.leftAt, volume: 0.4});
+          cues.push({name: 'pop', at: s.rightAt, volume: 0.4});
+          cues.push({name: 'impact', at: s.crossAt, volume: 0.5});
+          break;
         case 'cta':
           cues.push({name: 'ding', at: s.arrowAt ?? s.from + 0.3, volume: 0.4});
           break;

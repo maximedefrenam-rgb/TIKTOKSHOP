@@ -49,6 +49,9 @@ livraison, mentions de l'emballage), parfois `script.md` validé.
 - **Retour utilisateur après la vidéo n°1** : parler PLUS VITE et PLUS DIRECT. Le bénéfice doit être compris tout de suite,
   sans détour. Oser des punchlines trash qui interpellent le spectateur, du style « arrête d'avoir un putain de … »
   (gros mots assumés, c'est ce qui marche sur TikTok). Peu de « ... » (ils créent de longs silences).
+- **Retour utilisateur (vidéo n°2)** : les arguments qui VENDENT (prix, promo, livraison gratuite) le plus tôt possible.
+  Accroches de stupéfaction façon « WHAT THE FUCK ?! Qui a validé ce prix ?! » (esprit « le stagiaire s'est trompé »),
+  mais sans affirmer une fausse erreur de prix ni un faux stock limité. Achat impulsif : promo réelle, prix barré, prix par dose.
   Garde-fou : une punchline ne doit jamais suggérer un effet non autorisé (ex. pour la créatine, pas de promesse
   de prise de muscle ou de perte de gras ; pour les protéines, « masse musculaire » est autorisé).
 
@@ -57,6 +60,10 @@ Seules les allégations santé autorisées par l'UE :
 - Protéines : « contribuent à augmenter la masse musculaire » / « contribuent au maintien de la masse musculaire ».
 - Créatine (3 g/jour) : « augmente la performance physique lors d'exercices courts et intenses répétés ».
 - Tout autre produit / ingrédient : uniquement l'allégation écrite sur l'emballage ou la fiche, sinon demander.
+- Caféine (sachets ZAP…) : aucune allégation d'effet (« énergie », « réveil », « performance ») ; uniquement des faits
+  (mg par dose, comparaison chiffrée avec un expresso ≈ 80 mg selon l'EFSA) et des moments d'usage. Jamais d'incitation
+  à la nuit blanche ou à enchaîner les doses. Mention à l'écran : « Contient de la caféine (… mg). Déconseillé aux enfants
+  et aux femmes enceintes ou allaitantes » (à aligner sur le verso de l'emballage).
 - Les réactions du personnage ne doivent jamais suggérer un effet non autorisé.
 
 ## ElevenLabs
@@ -106,7 +113,9 @@ Seules les allégations santé autorisées par l'UE :
 - Modèle : `src/templates/ShopVideo.tsx` ; scènes : `src/components/Scenes.tsx` ; identité : `src/brand.ts`.
 - Types de scènes : `hook`, `price`, `myth`, `cutaway`, `compare`, `benefit`, `cta` (Scenes.tsx) et
   `doses` (calculatrice + sachet qui s'ouvre et libère les doses = produit en coupe), `muscle` (coupe peau/gras/muscle,
-  eau dans les fibres, mot épelé), `power` (jauge + haltères + flocon), `flavors` (défilé des goûts photographiés) (Scenes2.tsx).
+  eau dans les fibres, mot épelé), `power` (jauge + haltères + flocon), `flavors` (défilé des goûts photographiés),
+  `deal` (badge promo, prix barré + tampon, nouveau prix), `usage` (salle / manette puis canette barrée) (Scenes2.tsx).
+  `productScale` dans la config pour les emballages larges (boîte ronde : 0.74).
   Exemple complet : `videos/creatine-ostrovit-citron/config.ts`.
 - Rendu en `concurrency 1` (remotion.config.ts) : en parallèle, Chrome faisait clignoter l'image du produit.
   Un rendu de 40 s prend ~5 min. Le script de rendu ajoute un limiteur audio (pas de saturation sur les impacts).

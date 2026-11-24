@@ -98,7 +98,7 @@ export const Product: React.FC<Props> = ({
             <>
               {imgLayer(`inset(${pct}% 0 0 0)`, {transform: `translateY(${open * 40}px)`})}
               {imgLayer(`inset(0 0 ${100 - pct}% 0)`, {
-                transform: `translate(${-open * 120}px, ${-open * 250}px) rotate(${-open * 18}deg)`,
+                transform: `translate(${-open * height * 0.17}px, ${-open * height * 0.36}px) rotate(${-open * 18}deg)`,
                 transformOrigin: '20% 100%',
               })}
             </>

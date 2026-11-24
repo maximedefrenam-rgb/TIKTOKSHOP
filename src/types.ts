@@ -77,7 +77,14 @@ export type Scene =
   /** jauge de performance + haltères + flocon de neige optionnel */
   | (SceneBase & {kind: 'power'; fillFrom: number; fillTo: number; dumbbells: number[]; snowAt?: number})
   /** défilé des goûts (uniquement des emballages dont on a la photo) */
-  | (SceneBase & {kind: 'flavors'; images: string[]; spreadAt: number});
+  | (SceneBase & {kind: 'flavors'; images: string[]; spreadAt: number})
+  /** promo : badge, ancien prix barré + tampon de réduction, nouveau prix */
+  | (SceneBase & {
+      kind: 'deal'; badge: string; oldPrice: number; newPrice: number; discount: string;
+      badgeAt: number; strikeAt: number; newAt: number;
+    })
+  /** deux moments d'usage (salle / manette) puis un objet barré (canette générique) */
+  | (SceneBase & {kind: 'usage'; leftLabel: string; rightLabel: string; leftAt: number; rightAt: number; crossAt: number});
 
 /** Réactions du présentateur. */
 export type CharacterAction = 'point' | 'present' | 'shock' | 'faint' | 'slam' | 'hop';
@@ -106,6 +113,8 @@ export type VideoConfig = {
   /** effets ajoutés à la main (en plus des effets automatiques) */
   sfx?: SfxCue[];
   autoSfx?: boolean;
+  /** échelle du produit (ex. 0.72 pour une boîte ronde, plus large qu'un sachet) */
+  productScale?: number;
   /** le présentateur (absent = vidéo sans personnage) */
   character?: CharacterConfig;
 };

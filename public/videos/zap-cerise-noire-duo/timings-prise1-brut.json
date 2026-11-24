@@ -1,0 +1,441 @@
+{
+ "words": [
+  {
+   "word": "Mais",
+   "start": 0.208,
+   "end": 0.24
+  },
+  {
+   "word": "WHAT",
+   "start": 0.32,
+   "end": 0.64
+  },
+  {
+   "word": "THE",
+   "start": 0.7,
+   "end": 0.88
+  },
+  {
+   "word": "FUCK",
+   "start": 1.008,
+   "end": 1.52
+  },
+  {
+   "word": "Vingt-huit",
+   "start": 2.84,
+   "end": 3.28
+  },
+  {
+   "word": "centimes",
+   "start": 3.36,
+   "end": 4
+  },
+  {
+   "word": "Qui",
+   "start": 4.774,
+   "end": 4.804
+  },
+  {
+   "word": "a",
+   "start": 4.884,
+   "end": 4.964
+  },
+  {
+   "word": "validé",
+   "start": 5.017,
+   "end": 5.364
+  },
+  {
+   "word": "ce",
+   "start": 5.391,
+   "end": 5.444
+  },
+  {
+   "word": "prix",
+   "start": 5.492,
+   "end": 5.684
+  },
+  {
+   "word": "Cent",
+   "start": 6.777,
+   "end": 6.809
+  },
+  {
+   "word": "milligrammes",
+   "start": 6.857,
+   "end": 7.289
+  },
+  {
+   "word": "de",
+   "start": 7.316,
+   "end": 7.369
+  },
+  {
+   "word": "caféine",
+   "start": 7.449,
+   "end": 7.929
+  },
+  {
+   "word": "par",
+   "start": 7.969,
+   "end": 8.089
+  },
+  {
+   "word": "sachet",
+   "start": 8.153,
+   "end": 8.889
+  },
+  {
+   "word": "PLUS",
+   "start": 8.969,
+   "end": 9.289
+  },
+  {
+   "word": "qu'un",
+   "start": 9.316,
+   "end": 9.449
+  },
+  {
+   "word": "expresso",
+   "start": 9.509,
+   "end": 10.089
+  },
+  {
+   "word": "Et",
+   "start": 10.8,
+   "end": 10.809
+  },
+  {
+   "word": "ton",
+   "start": 10.849,
+   "end": 10.969
+  },
+  {
+   "word": "café",
+   "start": 11.033,
+   "end": 11.289
+  },
+  {
+   "word": "au",
+   "start": 11.316,
+   "end": 11.369
+  },
+  {
+   "word": "bar",
+   "start": 11.449,
+   "end": 11.769
+  },
+  {
+   "word": "il",
+   "start": 11.849,
+   "end": 12.009
+  },
+  {
+   "word": "te",
+   "start": 12.062,
+   "end": 12.169
+  },
+  {
+   "word": "coûte",
+   "start": 12.196,
+   "end": 12.409
+  },
+  {
+   "word": "deux",
+   "start": 12.441,
+   "end": 12.569
+  },
+  {
+   "word": "balles",
+   "start": 12.609,
+   "end": 13.409
+  },
+  {
+   "word": "Black",
+   "start": 14.056,
+   "end": 14.089
+  },
+  {
+   "word": "Friday",
+   "start": 14.146,
+   "end": 14.489
+  },
+  {
+   "word": "moins",
+   "start": 14.929,
+   "end": 15.129
+  },
+  {
+   "word": "trente-deux",
+   "start": 15.169,
+   "end": 15.649
+  },
+  {
+   "word": "pour",
+   "start": 15.673,
+   "end": 15.769
+  },
+  {
+   "word": "cent",
+   "start": 15.801,
+   "end": 16.249
+  },
+  {
+   "word": "livraison",
+   "start": 16.309,
+   "end": 16.729
+  },
+  {
+   "word": "gratuite",
+   "start": 16.782,
+   "end": 17.209
+  },
+  {
+   "word": "Zéro",
+   "start": 18.163,
+   "end": 18.253
+  },
+  {
+   "word": "nicotine",
+   "start": 18.324,
+   "end": 19.053
+  },
+  {
+   "word": "zéro",
+   "start": 19.133,
+   "end": 19.293
+  },
+  {
+   "word": "tabac",
+   "start": 19.373,
+   "end": 19.773
+  },
+  {
+   "word": "Caféine",
+   "start": 19.917,
+   "end": 20.893
+  },
+  {
+   "word": "elle-théanine",
+   "start": 20.925,
+   "end": 21.693
+  },
+  {
+   "word": "vitamines",
+   "start": 21.753,
+   "end": 22.173
+  },
+  {
+   "word": "B",
+   "start": 22.293,
+   "end": 22.413
+  },
+  {
+   "word": "goût",
+   "start": 22.52,
+   "end": 22.813
+  },
+  {
+   "word": "cerise",
+   "start": 22.873,
+   "end": 23.133
+  },
+  {
+   "word": "noire",
+   "start": 23.186,
+   "end": 23.613
+  },
+  {
+   "word": "Tu",
+   "start": 24.813,
+   "end": 24.845
+  },
+  {
+   "word": "le",
+   "start": 24.861,
+   "end": 24.893
+  },
+  {
+   "word": "cales",
+   "start": 24.946,
+   "end": 25.213
+  },
+  {
+   "word": "sous",
+   "start": 25.266,
+   "end": 25.56
+  },
+  {
+   "word": "la",
+   "start": 25.666,
+   "end": 25.813
+  },
+  {
+   "word": "lèvre",
+   "start": 25.853,
+   "end": 26.04
+  },
+  {
+   "word": "et",
+   "start": 26.093,
+   "end": 26.173
+  },
+  {
+   "word": "c'est",
+   "start": 26.253,
+   "end": 27.253
+  },
+  {
+   "word": "réglé",
+   "start": 27.273,
+   "end": 27.413
+  },
+  {
+   "word": "Avant",
+   "start": 27.813,
+   "end": 28.173
+  },
+  {
+   "word": "la",
+   "start": 28.2,
+   "end": 28.253
+  },
+  {
+   "word": "salle",
+   "start": 28.306,
+   "end": 28.573
+  },
+  {
+   "word": "à",
+   "start": 28.6,
+   "end": 28.626
+  },
+  {
+   "word": "la",
+   "start": 28.653,
+   "end": 28.733
+  },
+  {
+   "word": "place",
+   "start": 28.773,
+   "end": 28.973
+  },
+  {
+   "word": "de",
+   "start": 29.021,
+   "end": 29.117
+  },
+  {
+   "word": "ton",
+   "start": 29.165,
+   "end": 29.426
+  },
+  {
+   "word": "pré-workout",
+   "start": 29.533,
+   "end": 30.493
+  },
+  {
+   "word": "ou",
+   "start": 30.543,
+   "end": 30.643
+  },
+  {
+   "word": "pour",
+   "start": 30.693,
+   "end": 30.893
+  },
+  {
+   "word": "ta",
+   "start": 30.993,
+   "end": 31.193
+  },
+  {
+   "word": "session",
+   "start": 31.293,
+   "end": 32.413
+  },
+  {
+   "word": "GTA",
+   "start": 32.443,
+   "end": 32.493
+  },
+  {
+   "word": "six",
+   "start": 32.503,
+   "end": 32.593
+  },
+  {
+   "word": "arrête",
+   "start": 33,
+   "end": 33.293
+  },
+  {
+   "word": "de",
+   "start": 33.32,
+   "end": 33.373
+  },
+  {
+   "word": "te",
+   "start": 33.426,
+   "end": 33.533
+  },
+  {
+   "word": "bourrer",
+   "start": 33.593,
+   "end": 33.965
+  },
+  {
+   "word": "de",
+   "start": 34.013,
+   "end": 34.163
+  },
+  {
+   "word": "canettes",
+   "start": 34.193,
+   "end": 35.453
+  },
+  {
+   "word": "putain",
+   "start": 35.462,
+   "end": 35.533
+  },
+  {
+   "word": "Trente-six",
+   "start": 35.917,
+   "end": 36.653
+  },
+  {
+   "word": "sachets",
+   "start": 36.713,
+   "end": 36.973
+  },
+  {
+   "word": "dix",
+   "start": 37.053,
+   "end": 37.873
+  },
+  {
+   "word": "balles",
+   "start": 37.893,
+   "end": 37.973
+  },
+  {
+   "word": "Panier",
+   "start": 38.379,
+   "end": 38.813
+  },
+  {
+   "word": "orange",
+   "start": 38.866,
+   "end": 39.213
+  },
+  {
+   "word": "MAINTENANT",
+   "start": 39.253,
+   "end": 39.293
+  }
+ ],
+ "durationSec": 39.314,
+ "model": "eleven_v3"
+}

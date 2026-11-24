@@ -19,7 +19,7 @@ export const HookScene: React.FC<P<'hook'>> = ({scene, cfg, offset}) => {
   const f0 = s2f(scene.from);
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} height={900} cx={productCx(cfg, scene)} cy={1140} enterAt={f0} enter="slam" sweeps={[f0 + 12]} seed="hook" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={900} cx={productCx(cfg, scene)} cy={1140} enterAt={f0} enter="slam" sweeps={[f0 + 12]} seed="hook" />
       <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={420} />
     </AbsoluteFill>
   );
@@ -39,7 +39,7 @@ export const PriceScene: React.FC<P<'price'>> = ({scene, cfg, offset}) => {
   const strike = lin(f, rA, rA + 6);
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} height={640} cx={productCx(cfg, scene)} cy={1320} enterAt={s2f(scene.from)} sweeps={[rA + 2]} seed="price" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={640} cx={productCx(cfg, scene)} cy={1320} enterAt={s2f(scene.from)} sweeps={[rA + 2]} seed="price" />
       <div style={{opacity: 1 - strike * 0.55}}>
         <BigText text={euro(count)} size={190} color={BRAND.colors.text} y={360} progress={pPrice} />
         <div style={{position: 'absolute', left: SAFE_CX, top: 360, width: 560 * strike, height: 12, background: BRAND.colors.alert,
@@ -63,7 +63,7 @@ export const MythScene: React.FC<P<'myth'>> = ({scene, cfg, offset}) => {
   const pV = f >= cA + 5 ? sp(f, cA + 5) : 0;
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} height={720} cx={productCx(cfg, scene)} cy={1250} enterAt={s2f(scene.from)} sweeps={[cA + 4]} seed="myth" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={720} cx={productCx(cfg, scene)} cy={1250} enterAt={s2f(scene.from)} sweeps={[cA + 4]} seed="myth" />
       <div style={{opacity: 1 - c1 * 0.4}}>
         <BigText text={`« ${scene.statement} »`} size={120} color={BRAND.colors.text} y={420} progress={pS} />
       </div>
@@ -113,13 +113,13 @@ export const CutawayScene: React.FC<P<'cutaway'>> = ({scene, cfg, offset}) => {
       {/* lueur qui sort du produit ouvert */}
       <div style={{position: 'absolute', left: productCx(cfg, scene), top: cy - h * 0.05, width: 700, height: 700, transform: 'translate(-50%, -50%)',
         background: `radial-gradient(circle, ${cfg.accent}AA 0%, ${cfg.accent}00 65%)`, opacity: glow}} />
-      <Product offset={offset} src={cfg.productImage} height={h} cx={productCx(cfg, scene)} cy={cy} enterAt={s2f(scene.from)} open={open} seed="cut" sweeps={[s2f(scene.from) + 6]} />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={h} cx={productCx(cfg, scene)} cy={cy} enterAt={s2f(scene.from)} open={open} seed="cut" sweeps={[s2f(scene.from) + 6]} />
       <Particles frame={f} start={oA} cx={productCx(cfg, scene)} cy={cy - h * 0.04} accent={cfg.accent} />
       {scene.items.map((it, i) => {
         const a = s2f(it.at);
         if (f < a) return null;
         const p = sp(f, a);
-        const slotY = 300 + i * 140;
+        const slotY = 300 + i * (scene.items.length > 3 ? 125 : 140);
         const y = (cy - h * 0.05) + (slotY - (cy - h * 0.05)) * p;
         return (
           <div key={i} style={{position: 'absolute', left: SAFE_CX, top: y, width: SAFE_W, transform: `translate(-50%, -50%) scale(${0.3 + 0.7 * p})`,
@@ -159,7 +159,7 @@ export const CompareScene: React.FC<P<'compare'>> = ({scene, cfg, offset}) => {
           </div>
         );
       })}
-      <Product offset={offset} src={cfg.productImage} height={500} cx={productCx(cfg, scene)} cy={1360} enterAt={s2f(scene.from)} sweeps={[a + 20]} seed="cmp" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={500} cx={productCx(cfg, scene)} cy={1360} enterAt={s2f(scene.from)} sweeps={[a + 20]} seed="cmp" />
       <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={1030} />
     </AbsoluteFill>
   );
@@ -177,7 +177,7 @@ export const BenefitScene: React.FC<P<'benefit'>> = ({scene, cfg, offset}) => {
         transform: `translate(-50%, -50%) scale(${burst}) rotate(${rot}deg)`,
         background: `repeating-conic-gradient(${cfg.accent} 0deg 7deg, transparent 7deg 22deg)`,
         WebkitMaskImage: 'radial-gradient(circle, black 0%, transparent 62%)', maskImage: 'radial-gradient(circle, black 0%, transparent 62%)'}} />
-      <Product offset={offset} src={cfg.productImage} height={860} cx={productCx(cfg, scene)} cy={1170} enterAt={f0} enter="rise" sweeps={[f0 + 10]} seed="ben" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={860} cx={productCx(cfg, scene)} cy={1170} enterAt={f0} enter="rise" sweeps={[f0 + 10]} seed="ben" />
       <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={380} />
     </AbsoluteFill>
   );
@@ -202,7 +202,7 @@ export const CtaScene: React.FC<P<'cta'>> = ({scene, cfg, offset}) => {
   const nudge = [aA + 24, aA + 48].reduce((acc, n) => acc + (f >= n ? Math.sin(Math.min(1, (f - n) / 10) * Math.PI) * 26 : 0), 0);
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} height={720} cx={productCx(cfg, scene)} cy={1060} enterAt={f0} enter="slam" sweeps={[f0 + 8]} seed="cta" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={720} cx={productCx(cfg, scene)} cy={1060} enterAt={f0} enter="slam" sweeps={[f0 + 8]} seed="cta" />
       <div style={{position: 'absolute', left: SAFE_CX, top: 330, transform: `translate(-50%, -50%) scale(${pT})`, display: 'flex',
         alignItems: 'center', gap: 26, background: BRAND.colors.cart, padding: '18px 44px 18px 34px', borderRadius: 28,
         boxShadow: `0 16px 60px ${BRAND.colors.cart}77`}}>
