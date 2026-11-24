@@ -7,10 +7,12 @@
     "studio": "remotion studio src/index.ts",
     "sfx": "python3 scripts/gen_sfx.py",
     "music": "python3 scripts/gen_music.py",
-    "tts": "node scripts/tts.mjs",
+    "tts": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/tts.mjs",
     "take": "node scripts/choose-take.mjs",
     "render": "node scripts/render.mjs",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "eleven:test": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/test-elevenlabs.mjs",
+    "voix": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/voix-tests.mjs"
   },
   "dependencies": {
     "@remotion/cli": "4.0.540",

@@ -5,8 +5,9 @@ import {fileURLToPath} from 'node:url';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 
-/** Lit ELEVENLABS_API_KEY depuis .env sans jamais l'afficher. */
+/** Lit ELEVENLABS_API_KEY (variable d'environnement, sinon .env) sans jamais l'afficher. */
 export const apiKey = () => {
+  if (process.env.ELEVENLABS_API_KEY) return process.env.ELEVENLABS_API_KEY.trim();
   const p = path.join(ROOT, '.env');
   if (!existsSync(p)) throw new Error('.env introuvable (copier .env.example et y mettre ELEVENLABS_API_KEY)');
   const m = readFileSync(p, 'utf8').match(/^\s*ELEVENLABS_API_KEY\s*=\s*"?([^"\n\r]+)"?/m);
