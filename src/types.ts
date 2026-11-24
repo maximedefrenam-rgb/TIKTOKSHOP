@@ -84,7 +84,14 @@ export type Scene =
       badgeAt: number; strikeAt: number; newAt: number;
     })
   /** deux moments d'usage (salle / manette) puis un objet barré (canette générique) */
-  | (SceneBase & {kind: 'usage'; leftLabel: string; rightLabel: string; leftAt: number; rightAt: number; crossAt: number});
+  | (SceneBase & {
+      kind: 'usage'; leftLabel: string; rightLabel: string; leftAt: number; rightAt: number;
+      /** canette barrée au centre (optionnelle) */
+      crossAt?: number;
+      leftIcon?: UsageIcon; rightIcon?: UsageIcon;
+    });
+
+export type UsageIcon = 'dumbbell' | 'controller' | 'palm' | 'rain';
 
 /** Réactions du présentateur. */
 export type CharacterAction = 'point' | 'present' | 'shock' | 'faint' | 'slam' | 'hop';

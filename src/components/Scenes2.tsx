@@ -277,9 +277,38 @@ const EnergyCan: React.FC = () => (
   </svg>
 );
 
+const Palm: React.FC = () => (
+  <svg width={220} height={190} viewBox="0 0 220 190">
+    <circle cx={170} cy={40} r={26} fill="#FFD60A" stroke={OUT} strokeWidth={5} />
+    <path d="M10 178 Q110 150 210 178 L210 190 L10 190 Z" fill="#F2D49B" stroke={OUT} strokeWidth={5} />
+    <path d="M104 170 Q98 120 112 62" stroke="#8B5A2B" strokeWidth={14} fill="none" strokeLinecap="round" />
+    {[[-70, 20], [-30, -10], [20, -12], [62, 18], [-50, 40], [45, 42]].map(([dx, dy], i) => (
+      <path key={i} d={`M112 62 Q${112 + dx / 2} ${62 + dy - 30} ${112 + dx} ${62 + dy + 10}`} stroke="#2FB55A" strokeWidth={13} fill="none" strokeLinecap="round" />
+    ))}
+  </svg>
+);
+
+const Rain: React.FC = () => (
+  <svg width={220} height={190} viewBox="0 0 220 190">
+    <path d="M50 110 A34 34 0 0 1 60 46 A46 46 0 0 1 148 40 A36 36 0 0 1 176 110 Z" fill="#8C93A3" stroke={OUT} strokeWidth={6} strokeLinejoin="round" />
+    {[[70, 128], [105, 140], [140, 128], [88, 165], [123, 168]].map(([x, y], i) => (
+      <path key={i} d={`M${x} ${y} l-8 18`} stroke="#4FC3F7" strokeWidth={8} strokeLinecap="round" />
+    ))}
+  </svg>
+);
+
+const iconOf = (k: string | undefined, fallback: 'dumbbell' | 'controller') => {
+  switch (k ?? fallback) {
+    case 'palm': return <Palm />;
+    case 'rain': return <Rain />;
+    case 'controller': return <Controller />;
+    default: return <div style={{transform: 'scale(2)'}}><Dumbbell s={1} /></div>;
+  }
+};
+
 export const UsageScene: React.FC<P<'usage'>> = ({scene, cfg, offset}) => {
   const f = useAbs(offset);
-  const L = s2f(scene.leftAt), R = s2f(scene.rightAt), C = s2f(scene.crossAt);
+  const L = s2f(scene.leftAt), R = s2f(scene.rightAt), C = scene.crossAt !== undefined ? s2f(scene.crossAt) : Infinity;
   const pL = f >= L ? sp(f, L) : 0, pR = f >= R ? sp(f, R) : 0;
   const pC = f >= C ? sp(f, C) : 0;
   const x1 = f >= C + 4 ? sp(f, C + 4, SNAP) : 0, x2 = f >= C + 7 ? sp(f, C + 7, SNAP) : 0;
@@ -294,8 +323,8 @@ export const UsageScene: React.FC<P<'usage'>> = ({scene, cfg, offset}) => {
   return (
     <AbsoluteFill>
       <Product offset={offset} src={cfg.productImage} height={560} scale={cfg.productScale ?? 1} cx={productCx(cfg, scene)} cy={1330} enterAt={s2f(scene.from)} seed="use" sweeps={[R]} />
-      {panel(pL, 280, <div style={{transform: 'scale(2)'}}><Dumbbell s={1} /></div>, scene.leftLabel)}
-      {panel(pR, 720, <Controller />, scene.rightLabel)}
+      {panel(pL, 280, iconOf(scene.leftIcon, 'dumbbell'), scene.leftLabel)}
+      {panel(pR, 720, iconOf(scene.rightIcon, 'controller'), scene.rightLabel)}
       {pC > 0 && (
         <div style={{position: 'absolute', left: SAFE_CX, top: 600, transform: `translate(-50%, -50%) scale(${pC}) rotate(${(1 - pC) * 20}deg)`}}>
           <EnergyCan />

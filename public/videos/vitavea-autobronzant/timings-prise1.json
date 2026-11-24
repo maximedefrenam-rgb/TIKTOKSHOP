@@ -1,0 +1,421 @@
+{
+ "words": [
+  {
+   "word": "Arrête",
+   "start": 0.233,
+   "end": 0.339
+  },
+  {
+   "word": "de",
+   "start": 0.384,
+   "end": 0.475
+  },
+  {
+   "word": "te",
+   "start": 0.519,
+   "end": 0.61
+  },
+  {
+   "word": "balader",
+   "start": 0.644,
+   "end": 0.949
+  },
+  {
+   "word": "blanc",
+   "start": 0.994,
+   "end": 1.22
+  },
+  {
+   "word": "comme",
+   "start": 1.243,
+   "end": 1.356
+  },
+  {
+   "word": "un",
+   "start": 1.401,
+   "end": 1.492
+  },
+  {
+   "word": "CUL",
+   "start": 1.559,
+   "end": 1.831
+  },
+  {
+   "word": "putain",
+   "start": 1.881,
+   "end": 2.237
+  },
+  {
+   "word": "Autobronzant",
+   "start": 2.558,
+   "end": 2.99
+  },
+  {
+   "word": "Vitavea",
+   "start": 3.024,
+   "end": 3.736
+  },
+  {
+   "word": "six",
+   "start": 3.77,
+   "end": 3.872
+  },
+  {
+   "word": "euros",
+   "start": 3.916,
+   "end": 4.143
+  },
+  {
+   "word": "quarante",
+   "start": 4.17,
+   "end": 4.346
+  },
+  {
+   "word": "au",
+   "start": 4.391,
+   "end": 4.482
+  },
+  {
+   "word": "lieu",
+   "start": 4.495,
+   "end": 4.55
+  },
+  {
+   "word": "de",
+   "start": 4.594,
+   "end": 4.685
+  },
+  {
+   "word": "treize",
+   "start": 4.719,
+   "end": 4.889
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 4.917,
+   "end": 5.363
+  },
+  {
+   "word": "moins",
+   "start": 5.408,
+   "end": 5.634
+  },
+  {
+   "word": "CINQUANTE-QUATRE",
+   "start": 5.668,
+   "end": 6.211
+  },
+  {
+   "word": "pour",
+   "start": 6.231,
+   "end": 6.312
+  },
+  {
+   "word": "cent",
+   "start": 6.353,
+   "end": 6.787
+  },
+  {
+   "word": "livraison",
+   "start": 6.838,
+   "end": 7.194
+  },
+  {
+   "word": "gratuite",
+   "start": 7.239,
+   "end": 7.6
+  },
+  {
+   "word": "Tu",
+   "start": 8.049,
+   "end": 8.049
+  },
+  {
+   "word": "veux",
+   "start": 8.049,
+   "end": 8.049
+  },
+  {
+   "word": "faire",
+   "start": 8.049,
+   "end": 8.077
+  },
+  {
+   "word": "croire",
+   "start": 8.111,
+   "end": 8.281
+  },
+  {
+   "word": "que",
+   "start": 8.315,
+   "end": 8.416
+  },
+  {
+   "word": "tu",
+   "start": 8.439,
+   "end": 8.484
+  },
+  {
+   "word": "rentres",
+   "start": 8.525,
+   "end": 8.755
+  },
+  {
+   "word": "des",
+   "start": 8.772,
+   "end": 8.823
+  },
+  {
+   "word": "Maldives",
+   "start": 8.874,
+   "end": 9.23
+  },
+  {
+   "word": "alors",
+   "start": 9.298,
+   "end": 9.637
+  },
+  {
+   "word": "que",
+   "start": 9.67,
+   "end": 9.724
+  },
+  {
+   "word": "t'étais",
+   "start": 9.724,
+   "end": 9.856
+  },
+  {
+   "word": "à",
+   "start": 9.89,
+   "end": 9.924
+  },
+  {
+   "word": "Guingamp",
+   "start": 9.947,
+   "end": 10.263
+  },
+  {
+   "word": "Une",
+   "start": 10.671,
+   "end": 10.671
+  },
+  {
+   "word": "gélule",
+   "start": 10.671,
+   "end": 10.739
+  },
+  {
+   "word": "par",
+   "start": 10.772,
+   "end": 10.874
+  },
+  {
+   "word": "jour",
+   "start": 10.915,
+   "end": 11.078
+  },
+  {
+   "word": "au",
+   "start": 11.1,
+   "end": 11.145
+  },
+  {
+   "word": "bêta-carotène",
+   "start": 11.179,
+   "end": 12.162
+  },
+  {
+   "word": "soixante",
+   "start": 12.207,
+   "end": 12.501
+  },
+  {
+   "word": "gélules",
+   "start": 12.535,
+   "end": 13.179
+  },
+  {
+   "word": "deux",
+   "start": 13.193,
+   "end": 13.247
+  },
+  {
+   "word": "mois",
+   "start": 13.274,
+   "end": 13.343
+  },
+  {
+   "word": "de",
+   "start": 13.343,
+   "end": 13.365
+  },
+  {
+   "word": "cure",
+   "start": 13.433,
+   "end": 13.772
+  },
+  {
+   "word": "fabriqué",
+   "start": 13.856,
+   "end": 14.314
+  },
+  {
+   "word": "en",
+   "start": 14.337,
+   "end": 14.382
+  },
+  {
+   "word": "France",
+   "start": 14.43,
+   "end": 15.06
+  },
+  {
+   "word": "même",
+   "start": 15.1,
+   "end": 15.24
+  },
+  {
+   "word": "pas",
+   "start": 15.24,
+   "end": 15.275
+  },
+  {
+   "word": "onze",
+   "start": 15.343,
+   "end": 15.614
+  },
+  {
+   "word": "centimes",
+   "start": 15.669,
+   "end": 16.021
+  },
+  {
+   "word": "par",
+   "start": 16.055,
+   "end": 16.157
+  },
+  {
+   "word": "jour",
+   "start": 16.211,
+   "end": 16.428
+  },
+  {
+   "word": "Hâle",
+   "start": 16.952,
+   "end": 16.952
+  },
+  {
+   "word": "naturel",
+   "start": 16.952,
+   "end": 17.174
+  },
+  {
+   "word": "et",
+   "start": 17.197,
+   "end": 17.242
+  },
+  {
+   "word": "uniforme",
+   "start": 17.301,
+   "end": 17.954
+  },
+  {
+   "word": "sans",
+   "start": 17.988,
+   "end": 18.123
+  },
+  {
+   "word": "soleil",
+   "start": 18.164,
+   "end": 18.53
+  },
+  {
+   "word": "effets",
+   "start": 18.649,
+   "end": 19.072
+  },
+  {
+   "word": "visibles",
+   "start": 19.106,
+   "end": 19.479
+  },
+  {
+   "word": "dès",
+   "start": 19.53,
+   "end": 19.683
+  },
+  {
+   "word": "le",
+   "start": 19.705,
+   "end": 19.75
+  },
+  {
+   "word": "premier",
+   "start": 19.784,
+   "end": 20.022
+  },
+  {
+   "word": "mois",
+   "start": 20.035,
+   "end": 20.089
+  },
+  {
+   "word": "de",
+   "start": 20.134,
+   "end": 20.225
+  },
+  {
+   "word": "cure",
+   "start": 20.293,
+   "end": 20.971
+  },
+  {
+   "word": "Black",
+   "start": 20.998,
+   "end": 20.998
+  },
+  {
+   "word": "Friday",
+   "start": 20.998,
+   "end": 21.27
+  },
+  {
+   "word": "jusqu'au",
+   "start": 21.304,
+   "end": 21.542
+  },
+  {
+   "word": "trente",
+   "start": 21.575,
+   "end": 21.745
+  },
+  {
+   "word": "novembre",
+   "start": 21.79,
+   "end": 22.219
+  },
+  {
+   "word": "panier",
+   "start": 22.304,
+   "end": 22.626
+  },
+  {
+   "word": "orange",
+   "start": 22.675,
+   "end": 23.033
+  },
+  {
+   "word": "FONCE",
+   "start": 23.169,
+   "end": 23.643
+  }
+ ],
+ "durationSec": 24.163,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 8
+ }
+}

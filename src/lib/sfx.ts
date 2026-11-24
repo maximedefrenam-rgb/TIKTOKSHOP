@@ -64,7 +64,7 @@ export const buildSfx = (cfg: VideoConfig): SfxCue[] => {
         case 'usage':
           cues.push({name: 'pop', at: s.leftAt, volume: 0.4});
           cues.push({name: 'pop', at: s.rightAt, volume: 0.4});
-          cues.push({name: 'impact', at: s.crossAt, volume: 0.5});
+          if (s.crossAt !== undefined) cues.push({name: 'impact', at: s.crossAt, volume: 0.5});
           break;
         case 'cta':
           cues.push({name: 'ding', at: s.arrowAt ?? s.from + 0.3, volume: 0.4});
