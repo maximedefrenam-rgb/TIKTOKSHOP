@@ -62,7 +62,7 @@ export type Scene =
   | (SceneBase & {kind: 'cta'; text?: string; arrowAt?: number});
 
 /** Réactions du présentateur. */
-export type CharacterAction = 'point' | 'present' | 'shock' | 'fall' | 'faint' | 'slam' | 'hop';
+export type CharacterAction = 'point' | 'present' | 'shock' | 'faint' | 'slam' | 'hop';
 export type CharacterCue = {action: CharacterAction; at: number; duration?: number};
 
 export type CharacterConfig = {

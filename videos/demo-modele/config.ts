@@ -22,7 +22,7 @@ export const config: VideoConfig = {
     cues: [
       {action: 'shock', at: at(w, 'grossir')},
       {action: 'slam', at: at(w, 'Faux')},
-      {action: 'fall', at: at(w, 'centimes')},
+      {action: 'shock', at: at(w, 'centimes')},
       {action: 'point', at: at(w, 'Dedans')},
       {action: 'faint', at: at(w, 'performance')},
       {action: 'present', at: at(w, 'panier')},

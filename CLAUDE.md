@@ -10,12 +10,12 @@ Animateur de téléachat cartoon, présent dans chaque vidéo. Composant : `src/
 - **Look** : cartoon 2D flat, contours épais, clairement fictif, jamais réaliste. Veste à paillettes flashy
   (magenta `#FF2E88` par défaut, réglable via `character.jacket`), chemise ouverte, chaîne en or,
   banane gominée brillante, sourire immense avec dents qui brillent (petite étincelle), micro rétro à la main.
-- **Caractère** : surexcité, en fait des tonnes. Réactions exagérées : tombe à la renverse devant un prix,
-  yeux qui sortent des orbites, s'évanouit de bonheur, frappe le sol.
-- **Parole** : vouvoie le public comme au téléachat (« Mesdames et messieurs »), avec des écarts familiers
-  pour l'humour (« pas dans le bide ! »). Quelques gros mots légers autorisés. Jamais « vendeur de tapis » au premier degré :
-  le téléachat est joué en parodie, l'info reste celle d'un pote de salle qui s'y connaît.
-- **Réactions disponibles** (`character.cues`, calées sur un mot) : `shock` (yeux exorbités), `fall` (tombe à la renverse),
+- **Caractère** : surexcité, en fait des tonnes. Réactions exagérées : yeux qui sortent des orbites,
+  s'évanouit de bonheur, frappe le sol. (Pas de chute à la renverse : abandonné.)
+- **Parole** : TUTOIEMENT, pour viser directement le spectateur. Énergie de présentateur de téléachat jouée en parodie,
+  mais il parle comme un pote de salle qui s'y connaît : direct, drôle, un peu trash (quelques gros mots légers),
+  écarts familiers pour l'humour (« pas dans le bide ! »). Jamais « vendeur de tapis » au premier degré.
+- **Réactions disponibles** (`character.cues`, calées sur un mot) : `shock` (yeux exorbités),
   `faint` (s'évanouit, cœurs), `slam` (frappe le sol, secousse + boom), `point` (montre le produit),
   `present` (présente), `hop` (petit saut). Bruitages automatiques. La bouche bouge sur les mots de la voix.
 - Placé en bas à gauche ; le produit est alors décalé à droite. `hiddenInScenes` pour le cacher sur une scène.
@@ -42,7 +42,7 @@ livraison, mentions de l'emballage), parfois `script.md` validé.
 - 5 temps : accroche (0–2 s) → problème ou prix (2–8 s) → explication animée (8–20 s) → bénéfice autorisé (20–28 s)
   → appel à l'action vers le panier orange (28 s–fin).
 - Accroche choc dans les 2 premières secondes : chiffre fort ou idée reçue à casser.
-- Phrases courtes, langage parlé.
+- Phrases courtes, langage parlé, tutoiement.
 
 ## Allégations (règles UE compléments alimentaires)
 Seules les allégations santé autorisées par l'UE :

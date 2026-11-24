@@ -21,7 +21,7 @@ const GOLD = '#FFC93C';
 const PANTS = '#1C1C28';
 
 const ACTION_LEN: Record<CharacterAction, number> = {
-  point: 1.6, shock: 1.3, fall: 1.8, faint: 2.2, slam: 1.0, hop: 0.6, present: 1.6,
+  point: 1.6, shock: 1.3, faint: 2.2, slam: 1.0, hop: 0.6, present: 1.6,
 };
 
 const shade = (hex: string, k: number) => {
@@ -98,7 +98,6 @@ export const Character: React.FC<Props> = ({cues, words, x, y, scale, jacket = '
   let bodyY = -Math.abs(talk) * 6;
   let squashY = 1;
   let jump = 0;
-  if (act === 'fall') rot += 78 * k; // tombe vers la droite pour rester dans le cadre
   if (act === 'faint') rot += 24 * k;
   if (act === 'shock') jump = -60 * Math.sin(Math.min(1, (frame - a0) / 12) * Math.PI);
   if (act === 'hop') jump = -45 * Math.sin(Math.min(1, (frame - a0) / 10) * Math.PI);
@@ -113,7 +112,6 @@ export const Character: React.FC<Props> = ({cues, words, x, y, scale, jacket = '
   let armR = 35 + n('ar', 0.9) * 18 + talk * 10;
   if (act === 'point' || act === 'present') armR = 35 + (act === 'point' ? 75 : 95) * k + n('ar', 0.9) * 6;
   if (act === 'shock') armR = 35 + 130 * k;
-  if (act === 'fall') armR = 35 + 140 * k;
   if (act === 'faint') armR = 35 + 120 * k;
   if (act === 'slam') armR = 35 + (frame - a0 < 4 ? 150 : -25) * k;
   const rad = (armR * Math.PI) / 180;
@@ -129,7 +127,7 @@ export const Character: React.FC<Props> = ({cues, words, x, y, scale, jacket = '
 
   // ---- bouche
   let open = talk;
-  if (act === 'shock' || act === 'fall') open = Math.max(open, 0.95 * k);
+  if (act === 'shock') open = Math.max(open, 0.95 * k);
   const mouthBottom = 292 + open * 44;
 
   // ---- étincelle des dents (pic à chaque cue + quelques éclats aléatoires)
