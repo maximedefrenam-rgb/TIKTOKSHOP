@@ -1,6 +1,8 @@
 /**
  * Génère une prise de voix + le timing de chaque mot.
- *   node scripts/tts.mjs --video <nom> --take 1 [--fallback] [--stability 0.5]
+ *   npm run tts -- --video <nom> --take 1 [--fallback] [--stability 0|0.5|1]
+ * eleven_v3 : stabilité 0 (« Creative », émotion maximale) par défaut pour la prise 1,
+ * 0.5 (« Natural », un peu plus posée mais plus fiable) pour la prise 2 → deux interprétations au choix.
  * Texte lu dans videos/<nom>/voix.txt (balises [excited] etc. ; retirées automatiquement en mode secours).
  * Sorties : public/videos/<nom>/voix-prise<n>.mp3 et timings-prise<n>.json
  */
@@ -18,9 +20,10 @@ const fallback = flag('fallback');
 let text = readFileSync(path.join(ROOT, 'videos', video, 'voix.txt'), 'utf8').trim();
 const model = fallback ? v.fallbackModel : v.model;
 if (fallback) text = stripTags(text);
-const settings = fallback ? FALLBACK_SETTINGS : {stability: parseFloat(arg('stability', '0.5'))};
+const stability = parseFloat(arg('stability', take === '1' ? '0' : '0.5'));
+const settings = fallback ? FALLBACK_SETTINGS : {stability};
 
-console.log(`Voix ${v.voiceName || v.voiceId} · modèle ${model} · ${text.length} caractères (≈ crédits consommés)`);
+console.log(`Voix ${v.voiceName || v.voiceId} · modèle ${model}${fallback ? '' : ` · stabilité ${stability}`} · ${text.length} caractères (≈ crédits consommés)`);
 const {audio, alignment} = await tts({text, voiceId: v.voiceId, model, withTimestamps: true, settings});
 
 const dir = path.join(ROOT, 'public', 'videos', video);

@@ -60,6 +60,13 @@ Seules les allégations santé autorisées par l'UE :
 - Voix du compte : **Simon** (« Cheerful, Energetic and Rapid », jeune, parisien, hyper énergique),
   `voiceId` `mvhJVdVoTWVUtL4keT7W`, enregistré dans `src/brand.ts`. Toujours réutiliser cette voix.
 - Nombres en lettres, MAJUSCULES sur les mots à appuyer, « ... » pour les pauses.
+- **ÉMOTION MAXIMALE, collée au script** : une balise d'émotion à chaque changement d'intention (quasiment chaque phrase),
+  choisie selon ce qui se passe : `[excited]`, `[enthusiastic]`, `[shouting]` (prix choc, CTA), `[gasps]` / `[amazed]` (révélation),
+  `[laughs]` / `[chuckles]` (vanne), `[sarcastic]` (idée reçue cassée), `[whispers]` (confidence, « entre nous... »),
+  `[serious]` (allégation autorisée, dite avec aplomb), `[mischievously]`. Ponctuation expressive (« ?! », « ... »),
+  interjections parlées (« Attends... », « Nan mais ALLÔ ! »). Les réactions du personnage tombent sur les mêmes mots.
+- Prises : la prise 1 en stabilité 0 (« Creative », émotion maximale), la prise 2 en 0.5 (« Natural », plus fiable) ;
+  l'utilisateur choisit.
 - Économiser les crédits : pas de régénération sans raison. Budget outils total ~50 €/mois.
 
 ## Direction artistique (identique partout)
