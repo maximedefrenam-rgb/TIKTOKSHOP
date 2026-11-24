@@ -1,7 +1,7 @@
 """Resserre une prise de voix sans la régénérer (0 crédit) :
 raccourcit les silences trop longs puis accélère légèrement (hauteur conservée), en recalculant les timings.
 
-  python3 scripts/tighten.py --video <nom> --take 1 [--max-gap 0.15] [--tempo 1.18]
+  python3 scripts/tighten.py --video <nom> --take 1 [--max-gap 0.10] [--tempo 1.18]
   → remplace voix-prise<n>.mp3 / timings-prise<n>.json (originaux gardés en *-brut.*)
 """
 import argparse
@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ap = argparse.ArgumentParser()
 ap.add_argument("--video", required=True)
 ap.add_argument("--take", default="1")
-ap.add_argument("--max-gap", type=float, default=0.15)
+ap.add_argument("--max-gap", type=float, default=0.10)
 ap.add_argument("--tempo", type=float, default=1.18)
 a = ap.parse_args()
 
@@ -45,6 +45,12 @@ cuts = []  # (début, fin) en secondes à retirer
 # On ne raccourcit que les plages réellement silencieuses (les rires, souffles, « gasps » sont conservés).
 thr = 0.012
 quiet = rms < thr
+# entre deux mots, les respirations (niveau faible) sont aussi raccourcies
+breath_thr = 0.045
+for k in range(len(words) - 1):
+    g0, g1 = int((words[k]["end"] + 0.03) * SR), int((words[k + 1]["start"] - 0.03) * SR)
+    if g1 > g0:
+        quiet[g0:g1] |= rms[g0:g1] < breath_thr
 i, n = 0, len(quiet)
 first_word = words[0]["start"]
 while i < n:

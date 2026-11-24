@@ -40,7 +40,7 @@ livraison, mentions de l'emballage), parfois `script.md` validé.
 ## Règles d'écriture des scripts
 - 25 à 35 s, soit ~75 à 95 mots (jusqu'à 40 s accepté par l'utilisateur pour la créatine n°1).
 - Toujours passer les prises dans `python3 scripts/tighten.py --video <nom> --take <n>` (débit rapide par défaut :
-  silences max 0,15 s, tempo ×1,18). Il raccourcit les silences
+  silences et respirations max 0,10 s, tempo ×1,18). Il raccourcit les silences
   (rires et souffles conservés) et accélère légèrement, sans régénérer (0 crédit). Originaux gardés en `*-brut.*`.
 - 5 temps : accroche (0–2 s) → problème ou prix (2–8 s) → explication animée (8–20 s) → bénéfice autorisé (20–28 s)
   → appel à l'action vers le panier orange (28 s–fin).
@@ -80,6 +80,10 @@ Seules les allégations santé autorisées par l'UE :
   `[laughs]` / `[chuckles]` (vanne), `[sarcastic]` (idée reçue cassée), `[whispers]` (confidence, « entre nous... »),
   `[serious]` (allégation autorisée, dite avec aplomb), `[mischievously]`. Ponctuation expressive (« ?! », « ... »),
   interjections parlées (« Attends... », « Nan mais ALLÔ ! »). Les réactions du personnage tombent sur les mêmes mots.
+- **Pas de blancs entre les phrases** (retour vidéo n°2) : enchaîner les phrases avec des virgules plutôt que des points,
+  pas de « ... » ; balises qui changent le TON (`[excited]`, `[shouting]`, `[sarcastic]`, `[mischievously]`) plutôt que
+  celles qui ajoutent un BRUIT (`[laughs]`, `[gasps]`, `[sighs]` : 1 seule par vidéo maximum, ils créent ~0,3–0,6 s de trou).
+  `tighten.py` raccourcit aussi les respirations entre les mots (blanc max 0,10 s).
 - Prises : la prise 1 en stabilité 0 (« Creative », émotion maximale), la prise 2 en 0.5 (« Natural », plus fiable) ;
   l'utilisateur choisit.
 - Économiser les crédits : pas de régénération sans raison. Budget outils total ~50 €/mois.
