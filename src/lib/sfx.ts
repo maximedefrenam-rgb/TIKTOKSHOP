@@ -33,6 +33,29 @@ export const buildSfx = (cfg: VideoConfig): SfxCue[] => {
         case 'compare':
           s.rows.forEach((_, j) => cues.push({name: 'tick', at: s.at + j * 0.25, volume: 0.4}));
           break;
+        case 'doses':
+          cues.push({name: 'tick', at: s.weightAt, volume: 0.4});
+          cues.push({name: 'ding', at: s.priceAt, volume: 0.4});
+          cues.push({name: 'tick', at: s.divideAt, volume: 0.4});
+          cues.push({name: 'riser', at: Math.max(s.from, s.resultAt - 1.55), volume: 0.3});
+          cues.push({name: 'impact', at: s.resultAt, volume: 0.5});
+          for (let k = 0; k < 6; k++) cues.push({name: 'pop', at: s.resultAt + 0.2 + k * 0.22, volume: 0.3});
+          break;
+        case 'muscle':
+          for (let k = 0; k < 4; k++) cues.push({name: 'pop', at: s.waterAt + k * 0.2, volume: 0.3});
+          cues.push({name: 'whoosh', at: s.inMuscleAt - 0.1, volume: 0.35});
+          s.syllables.forEach((y, k) => cues.push(k === s.syllables.length - 1 ? {name: 'impact', at: y.at, volume: 0.5} : {name: 'tick', at: y.at, volume: 0.45}));
+          cues.push({name: 'impact', at: s.fatCrossAt, volume: 0.5});
+          break;
+        case 'power':
+          cues.push({name: 'riser', at: Math.max(s.from, s.fillTo - 1.6), volume: 0.35});
+          cues.push({name: 'ding', at: s.fillTo, volume: 0.45});
+          s.dumbbells.forEach((t) => cues.push({name: 'pop', at: t, volume: 0.4}));
+          if (s.snowAt !== undefined) cues.push({name: 'ding', at: s.snowAt, volume: 0.3});
+          break;
+        case 'flavors':
+          s.images.slice(0, 4).forEach((_, k) => cues.push({name: 'whoosh', at: s.spreadAt + k * 0.1, volume: 0.3}));
+          break;
         case 'cta':
           cues.push({name: 'ding', at: s.arrowAt ?? s.from + 0.3, volume: 0.4});
           break;

@@ -1,0 +1,228 @@
+import React from 'react';
+import {AbsoluteFill, useCurrentFrame} from 'remotion';
+import {BRAND, SAFE_CX, SAFE_W} from '../brand';
+import {sp, SNAP, s2f, lin, easeOut, rand} from '../lib/anim';
+import type {Scene, VideoConfig} from '../types';
+import {Product} from './Product';
+import {BigText, Keywords} from './Keywords';
+import {productCx} from './Scenes';
+
+type P<K extends Scene['kind']> = {scene: Extract<Scene, {kind: K}>; cfg: VideoConfig; offset: number};
+const useAbs = (offset: number) => useCurrentFrame() + offset;
+const euro = (v: number) => v.toFixed(2).replace('.', ',') + ' €';
+const OUT = '#0B0B0F';
+
+/* ------------------------------------------------ CALCULATRICE + DOSES (produit en coupe) */
+export const DosesScene: React.FC<P<'doses'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const W = s2f(scene.weightAt), Pr = s2f(scene.priceAt), D = s2f(scene.divideAt), R = s2f(scene.resultAt);
+  const hide = scene.hideCalcAt !== undefined ? s2f(scene.hideCalcAt) : Infinity;
+  const calcOut = f >= hide ? 1 - sp(f, hide, SNAP) : 1;
+  const cx = productCx(cfg, scene);
+  const cy = 1350, h = 520;
+  const open = f >= R ? sp(f, R, {damping: 12, stiffness: 120, mass: 0.8}) : 0;
+  const mouthX = cx, mouthY = cy - h * 0.42;
+  const count = scene.count;
+  const cols = 10, sx = 78, sy = 46;
+  const gx0 = SAFE_CX - ((cols - 1) * sx) / 2, gy0 = 700;
+  const shown = Math.min(count, Math.max(0, Math.floor(easeOut(f, R + 4, R + 40, 0, count))));
+  return (
+    <AbsoluteFill>
+      <Product offset={offset} src={cfg.productImage} height={h} cx={cx} cy={cy} enterAt={s2f(scene.from)} open={open} seed="doses" sweeps={[W + 4]} />
+      {/* doses qui jaillissent du sachet ouvert */}
+      {Array.from({length: count}).map((_, i) => {
+        const st = R + 4 + i * 0.36;
+        if (f < st) return null;
+        const p = sp(f, st, {damping: 13, stiffness: 140, mass: 0.6});
+        const tx = gx0 + (i % cols) * sx, ty = gy0 + Math.floor(i / cols) * sy;
+        const x = mouthX + (tx - mouthX) * p;
+        const y = mouthY + (ty - mouthY) * p - Math.sin(Math.min(1, p) * Math.PI) * (120 + rand(i) * 140);
+        return (
+          <div key={i} style={{position: 'absolute', left: x, top: y, width: 34, height: 34, borderRadius: '50%', transform: 'translate(-50%, -50%)',
+            background: `radial-gradient(circle at 35% 35%, #FFFFFF 0 18%, ${cfg.accent} 20% 100%)`, border: `4px solid ${OUT}`}} />
+        );
+      })}
+      {f >= R + 4 && (
+        <div style={{position: 'absolute', left: SAFE_CX, top: gy0 + 10 * sy + 18, transform: 'translate(-50%, 0)', opacity: calcOut,
+          fontFamily: BRAND.fonts.body, fontWeight: 700, fontSize: 40, color: BRAND.colors.text}}>{shown} / {count}</div>
+      )}
+      {/* calcul */}
+      <div style={{opacity: calcOut}}>
+        <BigText text={`${scene.weight} G${f >= Pr ? ' = ' + euro(scene.price) : ''}`} size={140} color={BRAND.colors.text} y={250}
+          progress={f >= W ? sp(f, W) * (f >= Pr && f < Pr + 8 ? 0.9 + 0.1 * sp(f, Pr) : 1) : 0} />
+        <BigText text={`÷ ${scene.dose} G PAR JOUR`} size={110} color={BRAND.colors.text} y={410} progress={f >= D ? sp(f, D) : 0} />
+        <BigText text={`= ${count} DOSES`} size={170} color={cfg.accent} y={580} progress={f >= R ? sp(f, R) : 0} />
+      </div>
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={420} />
+    </AbsoluteFill>
+  );
+};
+
+/* ------------------------------------------------ COUPE DE MUSCLE */
+export const MuscleScene: React.FC<P<'muscle'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const f0 = s2f(scene.from);
+  const enter = sp(f, f0 + 2);
+  const X0 = 90, X1 = 890, Y0 = 640, SKIN = 44, FAT = 120, Y1 = 1320;
+  const fatY = Y0 + SKIN, musY = fatY + FAT;
+  const wA = s2f(scene.waterAt), inA = s2f(scene.inMuscleAt), xA = s2f(scene.fatCrossAt);
+  const fill = f >= inA ? sp(f, inA, {damping: 20, stiffness: 60, mass: 1}) : 0;
+  const cross1 = f >= xA ? sp(f, xA, SNAP) : 0, cross2 = f >= xA + 3 ? sp(f, xA + 3, SNAP) : 0;
+
+  const fibers: {x: number; y: number; r: number}[] = [];
+  for (let r = 0; r < 5; r++)
+    for (let c = 0; c < 8; c++) fibers.push({x: X0 + 60 + c * 97 + (r % 2) * 46, y: musY + 62 + r * 100, r: 44});
+
+  // syllabes « IN-TRA-MUS-CU-LAIRE »
+  const syl = scene.syllables;
+  const n = syl.filter((s) => f >= s2f(s.at)).length;
+  const last = n ? s2f(syl[n - 1].at) : 0;
+  const done = n === syl.length;
+  const sylText = done ? syl.map((s) => s.text).join('') : syl.slice(0, n).map((s) => s.text).join('-');
+
+  return (
+    <AbsoluteFill>
+      <div style={{position: 'absolute', left: X0, top: Y0, width: X1 - X0, height: Y1 - Y0, transform: `scale(${0.6 + 0.4 * enter})`, opacity: Math.min(1, enter * 2),
+        borderRadius: 36, overflow: 'hidden', border: `8px solid ${OUT}`, boxShadow: `0 0 0 4px #ffffff22, 0 30px 80px rgba(0,0,0,0.6)`}}>
+        <svg width={X1 - X0} height={Y1 - Y0} viewBox={`${X0} ${Y0} ${X1 - X0} ${Y1 - Y0}`}>
+          <rect x={X0} y={Y0} width={X1 - X0} height={SKIN} fill="#F4B58A" />
+          <rect x={X0} y={fatY} width={X1 - X0} height={FAT} fill="#FFE39A" />
+          {Array.from({length: 14}).map((_, i) => (
+            <circle key={i} cx={X0 + 30 + i * 58} cy={fatY + 40 + (i % 2) * 40} r={30} fill="#FFD36A" stroke="#E8B64A" strokeWidth={4} />
+          ))}
+          <rect x={X0} y={musY} width={X1 - X0} height={Y1 - musY} fill="#6E1121" />
+          {fibers.map((b, i) => {
+            const s = 1 + 0.12 * fill * (0.7 + 0.3 * rand(i));
+            return (
+              <g key={i} transform={`translate(${b.x} ${b.y}) scale(${s})`}>
+                <circle r={b.r} fill="#D8364B" stroke="#4A0A16" strokeWidth={5} />
+                <circle r={b.r * 0.62} fill={`rgba(79,195,247,${0.75 * fill})`} />
+                <circle cx={-12} cy={-14} r={9} fill="#ffffff" opacity={0.35} />
+              </g>
+            );
+          })}
+          <line x1={X0} y1={fatY} x2={X1} y2={fatY} stroke={OUT} strokeWidth={4} />
+          <line x1={X0} y1={musY} x2={X1} y2={musY} stroke={OUT} strokeWidth={4} />
+        </svg>
+        {/* étiquettes */}
+        {[['PEAU', Y0 + SKIN / 2], ['GRAS', fatY + FAT / 2], ['MUSCLE', musY + 40]].map(([t, y]) => (
+          <div key={t as string} style={{position: 'absolute', right: 18, top: (y as number) - Y0, transform: 'translateY(-50%)', fontFamily: BRAND.fonts.body,
+            fontWeight: 900, fontSize: 30, color: t === 'MUSCLE' ? '#fff' : OUT, background: t === 'MUSCLE' ? '#00000055' : '#ffffffaa', padding: '2px 12px', borderRadius: 8}}>{t}</div>
+        ))}
+      </div>
+      {/* gouttes d'eau qui traversent la peau et le gras pour entrer dans les fibres */}
+      {Array.from({length: 16}).map((_, i) => {
+        const st = wA + i * 3;
+        if (f < st) return null;
+        const target = fibers[(i * 7) % fibers.length];
+        const p = easeOut(f, st, st + 20);
+        const x = target.x + (1 - p) * (rand(i + 3) - 0.5) * 60;
+        const y = 520 + (target.y - 520) * p;
+        const o = 1 - lin(f, st + 20, st + 28);
+        if (o <= 0) return null;
+        return (
+          <svg key={i} width={40} height={54} viewBox="0 0 40 54" style={{position: 'absolute', left: x - 20, top: y - 34, opacity: o}}>
+            <path d="M20 2 C26 16 36 26 36 36 A16 16 0 0 1 4 36 C4 26 14 16 20 2 Z" fill="#4FC3F7" stroke={OUT} strokeWidth={4} />
+            <ellipse cx={14} cy={36} rx={4} ry={6} fill="#fff" opacity={0.7} />
+          </svg>
+        );
+      })}
+      {/* croix rouge sur le gras */}
+      {[cross1, cross2].map((p, i) => (
+        <div key={i} style={{position: 'absolute', left: SAFE_CX, top: fatY - 10, width: 560 * p, height: 24, background: BRAND.colors.alert, borderRadius: 12,
+          transform: `translate(-50%, -50%) rotate(${i ? -14 : 14}deg)`, boxShadow: `0 0 30px ${BRAND.colors.alert}88`}} />
+      ))}
+      {n > 0 && f < s2f(scene.syllablesUntil ?? scene.to) && (
+        <BigText text={sylText} size={done ? 130 : 120} color={done ? cfg.accent : BRAND.colors.text} y={330} progress={sp(f, last, SNAP)} />
+      )}
+      <Product offset={offset} src={cfg.productImage} height={300} cx={SAFE_CX} cy={1500} enterAt={f0 + 6} seed="mus" sweeps={[inA]} />
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={300} />
+    </AbsoluteFill>
+  );
+};
+
+/* ------------------------------------------------ JAUGE DE PERFORMANCE */
+const Dumbbell: React.FC<{s: number}> = ({s}) => (
+  <svg width={120} height={60} viewBox="0 0 120 60" style={{transform: `scale(${s})`}}>
+    <rect x={30} y={24} width={60} height={12} rx={4} fill="#C9CDD6" stroke={OUT} strokeWidth={4} />
+    {[8, 94].map((x) => <rect key={x} x={x} y={6} width={18} height={48} rx={5} fill="#2A2A33" stroke={OUT} strokeWidth={4} />)}
+    {[22, 82].map((x) => <rect key={x} x={x} y={14} width={12} height={32} rx={4} fill="#2A2A33" stroke={OUT} strokeWidth={4} />)}
+  </svg>
+);
+
+const Snowflake: React.FC<{s: number; rot: number}> = ({s, rot}) => (
+  <svg width={140} height={140} viewBox="-70 -70 140 140" style={{transform: `scale(${s}) rotate(${rot}deg)`}}>
+    {[0, 60, 120].map((a) => (
+      <g key={a} transform={`rotate(${a})`}>
+        <line x1={0} y1={-58} x2={0} y2={58} stroke="#BDE9FF" strokeWidth={10} strokeLinecap="round" />
+        {[-1, 1].map((d) => (
+          <g key={d}>
+            <line x1={0} y1={d * 36} x2={-16} y2={d * 52} stroke="#BDE9FF" strokeWidth={8} strokeLinecap="round" />
+            <line x1={0} y1={d * 36} x2={16} y2={d * 52} stroke="#BDE9FF" strokeWidth={8} strokeLinecap="round" />
+          </g>
+        ))}
+      </g>
+    ))}
+  </svg>
+);
+
+export const PowerScene: React.FC<P<'power'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const a = s2f(scene.fillFrom), b = s2f(scene.fillTo);
+  const fill = Math.min(1, easeOut(f, a, b) * 0.97 + (f >= b ? sp(f, b) * 0.03 : 0));
+  const gx = 110, gw = 780, gy = 720;
+  const snow = scene.snowAt !== undefined && f >= s2f(scene.snowAt) ? sp(f, s2f(scene.snowAt)) : 0;
+  return (
+    <AbsoluteFill>
+      <div style={{position: 'absolute', left: gx, top: gy, width: gw, height: 64, borderRadius: 32, border: `6px solid #fff`, background: '#ffffff14', overflow: 'hidden',
+        opacity: f >= a - 6 ? sp(f, a - 6) : 0}}>
+        <div style={{width: `${fill * 100}%`, height: '100%', background: `linear-gradient(90deg, ${cfg.accent}AA, ${cfg.accent})`, boxShadow: `0 0 40px ${cfg.accent}`}} />
+      </div>
+      {scene.dumbbells.map((t, i) => {
+        const st = s2f(t);
+        if (f < st) return null;
+        return (
+          <div key={i} style={{position: 'absolute', left: gx + gw * (0.25 + i * 0.33), top: gy + 120, transform: 'translate(-50%, -50%)'}}>
+            <Dumbbell s={sp(f, st)} />
+          </div>
+        );
+      })}
+      <Product offset={offset} src={cfg.productImage} height={600} cx={productCx(cfg, scene)} cy={1300} enterAt={s2f(scene.from)} seed="pow" sweeps={[b]} />
+      {snow > 0 && (
+        <div style={{position: 'absolute', left: productCx(cfg, scene) + 230, top: 980, transform: 'translate(-50%, -50%)'}}>
+          <Snowflake s={snow} rot={(1 - snow) * -120 + (f - s2f(scene.snowAt!)) * 0.8} />
+        </div>
+      )}
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={260} />
+    </AbsoluteFill>
+  );
+};
+
+/* ------------------------------------------------ DÉFILÉ DES GOÛTS */
+export const FlavorsScene: React.FC<P<'flavors'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const s = s2f(scene.spreadAt);
+  const slots = [
+    {x: 150, y: 1260, r: -10}, {x: 300, y: 1200, r: -5}, {x: 700, y: 1200, r: 5}, {x: 850, y: 1260, r: 10},
+  ];
+  return (
+    <AbsoluteFill>
+      {scene.images.slice(0, 4).map((img, i) => {
+        if (f < s + i * 3) return null;
+        const p = sp(f, s + i * 3);
+        const sl = slots[i];
+        const fromX = sl.x < SAFE_CX ? -300 : 1380;
+        return (
+          <div key={i} style={{position: 'absolute', left: 0, top: 0, width: '100%', height: '100%',
+            transform: `translateX(${(1 - p) * (fromX - sl.x)}px) rotate(${sl.r * p}deg)`, transformOrigin: `${sl.x}px ${sl.y}px`}}>
+            <Product offset={offset} src={img} height={330} cx={sl.x} cy={sl.y} enterAt={s + i * 3} enter="none" seed={'fl' + i} />
+          </div>
+        );
+      })}
+      <Product offset={offset} src={cfg.productImage} height={560} cx={SAFE_CX} cy={1180} enterAt={s2f(scene.from)} seed="flc" sweeps={[s + 14]} />
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={330} />
+    </AbsoluteFill>
+  );
+};
+
+export const SAFE_WIDTH = SAFE_W;

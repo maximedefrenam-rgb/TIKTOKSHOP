@@ -8,6 +8,7 @@ import {Character} from '../components/Character';
 import {
   HookScene, PriceScene, MythScene, CutawayScene, CompareScene, BenefitScene, CtaScene,
 } from '../components/Scenes';
+import {DosesScene, MuscleScene, PowerScene, FlavorsScene} from '../components/Scenes2';
 import {impactTimes} from '../lib/sfx';
 import {s2f} from '../lib/anim';
 import type {Scene, VideoConfig} from '../types';
@@ -21,6 +22,10 @@ const renderScene = (scene: Scene, cfg: VideoConfig, offset: number) => {
     case 'compare': return <CompareScene scene={scene} cfg={cfg} offset={offset} />;
     case 'benefit': return <BenefitScene scene={scene} cfg={cfg} offset={offset} />;
     case 'cta': return <CtaScene scene={scene} cfg={cfg} offset={offset} />;
+    case 'doses': return <DosesScene scene={scene} cfg={cfg} offset={offset} />;
+    case 'muscle': return <MuscleScene scene={scene} cfg={cfg} offset={offset} />;
+    case 'power': return <PowerScene scene={scene} cfg={cfg} offset={offset} />;
+    case 'flavors': return <FlavorsScene scene={scene} cfg={cfg} offset={offset} />;
   }
 };
 

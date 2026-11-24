@@ -59,7 +59,25 @@ export type Scene =
       rows: {label: string; value: number; display: string; highlight?: boolean}[];
     })
   | (SceneBase & {kind: 'benefit'})
-  | (SceneBase & {kind: 'cta'; text?: string; arrowAt?: number});
+  | (SceneBase & {kind: 'cta'; text?: string; arrowAt?: number})
+  /** calculatrice poids ÷ dose = nb de doses, puis le sachet s'ouvre et les doses en jaillissent (produit en coupe) */
+  | (SceneBase & {
+      kind: 'doses';
+      weight: number; dose: number; price: number; count: number;
+      weightAt: number; priceAt: number; divideAt: number; resultAt: number;
+      hideCalcAt?: number;
+    })
+  /** coupe peau / gras / muscle : l'eau entre dans les fibres, le gras est barré, mot épelé syllabe par syllabe */
+  | (SceneBase & {
+      kind: 'muscle';
+      waterAt: number; inMuscleAt: number; fatCrossAt: number;
+      syllables: {text: string; at: number}[];
+      syllablesUntil?: number;
+    })
+  /** jauge de performance + haltères + flocon de neige optionnel */
+  | (SceneBase & {kind: 'power'; fillFrom: number; fillTo: number; dumbbells: number[]; snowAt?: number})
+  /** défilé des goûts (uniquement des emballages dont on a la photo) */
+  | (SceneBase & {kind: 'flavors'; images: string[]; spreadAt: number});
 
 /** Réactions du présentateur. */
 export type CharacterAction = 'point' | 'present' | 'shock' | 'faint' | 'slam' | 'hop';

@@ -98,6 +98,12 @@ Seules les allégations santé autorisées par l'UE :
 ## Organisation technique
 - Remotion TypeScript, 1080x1920, 30 fps, durée = voix + 0,5 s.
 - Modèle : `src/templates/ShopVideo.tsx` ; scènes : `src/components/Scenes.tsx` ; identité : `src/brand.ts`.
+- Types de scènes : `hook`, `price`, `myth`, `cutaway`, `compare`, `benefit`, `cta` (Scenes.tsx) et
+  `doses` (calculatrice + sachet qui s'ouvre et libère les doses = produit en coupe), `muscle` (coupe peau/gras/muscle,
+  eau dans les fibres, mot épelé), `power` (jauge + haltères + flocon), `flavors` (défilé des goûts photographiés) (Scenes2.tsx).
+  Exemple complet : `videos/creatine-ostrovit-citron/config.ts`.
+- Rendu en `concurrency 1` (remotion.config.ts) : en parallèle, Chrome faisait clignoter l'image du produit.
+  Un rendu de 40 s prend ~5 min. Le script de rendu ajoute un limiteur audio (pas de saturation sur les impacts).
 - Config par vidéo : `videos/<nom>/config.ts` (exemple complet : `videos/demo-modele/`, démo interne à ne jamais publier).
 - Médias par vidéo : `public/videos/<nom>/` (produit, voice.mp3, timings.json, music.wav).
 - Rendus : `out/<nom>-v<n>.mp4` en H.264.

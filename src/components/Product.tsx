@@ -58,15 +58,14 @@ export const Product: React.FC<Props> = ({
   const imgLayer = (clip?: string, extra?: React.CSSProperties) => (
     <div style={{position: 'absolute', inset: 0, clipPath: clip, ...extra}}>
       <Img src={src_} style={{height, width: 'auto', display: 'block'}} />
-      <div
-        style={{
-          position: 'absolute', inset: 0,
-          WebkitMaskImage: `url(${src_})`, maskImage: `url(${src_})`,
-          WebkitMaskSize: '100% 100%', maskSize: '100% 100%',
-          background: `linear-gradient(105deg, transparent ${sweepX - 18}%, rgba(255,255,255,0.55) ${sweepX}%, transparent ${sweepX + 18}%)`,
-          mixBlendMode: 'screen',
-        }}
-      />
+      {sweepX > -100 && (
+        // reflet : bande diagonale d'une copie éclaircie de l'image (pas de masque CSS : rendu stable)
+        <Img src={src_} style={{
+          position: 'absolute', left: 0, top: 0, height, width: 'auto', display: 'block',
+          filter: 'brightness(1.9)', opacity: 0.5,
+          clipPath: `polygon(${sweepX - 14}% 0%, ${sweepX + 4}% 0%, ${sweepX - 6}% 100%, ${sweepX - 24}% 100%)`,
+        }} />
+      )}
     </div>
   );
 
@@ -89,8 +88,8 @@ export const Product: React.FC<Props> = ({
           filter: 'blur(10px)', opacity: 0.5 + shadowLift * 0.4,
         }}
       />
-      <div style={{perspective: 1400}}>
-        <div style={{position: 'relative', transform: `rotateY(${rotY}deg) rotateZ(${rotZ}deg)`, transformStyle: 'preserve-3d'}}>
+      <div>
+        <div style={{position: 'relative', transform: `perspective(1400px) rotateY(${rotY}deg) rotateZ(${rotZ}deg)`}}>
           {/* gabarit invisible qui donne la taille */}
           <Img src={src_} style={{height, width: 'auto', display: 'block', visibility: 'hidden'}} />
           {open <= 0.001 ? (
