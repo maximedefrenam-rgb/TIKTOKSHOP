@@ -31,7 +31,7 @@ export const buildSfx = (cfg: VideoConfig): SfxCue[] => {
           s.items.forEach((it) => cues.push({name: 'pop', at: it.at, volume: 0.35}));
           break;
         case 'compare':
-          s.rows.forEach((_, j) => cues.push({name: 'tick', at: s.at + j * 0.25, volume: 0.4}));
+          s.rows.forEach((r, j) => cues.push({name: 'tick', at: r.at ?? s.at + j * 0.25, volume: 0.4}));
           break;
         case 'doses':
           cues.push({name: 'tick', at: s.weightAt, volume: 0.4});

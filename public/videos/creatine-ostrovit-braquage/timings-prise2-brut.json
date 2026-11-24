@@ -1,0 +1,486 @@
+{
+ "words": [
+  {
+   "word": "Si",
+   "start": 0.147,
+   "end": 0.16
+  },
+  {
+   "word": "tu",
+   "start": 0.213,
+   "end": 0.32
+  },
+  {
+   "word": "paies",
+   "start": 0.347,
+   "end": 0.48
+  },
+  {
+   "word": "ta",
+   "start": 0.533,
+   "end": 0.64
+  },
+  {
+   "word": "créatine",
+   "start": 0.68,
+   "end": 1.2
+  },
+  {
+   "word": "plus",
+   "start": 1.232,
+   "end": 1.36
+  },
+  {
+   "word": "de",
+   "start": 1.467,
+   "end": 1.68
+  },
+  {
+   "word": "CINQ",
+   "start": 1.72,
+   "end": 1.92
+  },
+  {
+   "word": "centimes",
+   "start": 2,
+   "end": 2.48
+  },
+  {
+   "word": "la",
+   "start": 2.507,
+   "end": 2.56
+  },
+  {
+   "word": "dose",
+   "start": 2.624,
+   "end": 3.28
+  },
+  {
+   "word": "tu",
+   "start": 3.333,
+   "end": 3.44
+  },
+  {
+   "word": "t'es",
+   "start": 3.48,
+   "end": 3.68
+  },
+  {
+   "word": "fait",
+   "start": 3.712,
+   "end": 3.84
+  },
+  {
+   "word": "BRAQUER",
+   "start": 3.98,
+   "end": 4.76
+  },
+  {
+   "word": "frérot",
+   "start": 4.773,
+   "end": 5.04
+  },
+  {
+   "word": "En",
+   "start": 5.825,
+   "end": 5.843
+  },
+  {
+   "word": "moyenne",
+   "start": 5.883,
+   "end": 6.243
+  },
+  {
+   "word": "trois",
+   "start": 6.323,
+   "end": 6.723
+  },
+  {
+   "word": "cents",
+   "start": 6.763,
+   "end": 6.963
+  },
+  {
+   "word": "grammes",
+   "start": 7.003,
+   "end": 7.283
+  },
+  {
+   "word": "de",
+   "start": 7.31,
+   "end": 7.363
+  },
+  {
+   "word": "créatine",
+   "start": 7.423,
+   "end": 8.243
+  },
+  {
+   "word": "c'est",
+   "start": 8.283,
+   "end": 8.403
+  },
+  {
+   "word": "plus",
+   "start": 8.435,
+   "end": 8.563
+  },
+  {
+   "word": "de",
+   "start": 8.67,
+   "end": 8.883
+  },
+  {
+   "word": "vingt-deux",
+   "start": 8.923,
+   "end": 9.283
+  },
+  {
+   "word": "balles",
+   "start": 9.323,
+   "end": 9.603
+  },
+  {
+   "word": "celle-là",
+   "start": 9.63,
+   "end": 10.323
+  },
+  {
+   "word": "quatre",
+   "start": 10.357,
+   "end": 10.563
+  },
+  {
+   "word": "euros",
+   "start": 10.616,
+   "end": 10.883
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 10.906,
+   "end": 12.003
+  },
+  {
+   "word": "quatre",
+   "start": 12.369,
+   "end": 12.403
+  },
+  {
+   "word": "fois",
+   "start": 12.467,
+   "end": 12.723
+  },
+  {
+   "word": "et",
+   "start": 12.75,
+   "end": 12.803
+  },
+  {
+   "word": "demie",
+   "start": 12.823,
+   "end": 12.963
+  },
+  {
+   "word": "moins",
+   "start": 13.003,
+   "end": 13.203
+  },
+  {
+   "word": "cher",
+   "start": 13.251,
+   "end": 13.523
+  },
+  {
+   "word": "putain",
+   "start": 13.583,
+   "end": 13.923
+  },
+  {
+   "word": "Et",
+   "start": 14.625,
+   "end": 14.652
+  },
+  {
+   "word": "c'est",
+   "start": 14.692,
+   "end": 14.812
+  },
+  {
+   "word": "pas",
+   "start": 14.832,
+   "end": 14.892
+  },
+  {
+   "word": "de",
+   "start": 14.919,
+   "end": 14.972
+  },
+  {
+   "word": "la",
+   "start": 14.999,
+   "end": 15.052
+  },
+  {
+   "word": "merde",
+   "start": 15.092,
+   "end": 15.372
+  },
+  {
+   "word": "monohydrate",
+   "start": 15.412,
+   "end": 16.332
+  },
+  {
+   "word": "ultra",
+   "start": 16.399,
+   "end": 16.732
+  },
+  {
+   "word": "micronisée",
+   "start": 16.789,
+   "end": 17.372
+  },
+  {
+   "word": "deux",
+   "start": 17.404,
+   "end": 17.532
+  },
+  {
+   "word": "cents",
+   "start": 17.572,
+   "end": 17.772
+  },
+  {
+   "word": "mesh",
+   "start": 17.836,
+   "end": 18.572
+  },
+  {
+   "word": "une",
+   "start": 18.612,
+   "end": 18.732
+  },
+  {
+   "word": "poudre",
+   "start": 18.772,
+   "end": 19.052
+  },
+  {
+   "word": "ultra",
+   "start": 19.132,
+   "end": 19.532
+  },
+  {
+   "word": "fine",
+   "start": 19.596,
+   "end": 19.852
+  },
+  {
+   "word": "qui",
+   "start": 19.912,
+   "end": 20.092
+  },
+  {
+   "word": "se",
+   "start": 20.145,
+   "end": 20.252
+  },
+  {
+   "word": "mélange",
+   "start": 20.292,
+   "end": 20.732
+  },
+  {
+   "word": "direct",
+   "start": 20.789,
+   "end": 21.612
+  },
+  {
+   "word": "cent",
+   "start": 21.66,
+   "end": 21.852
+  },
+  {
+   "word": "doses",
+   "start": 21.919,
+   "end": 22.252
+  },
+  {
+   "word": "de",
+   "start": 22.279,
+   "end": 22.332
+  },
+  {
+   "word": "trois",
+   "start": 22.372,
+   "end": 22.572
+  },
+  {
+   "word": "grammes",
+   "start": 22.625,
+   "end": 23.052
+  },
+  {
+   "word": "Trois",
+   "start": 23.752,
+   "end": 23.852
+  },
+  {
+   "word": "grammes",
+   "start": 23.892,
+   "end": 24.212
+  },
+  {
+   "word": "par",
+   "start": 24.242,
+   "end": 24.332
+  },
+  {
+   "word": "jour",
+   "start": 24.396,
+   "end": 24.652
+  },
+  {
+   "word": "augmentent",
+   "start": 24.702,
+   "end": 25.132
+  },
+  {
+   "word": "la",
+   "start": 25.159,
+   "end": 25.212
+  },
+  {
+   "word": "performance",
+   "start": 25.259,
+   "end": 25.772
+  },
+  {
+   "word": "physique",
+   "start": 25.816,
+   "end": 26.172
+  },
+  {
+   "word": "lors",
+   "start": 26.268,
+   "end": 26.652
+  },
+  {
+   "word": "d'exercices",
+   "start": 26.692,
+   "end": 27.292
+  },
+  {
+   "word": "courts",
+   "start": 27.349,
+   "end": 27.852
+  },
+  {
+   "word": "intenses",
+   "start": 27.912,
+   "end": 28.332
+  },
+  {
+   "word": "et",
+   "start": 28.385,
+   "end": 28.492
+  },
+  {
+   "word": "répétés",
+   "start": 28.545,
+   "end": 29.612
+  },
+  {
+   "word": "ta",
+   "start": 29.757,
+   "end": 29.772
+  },
+  {
+   "word": "dernière",
+   "start": 29.816,
+   "end": 30.172
+  },
+  {
+   "word": "série",
+   "start": 30.239,
+   "end": 30.572
+  },
+  {
+   "word": "te",
+   "start": 30.625,
+   "end": 30.732
+  },
+  {
+   "word": "dira",
+   "start": 30.772,
+   "end": 30.972
+  },
+  {
+   "word": "merci",
+   "start": 31.02,
+   "end": 31.452
+  },
+  {
+   "word": "Le",
+   "start": 32.239,
+   "end": 32.252
+  },
+  {
+   "word": "reste",
+   "start": 32.279,
+   "end": 32.412
+  },
+  {
+   "word": "de",
+   "start": 32.465,
+   "end": 32.572
+  },
+  {
+   "word": "ton",
+   "start": 32.592,
+   "end": 32.652
+  },
+  {
+   "word": "fric",
+   "start": 32.705,
+   "end": 33.052
+  },
+  {
+   "word": "garde-le",
+   "start": 33.192,
+   "end": 33.852
+  },
+  {
+   "word": "pour",
+   "start": 33.884,
+   "end": 34.012
+  },
+  {
+   "word": "ton",
+   "start": 34.072,
+   "end": 34.252
+  },
+  {
+   "word": "poulet-riz",
+   "start": 34.292,
+   "end": 35.292
+  },
+  {
+   "word": "panier",
+   "start": 35.428,
+   "end": 35.612
+  },
+  {
+   "word": "orange",
+   "start": 35.669,
+   "end": 36.412
+  },
+  {
+   "word": "FONCE",
+   "start": 36.492,
+   "end": 36.892
+  }
+ ],
+ "durationSec": 37.068,
+ "model": "eleven_v3"
+}

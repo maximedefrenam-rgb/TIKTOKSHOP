@@ -4,5 +4,6 @@ import {config as demo} from './demo-modele/config';
 import {config as creatineCitron} from './creatine-ostrovit-citron/config';
 import {config as zapCerise} from './zap-cerise-noire-duo/config';
 import {config as vitaveaAutobronzant} from './vitavea-autobronzant/config';
+import {config as creatineBraquage} from './creatine-ostrovit-braquage/config';
 
-export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant];
+export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage];

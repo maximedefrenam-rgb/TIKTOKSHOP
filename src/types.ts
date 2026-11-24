@@ -56,7 +56,7 @@ export type Scene =
       kind: 'compare';
       title?: string;
       at: number;
-      rows: {label: string; value: number; display: string; highlight?: boolean}[];
+      rows: {label: string; value: number; display: string; highlight?: boolean; /** apparition calée sur la voix */ at?: number}[];
     })
   | (SceneBase & {kind: 'benefit'})
   | (SceneBase & {kind: 'cta'; text?: string; arrowAt?: number})

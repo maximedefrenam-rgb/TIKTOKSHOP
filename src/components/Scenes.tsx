@@ -102,6 +102,12 @@ const Particles: React.FC<{frame: number; start: number; cx: number; cy: number;
   );
 };
 
+/** Taille du libellé pour que « libellé + sous-texte » tienne sur une ligne dans la zone sûre. */
+const labelSize = (it: {label: string; sub?: string}) => {
+  const subW = it.sub ? it.sub.length * 22 + 22 : 0;
+  return Math.min(104, (SAFE_W - 20 - subW) / (it.label.length * 0.5));
+};
+
 export const CutawayScene: React.FC<P<'cutaway'>> = ({scene, cfg, offset}) => {
   const f = useAbs(offset);
   const oA = s2f(scene.openAt);
@@ -124,8 +130,9 @@ export const CutawayScene: React.FC<P<'cutaway'>> = ({scene, cfg, offset}) => {
         return (
           <div key={i} style={{position: 'absolute', left: SAFE_CX, top: y, width: SAFE_W, transform: `translate(-50%, -50%) scale(${0.3 + 0.7 * p})`,
             display: 'flex', alignItems: 'baseline', justifyContent: 'center', gap: 22, opacity: Math.min(1, p * 2)}}>
-            <span style={{fontFamily: BRAND.fonts.title, fontSize: 104, color: cfg.accent, textShadow: `0 0 30px ${cfg.accent}55`}}>{it.label}</span>
-            {it.sub && <span style={{fontFamily: BRAND.fonts.body, fontWeight: 700, fontSize: 44, color: BRAND.colors.text}}>{it.sub}</span>}
+            <span style={{fontFamily: BRAND.fonts.title, fontSize: labelSize(it), color: cfg.accent, whiteSpace: 'nowrap',
+              WebkitTextStroke: '6px #0B0B0F', paintOrder: 'stroke fill', textShadow: `0 6px 24px rgba(0,0,0,0.8), 0 0 30px ${cfg.accent}55`}}>{it.label}</span>
+            {it.sub && <span style={{fontFamily: BRAND.fonts.body, fontWeight: 700, fontSize: 40, color: BRAND.colors.text, whiteSpace: 'nowrap', textShadow: '0 0 6px #000, 0 2px 10px #000'}}>{it.sub}</span>}
           </div>
         );
       })}
@@ -144,7 +151,7 @@ export const CompareScene: React.FC<P<'compare'>> = ({scene, cfg, offset}) => {
     <AbsoluteFill>
       {scene.title && <BigText text={scene.title} size={100} color={BRAND.colors.text} y={290} progress={sp(f, s2f(scene.from) + 2)} />}
       {scene.rows.map((r, i) => {
-        const st = a + i * 8;
+        const st = r.at !== undefined ? s2f(r.at) : a + i * 8;
         const p = f >= st ? sp(f, st) : 0;
         const col = r.highlight ? cfg.accent : BRAND.colors.muted;
         const top = 450 + i * 185;
