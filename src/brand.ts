@@ -31,8 +31,8 @@ export const BRAND = {
  * puis toujours réutilisé (les scripts Node lisent cette valeur par regex).
  */
 export const VOICE = {
-  voiceId: '',
-  voiceName: '',
+  voiceId: 'mvhJVdVoTWVUtL4keT7W',
+  voiceName: 'Simon - Cheerful, Energetic and Rapid',
   model: 'eleven_v3',
   fallbackModel: 'eleven_multilingual_v2',
   fallbackSettings: {stability: 0.3, similarity_boost: 0.75, style: 0.5, speed: 1.05},

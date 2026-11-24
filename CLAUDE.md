@@ -19,7 +19,7 @@ Animateur de téléachat cartoon, présent dans chaque vidéo. Composant : `src/
   `faint` (s'évanouit, cœurs), `slam` (frappe le sol, secousse + boom), `point` (montre le produit),
   `present` (présente), `hop` (petit saut). Bruitages automatiques. La bouche bouge sur les mots de la voix.
 - Placé en bas à gauche ; le produit est alors décalé à droite. `hiddenInScenes` pour le cacher sur une scène.
-- La voix ElevenLabs doit coller au personnage : animateur masculin, énergique, style pub / téléachat.
+- Voix : Simon (jeune, hyper énergique), voir section ElevenLabs.
 
 ## Déroulé pour chaque nouvelle vidéo
 Dossier fourni : `produits/<nom>/` avec photo(s) packshot, `infos.md` (nom exact, prix, poids, doses, goûts, commission,
@@ -57,8 +57,8 @@ Seules les allégations santé autorisées par l'UE :
 - Dans l'environnement cloud, Node doit passer par le proxy : utiliser les commandes `npm run` (elles ajoutent `NODE_USE_ENV_PROXY=1`).
 - Modèle par défaut `eleven_v3` avec balises d'émotion : `[excited]`, `[enthusiastic]`, `[laughs]`, `[serious]`.
 - Secours `eleven_multilingual_v2` (stability 0.30, similarity 0.75, style 0.50, speed 1.05) : `--fallback`, balises retirées.
-- Choix de la voix (une seule fois) : 4 voix françaises énergiques → `voix-tests/`, choix de l'utilisateur,
-  puis `voiceId` enregistré dans `src/brand.ts` et toujours réutilisé.
+- Voix du compte : **Simon** (« Cheerful, Energetic and Rapid », jeune, parisien, hyper énergique),
+  `voiceId` `mvhJVdVoTWVUtL4keT7W`, enregistré dans `src/brand.ts`. Toujours réutiliser cette voix.
 - Nombres en lettres, MAJUSCULES sur les mots à appuyer, « ... » pour les pauses.
 - Économiser les crédits : pas de régénération sans raison. Budget outils total ~50 €/mois.
 
