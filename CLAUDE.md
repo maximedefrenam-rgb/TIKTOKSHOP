@@ -39,12 +39,18 @@ livraison, mentions de l'emballage), parfois `script.md` validé.
 
 ## Règles d'écriture des scripts
 - 25 à 35 s, soit ~75 à 95 mots (jusqu'à 40 s accepté par l'utilisateur pour la créatine n°1).
-- Si une prise est trop longue : `python3 scripts/tighten.py --video <nom> --take <n>` raccourcit les silences
+- Toujours passer les prises dans `python3 scripts/tighten.py --video <nom> --take <n>` (débit rapide par défaut :
+  silences max 0,15 s, tempo ×1,18). Il raccourcit les silences
   (rires et souffles conservés) et accélère légèrement, sans régénérer (0 crédit). Originaux gardés en `*-brut.*`.
 - 5 temps : accroche (0–2 s) → problème ou prix (2–8 s) → explication animée (8–20 s) → bénéfice autorisé (20–28 s)
   → appel à l'action vers le panier orange (28 s–fin).
 - Accroche choc dans les 2 premières secondes : chiffre fort ou idée reçue à casser.
 - Phrases courtes, langage parlé, tutoiement.
+- **Retour utilisateur après la vidéo n°1** : parler PLUS VITE et PLUS DIRECT. Le bénéfice doit être compris tout de suite,
+  sans détour. Oser des punchlines trash qui interpellent le spectateur, du style « arrête d'avoir un putain de … »
+  (gros mots assumés, c'est ce qui marche sur TikTok). Peu de « ... » (ils créent de longs silences).
+  Garde-fou : une punchline ne doit jamais suggérer un effet non autorisé (ex. pour la créatine, pas de promesse
+  de prise de muscle ou de perte de gras ; pour les protéines, « masse musculaire » est autorisé).
 
 ## Allégations (règles UE compléments alimentaires)
 Seules les allégations santé autorisées par l'UE :

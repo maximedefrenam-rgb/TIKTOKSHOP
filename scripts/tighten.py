@@ -1,7 +1,7 @@
 """Resserre une prise de voix sans la régénérer (0 crédit) :
 raccourcit les silences trop longs puis accélère légèrement (hauteur conservée), en recalculant les timings.
 
-  python3 scripts/tighten.py --video <nom> --take 1 [--max-gap 0.22] [--tempo 1.12]
+  python3 scripts/tighten.py --video <nom> --take 1 [--max-gap 0.15] [--tempo 1.18]
   → remplace voix-prise<n>.mp3 / timings-prise<n>.json (originaux gardés en *-brut.*)
 """
 import argparse
@@ -19,8 +19,8 @@ ROOT = Path(__file__).resolve().parent.parent
 ap = argparse.ArgumentParser()
 ap.add_argument("--video", required=True)
 ap.add_argument("--take", default="1")
-ap.add_argument("--max-gap", type=float, default=0.22)
-ap.add_argument("--tempo", type=float, default=1.12)
+ap.add_argument("--max-gap", type=float, default=0.15)
+ap.add_argument("--tempo", type=float, default=1.18)
 a = ap.parse_args()
 
 d = ROOT / "public" / "videos" / a.video
