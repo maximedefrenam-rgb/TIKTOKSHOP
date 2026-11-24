@@ -61,6 +61,18 @@ export type Scene =
   | (SceneBase & {kind: 'benefit'})
   | (SceneBase & {kind: 'cta'; text?: string; arrowAt?: number});
 
+/** Réactions du présentateur. */
+export type CharacterAction = 'point' | 'present' | 'shock' | 'fall' | 'faint' | 'slam' | 'hop';
+export type CharacterCue = {action: CharacterAction; at: number; duration?: number};
+
+export type CharacterConfig = {
+  cues: CharacterCue[];
+  /** couleur de la veste (défaut magenta #FF2E88) */
+  jacket?: string;
+  /** scènes (index) où il est caché pour laisser toute la place au produit */
+  hiddenInScenes?: number[];
+};
+
 export type VideoConfig = {
   /** identifiant = nom du dossier videos/<nom> (lettres, chiffres, tirets) */
   id: string;
@@ -76,4 +88,6 @@ export type VideoConfig = {
   /** effets ajoutés à la main (en plus des effets automatiques) */
   sfx?: SfxCue[];
   autoSfx?: boolean;
+  /** le présentateur (absent = vidéo sans personnage) */
+  character?: CharacterConfig;
 };

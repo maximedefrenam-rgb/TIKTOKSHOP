@@ -18,6 +18,17 @@ export const config: VideoConfig = {
   voice: 'videos/demo-modele/voice.mp3',
   music: 'videos/demo-modele/music.wav',
   timings,
+  character: {
+    cues: [
+      {action: 'shock', at: at(w, 'grossir')},
+      {action: 'slam', at: at(w, 'Faux')},
+      {action: 'fall', at: at(w, 'centimes')},
+      {action: 'point', at: at(w, 'Dedans')},
+      {action: 'faint', at: at(w, 'performance')},
+      {action: 'present', at: at(w, 'panier')},
+      {action: 'hop', at: at(w, 'fonce')},
+    ],
+  },
   scenes: [
     {kind: 'hook', from: 0, to: at(w, 'Faux'),
       keywords: [{text: 'LA CRÉATINE', at: at(w, 'La')}, {text: 'ÇA FAIT GROSSIR ?', at: at(w, 'grossir'), color: 'accent'}]},

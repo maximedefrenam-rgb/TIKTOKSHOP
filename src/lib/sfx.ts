@@ -39,6 +39,14 @@ export const buildSfx = (cfg: VideoConfig): SfxCue[] => {
       }
     });
   }
+  if (cfg.autoSfx !== false) {
+    for (const c of cfg.character?.cues ?? []) {
+      if (c.action === 'slam') cues.push({name: 'impact', at: c.at + 0.13, volume: 0.55});
+      if (c.action === 'fall') { cues.push({name: 'whoosh', at: c.at, volume: 0.35}); cues.push({name: 'impact', at: c.at + 0.3, volume: 0.45}); }
+      if (c.action === 'shock') cues.push({name: 'pop', at: c.at, volume: 0.45});
+      if (c.action === 'faint') cues.push({name: 'ding', at: c.at + 0.2, volume: 0.3});
+    }
+  }
   cues.push(...(cfg.sfx ?? []));
   const sorted = cues
     .filter((c) => c.at >= 0 && c.at < cfg.timings.durationSec + BRAND.video.tailSec)

@@ -4,6 +4,7 @@ import {BRAND} from '../brand';
 import {Background, Grain} from '../components/Background';
 import {CameraShake, SceneWrap, type TransitionKind} from '../components/Camera';
 import {AudioLayer} from '../components/AudioLayer';
+import {Character} from '../components/Character';
 import {
   HookScene, PriceScene, MythScene, CutawayScene, CompareScene, BenefitScene, CtaScene,
 } from '../components/Scenes';
@@ -52,6 +53,7 @@ export const ShopVideo: React.FC<{config: VideoConfig}> = ({config: cfg}) => {
             </Sequence>
           );
         })}
+        {cfg.character && <Host cfg={cfg} />}
       </CameraShake>
       <Grain />
       <AudioLayer cfg={cfg} durationInFrames={durationInFrames} />
@@ -64,6 +66,27 @@ const SceneFrame: React.FC<{start: number; dur: number; T: number; enter: Transi
 }) => {
   const frame = useCurrentFrame();
   return <SceneWrap frame={frame} duration={dur} T={T} enter={enter} exit={exit}>{children}</SceneWrap>;
+};
+
+/** Le présentateur reste à l'écran d'une scène à l'autre (en bas à gauche) et s'éclipse si demandé. */
+const Host: React.FC<{cfg: VideoConfig}> = ({cfg}) => {
+  const frame = useCurrentFrame();
+  const ch = cfg.character!;
+  const hidden = ch.hiddenInScenes ?? [];
+  // visibilité lissée : sortie / entrée par la gauche
+  let vis = 1;
+  cfg.scenes.forEach((s, i) => {
+    const f0 = s2f(s.from), f1 = s2f(s.to);
+    if (hidden.includes(i) && frame >= f0 - 4 && frame <= f1 + 4) {
+      vis = Math.min(vis, Math.max(Math.min(1, (f0 + 4 - frame) / 8), Math.min(1, (frame - f1 + 4) / 8)));
+    }
+  });
+  if (vis <= 0.01) return null;
+  return (
+    <div style={{position: 'absolute', inset: 0, transform: `translateX(${(1 - vis) * -520}px)`}}>
+      <Character cues={ch.cues} words={cfg.timings.words} x={215} y={1905} scale={0.68} jacket={ch.jacket} enterAt={2} />
+    </div>
+  );
 };
 
 export const durationFrames = (cfg: VideoConfig) =>
