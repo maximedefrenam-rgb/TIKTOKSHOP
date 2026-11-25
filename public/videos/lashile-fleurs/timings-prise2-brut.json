@@ -1,0 +1,456 @@
+{
+ "words": [
+  {
+   "word": "Arrête",
+   "start": 0.275,
+   "end": 0.48
+  },
+  {
+   "word": "d'acheter",
+   "start": 0.52,
+   "end": 0.8
+  },
+  {
+   "word": "des",
+   "start": 0.82,
+   "end": 0.88
+  },
+  {
+   "word": "fleurs",
+   "start": 0.94,
+   "end": 1.2
+  },
+  {
+   "word": "à",
+   "start": 1.24,
+   "end": 1.28
+  },
+  {
+   "word": "ta",
+   "start": 1.333,
+   "end": 1.44
+  },
+  {
+   "word": "meuf",
+   "start": 1.467,
+   "end": 1.84
+  },
+  {
+   "word": "elles",
+   "start": 1.867,
+   "end": 2
+  },
+  {
+   "word": "crèvent",
+   "start": 2.08,
+   "end": 2.32
+  },
+  {
+   "word": "en",
+   "start": 2.347,
+   "end": 2.4
+  },
+  {
+   "word": "trois",
+   "start": 2.44,
+   "end": 2.64
+  },
+  {
+   "word": "jours",
+   "start": 2.693,
+   "end": 2.96
+  },
+  {
+   "word": "Offre-lui",
+   "start": 3.825,
+   "end": 4.16
+  },
+  {
+   "word": "Good",
+   "start": 4.208,
+   "end": 4.4
+  },
+  {
+   "word": "Hair",
+   "start": 4.464,
+   "end": 4.72
+  },
+  {
+   "word": "de",
+   "start": 4.747,
+   "end": 4.8
+  },
+  {
+   "word": "Lashilé",
+   "start": 4.84,
+   "end": 5.76
+  },
+  {
+   "word": "les",
+   "start": 5.8,
+   "end": 5.92
+  },
+  {
+   "word": "gummies",
+   "start": 6.02,
+   "end": 6.32
+  },
+  {
+   "word": "numéro",
+   "start": 6.366,
+   "end": 6.64
+  },
+  {
+   "word": "un",
+   "start": 6.667,
+   "end": 6.72
+  },
+  {
+   "word": "des",
+   "start": 6.76,
+   "end": 6.88
+  },
+  {
+   "word": "ventes",
+   "start": 6.912,
+   "end": 7.12
+  },
+  {
+   "word": "en",
+   "start": 7.147,
+   "end": 7.2
+  },
+  {
+   "word": "France",
+   "start": 7.246,
+   "end": 7.52
+  },
+  {
+   "word": "pour",
+   "start": 7.552,
+   "end": 7.68
+  },
+  {
+   "word": "des",
+   "start": 7.74,
+   "end": 7.92
+  },
+  {
+   "word": "cheveux",
+   "start": 7.94,
+   "end": 8.48
+  },
+  {
+   "word": "SUBLIMES",
+   "start": 8.56,
+   "end": 9.36
+  },
+  {
+   "word": "biotine",
+   "start": 9.751,
+   "end": 10.24
+  },
+  {
+   "word": "zinc",
+   "start": 10.384,
+   "end": 11.04
+  },
+  {
+   "word": "vitamine",
+   "start": 11.16,
+   "end": 11.76
+  },
+  {
+   "word": "B6",
+   "start": 11.88,
+   "end": 12.32
+  },
+  {
+   "word": "et",
+   "start": 12.373,
+   "end": 12.48
+  },
+  {
+   "word": "prêle",
+   "start": 12.56,
+   "end": 12.96
+  },
+  {
+   "word": "pour",
+   "start": 13.04,
+   "end": 13.36
+  },
+  {
+   "word": "la",
+   "start": 13.413,
+   "end": 13.52
+  },
+  {
+   "word": "pousse",
+   "start": 13.6,
+   "end": 13.92
+  },
+  {
+   "word": "et",
+   "start": 13.973,
+   "end": 14.08
+  },
+  {
+   "word": "la",
+   "start": 14.107,
+   "end": 14.16
+  },
+  {
+   "word": "fortification",
+   "start": 14.224,
+   "end": 14.96
+  },
+  {
+   "word": "des",
+   "start": 15,
+   "end": 15.12
+  },
+  {
+   "word": "cheveux",
+   "start": 15.16,
+   "end": 15.92
+  },
+  {
+   "word": "et",
+   "start": 16.107,
+   "end": 16.128
+  },
+  {
+   "word": "dans",
+   "start": 16.134,
+   "end": 16.16
+  },
+  {
+   "word": "leur",
+   "start": 16.192,
+   "end": 16.32
+  },
+  {
+   "word": "étude",
+   "start": 16.373,
+   "end": 16.56
+  },
+  {
+   "word": "clinique",
+   "start": 16.608,
+   "end": 17.04
+  },
+  {
+   "word": "plus",
+   "start": 17.152,
+   "end": 17.6
+  },
+  {
+   "word": "vingt",
+   "start": 17.72,
+   "end": 17.92
+  },
+  {
+   "word": "pour",
+   "start": 17.968,
+   "end": 18.16
+  },
+  {
+   "word": "cent",
+   "start": 18.192,
+   "end": 18.32
+  },
+  {
+   "word": "de",
+   "start": 18.373,
+   "end": 18.48
+  },
+  {
+   "word": "volume",
+   "start": 18.526,
+   "end": 18.8
+  },
+  {
+   "word": "chez",
+   "start": 18.864,
+   "end": 19.12
+  },
+  {
+   "word": "plus",
+   "start": 19.152,
+   "end": 19.28
+  },
+  {
+   "word": "de",
+   "start": 19.307,
+   "end": 19.36
+  },
+  {
+   "word": "la",
+   "start": 19.413,
+   "end": 19.52
+  },
+  {
+   "word": "moitié",
+   "start": 19.573,
+   "end": 20
+  },
+  {
+   "word": "des",
+   "start": 20.04,
+   "end": 20.16
+  },
+  {
+   "word": "utilisatrices",
+   "start": 20.217,
+   "end": 21.52
+  },
+  {
+   "word": "et",
+   "start": 21.573,
+   "end": 21.68
+  },
+  {
+   "word": "moins",
+   "start": 21.72,
+   "end": 21.92
+  },
+  {
+   "word": "trente-sept",
+   "start": 21.98,
+   "end": 22.48
+  },
+  {
+   "word": "pour",
+   "start": 22.528,
+   "end": 22.72
+  },
+  {
+   "word": "cent",
+   "start": 22.752,
+   "end": 22.88
+  },
+  {
+   "word": "de",
+   "start": 22.907,
+   "end": 22.96
+  },
+  {
+   "word": "fourches",
+   "start": 23.024,
+   "end": 23.44
+  },
+  {
+   "word": "Des",
+   "start": 24.275,
+   "end": 24.335
+  },
+  {
+   "word": "bonbons",
+   "start": 24.395,
+   "end": 24.735
+  },
+  {
+   "word": "véganes",
+   "start": 24.775,
+   "end": 25.135
+  },
+  {
+   "word": "trop",
+   "start": 25.199,
+   "end": 25.455
+  },
+  {
+   "word": "bons",
+   "start": 25.503,
+   "end": 26.015
+  },
+  {
+   "word": "elle",
+   "start": 26.047,
+   "end": 26.175
+  },
+  {
+   "word": "va",
+   "start": 26.202,
+   "end": 26.255
+  },
+  {
+   "word": "te",
+   "start": 26.335,
+   "end": 26.495
+  },
+  {
+   "word": "kiffer",
+   "start": 26.535,
+   "end": 26.895
+  },
+  {
+   "word": "jusqu'en",
+   "start": 26.948,
+   "end": 27.295
+  },
+  {
+   "word": "février",
+   "start": 27.348,
+   "end": 28.335
+  },
+  {
+   "word": "Noël",
+   "start": 28.548,
+   "end": 28.655
+  },
+  {
+   "word": "c'est",
+   "start": 28.695,
+   "end": 28.815
+  },
+  {
+   "word": "dans",
+   "start": 28.847,
+   "end": 28.975
+  },
+  {
+   "word": "un",
+   "start": 29.028,
+   "end": 29.135
+  },
+  {
+   "word": "mois",
+   "start": 29.199,
+   "end": 29.855
+  },
+  {
+   "word": "vingt-quatre",
+   "start": 29.895,
+   "end": 30.255
+  },
+  {
+   "word": "euros",
+   "start": 30.308,
+   "end": 30.575
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 30.598,
+   "end": 31.415
+  },
+  {
+   "word": "panier",
+   "start": 31.505,
+   "end": 31.855
+  },
+  {
+   "word": "orange",
+   "start": 31.912,
+   "end": 32.575
+  },
+  {
+   "word": "FONCE",
+   "start": 32.695,
+   "end": 33.135
+  }
+ ],
+ "durationSec": 33.411,
+ "model": "eleven_v3"
+}

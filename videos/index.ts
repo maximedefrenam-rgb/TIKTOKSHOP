@@ -10,5 +10,7 @@ import {config as vitaveaPromo} from './vitavea-promo/config';
 import {config as novomaDonne} from './novoma-donne/config';
 import {config as novomaSquat} from './novoma-squat/config';
 import {config as zapCreve} from './zap-creve/config';
+import {config as lashileFleurs} from './lashile-fleurs/config';
+import {config as lashileBaddies} from './lashile-baddies/config';
 
-export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve];
+export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies];

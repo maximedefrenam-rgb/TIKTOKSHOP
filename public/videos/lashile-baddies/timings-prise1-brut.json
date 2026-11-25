@@ -1,0 +1,446 @@
+{
+ "words": [
+  {
+   "word": "Hello",
+   "start": 0.333,
+   "end": 0.4
+  },
+  {
+   "word": "mes",
+   "start": 0.44,
+   "end": 0.56
+  },
+  {
+   "word": "baddies",
+   "start": 0.6,
+   "end": 1.2
+  },
+  {
+   "word": "regardez",
+   "start": 1.28,
+   "end": 1.76
+  },
+  {
+   "word": "ce",
+   "start": 1.773,
+   "end": 1.8
+  },
+  {
+   "word": "que",
+   "start": 1.81,
+   "end": 1.84
+  },
+  {
+   "word": "j'ai",
+   "start": 1.88,
+   "end": 2
+  },
+  {
+   "word": "trouvé",
+   "start": 2.046,
+   "end": 2.32
+  },
+  {
+   "word": "pour",
+   "start": 2.336,
+   "end": 2.4
+  },
+  {
+   "word": "vous",
+   "start": 2.448,
+   "end": 2.64
+  },
+  {
+   "word": "Good",
+   "start": 3.652,
+   "end": 3.684
+  },
+  {
+   "word": "Hair",
+   "start": 3.748,
+   "end": 4.004
+  },
+  {
+   "word": "de",
+   "start": 4.031,
+   "end": 4.084
+  },
+  {
+   "word": "Lashilé",
+   "start": 4.164,
+   "end": 5.044
+  },
+  {
+   "word": "les",
+   "start": 5.084,
+   "end": 5.204
+  },
+  {
+   "word": "gummies",
+   "start": 5.244,
+   "end": 5.604
+  },
+  {
+   "word": "cheveux",
+   "start": 5.664,
+   "end": 6.004
+  },
+  {
+   "word": "numéro",
+   "start": 6.05,
+   "end": 6.324
+  },
+  {
+   "word": "un",
+   "start": 6.404,
+   "end": 6.564
+  },
+  {
+   "word": "des",
+   "start": 6.624,
+   "end": 6.804
+  },
+  {
+   "word": "ventes",
+   "start": 6.836,
+   "end": 7.044
+  },
+  {
+   "word": "en",
+   "start": 7.071,
+   "end": 7.124
+  },
+  {
+   "word": "France",
+   "start": 7.17,
+   "end": 7.764
+  },
+  {
+   "word": "plus",
+   "start": 7.812,
+   "end": 8.004
+  },
+  {
+   "word": "de",
+   "start": 8.084,
+   "end": 8.244
+  },
+  {
+   "word": "deux",
+   "start": 8.26,
+   "end": 8.324
+  },
+  {
+   "word": "mille",
+   "start": 8.404,
+   "end": 8.564
+  },
+  {
+   "word": "six",
+   "start": 8.624,
+   "end": 8.804
+  },
+  {
+   "word": "cents",
+   "start": 8.831,
+   "end": 8.964
+  },
+  {
+   "word": "vendus",
+   "start": 9.012,
+   "end": 9.444
+  },
+  {
+   "word": "et",
+   "start": 10.071,
+   "end": 10.084
+  },
+  {
+   "word": "dans",
+   "start": 10.1,
+   "end": 10.164
+  },
+  {
+   "word": "leur",
+   "start": 10.196,
+   "end": 10.324
+  },
+  {
+   "word": "étude",
+   "start": 10.377,
+   "end": 10.644
+  },
+  {
+   "word": "clinique",
+   "start": 10.692,
+   "end": 11.364
+  },
+  {
+   "word": "quatre-vingt-dix-sept",
+   "start": 11.41,
+   "end": 12.284
+  },
+  {
+   "word": "pour",
+   "start": 12.308,
+   "end": 12.404
+  },
+  {
+   "word": "cent",
+   "start": 12.452,
+   "end": 12.644
+  },
+  {
+   "word": "des",
+   "start": 12.684,
+   "end": 12.804
+  },
+  {
+   "word": "utilisatrices",
+   "start": 12.861,
+   "end": 13.604
+  },
+  {
+   "word": "voient",
+   "start": 13.684,
+   "end": 13.924
+  },
+  {
+   "word": "leurs",
+   "start": 13.951,
+   "end": 14.084
+  },
+  {
+   "word": "cheveux",
+   "start": 14.124,
+   "end": 14.404
+  },
+  {
+   "word": "plus",
+   "start": 14.436,
+   "end": 14.564
+  },
+  {
+   "word": "longs",
+   "start": 14.596,
+   "end": 15.124
+  },
+  {
+   "word": "et",
+   "start": 15.151,
+   "end": 15.204
+  },
+  {
+   "word": "moins",
+   "start": 15.244,
+   "end": 15.444
+  },
+  {
+   "word": "trente-sept",
+   "start": 15.484,
+   "end": 15.924
+  },
+  {
+   "word": "pour",
+   "start": 15.956,
+   "end": 16.084
+  },
+  {
+   "word": "cent",
+   "start": 16.116,
+   "end": 16.244
+  },
+  {
+   "word": "de",
+   "start": 16.297,
+   "end": 16.404
+  },
+  {
+   "word": "fourches",
+   "start": 16.452,
+   "end": 16.804
+  },
+  {
+   "word": "Biotine",
+   "start": 18.068,
+   "end": 18.804
+  },
+  {
+   "word": "zinc",
+   "start": 18.884,
+   "end": 19.484
+  },
+  {
+   "word": "vitamine",
+   "start": 19.554,
+   "end": 20.004
+  },
+  {
+   "word": "B6",
+   "start": 20.124,
+   "end": 20.484
+  },
+  {
+   "word": "et",
+   "start": 20.564,
+   "end": 20.724
+  },
+  {
+   "word": "prêle",
+   "start": 20.804,
+   "end": 21.204
+  },
+  {
+   "word": "pour",
+   "start": 21.3,
+   "end": 21.684
+  },
+  {
+   "word": "la",
+   "start": 21.737,
+   "end": 21.844
+  },
+  {
+   "word": "pousse",
+   "start": 21.924,
+   "end": 22.164
+  },
+  {
+   "word": "et",
+   "start": 22.191,
+   "end": 22.244
+  },
+  {
+   "word": "la",
+   "start": 22.271,
+   "end": 22.324
+  },
+  {
+   "word": "fortification",
+   "start": 22.372,
+   "end": 23.604
+  },
+  {
+   "word": "des",
+   "start": 23.644,
+   "end": 23.764
+  },
+  {
+   "word": "cheveux",
+   "start": 23.824,
+   "end": 24.244
+  },
+  {
+   "word": "SUBLIMES",
+   "start": 24.364,
+   "end": 25.524
+  },
+  {
+   "word": "et",
+   "start": 25.596,
+   "end": 25.604
+  },
+  {
+   "word": "en",
+   "start": 25.657,
+   "end": 25.764
+  },
+  {
+   "word": "plus",
+   "start": 25.828,
+   "end": 26.084
+  },
+  {
+   "word": "c'est",
+   "start": 26.204,
+   "end": 26.404
+  },
+  {
+   "word": "des",
+   "start": 26.424,
+   "end": 26.484
+  },
+  {
+   "word": "bonbons",
+   "start": 26.544,
+   "end": 26.804
+  },
+  {
+   "word": "véganes",
+   "start": 26.884,
+   "end": 27.284
+  },
+  {
+   "word": "trop",
+   "start": 27.364,
+   "end": 27.684
+  },
+  {
+   "word": "bons",
+   "start": 27.732,
+   "end": 28.403
+  },
+  {
+   "word": "pour",
+   "start": 28.445,
+   "end": 28.573
+  },
+  {
+   "word": "Noël",
+   "start": 28.653,
+   "end": 28.973
+  },
+  {
+   "word": "ou",
+   "start": 29.053,
+   "end": 29.213
+  },
+  {
+   "word": "juste",
+   "start": 29.28,
+   "end": 29.613
+  },
+  {
+   "word": "pour",
+   "start": 29.645,
+   "end": 29.773
+  },
+  {
+   "word": "toi",
+   "start": 29.833,
+   "end": 30.493
+  },
+  {
+   "word": "vingt-quatre",
+   "start": 30.573,
+   "end": 30.973
+  },
+  {
+   "word": "euros",
+   "start": 31.026,
+   "end": 31.293
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 31.316,
+   "end": 32.133
+  },
+  {
+   "word": "panier",
+   "start": 32.203,
+   "end": 32.493
+  },
+  {
+   "word": "orange",
+   "start": 32.55,
+   "end": 32.973
+  },
+  {
+   "word": "cours",
+   "start": 33.066,
+   "end": 33.533
+  }
+ ],
+ "durationSec": 33.802,
+ "model": "eleven_v3"
+}

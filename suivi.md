@@ -11,3 +11,5 @@
 | 2026-11-25 | Novoma collagène marin 60 gélules | Prix choc + en coupe + promo + urgence | Wsh, 4,98 € ?! C'est donné | v1 (donné) ; v2 = « wesh » corrigé |  |  |  |
 | 2026-11-25 | Novoma collagène marin 60 gélules | Interpellation salle + promo + en coupe + urgence | Arrête de craquer comme un vieux parquet à chaque squat | v1 (squat) |  |  |  |
 | 2026-11-25 | ZAP sachets énergétiques cerise noire DUO | Interpellation + comparatif expresso + énergie + promo | Bordel, arrête d'être tout le temps crevé | v1 (crevé) |  |  |  |
+| 2026-11-25 | Lashilé Good Hair gummies 60 | Idée reçue (fleurs) + cadeau Noël + étude + en coupe | Arrête d'acheter des fleurs à ta meuf | v1 (fleurs) |  |  |  |
+| 2026-11-25 | Lashilé Good Hair gummies 60 | Cible féminine + n°1 ventes + étude + en coupe | Hello mes baddies, regardez ce que j'ai trouvé | v1 (baddies) |  |  |  |
