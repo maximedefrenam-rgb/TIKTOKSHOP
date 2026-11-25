@@ -16,5 +16,7 @@ import {config as medicubePointsNoirs} from './medicube-points-noirs/config';
 import {config as medicubePromo} from './medicube-promo/config';
 import {config as karacareCasquette} from './karacare-casquette/config';
 import {config as karacareFilles} from './karacare-filles/config';
+import {config as nucleverFace} from './nuclever-cortisol-face/config';
+import {config as nucleverSommeil} from './nuclever-sommeil/config';
 
-export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles];
+export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil];

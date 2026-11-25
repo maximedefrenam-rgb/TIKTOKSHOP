@@ -17,3 +17,5 @@
 | 2026-11-25 | medicube Toner Pads Mix & Match | Promo d'abord + avis + STOP points noirs + bénéfices | Wouah, c'est quoi cette promo de dingue ?! | v1 (promo) |  |  |  |
 | 2026-11-25 | Karacare Hair Boost 2 mois | Mecs (cheveux clairsemés) + preuve sociale + en coupe + 12 cm | Arrête de te planquer sous ta casquette | v1 (casquette) |  |  |  |
 | 2026-11-25 | Karacare Hair Boost 2 mois | Filles + preuve sociale + en coupe + 12 cm | Les filles, vos cheveux poussent pas d'un millimètre ?! | v1 (filles) |  |  |  |
+| 2026-11-25 | Nuclever Cortisol Manager 30 sachets | Tendance cortisol face + avis + en coupe + prix/jour | Marre de ta cortisol face, ta tête toute boursouflée ?! | v1 (cortisol face) |  |  |  |
+| 2026-11-25 | Nuclever Cortisol Manager 30 sachets | Sommeil + séance jambes + avis + allégations UE | Il est 3 h du mat', tu fixes le plafond ?! | v1 (sommeil) |  |  |  |

@@ -1,0 +1,456 @@
+{
+ "words": [
+  {
+   "word": "Marre",
+   "start": 0.178,
+   "end": 0.271
+  },
+  {
+   "word": "de",
+   "start": 0.294,
+   "end": 0.339
+  },
+  {
+   "word": "ta",
+   "start": 0.384,
+   "end": 0.475
+  },
+  {
+   "word": "cortisol",
+   "start": 0.519,
+   "end": 0.881
+  },
+  {
+   "word": "face",
+   "start": 0.949,
+   "end": 1.492
+  },
+  {
+   "word": "ta",
+   "start": 1.536,
+   "end": 1.627
+  },
+  {
+   "word": "tête",
+   "start": 1.681,
+   "end": 1.898
+  },
+  {
+   "word": "toute",
+   "start": 1.943,
+   "end": 2.169
+  },
+  {
+   "word": "boursouflée",
+   "start": 2.22,
+   "end": 2.644
+  },
+  {
+   "word": "au",
+   "start": 2.667,
+   "end": 2.712
+  },
+  {
+   "word": "réveil",
+   "start": 2.735,
+   "end": 2.983
+  },
+  {
+   "word": "Tu",
+   "start": 3.24,
+   "end": 3.255
+  },
+  {
+   "word": "veux",
+   "start": 3.278,
+   "end": 3.39
+  },
+  {
+   "word": "la",
+   "start": 3.413,
+   "end": 3.458
+  },
+  {
+   "word": "peau",
+   "start": 3.503,
+   "end": 3.662
+  },
+  {
+   "word": "d'un",
+   "start": 3.679,
+   "end": 3.729
+  },
+  {
+   "word": "influenceur",
+   "start": 3.784,
+   "end": 4.407
+  },
+  {
+   "word": "mais",
+   "start": 4.462,
+   "end": 4.679
+  },
+  {
+   "word": "tu",
+   "start": 4.701,
+   "end": 4.746
+  },
+  {
+   "word": "dors",
+   "start": 4.787,
+   "end": 4.95
+  },
+  {
+   "word": "quatre",
+   "start": 4.979,
+   "end": 5.153
+  },
+  {
+   "word": "heures",
+   "start": 5.182,
+   "end": 5.357
+  },
+  {
+   "word": "et",
+   "start": 5.379,
+   "end": 5.424
+  },
+  {
+   "word": "t'es",
+   "start": 5.458,
+   "end": 5.56
+  },
+  {
+   "word": "stressé",
+   "start": 5.608,
+   "end": 5.967
+  },
+  {
+   "word": "à",
+   "start": 6.035,
+   "end": 6.102
+  },
+  {
+   "word": "fond",
+   "start": 6.129,
+   "end": 6.238
+  },
+  {
+   "word": "Nuclever",
+   "start": 6.461,
+   "end": 6.817
+  },
+  {
+   "word": "Cortisol",
+   "start": 6.871,
+   "end": 7.359
+  },
+  {
+   "word": "Manager",
+   "start": 7.427,
+   "end": 7.969
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 8.088,
+   "end": 8.85
+  },
+  {
+   "word": "mille",
+   "start": 8.884,
+   "end": 8.986
+  },
+  {
+   "word": "vendus",
+   "start": 9.027,
+   "end": 9.664
+  },
+  {
+   "word": "deuxième",
+   "start": 9.705,
+   "end": 10.071
+  },
+  {
+   "word": "au",
+   "start": 10.094,
+   "end": 10.139
+  },
+  {
+   "word": "classement",
+   "start": 10.167,
+   "end": 10.478
+  },
+  {
+   "word": "des",
+   "start": 10.495,
+   "end": 10.545
+  },
+  {
+   "word": "ventes",
+   "start": 10.586,
+   "end": 10.816
+  },
+  {
+   "word": "Ashwagandha",
+   "start": 10.97,
+   "end": 11.394
+  },
+  {
+   "word": "pour",
+   "start": 11.407,
+   "end": 11.462
+  },
+  {
+   "word": "le",
+   "start": 11.484,
+   "end": 11.529
+  },
+  {
+   "word": "stress",
+   "start": 11.588,
+   "end": 12.275
+  },
+  {
+   "word": "L-théanine",
+   "start": 12.377,
+   "end": 12.885
+  },
+  {
+   "word": "pour",
+   "start": 12.912,
+   "end": 13.021
+  },
+  {
+   "word": "le",
+   "start": 13.044,
+   "end": 13.089
+  },
+  {
+   "word": "calme",
+   "start": 13.157,
+   "end": 13.495
+  },
+  {
+   "word": "magnésium",
+   "start": 13.604,
+   "end": 14.309
+  },
+  {
+   "word": "pour",
+   "start": 14.336,
+   "end": 14.445
+  },
+  {
+   "word": "le",
+   "start": 14.49,
+   "end": 14.58
+  },
+  {
+   "word": "sommeil",
+   "start": 14.614,
+   "end": 14.987
+  },
+  {
+   "word": "vitamine",
+   "start": 15.106,
+   "end": 15.665
+  },
+  {
+   "word": "D",
+   "start": 15.767,
+   "end": 15.868
+  },
+  {
+   "word": "pour",
+   "start": 15.895,
+   "end": 16.004
+  },
+  {
+   "word": "l'humeur",
+   "start": 16.038,
+   "end": 16.546
+  },
+  {
+   "word": "le",
+   "start": 16.637,
+   "end": 16.653
+  },
+  {
+   "word": "magnésium",
+   "start": 16.693,
+   "end": 17.127
+  },
+  {
+   "word": "contribue",
+   "start": 17.17,
+   "end": 17.534
+  },
+  {
+   "word": "à",
+   "start": 17.568,
+   "end": 17.602
+  },
+  {
+   "word": "réduire",
+   "start": 17.647,
+   "end": 17.873
+  },
+  {
+   "word": "la",
+   "start": 17.896,
+   "end": 17.941
+  },
+  {
+   "word": "fatigue",
+   "start": 17.983,
+   "end": 18.348
+  },
+  {
+   "word": "et",
+   "start": 18.483,
+   "end": 18.754
+  },
+  {
+   "word": "selon",
+   "start": 18.799,
+   "end": 19.026
+  },
+  {
+   "word": "la",
+   "start": 19.07,
+   "end": 19.161
+  },
+  {
+   "word": "marque",
+   "start": 19.2,
+   "end": 19.5
+  },
+  {
+   "word": "ta",
+   "start": 19.613,
+   "end": 19.839
+  },
+  {
+   "word": "peau",
+   "start": 19.884,
+   "end": 20.042
+  },
+  {
+   "word": "du",
+   "start": 20.065,
+   "end": 20.11
+  },
+  {
+   "word": "visage",
+   "start": 20.161,
+   "end": 20.517
+  },
+  {
+   "word": "te",
+   "start": 20.562,
+   "end": 20.653
+  },
+  {
+   "word": "dit",
+   "start": 20.67,
+   "end": 20.72
+  },
+  {
+   "word": "merci",
+   "start": 20.775,
+   "end": 21.059
+  },
+  {
+   "word": "Black",
+   "start": 21.3,
+   "end": 21.328
+  },
+  {
+   "word": "Friday",
+   "start": 21.377,
+   "end": 21.735
+  },
+  {
+   "word": "prix",
+   "start": 21.816,
+   "end": 22.142
+  },
+  {
+   "word": "le",
+   "start": 22.187,
+   "end": 22.277
+  },
+  {
+   "word": "plus",
+   "start": 22.304,
+   "end": 22.413
+  },
+  {
+   "word": "bas",
+   "start": 22.481,
+   "end": 22.684
+  },
+  {
+   "word": "de",
+   "start": 22.707,
+   "end": 22.752
+  },
+  {
+   "word": "l'année",
+   "start": 22.786,
+   "end": 23.362
+  },
+  {
+   "word": "soixante-dix",
+   "start": 23.43,
+   "end": 23.972
+  },
+  {
+   "word": "centimes",
+   "start": 24.013,
+   "end": 24.311
+  },
+  {
+   "word": "par",
+   "start": 24.345,
+   "end": 24.447
+  },
+  {
+   "word": "jour",
+   "start": 24.488,
+   "end": 24.921
+  },
+  {
+   "word": "livraison",
+   "start": 24.955,
+   "end": 25.26
+  },
+  {
+   "word": "gratuite",
+   "start": 25.305,
+   "end": 25.735
+  },
+  {
+   "word": "panier",
+   "start": 25.837,
+   "end": 26.21
+  },
+  {
+   "word": "orange",
+   "start": 26.258,
+   "end": 26.616
+  },
+  {
+   "word": "FONCE",
+   "start": 26.854,
+   "end": 27.362
+  }
+ ],
+ "durationSec": 27.559,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 5
+ }
+}

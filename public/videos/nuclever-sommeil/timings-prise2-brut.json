@@ -1,0 +1,411 @@
+{
+ "words": [
+  {
+   "word": "Il",
+   "start": 0.147,
+   "end": 0.16
+  },
+  {
+   "word": "est",
+   "start": 0.2,
+   "end": 0.32
+  },
+  {
+   "word": "trois",
+   "start": 0.347,
+   "end": 0.48
+  },
+  {
+   "word": "heures",
+   "start": 0.514,
+   "end": 0.72
+  },
+  {
+   "word": "du",
+   "start": 0.747,
+   "end": 0.8
+  },
+  {
+   "word": "mat'",
+   "start": 0.86,
+   "end": 1.28
+  },
+  {
+   "word": "tu",
+   "start": 1.333,
+   "end": 1.44
+  },
+  {
+   "word": "fixes",
+   "start": 1.493,
+   "end": 1.76
+  },
+  {
+   "word": "le",
+   "start": 1.787,
+   "end": 1.84
+  },
+  {
+   "word": "plafond",
+   "start": 1.867,
+   "end": 2.24
+  },
+  {
+   "word": "et",
+   "start": 2.293,
+   "end": 2.4
+  },
+  {
+   "word": "ton",
+   "start": 2.46,
+   "end": 2.64
+  },
+  {
+   "word": "cerveau",
+   "start": 2.7,
+   "end": 3
+  },
+  {
+   "word": "refait",
+   "start": 3.03,
+   "end": 3.36
+  },
+  {
+   "word": "toute",
+   "start": 3.387,
+   "end": 3.52
+  },
+  {
+   "word": "ta",
+   "start": 3.573,
+   "end": 3.68
+  },
+  {
+   "word": "journée",
+   "start": 3.72,
+   "end": 4
+  },
+  {
+   "word": "Et",
+   "start": 4.733,
+   "end": 4.76
+  },
+  {
+   "word": "demain",
+   "start": 4.77,
+   "end": 4.88
+  },
+  {
+   "word": "t'as",
+   "start": 4.92,
+   "end": 5.04
+  },
+  {
+   "word": "séance",
+   "start": 5.093,
+   "end": 5.36
+  },
+  {
+   "word": "jambes",
+   "start": 5.4,
+   "end": 5.92
+  },
+  {
+   "word": "bon",
+   "start": 5.98,
+   "end": 6.16
+  },
+  {
+   "word": "courage",
+   "start": 6.21,
+   "end": 6.56
+  },
+  {
+   "word": "Nuclever",
+   "start": 7.352,
+   "end": 7.84
+  },
+  {
+   "word": "Cortisol",
+   "start": 7.904,
+   "end": 8.4
+  },
+  {
+   "word": "Manager",
+   "start": 8.47,
+   "end": 9.04
+  },
+  {
+   "word": "quatre",
+   "start": 9.12,
+   "end": 9.6
+  },
+  {
+   "word": "virgule",
+   "start": 9.66,
+   "end": 9.92
+  },
+  {
+   "word": "cinq",
+   "start": 10,
+   "end": 10.16
+  },
+  {
+   "word": "étoiles",
+   "start": 10.24,
+   "end": 10.56
+  },
+  {
+   "word": "sur",
+   "start": 10.6,
+   "end": 10.72
+  },
+  {
+   "word": "presque",
+   "start": 10.768,
+   "end": 11.12
+  },
+  {
+   "word": "quatre",
+   "start": 11.177,
+   "end": 11.52
+  },
+  {
+   "word": "mille",
+   "start": 11.56,
+   "end": 11.68
+  },
+  {
+   "word": "avis",
+   "start": 11.728,
+   "end": 11.92
+  },
+  {
+   "word": "Magnésium",
+   "start": 12.933,
+   "end": 13.2
+  },
+  {
+   "word": "pour",
+   "start": 13.232,
+   "end": 13.36
+  },
+  {
+   "word": "le",
+   "start": 13.387,
+   "end": 13.44
+  },
+  {
+   "word": "sommeil",
+   "start": 13.5,
+   "end": 14.32
+  },
+  {
+   "word": "L-théanine",
+   "start": 14.4,
+   "end": 14.96
+  },
+  {
+   "word": "pour",
+   "start": 14.992,
+   "end": 15.12
+  },
+  {
+   "word": "le",
+   "start": 15.147,
+   "end": 15.2
+  },
+  {
+   "word": "calme",
+   "start": 15.28,
+   "end": 16.08
+  },
+  {
+   "word": "ashwagandha",
+   "start": 16.14,
+   "end": 16.8
+  },
+  {
+   "word": "pour",
+   "start": 16.816,
+   "end": 16.88
+  },
+  {
+   "word": "le",
+   "start": 16.907,
+   "end": 16.96
+  },
+  {
+   "word": "stress",
+   "start": 17.04,
+   "end": 17.6
+  },
+  {
+   "word": "le",
+   "start": 18.427,
+   "end": 18.48
+  },
+  {
+   "word": "magnésium",
+   "start": 18.496,
+   "end": 18.88
+  },
+  {
+   "word": "contribue",
+   "start": 18.93,
+   "end": 19.36
+  },
+  {
+   "word": "à",
+   "start": 19.4,
+   "end": 19.44
+  },
+  {
+   "word": "réduire",
+   "start": 19.493,
+   "end": 19.76
+  },
+  {
+   "word": "la",
+   "start": 19.787,
+   "end": 19.84
+  },
+  {
+   "word": "fatigue",
+   "start": 19.91,
+   "end": 20.8
+  },
+  {
+   "word": "et",
+   "start": 20.827,
+   "end": 20.88
+  },
+  {
+   "word": "la",
+   "start": 20.907,
+   "end": 20.96
+  },
+  {
+   "word": "vitamine",
+   "start": 21.02,
+   "end": 21.44
+  },
+  {
+   "word": "D",
+   "start": 21.56,
+   "end": 21.68
+  },
+  {
+   "word": "au",
+   "start": 21.76,
+   "end": 21.92
+  },
+  {
+   "word": "maintien",
+   "start": 21.96,
+   "end": 22.24
+  },
+  {
+   "word": "d'une",
+   "start": 22.28,
+   "end": 22.4
+  },
+  {
+   "word": "fonction",
+   "start": 22.436,
+   "end": 22.72
+  },
+  {
+   "word": "musculaire",
+   "start": 22.78,
+   "end": 23.28
+  },
+  {
+   "word": "normale",
+   "start": 23.344,
+   "end": 23.76
+  },
+  {
+   "word": "Un",
+   "start": 24.631,
+   "end": 24.64
+  },
+  {
+   "word": "sachet",
+   "start": 24.688,
+   "end": 24.96
+  },
+  {
+   "word": "par",
+   "start": 25,
+   "end": 25.12
+  },
+  {
+   "word": "jour",
+   "start": 25.168,
+   "end": 25.36
+  },
+  {
+   "word": "dans",
+   "start": 25.392,
+   "end": 25.52
+  },
+  {
+   "word": "l'eau",
+   "start": 25.56,
+   "end": 25.76
+  },
+  {
+   "word": "goût",
+   "start": 25.867,
+   "end": 26.16
+  },
+  {
+   "word": "litchi",
+   "start": 26.2,
+   "end": 26.48
+  },
+  {
+   "word": "fraise",
+   "start": 26.54,
+   "end": 26.96
+  },
+  {
+   "word": "Black",
+   "start": 27.716,
+   "end": 27.76
+  },
+  {
+   "word": "Friday",
+   "start": 27.829,
+   "end": 28.32
+  },
+  {
+   "word": "livraison",
+   "start": 28.4,
+   "end": 28.96
+  },
+  {
+   "word": "gratuite",
+   "start": 29.013,
+   "end": 29.52
+  },
+  {
+   "word": "panier",
+   "start": 29.6,
+   "end": 29.92
+  },
+  {
+   "word": "orange",
+   "start": 29.989,
+   "end": 30.64
+  },
+  {
+   "word": "FONCE",
+   "start": 30.76,
+   "end": 31.2
+  }
+ ],
+ "durationSec": 31.321,
+ "model": "eleven_v3"
+}
