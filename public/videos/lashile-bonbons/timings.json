@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Wesh",
+   "start": 0.1,
+   "end": 0.379
+  },
+  {
+   "word": "des",
+   "start": 0.447,
+   "end": 0.651
+  },
+  {
+   "word": "bonbons",
+   "start": 0.701,
+   "end": 1.057
+  },
+  {
+   "word": "pour",
+   "start": 1.071,
+   "end": 1.125
+  },
+  {
+   "word": "avoir",
+   "start": 1.17,
+   "end": 1.396
+  },
+  {
+   "word": "des",
+   "start": 1.413,
+   "end": 1.464
+  },
+  {
+   "word": "cheveux",
+   "start": 1.498,
+   "end": 1.735
+  },
+  {
+   "word": "sublimes",
+   "start": 1.786,
+   "end": 2.142
+  },
+  {
+   "word": "Good",
+   "start": 2.494,
+   "end": 2.548
+  },
+  {
+   "word": "Hair",
+   "start": 2.589,
+   "end": 2.752
+  },
+  {
+   "word": "de",
+   "start": 2.797,
+   "end": 2.887
+  },
+  {
+   "word": "Lashilé",
+   "start": 2.921,
+   "end": 3.362
+  },
+  {
+   "word": "biotine",
+   "start": 3.542,
+   "end": 4.379
+  },
+  {
+   "word": "zinc",
+   "start": 4.447,
+   "end": 4.853
+  },
+  {
+   "word": "vitamine",
+   "start": 4.887,
+   "end": 5.192
+  },
+  {
+   "word": "B6",
+   "start": 5.294,
+   "end": 5.599
+  },
+  {
+   "word": "et",
+   "start": 5.667,
+   "end": 5.803
+  },
+  {
+   "word": "prêle",
+   "start": 5.848,
+   "end": 6.209
+  },
+  {
+   "word": "pour",
+   "start": 6.304,
+   "end": 6.684
+  },
+  {
+   "word": "la",
+   "start": 6.729,
+   "end": 6.82
+  },
+  {
+   "word": "pousse",
+   "start": 6.853,
+   "end": 7.023
+  },
+  {
+   "word": "et",
+   "start": 7.068,
+   "end": 7.159
+  },
+  {
+   "word": "la",
+   "start": 7.181,
+   "end": 7.226
+  },
+  {
+   "word": "fortification",
+   "start": 7.267,
+   "end": 7.837
+  },
+  {
+   "word": "des",
+   "start": 7.87,
+   "end": 7.972
+  },
+  {
+   "word": "cheveux",
+   "start": 8.006,
+   "end": 8.65
+  },
+  {
+   "word": "dans",
+   "start": 8.707,
+   "end": 8.718
+  },
+  {
+   "word": "leur",
+   "start": 8.745,
+   "end": 8.853
+  },
+  {
+   "word": "étude",
+   "start": 8.898,
+   "end": 9.057
+  },
+  {
+   "word": "clinique",
+   "start": 9.098,
+   "end": 9.735
+  },
+  {
+   "word": "quatre-vingt-dix-sept",
+   "start": 9.764,
+   "end": 10.345
+  },
+  {
+   "word": "pour",
+   "start": 10.372,
+   "end": 10.481
+  },
+  {
+   "word": "cent",
+   "start": 10.508,
+   "end": 10.616
+  },
+  {
+   "word": "des",
+   "start": 10.667,
+   "end": 10.82
+  },
+  {
+   "word": "utilisatrices",
+   "start": 10.868,
+   "end": 11.498
+  },
+  {
+   "word": "voient",
+   "start": 11.542,
+   "end": 11.701
+  },
+  {
+   "word": "leurs",
+   "start": 11.724,
+   "end": 11.837
+  },
+  {
+   "word": "cheveux",
+   "start": 11.87,
+   "end": 12.108
+  },
+  {
+   "word": "plus",
+   "start": 12.135,
+   "end": 12.243
+  },
+  {
+   "word": "longs",
+   "start": 12.27,
+   "end": 12.785
+  },
+  {
+   "word": "et",
+   "start": 12.846,
+   "end": 12.853
+  },
+  {
+   "word": "c'est",
+   "start": 12.887,
+   "end": 12.989
+  },
+  {
+   "word": "des",
+   "start": 13.006,
+   "end": 13.057
+  },
+  {
+   "word": "gummies",
+   "start": 13.091,
+   "end": 13.396
+  },
+  {
+   "word": "véganes",
+   "start": 13.43,
+   "end": 13.803
+  },
+  {
+   "word": "en",
+   "start": 13.848,
+   "end": 13.938
+  },
+  {
+   "word": "forme",
+   "start": 13.972,
+   "end": 14.142
+  },
+  {
+   "word": "d'étoile",
+   "start": 14.176,
+   "end": 14.752
+  },
+  {
+   "word": "trop",
+   "start": 14.792,
+   "end": 14.955
+  },
+  {
+   "word": "bons",
+   "start": 14.996,
+   "end": 15.769
+  },
+  {
+   "word": "vingt-quatre",
+   "start": 15.931,
+   "end": 16.108
+  },
+  {
+   "word": "euros",
+   "start": 16.153,
+   "end": 16.379
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 16.398,
+   "end": 17.125
+  },
+  {
+   "word": "panier",
+   "start": 17.159,
+   "end": 17.396
+  },
+  {
+   "word": "orange",
+   "start": 17.444,
+   "end": 17.938
+  },
+  {
+   "word": "cours",
+   "start": 17.983,
+   "end": 18.209
+  }
+ ],
+ "durationSec": 18.39,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

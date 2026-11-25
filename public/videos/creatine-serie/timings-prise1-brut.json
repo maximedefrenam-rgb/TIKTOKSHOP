@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Tu",
+   "start": 0.069,
+   "end": 0.08
+  },
+  {
+   "word": "lâches",
+   "start": 0.12,
+   "end": 0.32
+  },
+  {
+   "word": "toujours",
+   "start": 0.356,
+   "end": 0.64
+  },
+  {
+   "word": "à",
+   "start": 0.68,
+   "end": 0.72
+  },
+  {
+   "word": "la",
+   "start": 0.747,
+   "end": 0.8
+  },
+  {
+   "word": "dernière",
+   "start": 0.836,
+   "end": 1.12
+  },
+  {
+   "word": "série",
+   "start": 1.16,
+   "end": 1.36
+  },
+  {
+   "word": "Arrête",
+   "start": 1.91,
+   "end": 2.32
+  },
+  {
+   "word": "de",
+   "start": 2.347,
+   "end": 2.4
+  },
+  {
+   "word": "te",
+   "start": 2.427,
+   "end": 2.48
+  },
+  {
+   "word": "chercher",
+   "start": 2.496,
+   "end": 2.72
+  },
+  {
+   "word": "des",
+   "start": 2.76,
+   "end": 2.88
+  },
+  {
+   "word": "excuses",
+   "start": 2.93,
+   "end": 3.36
+  },
+  {
+   "word": "frérot",
+   "start": 3.387,
+   "end": 3.68
+  },
+  {
+   "word": "Trois",
+   "start": 4.465,
+   "end": 4.56
+  },
+  {
+   "word": "grammes",
+   "start": 4.6,
+   "end": 4.88
+  },
+  {
+   "word": "de",
+   "start": 4.907,
+   "end": 4.96
+  },
+  {
+   "word": "créatine",
+   "start": 5.02,
+   "end": 5.44
+  },
+  {
+   "word": "par",
+   "start": 5.48,
+   "end": 5.6
+  },
+  {
+   "word": "jour",
+   "start": 5.664,
+   "end": 5.92
+  },
+  {
+   "word": "augmentent",
+   "start": 6,
+   "end": 6.64
+  },
+  {
+   "word": "la",
+   "start": 6.693,
+   "end": 6.8
+  },
+  {
+   "word": "performance",
+   "start": 6.84,
+   "end": 7.28
+  },
+  {
+   "word": "physique",
+   "start": 7.324,
+   "end": 7.68
+  },
+  {
+   "word": "lors",
+   "start": 7.712,
+   "end": 7.84
+  },
+  {
+   "word": "d'exercices",
+   "start": 7.88,
+   "end": 8.4
+  },
+  {
+   "word": "courts",
+   "start": 8.446,
+   "end": 8.96
+  },
+  {
+   "word": "intenses",
+   "start": 9.02,
+   "end": 9.52
+  },
+  {
+   "word": "et",
+   "start": 9.627,
+   "end": 9.84
+  },
+  {
+   "word": "répétés",
+   "start": 9.893,
+   "end": 10.88
+  },
+  {
+   "word": "et",
+   "start": 11.027,
+   "end": 11.04
+  },
+  {
+   "word": "celle-là",
+   "start": 11.08,
+   "end": 11.6
+  },
+  {
+   "word": "OstroVit",
+   "start": 11.66,
+   "end": 12.56
+  },
+  {
+   "word": "c'est",
+   "start": 12.6,
+   "end": 12.8
+  },
+  {
+   "word": "trois",
+   "start": 12.84,
+   "end": 13.04
+  },
+  {
+   "word": "cents",
+   "start": 13.067,
+   "end": 13.2
+  },
+  {
+   "word": "grammes",
+   "start": 13.24,
+   "end": 13.52
+  },
+  {
+   "word": "de",
+   "start": 13.547,
+   "end": 13.6
+  },
+  {
+   "word": "monohydrate",
+   "start": 13.66,
+   "end": 14.32
+  },
+  {
+   "word": "ultra",
+   "start": 14.387,
+   "end": 14.72
+  },
+  {
+   "word": "micronisée",
+   "start": 14.766,
+   "end": 15.68
+  },
+  {
+   "word": "cent",
+   "start": 15.728,
+   "end": 15.92
+  },
+  {
+   "word": "doses",
+   "start": 15.973,
+   "end": 16.639
+  },
+  {
+   "word": "pour",
+   "start": 16.71,
+   "end": 16.723
+  },
+  {
+   "word": "moins",
+   "start": 16.776,
+   "end": 17.043
+  },
+  {
+   "word": "cher",
+   "start": 17.091,
+   "end": 17.283
+  },
+  {
+   "word": "qu'une",
+   "start": 17.31,
+   "end": 17.443
+  },
+  {
+   "word": "place",
+   "start": 17.483,
+   "end": 17.683
+  },
+  {
+   "word": "de",
+   "start": 17.736,
+   "end": 17.843
+  },
+  {
+   "word": "ciné",
+   "start": 17.903,
+   "end": 18.643
+  },
+  {
+   "word": "cinq",
+   "start": 18.859,
+   "end": 18.883
+  },
+  {
+   "word": "goûts",
+   "start": 18.936,
+   "end": 19.123
+  },
+  {
+   "word": "au",
+   "start": 19.15,
+   "end": 19.203
+  },
+  {
+   "word": "choix",
+   "start": 19.256,
+   "end": 19.763
+  },
+  {
+   "word": "panier",
+   "start": 19.803,
+   "end": 20.083
+  },
+  {
+   "word": "orange",
+   "start": 20.14,
+   "end": 20.963
+  },
+  {
+   "word": "FONCE",
+   "start": 21.043,
+   "end": 21.523
+  }
+ ],
+ "durationSec": 21.891,
+ "model": "eleven_v3"
+}

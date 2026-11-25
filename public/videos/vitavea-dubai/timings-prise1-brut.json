@@ -1,0 +1,271 @@
+{
+ "words": [
+  {
+   "word": "Tes",
+   "start": 0.136,
+   "end": 0.16
+  },
+  {
+   "word": "potes",
+   "start": 0.2,
+   "end": 0.4
+  },
+  {
+   "word": "rentrent",
+   "start": 0.432,
+   "end": 0.72
+  },
+  {
+   "word": "de",
+   "start": 0.747,
+   "end": 0.8
+  },
+  {
+   "word": "Dubaï",
+   "start": 0.86,
+   "end": 1.12
+  },
+  {
+   "word": "et",
+   "start": 1.173,
+   "end": 1.28
+  },
+  {
+   "word": "toi",
+   "start": 1.32,
+   "end": 1.44
+  },
+  {
+   "word": "t'as",
+   "start": 1.48,
+   "end": 1.6
+  },
+  {
+   "word": "la",
+   "start": 1.627,
+   "end": 1.68
+  },
+  {
+   "word": "couleur",
+   "start": 1.71,
+   "end": 1.92
+  },
+  {
+   "word": "d'un",
+   "start": 1.96,
+   "end": 2.08
+  },
+  {
+   "word": "yaourt",
+   "start": 2.133,
+   "end": 2.4
+  },
+  {
+   "word": "nature",
+   "start": 2.457,
+   "end": 2.8
+  },
+  {
+   "word": "Autobronzant",
+   "start": 3.57,
+   "end": 4
+  },
+  {
+   "word": "Vitavea",
+   "start": 4.06,
+   "end": 4.96
+  },
+  {
+   "word": "hâle",
+   "start": 5,
+   "end": 5.2
+  },
+  {
+   "word": "naturel",
+   "start": 5.269,
+   "end": 5.76
+  },
+  {
+   "word": "et",
+   "start": 5.787,
+   "end": 5.84
+  },
+  {
+   "word": "uniforme",
+   "start": 5.91,
+   "end": 6.64
+  },
+  {
+   "word": "sans",
+   "start": 6.672,
+   "end": 6.8
+  },
+  {
+   "word": "soleil",
+   "start": 6.848,
+   "end": 7.28
+  },
+  {
+   "word": "effets",
+   "start": 7.34,
+   "end": 7.6
+  },
+  {
+   "word": "visibles",
+   "start": 7.64,
+   "end": 8.08
+  },
+  {
+   "word": "dès",
+   "start": 8.1,
+   "end": 8.16
+  },
+  {
+   "word": "le",
+   "start": 8.213,
+   "end": 8.32
+  },
+  {
+   "word": "premier",
+   "start": 8.35,
+   "end": 8.56
+  },
+  {
+   "word": "mois",
+   "start": 8.592,
+   "end": 8.72
+  },
+  {
+   "word": "de",
+   "start": 8.747,
+   "end": 8.8
+  },
+  {
+   "word": "cure",
+   "start": 8.864,
+   "end": 9.519
+  },
+  {
+   "word": "une",
+   "start": 9.661,
+   "end": 9.681
+  },
+  {
+   "word": "gélule",
+   "start": 9.721,
+   "end": 10.001
+  },
+  {
+   "word": "par",
+   "start": 10.041,
+   "end": 10.161
+  },
+  {
+   "word": "jour",
+   "start": 10.225,
+   "end": 10.481
+  },
+  {
+   "word": "au",
+   "start": 10.508,
+   "end": 10.561
+  },
+  {
+   "word": "bêta-carotène",
+   "start": 10.601,
+   "end": 11.601
+  },
+  {
+   "word": "fabriqué",
+   "start": 11.641,
+   "end": 12.001
+  },
+  {
+   "word": "en",
+   "start": 12.054,
+   "end": 12.161
+  },
+  {
+   "word": "France",
+   "start": 12.218,
+   "end": 12.96
+  },
+  {
+   "word": "soixante",
+   "start": 13.032,
+   "end": 13.361
+  },
+  {
+   "word": "gélules",
+   "start": 13.401,
+   "end": 14.001
+  },
+  {
+   "word": "deux",
+   "start": 14.017,
+   "end": 14.081
+  },
+  {
+   "word": "mois",
+   "start": 14.113,
+   "end": 14.241
+  },
+  {
+   "word": "de",
+   "start": 14.268,
+   "end": 14.321
+  },
+  {
+   "word": "cure",
+   "start": 14.401,
+   "end": 15.121
+  },
+  {
+   "word": "même",
+   "start": 15.185,
+   "end": 15.441
+  },
+  {
+   "word": "pas",
+   "start": 15.481,
+   "end": 15.601
+  },
+  {
+   "word": "besoin",
+   "start": 15.647,
+   "end": 15.921
+  },
+  {
+   "word": "de",
+   "start": 15.948,
+   "end": 16.001
+  },
+  {
+   "word": "billet",
+   "start": 16.041,
+   "end": 16.241
+  },
+  {
+   "word": "d'avion",
+   "start": 16.281,
+   "end": 17.041
+  },
+  {
+   "word": "panier",
+   "start": 17.186,
+   "end": 17.361
+  },
+  {
+   "word": "orange",
+   "start": 17.418,
+   "end": 18.081
+  },
+  {
+   "word": "FONCE",
+   "start": 18.121,
+   "end": 18.561
+  }
+ ],
+ "durationSec": 18.756,
+ "model": "eleven_v3"
+}

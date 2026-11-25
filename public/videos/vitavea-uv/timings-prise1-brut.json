@@ -1,0 +1,256 @@
+{
+ "words": [
+  {
+   "word": "Arrête",
+   "start": 0.204,
+   "end": 0.32
+  },
+  {
+   "word": "de",
+   "start": 0.373,
+   "end": 0.48
+  },
+  {
+   "word": "cramer",
+   "start": 0.507,
+   "end": 0.88
+  },
+  {
+   "word": "sous",
+   "start": 0.896,
+   "end": 0.96
+  },
+  {
+   "word": "les",
+   "start": 1,
+   "end": 1.12
+  },
+  {
+   "word": "UV",
+   "start": 1.2,
+   "end": 1.36
+  },
+  {
+   "word": "pour",
+   "start": 1.408,
+   "end": 1.6
+  },
+  {
+   "word": "avoir",
+   "start": 1.64,
+   "end": 1.84
+  },
+  {
+   "word": "l'air",
+   "start": 1.88,
+   "end": 2
+  },
+  {
+   "word": "bronzé",
+   "start": 2.053,
+   "end": 2.48
+  },
+  {
+   "word": "malheureux",
+   "start": 2.52,
+   "end": 2.96
+  },
+  {
+   "word": "Vitavea",
+   "start": 3.81,
+   "end": 4.32
+  },
+  {
+   "word": "l'autobronzant",
+   "start": 4.48,
+   "end": 5.28
+  },
+  {
+   "word": "en",
+   "start": 5.333,
+   "end": 5.44
+  },
+  {
+   "word": "gélules",
+   "start": 5.48,
+   "end": 6.16
+  },
+  {
+   "word": "hâle",
+   "start": 6.2,
+   "end": 6.4
+  },
+  {
+   "word": "naturel",
+   "start": 6.48,
+   "end": 7.04
+  },
+  {
+   "word": "et",
+   "start": 7.093,
+   "end": 7.2
+  },
+  {
+   "word": "uniforme",
+   "start": 7.29,
+   "end": 8.32
+  },
+  {
+   "word": "SANS",
+   "start": 8.4,
+   "end": 8.56
+  },
+  {
+   "word": "soleil",
+   "start": 8.64,
+   "end": 9.52
+  },
+  {
+   "word": "effets",
+   "start": 9.734,
+   "end": 9.84
+  },
+  {
+   "word": "visibles",
+   "start": 9.9,
+   "end": 10.32
+  },
+  {
+   "word": "dès",
+   "start": 10.36,
+   "end": 10.48
+  },
+  {
+   "word": "le",
+   "start": 10.56,
+   "end": 10.72
+  },
+  {
+   "word": "premier",
+   "start": 10.76,
+   "end": 11.04
+  },
+  {
+   "word": "mois",
+   "start": 11.072,
+   "end": 11.2
+  },
+  {
+   "word": "de",
+   "start": 11.253,
+   "end": 11.36
+  },
+  {
+   "word": "cure",
+   "start": 11.424,
+   "end": 11.76
+  },
+  {
+   "word": "une",
+   "start": 11.88,
+   "end": 12.24
+  },
+  {
+   "word": "gélule",
+   "start": 12.28,
+   "end": 12.56
+  },
+  {
+   "word": "par",
+   "start": 12.6,
+   "end": 12.72
+  },
+  {
+   "word": "jour",
+   "start": 12.784,
+   "end": 13.04
+  },
+  {
+   "word": "au",
+   "start": 13.12,
+   "end": 13.28
+  },
+  {
+   "word": "bêta-carotène",
+   "start": 13.32,
+   "end": 14.64
+  },
+  {
+   "word": "tous",
+   "start": 14.788,
+   "end": 14.801
+  },
+  {
+   "word": "types",
+   "start": 14.854,
+   "end": 15.121
+  },
+  {
+   "word": "de",
+   "start": 15.148,
+   "end": 15.201
+  },
+  {
+   "word": "peau",
+   "start": 15.254,
+   "end": 15.761
+  },
+  {
+   "word": "fabriqué",
+   "start": 15.821,
+   "end": 16.321
+  },
+  {
+   "word": "en",
+   "start": 16.348,
+   "end": 16.401
+  },
+  {
+   "word": "France",
+   "start": 16.47,
+   "end": 17.201
+  },
+  {
+   "word": "soixante",
+   "start": 17.254,
+   "end": 17.681
+  },
+  {
+   "word": "gélules",
+   "start": 17.721,
+   "end": 18.081
+  },
+  {
+   "word": "pour",
+   "start": 18.113,
+   "end": 18.241
+  },
+  {
+   "word": "deux",
+   "start": 18.289,
+   "end": 18.481
+  },
+  {
+   "word": "mois",
+   "start": 18.529,
+   "end": 19.281
+  },
+  {
+   "word": "panier",
+   "start": 19.491,
+   "end": 19.601
+  },
+  {
+   "word": "orange",
+   "start": 19.681,
+   "end": 20.561
+  },
+  {
+   "word": "FONCE",
+   "start": 20.641,
+   "end": 21.121
+  }
+ ],
+ "durationSec": 21.316,
+ "model": "eleven_v3"
+}

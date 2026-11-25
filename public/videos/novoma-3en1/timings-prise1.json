@@ -1,0 +1,271 @@
+{
+ "words": [
+  {
+   "word": "Ta",
+   "start": 0.058,
+   "end": 0.068
+  },
+  {
+   "word": "peau",
+   "start": 0.113,
+   "end": 0.339
+  },
+  {
+   "word": "tes",
+   "start": 0.424,
+   "end": 0.678
+  },
+  {
+   "word": "cheveux",
+   "start": 0.712,
+   "end": 1.085
+  },
+  {
+   "word": "tes",
+   "start": 1.119,
+   "end": 1.22
+  },
+  {
+   "word": "articulations",
+   "start": 1.265,
+   "end": 2.169
+  },
+  {
+   "word": "un",
+   "start": 2.214,
+   "end": 2.305
+  },
+  {
+   "word": "seul",
+   "start": 2.346,
+   "end": 2.508
+  },
+  {
+   "word": "sachet",
+   "start": 2.549,
+   "end": 2.847
+  },
+  {
+   "word": "pour",
+   "start": 2.861,
+   "end": 2.915
+  },
+  {
+   "word": "tout",
+   "start": 2.956,
+   "end": 3.119
+  },
+  {
+   "word": "ça",
+   "start": 3.164,
+   "end": 3.254
+  },
+  {
+   "word": "Collagène",
+   "start": 3.514,
+   "end": 3.745
+  },
+  {
+   "word": "marin",
+   "start": 3.779,
+   "end": 3.948
+  },
+  {
+   "word": "Novoma",
+   "start": 4.016,
+   "end": 4.491
+  },
+  {
+   "word": "hydratation",
+   "start": 4.572,
+   "end": 5.236
+  },
+  {
+   "word": "de",
+   "start": 5.281,
+   "end": 5.372
+  },
+  {
+   "word": "la",
+   "start": 5.395,
+   "end": 5.44
+  },
+  {
+   "word": "peau",
+   "start": 5.485,
+   "end": 5.711
+  },
+  {
+   "word": "qualité",
+   "start": 5.779,
+   "end": 6.253
+  },
+  {
+   "word": "des",
+   "start": 6.27,
+   "end": 6.321
+  },
+  {
+   "word": "cheveux",
+   "start": 6.355,
+   "end": 6.728
+  },
+  {
+   "word": "confort",
+   "start": 6.77,
+   "end": 7.067
+  },
+  {
+   "word": "articulaire",
+   "start": 7.112,
+   "end": 7.677
+  },
+  {
+   "word": "collagène",
+   "start": 7.805,
+   "end": 8.13
+  },
+  {
+   "word": "hydrolysé",
+   "start": 8.187,
+   "end": 8.673
+  },
+  {
+   "word": "Naticol",
+   "start": 8.74,
+   "end": 9.486
+  },
+  {
+   "word": "acide",
+   "start": 9.554,
+   "end": 9.825
+  },
+  {
+   "word": "hyaluronique",
+   "start": 9.87,
+   "end": 10.503
+  },
+  {
+   "word": "vitamine",
+   "start": 10.571,
+   "end": 10.91
+  },
+  {
+   "word": "C",
+   "start": 11.046,
+   "end": 11.249
+  },
+  {
+   "word": "et",
+   "start": 11.3,
+   "end": 11.323
+  },
+  {
+   "word": "la",
+   "start": 11.346,
+   "end": 11.391
+  },
+  {
+   "word": "vitamine",
+   "start": 11.442,
+   "end": 11.73
+  },
+  {
+   "word": "C",
+   "start": 11.831,
+   "end": 11.933
+  },
+  {
+   "word": "contribue",
+   "start": 11.967,
+   "end": 12.272
+  },
+  {
+   "word": "à",
+   "start": 12.306,
+   "end": 12.34
+  },
+  {
+   "word": "la",
+   "start": 12.363,
+   "end": 12.408
+  },
+  {
+   "word": "formation",
+   "start": 12.455,
+   "end": 12.882
+  },
+  {
+   "word": "normale",
+   "start": 12.909,
+   "end": 13.086
+  },
+  {
+   "word": "de",
+   "start": 13.13,
+   "end": 13.221
+  },
+  {
+   "word": "collagène",
+   "start": 13.248,
+   "end": 14.035
+  },
+  {
+   "word": "deux",
+   "start": 14.126,
+   "end": 14.18
+  },
+  {
+   "word": "gélules",
+   "start": 14.248,
+   "end": 14.452
+  },
+  {
+   "word": "par",
+   "start": 14.486,
+   "end": 14.587
+  },
+  {
+   "word": "jour",
+   "start": 14.655,
+   "end": 15.13
+  },
+  {
+   "word": "vingt-huit",
+   "start": 15.164,
+   "end": 15.469
+  },
+  {
+   "word": "mille",
+   "start": 15.503,
+   "end": 15.604
+  },
+  {
+   "word": "vendus",
+   "start": 15.645,
+   "end": 16.553
+  },
+  {
+   "word": "panier",
+   "start": 16.676,
+   "end": 16.825
+  },
+  {
+   "word": "orange",
+   "start": 16.873,
+   "end": 17.367
+  },
+  {
+   "word": "FONCE",
+   "start": 17.435,
+   "end": 17.842
+  }
+ ],
+ "durationSec": 17.998,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

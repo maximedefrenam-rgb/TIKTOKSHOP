@@ -1,0 +1,331 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.085,
+   "end": 0.106
+  },
+  {
+   "word": "coach",
+   "start": 0.151,
+   "end": 0.377
+  },
+  {
+   "word": "te",
+   "start": 0.422,
+   "end": 0.512
+  },
+  {
+   "word": "vend",
+   "start": 0.526,
+   "end": 0.58
+  },
+  {
+   "word": "sa",
+   "start": 0.625,
+   "end": 0.716
+  },
+  {
+   "word": "créatine",
+   "start": 0.767,
+   "end": 1.19
+  },
+  {
+   "word": "trente",
+   "start": 1.224,
+   "end": 1.462
+  },
+  {
+   "word": "balles",
+   "start": 1.495,
+   "end": 1.733
+  },
+  {
+   "word": "Il",
+   "start": 1.893,
+   "end": 1.955
+  },
+  {
+   "word": "se",
+   "start": 2.0,
+   "end": 2.09
+  },
+  {
+   "word": "fout",
+   "start": 2.104,
+   "end": 2.158
+  },
+  {
+   "word": "de",
+   "start": 2.203,
+   "end": 2.294
+  },
+  {
+   "word": "ta",
+   "start": 2.339,
+   "end": 2.429
+  },
+  {
+   "word": "gueule",
+   "start": 2.463,
+   "end": 2.701
+  },
+  {
+   "word": "frérot",
+   "start": 2.746,
+   "end": 3.04
+  },
+  {
+   "word": "La",
+   "start": 3.236,
+   "end": 3.247
+  },
+  {
+   "word": "moyenne",
+   "start": 3.298,
+   "end": 3.586
+  },
+  {
+   "word": "du",
+   "start": 3.609,
+   "end": 3.654
+  },
+  {
+   "word": "marché",
+   "start": 3.702,
+   "end": 4.264
+  },
+  {
+   "word": "c'est",
+   "start": 4.298,
+   "end": 4.4
+  },
+  {
+   "word": "plus",
+   "start": 4.427,
+   "end": 4.535
+  },
+  {
+   "word": "de",
+   "start": 4.58,
+   "end": 4.671
+  },
+  {
+   "word": "vingt-deux",
+   "start": 4.739,
+   "end": 5.079
+  },
+  {
+   "word": "euros",
+   "start": 5.135,
+   "end": 5.418
+  },
+  {
+   "word": "les",
+   "start": 5.434,
+   "end": 5.485
+  },
+  {
+   "word": "trois",
+   "start": 5.519,
+   "end": 5.689
+  },
+  {
+   "word": "cents",
+   "start": 5.712,
+   "end": 5.824
+  },
+  {
+   "word": "grammes",
+   "start": 5.858,
+   "end": 6.231
+  },
+  {
+   "word": "celle-là",
+   "start": 6.265,
+   "end": 6.638
+  },
+  {
+   "word": "OstroVit",
+   "start": 6.689,
+   "end": 7.519
+  },
+  {
+   "word": "c'est",
+   "start": 7.553,
+   "end": 7.655
+  },
+  {
+   "word": "un",
+   "start": 7.678,
+   "end": 7.723
+  },
+  {
+   "word": "prix",
+   "start": 7.75,
+   "end": 7.858
+  },
+  {
+   "word": "de",
+   "start": 7.881,
+   "end": 7.926
+  },
+  {
+   "word": "kebab",
+   "start": 7.994,
+   "end": 8.333
+  },
+  {
+   "word": "Monohydrate",
+   "start": 8.629,
+   "end": 9.12
+  },
+  {
+   "word": "ultra",
+   "start": 9.177,
+   "end": 9.459
+  },
+  {
+   "word": "micronisée",
+   "start": 9.508,
+   "end": 10.341
+  },
+  {
+   "word": "cent",
+   "start": 10.381,
+   "end": 10.544
+  },
+  {
+   "word": "doses",
+   "start": 10.589,
+   "end": 10.815
+  },
+  {
+   "word": "de",
+   "start": 10.838,
+   "end": 10.883
+  },
+  {
+   "word": "trois",
+   "start": 10.917,
+   "end": 11.087
+  },
+  {
+   "word": "grammes",
+   "start": 11.12,
+   "end": 11.697
+  },
+  {
+   "word": "cinq",
+   "start": 11.731,
+   "end": 11.9
+  },
+  {
+   "word": "goûts",
+   "start": 11.945,
+   "end": 12.103
+  },
+  {
+   "word": "au",
+   "start": 12.126,
+   "end": 12.171
+  },
+  {
+   "word": "choix",
+   "start": 12.216,
+   "end": 12.849
+  },
+  {
+   "word": "trois",
+   "start": 13.015,
+   "end": 13.053
+  },
+  {
+   "word": "grammes",
+   "start": 13.087,
+   "end": 13.324
+  },
+  {
+   "word": "par",
+   "start": 13.358,
+   "end": 13.459
+  },
+  {
+   "word": "jour",
+   "start": 13.5,
+   "end": 13.663
+  },
+  {
+   "word": "augmentent",
+   "start": 13.705,
+   "end": 14.07
+  },
+  {
+   "word": "la",
+   "start": 14.092,
+   "end": 14.137
+  },
+  {
+   "word": "performance",
+   "start": 14.182,
+   "end": 14.68
+  },
+  {
+   "word": "physique",
+   "start": 14.71,
+   "end": 14.951
+  },
+  {
+   "word": "lors",
+   "start": 14.978,
+   "end": 15.087
+  },
+  {
+   "word": "d'exercices",
+   "start": 15.12,
+   "end": 15.629
+  },
+  {
+   "word": "courts",
+   "start": 15.668,
+   "end": 16.103
+  },
+  {
+   "word": "intenses",
+   "start": 16.154,
+   "end": 16.646
+  },
+  {
+   "word": "et",
+   "start": 16.669,
+   "end": 16.714
+  },
+  {
+   "word": "répétés",
+   "start": 16.759,
+   "end": 17.798
+  },
+  {
+   "word": "panier",
+   "start": 17.909,
+   "end": 18.07
+  },
+  {
+   "word": "orange",
+   "start": 18.118,
+   "end": 18.68
+  },
+  {
+   "word": "FONCE",
+   "start": 18.748,
+   "end": 19.154
+  }
+ ],
+ "durationSec": 19.331,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

@@ -1,0 +1,301 @@
+{
+ "words": [
+  {
+   "word": "Ce",
+   "start": 0.213,
+   "end": 0.24
+  },
+  {
+   "word": "nez",
+   "start": 0.3,
+   "end": 0.48
+  },
+  {
+   "word": "plein",
+   "start": 0.52,
+   "end": 0.72
+  },
+  {
+   "word": "de",
+   "start": 0.747,
+   "end": 0.8
+  },
+  {
+   "word": "points",
+   "start": 0.834,
+   "end": 1.04
+  },
+  {
+   "word": "noirs",
+   "start": 1.093,
+   "end": 1.52
+  },
+  {
+   "word": "c'est",
+   "start": 1.56,
+   "end": 1.68
+  },
+  {
+   "word": "le",
+   "start": 1.707,
+   "end": 1.76
+  },
+  {
+   "word": "tien",
+   "start": 1.8,
+   "end": 2
+  },
+  {
+   "word": "Avec",
+   "start": 3.008,
+   "end": 3.04
+  },
+  {
+   "word": "les",
+   "start": 3.08,
+   "end": 3.2
+  },
+  {
+   "word": "toner",
+   "start": 3.24,
+   "end": 3.44
+  },
+  {
+   "word": "pads",
+   "start": 3.504,
+   "end": 3.76
+  },
+  {
+   "word": "Medicube",
+   "start": 3.813,
+   "end": 4.64
+  },
+  {
+   "word": "tu",
+   "start": 4.693,
+   "end": 4.8
+  },
+  {
+   "word": "passes",
+   "start": 4.834,
+   "end": 5.04
+  },
+  {
+   "word": "un",
+   "start": 5.067,
+   "end": 5.12
+  },
+  {
+   "word": "pad",
+   "start": 5.2,
+   "end": 5.44
+  },
+  {
+   "word": "sur",
+   "start": 5.48,
+   "end": 5.6
+  },
+  {
+   "word": "ta",
+   "start": 5.653,
+   "end": 5.76
+  },
+  {
+   "word": "face",
+   "start": 5.84,
+   "end": 6.4
+  },
+  {
+   "word": "et",
+   "start": 6.427,
+   "end": 6.48
+  },
+  {
+   "word": "c'est",
+   "start": 6.56,
+   "end": 6.72
+  },
+  {
+   "word": "parti",
+   "start": 6.773,
+   "end": 7.04
+  },
+  {
+   "word": "pour",
+   "start": 7.088,
+   "end": 7.28
+  },
+  {
+   "word": "des",
+   "start": 7.3,
+   "end": 7.36
+  },
+  {
+   "word": "pores",
+   "start": 7.4,
+   "end": 7.6
+  },
+  {
+   "word": "nets",
+   "start": 7.664,
+   "end": 7.92
+  },
+  {
+   "word": "Niacinamide",
+   "start": 8.909,
+   "end": 9.44
+  },
+  {
+   "word": "vitamine",
+   "start": 9.54,
+   "end": 10.08
+  },
+  {
+   "word": "C",
+   "start": 10.2,
+   "end": 10.4
+  },
+  {
+   "word": "acide",
+   "start": 10.587,
+   "end": 11.04
+  },
+  {
+   "word": "succinique",
+   "start": 11.104,
+   "end": 11.76
+  },
+  {
+   "word": "panthénol",
+   "start": 11.84,
+   "end": 12.56
+  },
+  {
+   "word": "moins",
+   "start": 12.667,
+   "end": 13.2
+  },
+  {
+   "word": "de",
+   "start": 13.227,
+   "end": 13.28
+  },
+  {
+   "word": "marques",
+   "start": 13.34,
+   "end": 13.68
+  },
+  {
+   "word": "post-imperfections",
+   "start": 13.744,
+   "end": 14.72
+  },
+  {
+   "word": "un",
+   "start": 14.907,
+   "end": 15.28
+  },
+  {
+   "word": "éclat",
+   "start": 15.4,
+   "end": 15.76
+  },
+  {
+   "word": "de",
+   "start": 15.787,
+   "end": 15.84
+  },
+  {
+   "word": "malade",
+   "start": 15.92,
+   "end": 16.72
+  },
+  {
+   "word": "l'effet",
+   "start": 16.76,
+   "end": 17.2
+  },
+  {
+   "word": "glass",
+   "start": 17.267,
+   "end": 17.6
+  },
+  {
+   "word": "skin",
+   "start": 17.648,
+   "end": 18.24
+  },
+  {
+   "word": "plus",
+   "start": 18.374,
+   "end": 18.4
+  },
+  {
+   "word": "de",
+   "start": 18.427,
+   "end": 18.48
+  },
+  {
+   "word": "deux",
+   "start": 18.528,
+   "end": 18.72
+  },
+  {
+   "word": "mille",
+   "start": 18.76,
+   "end": 18.88
+  },
+  {
+   "word": "cinq",
+   "start": 18.96,
+   "end": 19.12
+  },
+  {
+   "word": "cents",
+   "start": 19.147,
+   "end": 19.28
+  },
+  {
+   "word": "vendus",
+   "start": 19.328,
+   "end": 20
+  },
+  {
+   "word": "quatre",
+   "start": 20.034,
+   "end": 20.24
+  },
+  {
+   "word": "virgule",
+   "start": 20.3,
+   "end": 20.64
+  },
+  {
+   "word": "six",
+   "start": 20.68,
+   "end": 20.8
+  },
+  {
+   "word": "étoiles",
+   "start": 20.92,
+   "end": 21.84
+  },
+  {
+   "word": "panier",
+   "start": 21.976,
+   "end": 22.16
+  },
+  {
+   "word": "orange",
+   "start": 22.217,
+   "end": 22.96
+  },
+  {
+   "word": "FONCE",
+   "start": 23,
+   "end": 23.44
+  }
+ ],
+ "durationSec": 23.798,
+ "model": "eleven_v3"
+}

@@ -1,0 +1,336 @@
+{
+ "words": [
+  {
+   "word": "Wesh",
+   "start": 0.186,
+   "end": 0.746
+  },
+  {
+   "word": "cent",
+   "start": 0.786,
+   "end": 0.949
+  },
+  {
+   "word": "doses",
+   "start": 0.983,
+   "end": 1.153
+  },
+  {
+   "word": "de",
+   "start": 1.197,
+   "end": 1.288
+  },
+  {
+   "word": "créatine",
+   "start": 1.322,
+   "end": 1.695
+  },
+  {
+   "word": "pour",
+   "start": 1.722,
+   "end": 1.831
+  },
+  {
+   "word": "le",
+   "start": 1.853,
+   "end": 1.898
+  },
+  {
+   "word": "prix",
+   "start": 1.939,
+   "end": 2.102
+  },
+  {
+   "word": "d'un",
+   "start": 2.136,
+   "end": 2.305
+  },
+  {
+   "word": "kebab",
+   "start": 2.35,
+   "end": 2.644
+  },
+  {
+   "word": "OstroVit",
+   "start": 2.973,
+   "end": 3.702
+  },
+  {
+   "word": "trois",
+   "start": 3.736,
+   "end": 3.905
+  },
+  {
+   "word": "cents",
+   "start": 3.939,
+   "end": 4.109
+  },
+  {
+   "word": "grammes",
+   "start": 4.143,
+   "end": 4.38
+  },
+  {
+   "word": "de",
+   "start": 4.403,
+   "end": 4.448
+  },
+  {
+   "word": "monohydrate",
+   "start": 4.499,
+   "end": 4.99
+  },
+  {
+   "word": "ultra",
+   "start": 5.047,
+   "end": 5.329
+  },
+  {
+   "word": "micronisée",
+   "start": 5.377,
+   "end": 6.143
+  },
+  {
+   "word": "trois",
+   "start": 6.177,
+   "end": 6.346
+  },
+  {
+   "word": "grammes",
+   "start": 6.38,
+   "end": 6.617
+  },
+  {
+   "word": "par",
+   "start": 6.634,
+   "end": 6.685
+  },
+  {
+   "word": "jour",
+   "start": 6.739,
+   "end": 7.227
+  },
+  {
+   "word": "ça",
+   "start": 7.295,
+   "end": 7.431
+  },
+  {
+   "word": "fait",
+   "start": 7.471,
+   "end": 7.634
+  },
+  {
+   "word": "cent",
+   "start": 7.675,
+   "end": 7.838
+  },
+  {
+   "word": "doses",
+   "start": 7.894,
+   "end": 8.516
+  },
+  {
+   "word": "même",
+   "start": 8.57,
+   "end": 8.787
+  },
+  {
+   "word": "pas",
+   "start": 8.804,
+   "end": 8.855
+  },
+  {
+   "word": "le",
+   "start": 8.877,
+   "end": 8.922
+  },
+  {
+   "word": "prix",
+   "start": 8.949,
+   "end": 9.058
+  },
+  {
+   "word": "d'une",
+   "start": 9.092,
+   "end": 9.261
+  },
+  {
+   "word": "sauce",
+   "start": 9.295,
+   "end": 9.465
+  },
+  {
+   "word": "samouraï",
+   "start": 9.499,
+   "end": 9.804
+  },
+  {
+   "word": "la",
+   "start": 9.849,
+   "end": 9.939
+  },
+  {
+   "word": "dose",
+   "start": 9.994,
+   "end": 10.21
+  },
+  {
+   "word": "Trois",
+   "start": 10.331,
+   "end": 10.416
+  },
+  {
+   "word": "grammes",
+   "start": 10.45,
+   "end": 10.687
+  },
+  {
+   "word": "de",
+   "start": 10.71,
+   "end": 10.755
+  },
+  {
+   "word": "créatine",
+   "start": 10.805,
+   "end": 11.161
+  },
+  {
+   "word": "par",
+   "start": 11.195,
+   "end": 11.297
+  },
+  {
+   "word": "jour",
+   "start": 11.351,
+   "end": 11.568
+  },
+  {
+   "word": "augmentent",
+   "start": 11.653,
+   "end": 12.314
+  },
+  {
+   "word": "la",
+   "start": 12.337,
+   "end": 12.382
+  },
+  {
+   "word": "performance",
+   "start": 12.422,
+   "end": 12.856
+  },
+  {
+   "word": "physique",
+   "start": 12.887,
+   "end": 13.127
+  },
+  {
+   "word": "lors",
+   "start": 13.155,
+   "end": 13.263
+  },
+  {
+   "word": "d'exercices",
+   "start": 13.297,
+   "end": 13.738
+  },
+  {
+   "word": "courts",
+   "start": 13.786,
+   "end": 14.483
+  },
+  {
+   "word": "intenses",
+   "start": 14.534,
+   "end": 15.026
+  },
+  {
+   "word": "et",
+   "start": 15.09,
+   "end": 15.139
+  },
+  {
+   "word": "répétés",
+   "start": 15.207,
+   "end": 16.291
+  },
+  {
+   "word": "et",
+   "start": 16.351,
+   "end": 16.366
+  },
+  {
+   "word": "t'as",
+   "start": 16.4,
+   "end": 16.57
+  },
+  {
+   "word": "cinq",
+   "start": 16.672,
+   "end": 16.841
+  },
+  {
+   "word": "goûts",
+   "start": 16.909,
+   "end": 17.519
+  },
+  {
+   "word": "citron",
+   "start": 17.604,
+   "end": 18.4
+  },
+  {
+   "word": "mangue",
+   "start": 18.441,
+   "end": 19.011
+  },
+  {
+   "word": "melon",
+   "start": 19.044,
+   "end": 19.688
+  },
+  {
+   "word": "pomme",
+   "start": 19.722,
+   "end": 20.129
+  },
+  {
+   "word": "verte",
+   "start": 20.18,
+   "end": 20.434
+  },
+  {
+   "word": "ou",
+   "start": 20.479,
+   "end": 20.57
+  },
+  {
+   "word": "nature",
+   "start": 20.628,
+   "end": 21.044
+  },
+  {
+   "word": "panier",
+   "start": 21.18,
+   "end": 21.341
+  },
+  {
+   "word": "orange",
+   "start": 21.389,
+   "end": 22.019
+  },
+  {
+   "word": "FONCE",
+   "start": 22.053,
+   "end": 22.494
+  }
+ ],
+ "durationSec": 22.7,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 5
+ }
+}

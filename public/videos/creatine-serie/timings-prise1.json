@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Tu",
+   "start": 0.058,
+   "end": 0.068
+  },
+  {
+   "word": "lâches",
+   "start": 0.102,
+   "end": 0.271
+  },
+  {
+   "word": "toujours",
+   "start": 0.302,
+   "end": 0.542
+  },
+  {
+   "word": "à",
+   "start": 0.576,
+   "end": 0.61
+  },
+  {
+   "word": "la",
+   "start": 0.633,
+   "end": 0.678
+  },
+  {
+   "word": "dernière",
+   "start": 0.708,
+   "end": 0.949
+  },
+  {
+   "word": "série",
+   "start": 0.983,
+   "end": 1.153
+  },
+  {
+   "word": "Arrête",
+   "start": 1.252,
+   "end": 1.488
+  },
+  {
+   "word": "de",
+   "start": 1.511,
+   "end": 1.556
+  },
+  {
+   "word": "te",
+   "start": 1.578,
+   "end": 1.623
+  },
+  {
+   "word": "chercher",
+   "start": 1.637,
+   "end": 1.827
+  },
+  {
+   "word": "des",
+   "start": 1.861,
+   "end": 1.962
+  },
+  {
+   "word": "excuses",
+   "start": 2.005,
+   "end": 2.369
+  },
+  {
+   "word": "frérot",
+   "start": 2.392,
+   "end": 2.64
+  },
+  {
+   "word": "Trois",
+   "start": 2.812,
+   "end": 2.892
+  },
+  {
+   "word": "grammes",
+   "start": 2.926,
+   "end": 3.163
+  },
+  {
+   "word": "de",
+   "start": 3.186,
+   "end": 3.231
+  },
+  {
+   "word": "créatine",
+   "start": 3.282,
+   "end": 3.638
+  },
+  {
+   "word": "par",
+   "start": 3.672,
+   "end": 3.774
+  },
+  {
+   "word": "jour",
+   "start": 3.828,
+   "end": 4.045
+  },
+  {
+   "word": "augmentent",
+   "start": 4.113,
+   "end": 4.655
+  },
+  {
+   "word": "la",
+   "start": 4.7,
+   "end": 4.791
+  },
+  {
+   "word": "performance",
+   "start": 4.824,
+   "end": 5.197
+  },
+  {
+   "word": "physique",
+   "start": 5.235,
+   "end": 5.536
+  },
+  {
+   "word": "lors",
+   "start": 5.563,
+   "end": 5.672
+  },
+  {
+   "word": "d'exercices",
+   "start": 5.706,
+   "end": 6.146
+  },
+  {
+   "word": "courts",
+   "start": 6.185,
+   "end": 6.621
+  },
+  {
+   "word": "intenses",
+   "start": 6.672,
+   "end": 7.096
+  },
+  {
+   "word": "et",
+   "start": 7.186,
+   "end": 7.367
+  },
+  {
+   "word": "répétés",
+   "start": 7.412,
+   "end": 8.248
+  },
+  {
+   "word": "et",
+   "start": 8.373,
+   "end": 8.384
+  },
+  {
+   "word": "celle-là",
+   "start": 8.418,
+   "end": 8.858
+  },
+  {
+   "word": "OstroVit",
+   "start": 8.909,
+   "end": 9.672
+  },
+  {
+   "word": "c'est",
+   "start": 9.706,
+   "end": 9.875
+  },
+  {
+   "word": "trois",
+   "start": 9.909,
+   "end": 10.079
+  },
+  {
+   "word": "cents",
+   "start": 10.102,
+   "end": 10.214
+  },
+  {
+   "word": "grammes",
+   "start": 10.248,
+   "end": 10.485
+  },
+  {
+   "word": "de",
+   "start": 10.508,
+   "end": 10.553
+  },
+  {
+   "word": "monohydrate",
+   "start": 10.604,
+   "end": 11.163
+  },
+  {
+   "word": "ultra",
+   "start": 11.22,
+   "end": 11.502
+  },
+  {
+   "word": "micronisée",
+   "start": 11.541,
+   "end": 12.316
+  },
+  {
+   "word": "cent",
+   "start": 12.357,
+   "end": 12.519
+  },
+  {
+   "word": "doses",
+   "start": 12.564,
+   "end": 13.129
+  },
+  {
+   "word": "pour",
+   "start": 13.189,
+   "end": 13.2
+  },
+  {
+   "word": "moins",
+   "start": 13.245,
+   "end": 13.471
+  },
+  {
+   "word": "cher",
+   "start": 13.512,
+   "end": 13.674
+  },
+  {
+   "word": "qu'une",
+   "start": 13.697,
+   "end": 13.81
+  },
+  {
+   "word": "place",
+   "start": 13.844,
+   "end": 14.013
+  },
+  {
+   "word": "de",
+   "start": 14.058,
+   "end": 14.149
+  },
+  {
+   "word": "ciné",
+   "start": 14.2,
+   "end": 14.827
+  },
+  {
+   "word": "cinq",
+   "start": 15.01,
+   "end": 15.03
+  },
+  {
+   "word": "goûts",
+   "start": 15.075,
+   "end": 15.234
+  },
+  {
+   "word": "au",
+   "start": 15.257,
+   "end": 15.302
+  },
+  {
+   "word": "choix",
+   "start": 15.346,
+   "end": 15.776
+  },
+  {
+   "word": "panier",
+   "start": 15.81,
+   "end": 16.047
+  },
+  {
+   "word": "orange",
+   "start": 16.096,
+   "end": 16.793
+  },
+  {
+   "word": "FONCE",
+   "start": 16.861,
+   "end": 17.268
+  }
+ ],
+ "durationSec": 17.476,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

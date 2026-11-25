@@ -1,0 +1,286 @@
+{
+ "words": [
+  {
+   "word": "Wesh",
+   "start": 0.127,
+   "end": 0.475
+  },
+  {
+   "word": "l'énergie",
+   "start": 0.678,
+   "end": 1.288
+  },
+  {
+   "word": "d'un",
+   "start": 1.322,
+   "end": 1.424
+  },
+  {
+   "word": "expresso",
+   "start": 1.475,
+   "end": 1.898
+  },
+  {
+   "word": "qui",
+   "start": 1.949,
+   "end": 2.102
+  },
+  {
+   "word": "tient",
+   "start": 2.169,
+   "end": 2.373
+  },
+  {
+   "word": "dans",
+   "start": 2.386,
+   "end": 2.441
+  },
+  {
+   "word": "ta",
+   "start": 2.486,
+   "end": 2.576
+  },
+  {
+   "word": "poche",
+   "start": 2.621,
+   "end": 2.847
+  },
+  {
+   "word": "ZAP",
+   "start": 3.051,
+   "end": 3.339
+  },
+  {
+   "word": "cent",
+   "start": 3.448,
+   "end": 3.882
+  },
+  {
+   "word": "milligrammes",
+   "start": 3.909,
+   "end": 4.356
+  },
+  {
+   "word": "de",
+   "start": 4.379,
+   "end": 4.424
+  },
+  {
+   "word": "caféine",
+   "start": 4.478,
+   "end": 4.763
+  },
+  {
+   "word": "par",
+   "start": 4.814,
+   "end": 4.967
+  },
+  {
+   "word": "sachet",
+   "start": 5.007,
+   "end": 5.645
+  },
+  {
+   "word": "tu",
+   "start": 5.667,
+   "end": 5.712
+  },
+  {
+   "word": "le",
+   "start": 5.757,
+   "end": 5.848
+  },
+  {
+   "word": "cales",
+   "start": 5.893,
+   "end": 6.051
+  },
+  {
+   "word": "sous",
+   "start": 6.065,
+   "end": 6.119
+  },
+  {
+   "word": "la",
+   "start": 6.164,
+   "end": 6.255
+  },
+  {
+   "word": "lèvre",
+   "start": 6.289,
+   "end": 6.661
+  },
+  {
+   "word": "discret",
+   "start": 6.704,
+   "end": 7.339
+  },
+  {
+   "word": "avant",
+   "start": 7.524,
+   "end": 7.543
+  },
+  {
+   "word": "ta",
+   "start": 7.588,
+   "end": 7.678
+  },
+  {
+   "word": "séance",
+   "start": 7.746,
+   "end": 8.153
+  },
+  {
+   "word": "au",
+   "start": 8.221,
+   "end": 8.356
+  },
+  {
+   "word": "taf",
+   "start": 8.424,
+   "end": 8.763
+  },
+  {
+   "word": "ou",
+   "start": 8.854,
+   "end": 9.034
+  },
+  {
+   "word": "pour",
+   "start": 9.061,
+   "end": 9.17
+  },
+  {
+   "word": "ta",
+   "start": 9.215,
+   "end": 9.306
+  },
+  {
+   "word": "session",
+   "start": 9.339,
+   "end": 9.577
+  },
+  {
+   "word": "GTA",
+   "start": 9.678,
+   "end": 9.984
+  },
+  {
+   "word": "six",
+   "start": 10.034,
+   "end": 10.593
+  },
+  {
+   "word": "et",
+   "start": 10.656,
+   "end": 10.667
+  },
+  {
+   "word": "ça",
+   "start": 10.712,
+   "end": 10.803
+  },
+  {
+   "word": "te",
+   "start": 10.848,
+   "end": 10.939
+  },
+  {
+   "word": "coûte",
+   "start": 10.984,
+   "end": 11.142
+  },
+  {
+   "word": "moins",
+   "start": 11.199,
+   "end": 11.481
+  },
+  {
+   "word": "cher",
+   "start": 11.522,
+   "end": 11.684
+  },
+  {
+   "word": "qu'un",
+   "start": 11.707,
+   "end": 11.82
+  },
+  {
+   "word": "café",
+   "start": 11.874,
+   "end": 12.091
+  },
+  {
+   "word": "au",
+   "start": 12.114,
+   "end": 12.159
+  },
+  {
+   "word": "bar",
+   "start": 12.227,
+   "end": 12.837
+  },
+  {
+   "word": "elle-théanine",
+   "start": 12.963,
+   "end": 13.718
+  },
+  {
+   "word": "vitamines",
+   "start": 13.769,
+   "end": 14.125
+  },
+  {
+   "word": "B",
+   "start": 14.193,
+   "end": 14.328
+  },
+  {
+   "word": "goût",
+   "start": 14.441,
+   "end": 14.735
+  },
+  {
+   "word": "cerise",
+   "start": 14.786,
+   "end": 15.006
+  },
+  {
+   "word": "noire",
+   "start": 15.051,
+   "end": 15.345
+  },
+  {
+   "word": "trente-six",
+   "start": 15.492,
+   "end": 15.708
+  },
+  {
+   "word": "sachets",
+   "start": 15.762,
+   "end": 16.318
+  },
+  {
+   "word": "panier",
+   "start": 16.352,
+   "end": 16.59
+  },
+  {
+   "word": "orange",
+   "start": 16.638,
+   "end": 17.2
+  },
+  {
+   "word": "FONCE",
+   "start": 17.234,
+   "end": 17.607
+  }
+ ],
+ "durationSec": 17.789,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

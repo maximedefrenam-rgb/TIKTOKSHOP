@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Six",
+   "start": 0.145,
+   "end": 0.16
+  },
+  {
+   "word": "heures",
+   "start": 0.194,
+   "end": 0.4
+  },
+  {
+   "word": "du",
+   "start": 0.427,
+   "end": 0.48
+  },
+  {
+   "word": "mat'",
+   "start": 0.52,
+   "end": 0.88
+  },
+  {
+   "word": "cardio",
+   "start": 0.937,
+   "end": 1.28
+  },
+  {
+   "word": "à",
+   "start": 1.32,
+   "end": 1.36
+  },
+  {
+   "word": "jeun",
+   "start": 1.413,
+   "end": 1.76
+  },
+  {
+   "word": "et",
+   "start": 1.787,
+   "end": 1.84
+  },
+  {
+   "word": "t'es",
+   "start": 1.88,
+   "end": 2
+  },
+  {
+   "word": "en",
+   "start": 2.027,
+   "end": 2.08
+  },
+  {
+   "word": "mode",
+   "start": 2.128,
+   "end": 2.32
+  },
+  {
+   "word": "zombie",
+   "start": 2.366,
+   "end": 2.64
+  },
+  {
+   "word": "Un",
+   "start": 3.473,
+   "end": 3.526
+  },
+  {
+   "word": "sachet",
+   "start": 3.59,
+   "end": 3.926
+  },
+  {
+   "word": "ZAP",
+   "start": 4.006,
+   "end": 4.166
+  },
+  {
+   "word": "sous",
+   "start": 4.198,
+   "end": 4.326
+  },
+  {
+   "word": "la",
+   "start": 4.353,
+   "end": 4.406
+  },
+  {
+   "word": "lèvre",
+   "start": 4.446,
+   "end": 5.126
+  },
+  {
+   "word": "cent",
+   "start": 5.158,
+   "end": 5.286
+  },
+  {
+   "word": "milligrammes",
+   "start": 5.318,
+   "end": 5.766
+  },
+  {
+   "word": "de",
+   "start": 5.793,
+   "end": 5.846
+  },
+  {
+   "word": "caféine",
+   "start": 5.926,
+   "end": 6.566
+  },
+  {
+   "word": "plus",
+   "start": 6.614,
+   "end": 6.806
+  },
+  {
+   "word": "qu'un",
+   "start": 6.833,
+   "end": 6.966
+  },
+  {
+   "word": "expresso",
+   "start": 7.016,
+   "end": 7.606
+  },
+  {
+   "word": "l'énergie",
+   "start": 8.069,
+   "end": 8.486
+  },
+  {
+   "word": "qui",
+   "start": 8.526,
+   "end": 8.646
+  },
+  {
+   "word": "débarque",
+   "start": 8.726,
+   "end": 9.286
+  },
+  {
+   "word": "et",
+   "start": 9.393,
+   "end": 9.606
+  },
+  {
+   "word": "c'est",
+   "start": 9.646,
+   "end": 9.846
+  },
+  {
+   "word": "parti",
+   "start": 9.899,
+   "end": 10.166
+  },
+  {
+   "word": "pour",
+   "start": 10.198,
+   "end": 10.326
+  },
+  {
+   "word": "la",
+   "start": 10.353,
+   "end": 10.406
+  },
+  {
+   "word": "séance",
+   "start": 10.486,
+   "end": 10.966
+  },
+  {
+   "word": "pas",
+   "start": 11.417,
+   "end": 11.432
+  },
+  {
+   "word": "de",
+   "start": 11.439,
+   "end": 11.452
+  },
+  {
+   "word": "café",
+   "start": 11.516,
+   "end": 11.772
+  },
+  {
+   "word": "à",
+   "start": 11.812,
+   "end": 11.852
+  },
+  {
+   "word": "préparer",
+   "start": 11.892,
+   "end": 12.412
+  },
+  {
+   "word": "pas",
+   "start": 12.512,
+   "end": 12.812
+  },
+  {
+   "word": "de",
+   "start": 12.839,
+   "end": 12.892
+  },
+  {
+   "word": "canette",
+   "start": 12.952,
+   "end": 13.692
+  },
+  {
+   "word": "ça",
+   "start": 13.745,
+   "end": 13.852
+  },
+  {
+   "word": "tient",
+   "start": 13.932,
+   "end": 14.172
+  },
+  {
+   "word": "dans",
+   "start": 14.204,
+   "end": 14.332
+  },
+  {
+   "word": "ta",
+   "start": 14.385,
+   "end": 14.492
+  },
+  {
+   "word": "poche",
+   "start": 14.545,
+   "end": 15.292
+  },
+  {
+   "word": "elle-théanine",
+   "start": 15.436,
+   "end": 16.177
+  },
+  {
+   "word": "vitamines",
+   "start": 16.237,
+   "end": 16.657
+  },
+  {
+   "word": "B",
+   "start": 16.777,
+   "end": 16.977
+  },
+  {
+   "word": "goût",
+   "start": 17.03,
+   "end": 17.217
+  },
+  {
+   "word": "cerise",
+   "start": 17.277,
+   "end": 17.537
+  },
+  {
+   "word": "noire",
+   "start": 17.59,
+   "end": 18.337
+  },
+  {
+   "word": "trente-six",
+   "start": 18.405,
+   "end": 18.657
+  },
+  {
+   "word": "sachets",
+   "start": 18.721,
+   "end": 19.297
+  },
+  {
+   "word": "panier",
+   "start": 19.337,
+   "end": 19.537
+  },
+  {
+   "word": "orange",
+   "start": 19.594,
+   "end": 20.337
+  },
+  {
+   "word": "FONCE",
+   "start": 20.417,
+   "end": 20.897
+  }
+ ],
+ "durationSec": 21.081,
+ "model": "eleven_v3"
+}

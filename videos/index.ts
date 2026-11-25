@@ -19,4 +19,30 @@ import {config as karacareFilles} from './karacare-filles/config';
 import {config as nucleverFace} from './nuclever-cortisol-face/config';
 import {config as nucleverSommeil} from './nuclever-sommeil/config';
 
-export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil];
+import {config as v_creatine_coach} from './creatine-coach/config';
+import {config as v_creatine_kebab} from './creatine-kebab/config';
+import {config as v_creatine_serie} from './creatine-serie/config';
+import {config as v_zap_poubelle} from './zap-poubelle/config';
+import {config as v_zap_cardio} from './zap-cardio/config';
+import {config as v_zap_poche} from './zap-poche/config';
+import {config as v_vitavea_fantome} from './vitavea-fantome/config';
+import {config as v_vitavea_dubai} from './vitavea-dubai/config';
+import {config as v_vitavea_uv} from './vitavea-uv/config';
+import {config as v_novoma_genoux} from './novoma-genoux/config';
+import {config as v_novoma_28000} from './novoma-28000/config';
+import {config as v_novoma_3en1} from './novoma-3en1/config';
+import {config as v_lashile_casse} from './lashile-casse/config';
+import {config as v_lashile_meuf} from './lashile-meuf/config';
+import {config as v_lashile_bonbons} from './lashile-bonbons/config';
+import {config as v_medicube_ton_nez} from './medicube-ton-nez/config';
+import {config as v_medicube_coreenne} from './medicube-coreenne/config';
+import {config as v_medicube_miroir} from './medicube-miroir/config';
+import {config as v_karacare_salaire} from './karacare-salaire/config';
+import {config as v_karacare_paille} from './karacare-paille/config';
+import {config as v_karacare_elu} from './karacare-elu/config';
+import {config as v_nuclever_oreiller} from './nuclever-oreiller/config';
+import {config as v_nuclever_stress} from './nuclever-stress/config';
+import {config as v_nuclever_55000} from './nuclever-55000/config';
+
+export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil,
+  v_creatine_coach, v_creatine_kebab, v_creatine_serie, v_zap_poubelle, v_zap_cardio, v_zap_poche, v_vitavea_fantome, v_vitavea_dubai, v_vitavea_uv, v_novoma_genoux, v_novoma_28000, v_novoma_3en1, v_lashile_casse, v_lashile_meuf, v_lashile_bonbons, v_medicube_ton_nez, v_medicube_coreenne, v_medicube_miroir, v_karacare_salaire, v_karacare_paille, v_karacare_elu, v_nuclever_oreiller, v_nuclever_stress, v_nuclever_55000];

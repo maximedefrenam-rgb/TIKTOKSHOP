@@ -1,0 +1,286 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.115,
+   "end": 0.136
+  },
+  {
+   "word": "café",
+   "start": 0.19,
+   "end": 0.407
+  },
+  {
+   "word": "à",
+   "start": 0.441,
+   "end": 0.475
+  },
+  {
+   "word": "deux",
+   "start": 0.502,
+   "end": 0.61
+  },
+  {
+   "word": "balles",
+   "start": 0.644,
+   "end": 0.814
+  },
+  {
+   "word": "qui",
+   "start": 0.831,
+   "end": 0.881
+  },
+  {
+   "word": "te",
+   "start": 0.904,
+   "end": 0.949
+  },
+  {
+   "word": "fait",
+   "start": 0.963,
+   "end": 1.017
+  },
+  {
+   "word": "plus",
+   "start": 1.044,
+   "end": 1.153
+  },
+  {
+   "word": "rien",
+   "start": 1.193,
+   "end": 1.356
+  },
+  {
+   "word": "Poubelle",
+   "start": 1.627,
+   "end": 2.169
+  },
+  {
+   "word": "Un",
+   "start": 2.319,
+   "end": 2.409
+  },
+  {
+   "word": "sachet",
+   "start": 2.437,
+   "end": 2.613
+  },
+  {
+   "word": "ZAP",
+   "start": 2.681,
+   "end": 3.155
+  },
+  {
+   "word": "c'est",
+   "start": 3.189,
+   "end": 3.426
+  },
+  {
+   "word": "cent",
+   "start": 3.44,
+   "end": 3.494
+  },
+  {
+   "word": "milligrammes",
+   "start": 3.535,
+   "end": 3.969
+  },
+  {
+   "word": "de",
+   "start": 3.992,
+   "end": 4.037
+  },
+  {
+   "word": "caféine",
+   "start": 4.104,
+   "end": 4.85
+  },
+  {
+   "word": "plus",
+   "start": 4.891,
+   "end": 5.054
+  },
+  {
+   "word": "qu'un",
+   "start": 5.076,
+   "end": 5.189
+  },
+  {
+   "word": "expresso",
+   "start": 5.24,
+   "end": 5.732
+  },
+  {
+   "word": "sous",
+   "start": 5.799,
+   "end": 6.07
+  },
+  {
+   "word": "la",
+   "start": 6.115,
+   "end": 6.206
+  },
+  {
+   "word": "lèvre",
+   "start": 6.24,
+   "end": 6.681
+  },
+  {
+   "word": "discret",
+   "start": 6.732,
+   "end": 7.426
+  },
+  {
+   "word": "l'énergie",
+   "start": 7.537,
+   "end": 7.91
+  },
+  {
+   "word": "qui",
+   "start": 7.927,
+   "end": 7.978
+  },
+  {
+   "word": "monte",
+   "start": 8.032,
+   "end": 8.385
+  },
+  {
+   "word": "t'es",
+   "start": 8.487,
+   "end": 8.656
+  },
+  {
+   "word": "dans",
+   "start": 8.683,
+   "end": 8.792
+  },
+  {
+   "word": "ta",
+   "start": 8.837,
+   "end": 8.927
+  },
+  {
+   "word": "zone",
+   "start": 8.995,
+   "end": 9.334
+  },
+  {
+   "word": "avec",
+   "start": 9.456,
+   "end": 9.944
+  },
+  {
+   "word": "elle-théanine",
+   "start": 9.985,
+   "end": 10.554
+  },
+  {
+   "word": "et",
+   "start": 10.599,
+   "end": 10.69
+  },
+  {
+   "word": "vitamines",
+   "start": 10.724,
+   "end": 11.097
+  },
+  {
+   "word": "B",
+   "start": 11.165,
+   "end": 11.504
+  },
+  {
+   "word": "goût",
+   "start": 11.548,
+   "end": 11.707
+  },
+  {
+   "word": "cerise",
+   "start": 11.758,
+   "end": 12.046
+  },
+  {
+   "word": "noire",
+   "start": 12.091,
+   "end": 12.385
+  },
+  {
+   "word": "et",
+   "start": 12.496,
+   "end": 12.541
+  },
+  {
+   "word": "le",
+   "start": 12.563,
+   "end": 12.608
+  },
+  {
+   "word": "sachet",
+   "start": 12.663,
+   "end": 12.947
+  },
+  {
+   "word": "te",
+   "start": 12.992,
+   "end": 13.083
+  },
+  {
+   "word": "coûte",
+   "start": 13.106,
+   "end": 13.286
+  },
+  {
+   "word": "moins",
+   "start": 13.331,
+   "end": 13.557
+  },
+  {
+   "word": "cher",
+   "start": 13.612,
+   "end": 13.829
+  },
+  {
+   "word": "qu'un",
+   "start": 13.852,
+   "end": 13.964
+  },
+  {
+   "word": "café",
+   "start": 14.032,
+   "end": 14.778
+  },
+  {
+   "word": "trente-six",
+   "start": 14.901,
+   "end": 15.185
+  },
+  {
+   "word": "sachets",
+   "start": 15.225,
+   "end": 15.727
+  },
+  {
+   "word": "panier",
+   "start": 15.761,
+   "end": 15.998
+  },
+  {
+   "word": "orange",
+   "start": 16.046,
+   "end": 16.676
+  },
+  {
+   "word": "FONCE",
+   "start": 16.744,
+   "end": 17.151
+  }
+ ],
+ "durationSec": 17.241,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}
