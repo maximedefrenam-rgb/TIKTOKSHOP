@@ -47,7 +47,7 @@ export const config: VideoConfig = {
       keywords: [
         {text: 'BORDEL !', at: at(w, 'Bordel'), until: at(w, 'crevé') - 0.04, y: 300, size: 200, color: 'alert', impact: true},
         {text: 'TOUJOURS CREVÉ ?', at: at(w, 'crevé'), y: 300, size: 140, stack: true},
-        {text: 'TU B.R. AU TAF ?', at: at(w, 'B'), y: 470, size: 110, color: 'accent', stack: true},
+        {text: 'TU TE B.R. AU TAF ?', at: at(w, 'B'), y: 470, size: 110, color: 'accent', stack: true},
         {text: 'TU SKIP LA SALLE ?', at: at(w, 'skip'), y: 600, size: 100, stack: true},
       ],
     },
