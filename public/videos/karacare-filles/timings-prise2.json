@@ -1,0 +1,431 @@
+{
+ "words": [
+  {
+   "word": "Les",
+   "start": 0.101,
+   "end": 0.127
+  },
+  {
+   "word": "filles",
+   "start": 0.156,
+   "end": 0.601
+  },
+  {
+   "word": "vous",
+   "start": 0.629,
+   "end": 0.737
+  },
+  {
+   "word": "en",
+   "start": 0.76,
+   "end": 0.805
+  },
+  {
+   "word": "avez",
+   "start": 0.832,
+   "end": 0.94
+  },
+  {
+   "word": "pas",
+   "start": 0.974,
+   "end": 1.076
+  },
+  {
+   "word": "marre",
+   "start": 1.11,
+   "end": 1.279
+  },
+  {
+   "word": "que",
+   "start": 1.296,
+   "end": 1.347
+  },
+  {
+   "word": "vos",
+   "start": 1.381,
+   "end": 1.483
+  },
+  {
+   "word": "cheveux",
+   "start": 1.517,
+   "end": 1.686
+  },
+  {
+   "word": "poussent",
+   "start": 1.703,
+   "end": 1.89
+  },
+  {
+   "word": "pas",
+   "start": 1.94,
+   "end": 2.093
+  },
+  {
+   "word": "d'un",
+   "start": 2.127,
+   "end": 2.229
+  },
+  {
+   "word": "millimètre",
+   "start": 2.256,
+   "end": 2.703
+  },
+  {
+   "word": "Plus",
+   "start": 2.923,
+   "end": 2.95
+  },
+  {
+   "word": "de",
+   "start": 3.018,
+   "end": 3.153
+  },
+  {
+   "word": "soixante",
+   "start": 3.176,
+   "end": 3.492
+  },
+  {
+   "word": "mille",
+   "start": 3.526,
+   "end": 3.628
+  },
+  {
+   "word": "clientes",
+   "start": 3.673,
+   "end": 4.035
+  },
+  {
+   "word": "ont",
+   "start": 4.085,
+   "end": 4.238
+  },
+  {
+   "word": "testé",
+   "start": 4.279,
+   "end": 4.848
+  },
+  {
+   "word": "approuvé",
+   "start": 4.882,
+   "end": 5.255
+  },
+  {
+   "word": "et",
+   "start": 5.368,
+   "end": 5.594
+  },
+  {
+   "word": "élu",
+   "start": 5.628,
+   "end": 5.797
+  },
+  {
+   "word": "Karacare",
+   "start": 5.831,
+   "end": 6.272
+  },
+  {
+   "word": "Hair",
+   "start": 6.299,
+   "end": 6.407
+  },
+  {
+   "word": "Boost",
+   "start": 6.464,
+   "end": 6.746
+  },
+  {
+   "word": "produit",
+   "start": 6.814,
+   "end": 7.289
+  },
+  {
+   "word": "de",
+   "start": 7.312,
+   "end": 7.357
+  },
+  {
+   "word": "l'année",
+   "start": 7.391,
+   "end": 7.628
+  },
+  {
+   "word": "deux",
+   "start": 7.655,
+   "end": 7.763
+  },
+  {
+   "word": "mille",
+   "start": 7.797,
+   "end": 7.899
+  },
+  {
+   "word": "vingt-six",
+   "start": 7.933,
+   "end": 8.306
+  },
+  {
+   "word": "Concentré",
+   "start": 8.71,
+   "end": 8.924
+  },
+  {
+   "word": "de",
+   "start": 8.947,
+   "end": 8.992
+  },
+  {
+   "word": "vitamines",
+   "start": 9.043,
+   "end": 9.399
+  },
+  {
+   "word": "et",
+   "start": 9.422,
+   "end": 9.467
+  },
+  {
+   "word": "minéraux",
+   "start": 9.501,
+   "end": 10.145
+  },
+  {
+   "word": "zinc",
+   "start": 10.226,
+   "end": 10.755
+  },
+  {
+   "word": "biotine",
+   "start": 10.8,
+   "end": 11.433
+  },
+  {
+   "word": "vitamine",
+   "start": 11.484,
+   "end": 11.84
+  },
+  {
+   "word": "B6",
+   "start": 11.975,
+   "end": 12.382
+  },
+  {
+   "word": "pour",
+   "start": 12.45,
+   "end": 12.721
+  },
+  {
+   "word": "la",
+   "start": 12.744,
+   "end": 12.789
+  },
+  {
+   "word": "pousse",
+   "start": 12.856,
+   "end": 13.331
+  },
+  {
+   "word": "la",
+   "start": 13.376,
+   "end": 13.467
+  },
+  {
+   "word": "force",
+   "start": 13.534,
+   "end": 13.873
+  },
+  {
+   "word": "et",
+   "start": 13.918,
+   "end": 14.009
+  },
+  {
+   "word": "le",
+   "start": 14.032,
+   "end": 14.077
+  },
+  {
+   "word": "volume",
+   "start": 14.135,
+   "end": 14.755
+  },
+  {
+   "word": "des",
+   "start": 14.806,
+   "end": 14.958
+  },
+  {
+   "word": "cheveux",
+   "start": 14.992,
+   "end": 15.297
+  },
+  {
+   "word": "SUBLIMES",
+   "start": 15.399,
+   "end": 16.111
+  },
+  {
+   "word": "et",
+   "start": 16.235,
+   "end": 16.246
+  },
+  {
+   "word": "selon",
+   "start": 16.291,
+   "end": 16.517
+  },
+  {
+   "word": "la",
+   "start": 16.54,
+   "end": 16.585
+  },
+  {
+   "word": "marque",
+   "start": 16.634,
+   "end": 17.195
+  },
+  {
+   "word": "jusqu'à",
+   "start": 17.24,
+   "end": 17.534
+  },
+  {
+   "word": "douze",
+   "start": 17.602,
+   "end": 17.873
+  },
+  {
+   "word": "centimètres",
+   "start": 17.928,
+   "end": 18.348
+  },
+  {
+   "word": "de",
+   "start": 18.393,
+   "end": 18.484
+  },
+  {
+   "word": "pousse",
+   "start": 18.551,
+   "end": 18.823
+  },
+  {
+   "word": "avec",
+   "start": 18.877,
+   "end": 19.094
+  },
+  {
+   "word": "la",
+   "start": 19.117,
+   "end": 19.162
+  },
+  {
+   "word": "cure",
+   "start": 19.202,
+   "end": 19.365
+  },
+  {
+   "word": "de",
+   "start": 19.41,
+   "end": 19.501
+  },
+  {
+   "word": "trois",
+   "start": 19.534,
+   "end": 19.704
+  },
+  {
+   "word": "mois",
+   "start": 19.745,
+   "end": 19.907
+  },
+  {
+   "word": "Gummies",
+   "start": 20.225,
+   "end": 20.327
+  },
+  {
+   "word": "goût",
+   "start": 20.35,
+   "end": 20.463
+  },
+  {
+   "word": "myrtille",
+   "start": 20.507,
+   "end": 20.869
+  },
+  {
+   "word": "framboise",
+   "start": 20.896,
+   "end": 21.344
+  },
+  {
+   "word": "deux",
+   "start": 21.398,
+   "end": 21.615
+  },
+  {
+   "word": "par",
+   "start": 21.666,
+   "end": 21.818
+  },
+  {
+   "word": "jour",
+   "start": 21.886,
+   "end": 22.361
+  },
+  {
+   "word": "deux",
+   "start": 22.388,
+   "end": 22.496
+  },
+  {
+   "word": "mois",
+   "start": 22.524,
+   "end": 22.632
+  },
+  {
+   "word": "de",
+   "start": 22.655,
+   "end": 22.7
+  },
+  {
+   "word": "cure",
+   "start": 22.768,
+   "end": 23.445
+  },
+  {
+   "word": "livraison",
+   "start": 23.611,
+   "end": 23.92
+  },
+  {
+   "word": "gratuite",
+   "start": 23.965,
+   "end": 24.395
+  },
+  {
+   "word": "panier",
+   "start": 24.463,
+   "end": 24.734
+  },
+  {
+   "word": "orange",
+   "start": 24.792,
+   "end": 25.378
+  },
+  {
+   "word": "cours",
+   "start": 25.418,
+   "end": 25.615
+  }
+ ],
+ "durationSec": 25.835,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 5
+ }
+}

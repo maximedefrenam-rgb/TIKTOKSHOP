@@ -1,0 +1,446 @@
+{
+ "words": [
+  {
+   "word": "Arrête",
+   "start": 0.204,
+   "end": 0.4
+  },
+  {
+   "word": "de",
+   "start": 0.427,
+   "end": 0.48
+  },
+  {
+   "word": "te",
+   "start": 0.533,
+   "end": 0.64
+  },
+  {
+   "word": "planquer",
+   "start": 0.688,
+   "end": 1.04
+  },
+  {
+   "word": "sous",
+   "start": 1.072,
+   "end": 1.2
+  },
+  {
+   "word": "ta",
+   "start": 1.253,
+   "end": 1.36
+  },
+  {
+   "word": "casquette",
+   "start": 1.4,
+   "end": 1.76
+  },
+  {
+   "word": "dès",
+   "start": 1.82,
+   "end": 2
+  },
+  {
+   "word": "qu'il",
+   "start": 2.027,
+   "end": 2.16
+  },
+  {
+   "word": "y",
+   "start": 2.2,
+   "end": 2.24
+  },
+  {
+   "word": "a",
+   "start": 2.28,
+   "end": 2.32
+  },
+  {
+   "word": "du",
+   "start": 2.347,
+   "end": 2.4
+  },
+  {
+   "word": "vent",
+   "start": 2.448,
+   "end": 2.72
+  },
+  {
+   "word": "frérot",
+   "start": 2.747,
+   "end": 3.12
+  },
+  {
+   "word": "Tes",
+   "start": 3.83,
+   "end": 3.84
+  },
+  {
+   "word": "cheveux",
+   "start": 3.9,
+   "end": 4.24
+  },
+  {
+   "word": "se",
+   "start": 4.293,
+   "end": 4.4
+  },
+  {
+   "word": "clairsèment",
+   "start": 4.48,
+   "end": 5.52
+  },
+  {
+   "word": "ton",
+   "start": 5.56,
+   "end": 5.68
+  },
+  {
+   "word": "crâne",
+   "start": 5.707,
+   "end": 6
+  },
+  {
+   "word": "brille",
+   "start": 6.053,
+   "end": 6.4
+  },
+  {
+   "word": "sur",
+   "start": 6.42,
+   "end": 6.48
+  },
+  {
+   "word": "les",
+   "start": 6.52,
+   "end": 6.64
+  },
+  {
+   "word": "photos",
+   "start": 6.686,
+   "end": 6.96
+  },
+  {
+   "word": "prises",
+   "start": 6.987,
+   "end": 7.2
+  },
+  {
+   "word": "d'en",
+   "start": 7.24,
+   "end": 7.36
+  },
+  {
+   "word": "haut",
+   "start": 7.376,
+   "end": 7.44
+  },
+  {
+   "word": "Karacare",
+   "start": 8.286,
+   "end": 8.646
+  },
+  {
+   "word": "Hair",
+   "start": 8.678,
+   "end": 8.806
+  },
+  {
+   "word": "Boost",
+   "start": 8.859,
+   "end": 9.206
+  },
+  {
+   "word": "élu",
+   "start": 9.366,
+   "end": 9.686
+  },
+  {
+   "word": "produit",
+   "start": 9.736,
+   "end": 10.086
+  },
+  {
+   "word": "de",
+   "start": 10.113,
+   "end": 10.166
+  },
+  {
+   "word": "l'année",
+   "start": 10.186,
+   "end": 10.326
+  },
+  {
+   "word": "deux",
+   "start": 10.358,
+   "end": 10.486
+  },
+  {
+   "word": "mille",
+   "start": 10.526,
+   "end": 10.726
+  },
+  {
+   "word": "vingt-six",
+   "start": 10.746,
+   "end": 11.606
+  },
+  {
+   "word": "plus",
+   "start": 11.638,
+   "end": 11.766
+  },
+  {
+   "word": "de",
+   "start": 11.819,
+   "end": 11.926
+  },
+  {
+   "word": "soixante",
+   "start": 11.979,
+   "end": 12.406
+  },
+  {
+   "word": "mille",
+   "start": 12.446,
+   "end": 12.566
+  },
+  {
+   "word": "clients",
+   "start": 12.616,
+   "end": 13.446
+  },
+  {
+   "word": "zinc",
+   "start": 13.814,
+   "end": 14.006
+  },
+  {
+   "word": "biotine",
+   "start": 14.059,
+   "end": 14.726
+  },
+  {
+   "word": "vitamine",
+   "start": 14.766,
+   "end": 15.126
+  },
+  {
+   "word": "B6",
+   "start": 15.246,
+   "end": 15.686
+  },
+  {
+   "word": "onze",
+   "start": 15.798,
+   "end": 16.246
+  },
+  {
+   "word": "vitamines",
+   "start": 16.306,
+   "end": 16.726
+  },
+  {
+   "word": "et",
+   "start": 16.753,
+   "end": 16.806
+  },
+  {
+   "word": "minéraux",
+   "start": 16.846,
+   "end": 17.526
+  },
+  {
+   "word": "conçu",
+   "start": 17.586,
+   "end": 17.846
+  },
+  {
+   "word": "pour",
+   "start": 17.894,
+   "end": 18.086
+  },
+  {
+   "word": "augmenter",
+   "start": 18.146,
+   "end": 18.646
+  },
+  {
+   "word": "la",
+   "start": 18.673,
+   "end": 18.726
+  },
+  {
+   "word": "pousse",
+   "start": 18.806,
+   "end": 19.286
+  },
+  {
+   "word": "la",
+   "start": 19.313,
+   "end": 19.366
+  },
+  {
+   "word": "force",
+   "start": 19.446,
+   "end": 19.846
+  },
+  {
+   "word": "et",
+   "start": 19.899,
+   "end": 20.006
+  },
+  {
+   "word": "le",
+   "start": 20.033,
+   "end": 20.086
+  },
+  {
+   "word": "volume",
+   "start": 20.143,
+   "end": 20.486
+  },
+  {
+   "word": "des",
+   "start": 20.506,
+   "end": 20.566
+  },
+  {
+   "word": "cheveux",
+   "start": 20.626,
+   "end": 21.446
+  },
+  {
+   "word": "et",
+   "start": 21.593,
+   "end": 21.606
+  },
+  {
+   "word": "selon",
+   "start": 21.646,
+   "end": 21.846
+  },
+  {
+   "word": "la",
+   "start": 21.899,
+   "end": 22.006
+  },
+  {
+   "word": "marque",
+   "start": 22.052,
+   "end": 22.566
+  },
+  {
+   "word": "jusqu'à",
+   "start": 22.633,
+   "end": 23.046
+  },
+  {
+   "word": "douze",
+   "start": 23.126,
+   "end": 23.446
+  },
+  {
+   "word": "centimètres",
+   "start": 23.51,
+   "end": 24.086
+  },
+  {
+   "word": "de",
+   "start": 24.139,
+   "end": 24.246
+  },
+  {
+   "word": "pousse",
+   "start": 24.326,
+   "end": 24.646
+  },
+  {
+   "word": "en",
+   "start": 24.726,
+   "end": 24.886
+  },
+  {
+   "word": "trois",
+   "start": 24.953,
+   "end": 25.286
+  },
+  {
+   "word": "mois",
+   "start": 25.334,
+   "end": 25.526
+  },
+  {
+   "word": "Deux",
+   "start": 26.379,
+   "end": 26.406
+  },
+  {
+   "word": "gummies",
+   "start": 26.446,
+   "end": 26.726
+  },
+  {
+   "word": "par",
+   "start": 26.766,
+   "end": 26.886
+  },
+  {
+   "word": "jour",
+   "start": 26.95,
+   "end": 27.286
+  },
+  {
+   "word": "moins",
+   "start": 27.366,
+   "end": 27.766
+  },
+  {
+   "word": "d'un",
+   "start": 27.846,
+   "end": 28.006
+  },
+  {
+   "word": "euro",
+   "start": 28.07,
+   "end": 28.326
+  },
+  {
+   "word": "par",
+   "start": 28.386,
+   "end": 28.566
+  },
+  {
+   "word": "jour",
+   "start": 28.63,
+   "end": 29.086
+  },
+  {
+   "word": "livraison",
+   "start": 29.136,
+   "end": 29.526
+  },
+  {
+   "word": "gratuite",
+   "start": 29.579,
+   "end": 30.406
+  },
+  {
+   "word": "panier",
+   "start": 30.446,
+   "end": 30.726
+  },
+  {
+   "word": "orange",
+   "start": 30.783,
+   "end": 31.526
+  },
+  {
+   "word": "FONCE",
+   "start": 31.646,
+   "end": 32.166
+  }
+ ],
+ "durationSec": 32.287,
+ "model": "eleven_v3"
+}

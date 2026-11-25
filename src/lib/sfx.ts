@@ -71,7 +71,7 @@ export const buildSfx = (cfg: VideoConfig): SfxCue[] => {
           if (s.revealAt !== undefined) { cues.push({name: 'whoosh', at: s.revealAt - 0.1, volume: 0.4}); cues.push({name: 'ding', at: s.revealAt + 0.45, volume: 0.4}); }
           break;
         case 'reviews':
-          cues.push({name: 'pop', at: s.ratingAt, volume: 0.4});
+          if (s.rating !== undefined) cues.push({name: 'pop', at: s.ratingAt, volume: 0.4});
           cues.push({name: 'tick', at: s.soldAt, volume: 0.4});
           if (s.rankAt !== undefined) cues.push({name: 'ding', at: s.rankAt, volume: 0.4});
           break;

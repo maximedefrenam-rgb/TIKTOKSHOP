@@ -15,3 +15,5 @@
 | 2026-11-25 | Lashilé Good Hair gummies 60 | Cible féminine + n°1 ventes + étude + en coupe | Hello mes baddies, regardez ce que j'ai trouvé | v1 (baddies) |  |  |  |
 | 2026-11-25 | medicube Toner Pads Mix & Match | Avant/après + en coupe + bénéfices + avis + Black Friday | T'en as pas marre de tes putains de points noirs ?! | v1 (points noirs) |  |  |  |
 | 2026-11-25 | medicube Toner Pads Mix & Match | Promo d'abord + avis + STOP points noirs + bénéfices | Wouah, c'est quoi cette promo de dingue ?! | v1 (promo) |  |  |  |
+| 2026-11-25 | Karacare Hair Boost 2 mois | Mecs (cheveux clairsemés) + preuve sociale + en coupe + 12 cm | Arrête de te planquer sous ta casquette | v1 (casquette) |  |  |  |
+| 2026-11-25 | Karacare Hair Boost 2 mois | Filles + preuve sociale + en coupe + 12 cm | Les filles, vos cheveux poussent pas d'un millimètre ?! | v1 (filles) |  |  |  |

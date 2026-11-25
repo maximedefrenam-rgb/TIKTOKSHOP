@@ -397,21 +397,23 @@ export const ReviewsScene: React.FC<P<'reviews'>> = ({scene, cfg, offset}) => {
   const rA = s2f(scene.ratingAt), sA = s2f(scene.soldAt);
   const rk = scene.rankAt !== undefined ? s2f(scene.rankAt) : Infinity;
   const pR = f >= rA ? sp(f, rA) : 0;
-  const stars = easeOut(f, rA, rA + 24, 0, scene.rating);
+  const stars = easeOut(f, rA, rA + 24, 0, scene.rating ?? 0);
   const sold = Math.round(easeOut(f, sA, sA + 20, 0, scene.sold));
   const pS = f >= sA ? sp(f, sA) : 0;
   const pK = f >= rk ? sp(f, rk) : 0;
   return (
     <AbsoluteFill>
-      <BigText text={scene.rating.toFixed(1).replace('.', ',')} size={230} color={cfg.accent} y={330} progress={pR} />
-      <div style={{position: 'absolute', left: SAFE_CX, top: 500, transform: `translate(-50%, -50%) scale(${pR})`, display: 'flex', gap: 6}}>
-        {[0, 1, 2, 3, 4].map((i) => <Star key={i} fill={Math.max(0, Math.min(1, stars - i))} color="#FFD60A" />)}
-      </div>
+      {scene.rating !== undefined && <BigText text={scene.rating.toFixed(1).replace('.', ',')} size={230} color={cfg.accent} y={330} progress={pR} />}
+      {scene.rating !== undefined && (
+        <div style={{position: 'absolute', left: SAFE_CX, top: 500, transform: `translate(-50%, -50%) scale(${pR})`, display: 'flex', gap: 6}}>
+          {[0, 1, 2, 3, 4].map((i) => <Star key={i} fill={Math.max(0, Math.min(1, stars - i))} color="#FFD60A" />)}
+        </div>
+      )}
       {scene.reviews && <BigText text={`${scene.reviews} AVIS`} size={50} small color={BRAND.colors.text} y={585} progress={pR} />}
-      <BigText text={`${sold.toLocaleString('fr-FR')} VENDUS`} size={120} color={BRAND.colors.text} y={710} progress={pS} />
+      <BigText text={`${scene.rating === undefined ? '+ ' : ''}${sold.toLocaleString('fr-FR')} ${scene.soldLabel ?? 'VENDUS'}`} size={scene.rating === undefined ? 170 : 120} color={scene.rating === undefined ? cfg.accent : BRAND.colors.text} y={scene.rating === undefined ? 450 : 710} progress={pS} />
       {scene.rank && (
         <div style={{position: 'absolute', left: SAFE_CX, top: 860, transform: `translate(-50%, -50%) scale(${pK}) rotate(${(1 - pK) * -6}deg)`, opacity: pK,
-          background: cfg.accent, color: OUT, fontFamily: BRAND.fonts.title, fontSize: 64, padding: '4px 30px', borderRadius: 16, whiteSpace: 'nowrap',
+          background: cfg.accent, color: '#fff', fontFamily: BRAND.fonts.title, fontSize: 64, padding: '4px 30px', borderRadius: 16, whiteSpace: 'nowrap',
           boxShadow: `0 12px 40px ${cfg.accent}66`}}>{scene.rank}</div>
       )}
       <Product offset={offset} src={cfg.productImage} height={560} scale={cfg.productScale ?? 1} cx={productCx(cfg, scene)} cy={1360} enterAt={s2f(scene.from)} seed="rev" sweeps={[sA]} />

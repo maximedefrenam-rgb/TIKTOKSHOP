@@ -14,5 +14,7 @@ import {config as lashileFleurs} from './lashile-fleurs/config';
 import {config as lashileBaddies} from './lashile-baddies/config';
 import {config as medicubePointsNoirs} from './medicube-points-noirs/config';
 import {config as medicubePromo} from './medicube-promo/config';
+import {config as karacareCasquette} from './karacare-casquette/config';
+import {config as karacareFilles} from './karacare-filles/config';
 
-export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo];
+export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles];

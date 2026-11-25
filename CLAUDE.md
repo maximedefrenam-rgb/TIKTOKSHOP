@@ -46,6 +46,8 @@ livraison, mentions de l'emballage), parfois `script.md` validé.
   → appel à l'action vers le panier orange (28 s–fin).
 - Accroche choc dans les 2 premières secondes : chiffre fort ou idée reçue à casser.
 - Phrases courtes, langage parlé, tutoiement.
+- **Piège des mots répétés** : `at(w, 'mot', n)` prend la n-ième occurrence ; « deux » (deux mille…), « et », « des »,
+  « pour »… reviennent souvent → toujours vérifier la bonne occurrence (sinon une scène démarre trop tôt).
 - **Retour utilisateur après la vidéo n°1** : parler PLUS VITE et PLUS DIRECT. Le bénéfice doit être compris tout de suite,
   sans détour. Oser des punchlines trash qui interpellent le spectateur, du style « arrête d'avoir un putain de … »
   (gros mots assumés, c'est ce qui marche sur TikTok). Peu de « ... » (ils créent de longs silences).
