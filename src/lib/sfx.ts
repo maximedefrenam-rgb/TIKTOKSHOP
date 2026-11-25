@@ -66,6 +66,15 @@ export const buildSfx = (cfg: VideoConfig): SfxCue[] => {
           cues.push({name: 'pop', at: s.rightAt, volume: 0.4});
           if (s.crossAt !== undefined) cues.push({name: 'impact', at: s.crossAt, volume: 0.5});
           break;
+        case 'beforeAfter':
+          if (s.stopAt !== undefined) cues.push({name: 'impact', at: s.stopAt, volume: 0.5});
+          if (s.revealAt !== undefined) { cues.push({name: 'whoosh', at: s.revealAt - 0.1, volume: 0.4}); cues.push({name: 'ding', at: s.revealAt + 0.45, volume: 0.4}); }
+          break;
+        case 'reviews':
+          cues.push({name: 'pop', at: s.ratingAt, volume: 0.4});
+          cues.push({name: 'tick', at: s.soldAt, volume: 0.4});
+          if (s.rankAt !== undefined) cues.push({name: 'ding', at: s.rankAt, volume: 0.4});
+          break;
         case 'cta':
           cues.push({name: 'ding', at: s.arrowAt ?? s.from + 0.3, volume: 0.4});
           break;

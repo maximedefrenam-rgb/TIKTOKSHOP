@@ -1,5 +1,5 @@
 import React from 'react';
-import {AbsoluteFill, useCurrentFrame} from 'remotion';
+import {AbsoluteFill, staticFile, useCurrentFrame} from 'remotion';
 import {BRAND, SAFE_CX, SAFE_W} from '../brand';
 import {sp, SNAP, s2f, lin, easeOut, rand} from '../lib/anim';
 import type {Scene, VideoConfig} from '../types';
@@ -335,6 +335,87 @@ export const UsageScene: React.FC<P<'usage'>> = ({scene, cfg, offset}) => {
         </div>
       )}
       <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={300} />
+    </AbsoluteFill>
+  );
+};
+
+/* ------------------------------------------------ AVANT / APRÈS (photo, volet) */
+export const BeforeAfterScene: React.FC<P<'beforeAfter'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const f0 = s2f(scene.from);
+  const pIn = sp(f, f0 + 1);
+  const R = scene.revealAt !== undefined ? s2f(scene.revealAt) : Infinity;
+  const wipe = f >= R ? easeOut(f, R, R + 14) : 0;
+  const stop = scene.stopAt !== undefined && f >= s2f(scene.stopAt) ? sp(f, s2f(scene.stopAt)) * (1 - wipe) : 0;
+  const W = 700, H = 660, cx = SAFE_CX, cy = 700;
+  const half = (side: 'left' | 'right'): React.CSSProperties => ({
+    position: 'absolute', inset: 0,
+    backgroundImage: `url(${staticFile(scene.image)})`,
+    backgroundSize: '200% 100%',
+    backgroundPosition: side === 'left' ? '0% 50%' : '100% 50%',
+  });
+  return (
+    <AbsoluteFill>
+      <div style={{position: 'absolute', left: cx, top: cy, width: W, height: H, transform: `translate(-50%, -50%) scale(${0.7 + 0.3 * pIn})`,
+        opacity: Math.min(1, pIn * 2), borderRadius: 34, overflow: 'hidden', border: `8px solid ${OUT}`, boxShadow: `0 0 0 5px ${cfg.accent}, 0 30px 80px rgba(0,0,0,0.6)`}}>
+        <div style={half('left')} />
+        {scene.revealAt !== undefined && <div style={{...half('right'), clipPath: `inset(0 ${(1 - wipe) * 100}% 0 0)`}} />}
+        {wipe > 0 && wipe < 1 && (
+          <div style={{position: 'absolute', top: 0, bottom: 0, left: `${wipe * 100}%`, width: 10, marginLeft: -5, background: '#fff', boxShadow: '0 0 24px #fff'}} />
+        )}
+        <div style={{position: 'absolute', left: 18, top: 16, background: wipe >= 1 ? cfg.accent : BRAND.colors.alert, color: '#fff',
+          fontFamily: BRAND.fonts.title, fontSize: 52, padding: '0 18px', borderRadius: 12}}>{wipe >= 0.5 ? 'APRÈS' : 'AVANT'}</div>
+        {stop > 0 && (
+          <div style={{position: 'absolute', left: '50%', top: '50%', transform: `translate(-50%, -50%) scale(${1.8 - 0.8 * stop}) rotate(-10deg)`, opacity: stop,
+            border: `12px solid ${BRAND.colors.alert}`, color: BRAND.colors.alert, background: '#0B0B0Fbb', borderRadius: 22, padding: '0 40px',
+            fontFamily: BRAND.fonts.title, fontSize: 170, lineHeight: 1.1}}>STOP</div>
+        )}
+      </div>
+      <div style={{position: 'absolute', left: cx, top: cy + H / 2 + 26, transform: 'translateX(-50%)', fontFamily: BRAND.fonts.body, fontWeight: 700,
+        fontSize: 26, color: '#ffffffaa', opacity: pIn}}>Image d'illustration</div>
+      <Product offset={offset} src={cfg.productImage} height={560} scale={cfg.productScale ?? 1} cx={productCx(cfg, scene)} cy={1330} enterAt={f0} seed="ba" sweeps={[R]} />
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={250} />
+    </AbsoluteFill>
+  );
+};
+
+/* ------------------------------------------------ AVIS (note, étoiles, ventes, classement) */
+const Star: React.FC<{fill: number; color: string}> = ({fill, color}) => (
+  <svg width={110} height={110} viewBox="0 0 24 24">
+    <defs>
+      <linearGradient id={`st${Math.round(fill * 100)}`}>
+        <stop offset={`${fill * 100}%`} stopColor={color} />
+        <stop offset={`${fill * 100}%`} stopColor="#3A3A46" />
+      </linearGradient>
+    </defs>
+    <path d="M12 2.5l2.9 6.2 6.6.7-5 4.5 1.4 6.6L12 17.2 6.1 20.5l1.4-6.6-5-4.5 6.6-.7z" fill={`url(#st${Math.round(fill * 100)})`} stroke={OUT} strokeWidth={1.2} strokeLinejoin="round" />
+  </svg>
+);
+
+export const ReviewsScene: React.FC<P<'reviews'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const rA = s2f(scene.ratingAt), sA = s2f(scene.soldAt);
+  const rk = scene.rankAt !== undefined ? s2f(scene.rankAt) : Infinity;
+  const pR = f >= rA ? sp(f, rA) : 0;
+  const stars = easeOut(f, rA, rA + 24, 0, scene.rating);
+  const sold = Math.round(easeOut(f, sA, sA + 20, 0, scene.sold));
+  const pS = f >= sA ? sp(f, sA) : 0;
+  const pK = f >= rk ? sp(f, rk) : 0;
+  return (
+    <AbsoluteFill>
+      <BigText text={scene.rating.toFixed(1).replace('.', ',')} size={230} color={cfg.accent} y={330} progress={pR} />
+      <div style={{position: 'absolute', left: SAFE_CX, top: 500, transform: `translate(-50%, -50%) scale(${pR})`, display: 'flex', gap: 6}}>
+        {[0, 1, 2, 3, 4].map((i) => <Star key={i} fill={Math.max(0, Math.min(1, stars - i))} color="#FFD60A" />)}
+      </div>
+      {scene.reviews && <BigText text={`${scene.reviews} AVIS`} size={50} small color={BRAND.colors.text} y={585} progress={pR} />}
+      <BigText text={`${sold.toLocaleString('fr-FR')} VENDUS`} size={120} color={BRAND.colors.text} y={710} progress={pS} />
+      {scene.rank && (
+        <div style={{position: 'absolute', left: SAFE_CX, top: 860, transform: `translate(-50%, -50%) scale(${pK}) rotate(${(1 - pK) * -6}deg)`, opacity: pK,
+          background: cfg.accent, color: OUT, fontFamily: BRAND.fonts.title, fontSize: 64, padding: '4px 30px', borderRadius: 16, whiteSpace: 'nowrap',
+          boxShadow: `0 12px 40px ${cfg.accent}66`}}>{scene.rank}</div>
+      )}
+      <Product offset={offset} src={cfg.productImage} height={560} scale={cfg.productScale ?? 1} cx={productCx(cfg, scene)} cy={1360} enterAt={s2f(scene.from)} seed="rev" sweeps={[sA]} />
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={200} />
     </AbsoluteFill>
   );
 };

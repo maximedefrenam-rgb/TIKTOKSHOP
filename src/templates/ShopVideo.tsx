@@ -8,7 +8,7 @@ import {Character} from '../components/Character';
 import {
   HookScene, PriceScene, MythScene, CutawayScene, CompareScene, BenefitScene, CtaScene,
 } from '../components/Scenes';
-import {DosesScene, MuscleScene, PowerScene, FlavorsScene, DealScene, UsageScene} from '../components/Scenes2';
+import {DosesScene, MuscleScene, PowerScene, FlavorsScene, DealScene, UsageScene, BeforeAfterScene, ReviewsScene} from '../components/Scenes2';
 import {impactTimes} from '../lib/sfx';
 import {s2f} from '../lib/anim';
 import type {Scene, VideoConfig} from '../types';
@@ -28,6 +28,8 @@ const renderScene = (scene: Scene, cfg: VideoConfig, offset: number) => {
     case 'flavors': return <FlavorsScene scene={scene} cfg={cfg} offset={offset} />;
     case 'deal': return <DealScene scene={scene} cfg={cfg} offset={offset} />;
     case 'usage': return <UsageScene scene={scene} cfg={cfg} offset={offset} />;
+    case 'beforeAfter': return <BeforeAfterScene scene={scene} cfg={cfg} offset={offset} />;
+    case 'reviews': return <ReviewsScene scene={scene} cfg={cfg} offset={offset} />;
   }
 };
 

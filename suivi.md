@@ -13,3 +13,5 @@
 | 2026-11-25 | ZAP sachets énergétiques cerise noire DUO | Interpellation + comparatif expresso + énergie + promo | Bordel, arrête d'être tout le temps crevé | v1 (crevé) |  |  |  |
 | 2026-11-25 | Lashilé Good Hair gummies 60 | Idée reçue (fleurs) + cadeau Noël + étude + en coupe | Arrête d'acheter des fleurs à ta meuf | v1 (fleurs) |  |  |  |
 | 2026-11-25 | Lashilé Good Hair gummies 60 | Cible féminine + n°1 ventes + étude + en coupe | Hello mes baddies, regardez ce que j'ai trouvé | v1 (baddies) |  |  |  |
+| 2026-11-25 | medicube Toner Pads Mix & Match | Avant/après + en coupe + bénéfices + avis + Black Friday | T'en as pas marre de tes putains de points noirs ?! | v1 (points noirs) |  |  |  |
+| 2026-11-25 | medicube Toner Pads Mix & Match | Promo d'abord + avis + STOP points noirs + bénéfices | Wouah, c'est quoi cette promo de dingue ?! | v1 (promo) |  |  |  |

@@ -1,0 +1,426 @@
+{
+ "words": [
+  {
+   "word": "T'en",
+   "start": 0.072,
+   "end": 0.16
+  },
+  {
+   "word": "as",
+   "start": 0.213,
+   "end": 0.32
+  },
+  {
+   "word": "pas",
+   "start": 0.36,
+   "end": 0.48
+  },
+  {
+   "word": "marre",
+   "start": 0.52,
+   "end": 0.72
+  },
+  {
+   "word": "de",
+   "start": 0.747,
+   "end": 0.8
+  },
+  {
+   "word": "tes",
+   "start": 0.86,
+   "end": 1.04
+  },
+  {
+   "word": "putains",
+   "start": 1.1,
+   "end": 1.36
+  },
+  {
+   "word": "de",
+   "start": 1.387,
+   "end": 1.44
+  },
+  {
+   "word": "points",
+   "start": 1.474,
+   "end": 1.68
+  },
+  {
+   "word": "noirs",
+   "start": 1.707,
+   "end": 1.92
+  },
+  {
+   "word": "Medicube",
+   "start": 2.779,
+   "end": 3.606
+  },
+  {
+   "word": "les",
+   "start": 3.626,
+   "end": 3.686
+  },
+  {
+   "word": "toner",
+   "start": 3.746,
+   "end": 4.086
+  },
+  {
+   "word": "pads",
+   "start": 4.134,
+   "end": 4.326
+  },
+  {
+   "word": "coréens",
+   "start": 4.386,
+   "end": 4.726
+  },
+  {
+   "word": "quatrièmes",
+   "start": 4.806,
+   "end": 5.286
+  },
+  {
+   "word": "au",
+   "start": 5.313,
+   "end": 5.366
+  },
+  {
+   "word": "classement",
+   "start": 5.4,
+   "end": 5.766
+  },
+  {
+   "word": "des",
+   "start": 5.786,
+   "end": 5.846
+  },
+  {
+   "word": "meilleurs",
+   "start": 5.886,
+   "end": 6.246
+  },
+  {
+   "word": "avis",
+   "start": 6.294,
+   "end": 6.885
+  },
+  {
+   "word": "niacinamide",
+   "start": 7.017,
+   "end": 7.853
+  },
+  {
+   "word": "vitamine",
+   "start": 7.893,
+   "end": 8.253
+  },
+  {
+   "word": "C",
+   "start": 8.373,
+   "end": 8.573
+  },
+  {
+   "word": "acide",
+   "start": 8.706,
+   "end": 9.133
+  },
+  {
+   "word": "succinique",
+   "start": 9.181,
+   "end": 9.773
+  },
+  {
+   "word": "panthénol",
+   "start": 9.853,
+   "end": 10.573
+  },
+  {
+   "word": "tu",
+   "start": 10.786,
+   "end": 11.213
+  },
+  {
+   "word": "passes",
+   "start": 11.247,
+   "end": 11.453
+  },
+  {
+   "word": "un",
+   "start": 11.48,
+   "end": 11.533
+  },
+  {
+   "word": "pad",
+   "start": 11.593,
+   "end": 11.773
+  },
+  {
+   "word": "sur",
+   "start": 11.813,
+   "end": 11.933
+  },
+  {
+   "word": "ta",
+   "start": 11.986,
+   "end": 12.093
+  },
+  {
+   "word": "face",
+   "start": 12.157,
+   "end": 12.493
+  },
+  {
+   "word": "et",
+   "start": 12.626,
+   "end": 12.893
+  },
+  {
+   "word": "c'est",
+   "start": 12.933,
+   "end": 13.053
+  },
+  {
+   "word": "parti",
+   "start": 13.106,
+   "end": 13.373
+  },
+  {
+   "word": "pour",
+   "start": 13.405,
+   "end": 13.533
+  },
+  {
+   "word": "des",
+   "start": 13.573,
+   "end": 13.693
+  },
+  {
+   "word": "pores",
+   "start": 13.746,
+   "end": 14.013
+  },
+  {
+   "word": "nets",
+   "start": 14.077,
+   "end": 14.653
+  },
+  {
+   "word": "moins",
+   "start": 14.693,
+   "end": 14.893
+  },
+  {
+   "word": "de",
+   "start": 14.92,
+   "end": 14.973
+  },
+  {
+   "word": "marques",
+   "start": 15.013,
+   "end": 15.213
+  },
+  {
+   "word": "post-imperfections",
+   "start": 15.261,
+   "end": 16.093
+  },
+  {
+   "word": "et",
+   "start": 16.253,
+   "end": 16.573
+  },
+  {
+   "word": "un",
+   "start": 16.626,
+   "end": 16.733
+  },
+  {
+   "word": "éclat",
+   "start": 16.813,
+   "end": 17.133
+  },
+  {
+   "word": "de",
+   "start": 17.16,
+   "end": 17.213
+  },
+  {
+   "word": "malade",
+   "start": 17.293,
+   "end": 18.173
+  },
+  {
+   "word": "l'effet",
+   "start": 18.213,
+   "end": 18.573
+  },
+  {
+   "word": "glass",
+   "start": 18.64,
+   "end": 18.973
+  },
+  {
+   "word": "skin",
+   "start": 19.037,
+   "end": 19.293
+  },
+  {
+   "word": "Plus",
+   "start": 20.08,
+   "end": 20.093
+  },
+  {
+   "word": "de",
+   "start": 20.146,
+   "end": 20.253
+  },
+  {
+   "word": "deux",
+   "start": 20.301,
+   "end": 20.493
+  },
+  {
+   "word": "mille",
+   "start": 20.533,
+   "end": 20.653
+  },
+  {
+   "word": "cinq",
+   "start": 20.733,
+   "end": 20.893
+  },
+  {
+   "word": "cents",
+   "start": 20.92,
+   "end": 21.053
+  },
+  {
+   "word": "vendus",
+   "start": 21.101,
+   "end": 21.853
+  },
+  {
+   "word": "quatre",
+   "start": 21.876,
+   "end": 22.013
+  },
+  {
+   "word": "virgule",
+   "start": 22.053,
+   "end": 22.373
+  },
+  {
+   "word": "six",
+   "start": 22.403,
+   "end": 22.493
+  },
+  {
+   "word": "étoiles",
+   "start": 22.573,
+   "end": 23.293
+  },
+  {
+   "word": "et",
+   "start": 23.362,
+   "end": 23.373
+  },
+  {
+   "word": "c'est",
+   "start": 23.413,
+   "end": 23.533
+  },
+  {
+   "word": "le",
+   "start": 23.56,
+   "end": 23.613
+  },
+  {
+   "word": "Black",
+   "start": 23.68,
+   "end": 24.013
+  },
+  {
+   "word": "Friday",
+   "start": 24.07,
+   "end": 24.813
+  },
+  {
+   "word": "dès",
+   "start": 24.853,
+   "end": 24.973
+  },
+  {
+   "word": "vingt-trois",
+   "start": 25.053,
+   "end": 25.573
+  },
+  {
+   "word": "euros",
+   "start": 25.606,
+   "end": 25.773
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 25.796,
+   "end": 26.573
+  },
+  {
+   "word": "avec",
+   "start": 26.605,
+   "end": 26.733
+  },
+  {
+   "word": "les",
+   "start": 26.753,
+   "end": 26.813
+  },
+  {
+   "word": "coupons",
+   "start": 26.863,
+   "end": 27.293
+  },
+  {
+   "word": "cadeau",
+   "start": 27.405,
+   "end": 27.973
+  },
+  {
+   "word": "offert",
+   "start": 28.003,
+   "end": 28.413
+  },
+  {
+   "word": "jusqu'au",
+   "start": 28.506,
+   "end": 29.173
+  },
+  {
+   "word": "trente",
+   "start": 29.203,
+   "end": 29.373
+  },
+  {
+   "word": "novembre",
+   "start": 29.426,
+   "end": 30.173
+  },
+  {
+   "word": "panier",
+   "start": 30.233,
+   "end": 30.493
+  },
+  {
+   "word": "orange",
+   "start": 30.562,
+   "end": 31.373
+  },
+  {
+   "word": "FONCE",
+   "start": 31.453,
+   "end": 31.853
+  }
+ ],
+ "durationSec": 32.209,
+ "model": "eleven_v3"
+}

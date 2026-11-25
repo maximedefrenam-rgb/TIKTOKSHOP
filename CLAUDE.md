@@ -129,7 +129,9 @@ Seules les allégations santé autorisées par l'UE :
   `doses` (calculatrice + sachet qui s'ouvre et libère les doses = produit en coupe), `muscle` (coupe peau/gras/muscle,
   eau dans les fibres, mot épelé), `power` (jauge + haltères + flocon), `flavors` (défilé des goûts photographiés),
   `deal` (badge promo, prix barré + tampon, nouveau prix), `usage` (salle / manette puis canette barrée) (Scenes2.tsx).
-  `productScale` dans la config pour les emballages larges (boîte ronde : 0.74).
+  `beforeAfter` (photo avant/après composite, volet ou tampon STOP, mention « Image d'illustration »),
+  `reviews` (note + étoiles, avis, ventes, classement) (Scenes2.tsx).
+  `productScale` dans la config pour les emballages larges (boîte ronde : 0.74). Deux pots côte à côte : 0.5.
   Exemple complet : `videos/creatine-ostrovit-citron/config.ts`.
 - Rendu en `concurrency 1` (remotion.config.ts) : en parallèle, Chrome faisait clignoter l'image du produit.
   Un rendu de 40 s prend ~5 min. Le script de rendu ajoute un limiteur audio (pas de saturation sur les impacts).

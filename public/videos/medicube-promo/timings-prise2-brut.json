@@ -1,0 +1,356 @@
+{
+ "words": [
+  {
+   "word": "Wouah",
+   "start": 0.144,
+   "end": 0.56
+  },
+  {
+   "word": "c'est",
+   "start": 0.6,
+   "end": 0.72
+  },
+  {
+   "word": "quoi",
+   "start": 0.752,
+   "end": 0.88
+  },
+  {
+   "word": "cette",
+   "start": 0.92,
+   "end": 1.12
+  },
+  {
+   "word": "promo",
+   "start": 1.173,
+   "end": 1.44
+  },
+  {
+   "word": "de",
+   "start": 1.493,
+   "end": 1.6
+  },
+  {
+   "word": "DINGUE",
+   "start": 1.72,
+   "end": 2.24
+  },
+  {
+   "word": "Les",
+   "start": 2.865,
+   "end": 2.88
+  },
+  {
+   "word": "toner",
+   "start": 2.92,
+   "end": 3.2
+  },
+  {
+   "word": "pads",
+   "start": 3.264,
+   "end": 3.52
+  },
+  {
+   "word": "Medicube",
+   "start": 3.587,
+   "end": 4.08
+  },
+  {
+   "word": "en",
+   "start": 4.133,
+   "end": 4.24
+  },
+  {
+   "word": "Black",
+   "start": 4.28,
+   "end": 4.48
+  },
+  {
+   "word": "Friday",
+   "start": 4.549,
+   "end": 5.2
+  },
+  {
+   "word": "dès",
+   "start": 5.24,
+   "end": 5.36
+  },
+  {
+   "word": "vingt-trois",
+   "start": 5.4,
+   "end": 5.92
+  },
+  {
+   "word": "euros",
+   "start": 5.947,
+   "end": 6.08
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 6.103,
+   "end": 6.72
+  },
+  {
+   "word": "avec",
+   "start": 6.768,
+   "end": 6.96
+  },
+  {
+   "word": "les",
+   "start": 7,
+   "end": 7.12
+  },
+  {
+   "word": "coupons",
+   "start": 7.16,
+   "end": 7.84
+  },
+  {
+   "word": "et",
+   "start": 7.893,
+   "end": 8
+  },
+  {
+   "word": "un",
+   "start": 8.08,
+   "end": 8.24
+  },
+  {
+   "word": "cadeau",
+   "start": 8.304,
+   "end": 8.68
+  },
+  {
+   "word": "offert",
+   "start": 8.71,
+   "end": 8.96
+  },
+  {
+   "word": "Plus",
+   "start": 9.74,
+   "end": 9.761
+  },
+  {
+   "word": "de",
+   "start": 9.788,
+   "end": 9.841
+  },
+  {
+   "word": "deux",
+   "start": 9.889,
+   "end": 10.081
+  },
+  {
+   "word": "mille",
+   "start": 10.161,
+   "end": 10.361
+  },
+  {
+   "word": "cinq",
+   "start": 10.421,
+   "end": 10.483
+  },
+  {
+   "word": "cents",
+   "start": 10.522,
+   "end": 10.722
+  },
+  {
+   "word": "vendus",
+   "start": 10.77,
+   "end": 11.522
+  },
+  {
+   "word": "quatre",
+   "start": 11.545,
+   "end": 11.682
+  },
+  {
+   "word": "virgule",
+   "start": 11.742,
+   "end": 12.002
+  },
+  {
+   "word": "six",
+   "start": 12.042,
+   "end": 12.162
+  },
+  {
+   "word": "étoiles",
+   "start": 12.282,
+   "end": 13.042
+  },
+  {
+   "word": "quatrièmes",
+   "start": 13.069,
+   "end": 13.522
+  },
+  {
+   "word": "au",
+   "start": 13.549,
+   "end": 13.602
+  },
+  {
+   "word": "classement",
+   "start": 13.636,
+   "end": 14.002
+  },
+  {
+   "word": "des",
+   "start": 14.022,
+   "end": 14.082
+  },
+  {
+   "word": "meilleurs",
+   "start": 14.122,
+   "end": 14.482
+  },
+  {
+   "word": "avis",
+   "start": 14.546,
+   "end": 15.442
+  },
+  {
+   "word": "stop",
+   "start": 15.804,
+   "end": 15.842
+  },
+  {
+   "word": "aux",
+   "start": 15.862,
+   "end": 15.922
+  },
+  {
+   "word": "points",
+   "start": 15.956,
+   "end": 16.162
+  },
+  {
+   "word": "noirs",
+   "start": 16.189,
+   "end": 16.402
+  },
+  {
+   "word": "et",
+   "start": 16.429,
+   "end": 16.482
+  },
+  {
+   "word": "aux",
+   "start": 16.522,
+   "end": 16.642
+  },
+  {
+   "word": "imperfections",
+   "start": 16.695,
+   "end": 17.922
+  },
+  {
+   "word": "niacinamide",
+   "start": 17.994,
+   "end": 18.802
+  },
+  {
+   "word": "vitamine",
+   "start": 18.862,
+   "end": 19.282
+  },
+  {
+   "word": "C",
+   "start": 19.402,
+   "end": 19.602
+  },
+  {
+   "word": "acide",
+   "start": 19.735,
+   "end": 20.162
+  },
+  {
+   "word": "succinique",
+   "start": 20.21,
+   "end": 20.802
+  },
+  {
+   "word": "des",
+   "start": 20.902,
+   "end": 21.202
+  },
+  {
+   "word": "pores",
+   "start": 21.255,
+   "end": 21.522
+  },
+  {
+   "word": "nets",
+   "start": 21.586,
+   "end": 22.162
+  },
+  {
+   "word": "de",
+   "start": 22.189,
+   "end": 22.242
+  },
+  {
+   "word": "l'éclat",
+   "start": 22.282,
+   "end": 22.802
+  },
+  {
+   "word": "l'effet",
+   "start": 23.002,
+   "end": 23.602
+  },
+  {
+   "word": "glass",
+   "start": 23.669,
+   "end": 24.002
+  },
+  {
+   "word": "skin",
+   "start": 24.082,
+   "end": 25.122
+  },
+  {
+   "word": "Black",
+   "start": 25.392,
+   "end": 25.442
+  },
+  {
+   "word": "Friday",
+   "start": 25.511,
+   "end": 25.922
+  },
+  {
+   "word": "jusqu'au",
+   "start": 25.962,
+   "end": 26.164
+  },
+  {
+   "word": "trente",
+   "start": 26.223,
+   "end": 26.483
+  },
+  {
+   "word": "novembre",
+   "start": 26.536,
+   "end": 27.363
+  },
+  {
+   "word": "panier",
+   "start": 27.423,
+   "end": 27.683
+  },
+  {
+   "word": "orange",
+   "start": 27.752,
+   "end": 28.243
+  },
+  {
+   "word": "FONCE",
+   "start": 28.483,
+   "end": 29.123
+  }
+ ],
+ "durationSec": 29.466,
+ "model": "eleven_v3"
+}

@@ -91,7 +91,11 @@ export type Scene =
       /** canette barrée au centre (optionnelle) */
       crossAt?: number;
       leftIcon?: UsageIcon; rightIcon?: UsageIcon;
-    });
+    })
+  /** photo avant / après (image composite : moitié gauche = avant, droite = après), volet à revealAt, STOP optionnel */
+  | (SceneBase & {kind: 'beforeAfter'; image: string; revealAt?: number; stopAt?: number})
+  /** avis : note + étoiles, nombre de ventes, classement */
+  | (SceneBase & {kind: 'reviews'; rating: number; reviews?: number; sold: number; rank?: string; ratingAt: number; soldAt: number; rankAt?: number});
 
 export type UsageIcon = 'dumbbell' | 'controller' | 'palm' | 'rain';
 
