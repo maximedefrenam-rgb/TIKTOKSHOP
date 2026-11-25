@@ -1,0 +1,311 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.109,
+   "end": 0.438
+  },
+  {
+   "word": "élu",
+   "start": 0.5,
+   "end": 0.625
+  },
+  {
+   "word": "produit",
+   "start": 0.672,
+   "end": 1.0
+  },
+  {
+   "word": "de",
+   "start": 1.021,
+   "end": 1.062
+  },
+  {
+   "word": "l'année",
+   "start": 1.094,
+   "end": 1.312
+  },
+  {
+   "word": "deux",
+   "start": 1.337,
+   "end": 1.438
+  },
+  {
+   "word": "mille",
+   "start": 1.469,
+   "end": 1.562
+  },
+  {
+   "word": "vingt-six",
+   "start": 1.594,
+   "end": 2.031
+  },
+  {
+   "word": "et",
+   "start": 2.069,
+   "end": 2.069
+  },
+  {
+   "word": "t'en",
+   "start": 2.094,
+   "end": 2.188
+  },
+  {
+   "word": "as",
+   "start": 2.25,
+   "end": 2.375
+  },
+  {
+   "word": "jamais",
+   "start": 2.411,
+   "end": 2.625
+  },
+  {
+   "word": "entendu",
+   "start": 2.67,
+   "end": 3.063
+  },
+  {
+   "word": "parler",
+   "start": 3.09,
+   "end": 3.25
+  },
+  {
+   "word": "Karacare",
+   "start": 3.657,
+   "end": 4.063
+  },
+  {
+   "word": "Hair",
+   "start": 4.113,
+   "end": 4.313
+  },
+  {
+   "word": "Boost",
+   "start": 4.354,
+   "end": 4.813
+  },
+  {
+   "word": "Plus",
+   "start": 4.838,
+   "end": 4.938
+  },
+  {
+   "word": "de",
+   "start": 4.979,
+   "end": 5.063
+  },
+  {
+   "word": "soixante",
+   "start": 5.104,
+   "end": 5.438
+  },
+  {
+   "word": "mille",
+   "start": 5.469,
+   "end": 5.563
+  },
+  {
+   "word": "clientes",
+   "start": 5.597,
+   "end": 5.875
+  },
+  {
+   "word": "l'ont",
+   "start": 5.907,
+   "end": 6.0
+  },
+  {
+   "word": "testé",
+   "start": 6.038,
+   "end": 6.313
+  },
+  {
+   "word": "selon",
+   "start": 6.334,
+   "end": 6.438
+  },
+  {
+   "word": "la",
+   "start": 6.479,
+   "end": 6.563
+  },
+  {
+   "word": "marque",
+   "start": 6.599,
+   "end": 7.063
+  },
+  {
+   "word": "Onze",
+   "start": 7.104,
+   "end": 7.25
+  },
+  {
+   "word": "vitamines",
+   "start": 7.297,
+   "end": 7.625
+  },
+  {
+   "word": "et",
+   "start": 7.667,
+   "end": 7.75
+  },
+  {
+   "word": "minéraux",
+   "start": 7.797,
+   "end": 8.375
+  },
+  {
+   "word": "conçu",
+   "start": 8.407,
+   "end": 8.625
+  },
+  {
+   "word": "pour",
+   "start": 8.65,
+   "end": 8.75
+  },
+  {
+   "word": "la",
+   "start": 8.792,
+   "end": 8.875
+  },
+  {
+   "word": "pousse",
+   "start": 8.907,
+   "end": 9.25
+  },
+  {
+   "word": "la",
+   "start": 9.272,
+   "end": 9.313
+  },
+  {
+   "word": "force",
+   "start": 9.365,
+   "end": 9.625
+  },
+  {
+   "word": "et",
+   "start": 9.688,
+   "end": 9.813
+  },
+  {
+   "word": "le",
+   "start": 9.834,
+   "end": 9.875
+  },
+  {
+   "word": "volume",
+   "start": 9.929,
+   "end": 10.563
+  },
+  {
+   "word": "Deux",
+   "start": 10.584,
+   "end": 10.688
+  },
+  {
+   "word": "flacons",
+   "start": 10.709,
+   "end": 11.188
+  },
+  {
+   "word": "cent",
+   "start": 11.213,
+   "end": 11.313
+  },
+  {
+   "word": "vingt",
+   "start": 11.344,
+   "end": 11.438
+  },
+  {
+   "word": "gummies",
+   "start": 11.469,
+   "end": 12.0
+  },
+  {
+   "word": "deux",
+   "start": 12.025,
+   "end": 12.125
+  },
+  {
+   "word": "mois",
+   "start": 12.15,
+   "end": 12.25
+  },
+  {
+   "word": "de",
+   "start": 12.272,
+   "end": 12.313
+  },
+  {
+   "word": "cure",
+   "start": 12.363,
+   "end": 12.625
+  },
+  {
+   "word": "Le",
+   "start": 12.658,
+   "end": 12.742
+  },
+  {
+   "word": "prix",
+   "start": 12.779,
+   "end": 12.929
+  },
+  {
+   "word": "Cinquante-six",
+   "start": 13.067,
+   "end": 13.427
+  },
+  {
+   "word": "euros",
+   "start": 13.468,
+   "end": 13.677
+  },
+  {
+   "word": "quatre-vingt-un",
+   "start": 13.703,
+   "end": 14.302
+  },
+  {
+   "word": "livraison",
+   "start": 14.349,
+   "end": 14.677
+  },
+  {
+   "word": "gratuite",
+   "start": 14.718,
+   "end": 15.114
+  },
+  {
+   "word": "Clique",
+   "start": 15.154,
+   "end": 15.238
+  },
+  {
+   "word": "sur",
+   "start": 15.269,
+   "end": 15.363
+  },
+  {
+   "word": "le",
+   "start": 15.384,
+   "end": 15.426
+  },
+  {
+   "word": "panier",
+   "start": 15.457,
+   "end": 15.738
+  }
+ ],
+ "durationSec": 15.778,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.08,
+  "tempo": 1.28,
+  "cuts": 4
+ }
+}

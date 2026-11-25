@@ -1,0 +1,271 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.106,
+   "end": 0.366
+  },
+  {
+   "word": "tu",
+   "start": 0.407,
+   "end": 0.489
+  },
+  {
+   "word": "lâches",
+   "start": 0.519,
+   "end": 0.672
+  },
+  {
+   "word": "à",
+   "start": 0.702,
+   "end": 0.733
+  },
+  {
+   "word": "la",
+   "start": 0.753,
+   "end": 0.794
+  },
+  {
+   "word": "dernière",
+   "start": 0.827,
+   "end": 1.099
+  },
+  {
+   "word": "série",
+   "start": 1.14,
+   "end": 1.344
+  },
+  {
+   "word": "Regarde",
+   "start": 1.493,
+   "end": 1.768
+  },
+  {
+   "word": "ça",
+   "start": 1.788,
+   "end": 2.012
+  },
+  {
+   "word": "Créatine",
+   "start": 2.052,
+   "end": 2.439
+  },
+  {
+   "word": "monohydrate",
+   "start": 2.47,
+   "end": 2.928
+  },
+  {
+   "word": "OstroVit",
+   "start": 2.989,
+   "end": 3.6
+  },
+  {
+   "word": "trois",
+   "start": 3.63,
+   "end": 3.783
+  },
+  {
+   "word": "cents",
+   "start": 3.804,
+   "end": 3.905
+  },
+  {
+   "word": "grammes",
+   "start": 3.945,
+   "end": 4.333
+  },
+  {
+   "word": "ultra",
+   "start": 4.384,
+   "end": 4.638
+  },
+  {
+   "word": "micronisée",
+   "start": 4.681,
+   "end": 5.249
+  },
+  {
+   "word": "Trois",
+   "start": 5.279,
+   "end": 5.462
+  },
+  {
+   "word": "grammes",
+   "start": 5.478,
+   "end": 5.615
+  },
+  {
+   "word": "par",
+   "start": 5.63,
+   "end": 5.676
+  },
+  {
+   "word": "jour",
+   "start": 5.725,
+   "end": 5.92
+  },
+  {
+   "word": "augmentent",
+   "start": 5.958,
+   "end": 6.256
+  },
+  {
+   "word": "la",
+   "start": 6.266,
+   "end": 6.287
+  },
+  {
+   "word": "performance",
+   "start": 6.323,
+   "end": 6.714
+  },
+  {
+   "word": "physique",
+   "start": 6.748,
+   "end": 7.02
+  },
+  {
+   "word": "lors",
+   "start": 7.056,
+   "end": 7.203
+  },
+  {
+   "word": "d'exercices",
+   "start": 7.233,
+   "end": 7.63
+  },
+  {
+   "word": "courts",
+   "start": 7.656,
+   "end": 7.997
+  },
+  {
+   "word": "intenses",
+   "start": 8.027,
+   "end": 8.424
+  },
+  {
+   "word": "et",
+   "start": 8.445,
+   "end": 8.452
+  },
+  {
+   "word": "répétés",
+   "start": 8.498,
+   "end": 8.987
+  },
+  {
+   "word": "Ça",
+   "start": 9.017,
+   "end": 9.109
+  },
+  {
+   "word": "fait",
+   "start": 9.146,
+   "end": 9.292
+  },
+  {
+   "word": "cent",
+   "start": 9.329,
+   "end": 9.475
+  },
+  {
+   "word": "doses",
+   "start": 9.516,
+   "end": 9.903
+  },
+  {
+   "word": "Cinq",
+   "start": 9.934,
+   "end": 10.025
+  },
+  {
+   "word": "goûts",
+   "start": 10.066,
+   "end": 10.269
+  },
+  {
+   "word": "au",
+   "start": 10.31,
+   "end": 10.36
+  },
+  {
+   "word": "choix",
+   "start": 10.391,
+   "end": 10.666
+  },
+  {
+   "word": "Quatre",
+   "start": 10.706,
+   "end": 10.879
+  },
+  {
+   "word": "virgule",
+   "start": 10.902,
+   "end": 11.032
+  },
+  {
+   "word": "six",
+   "start": 11.063,
+   "end": 11.154
+  },
+  {
+   "word": "étoiles",
+   "start": 11.246,
+   "end": 11.582
+  },
+  {
+   "word": "Le",
+   "start": 11.643,
+   "end": 11.693
+  },
+  {
+   "word": "prix",
+   "start": 11.741,
+   "end": 11.937
+  },
+  {
+   "word": "Quatre",
+   "start": 12.016,
+   "end": 12.105
+  },
+  {
+   "word": "euros",
+   "start": 12.146,
+   "end": 12.35
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 12.367,
+   "end": 13.021
+  },
+  {
+   "word": "Clique",
+   "start": 13.052,
+   "end": 13.205
+  },
+  {
+   "word": "sur",
+   "start": 13.235,
+   "end": 13.327
+  },
+  {
+   "word": "le",
+   "start": 13.347,
+   "end": 13.388
+  },
+  {
+   "word": "panier",
+   "start": 13.418,
+   "end": 13.693
+  }
+ ],
+ "durationSec": 13.74,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.08,
+  "tempo": 1.31,
+  "cuts": 5
+ }
+}

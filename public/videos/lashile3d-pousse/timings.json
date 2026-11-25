@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.065,
+   "end": 0.441
+  },
+  {
+   "word": "tes",
+   "start": 0.476,
+   "end": 0.583
+  },
+  {
+   "word": "cheveux",
+   "start": 0.601,
+   "end": 0.798
+  },
+  {
+   "word": "poussent",
+   "start": 0.833,
+   "end": 1.048
+  },
+  {
+   "word": "au",
+   "start": 1.059,
+   "end": 1.083
+  },
+  {
+   "word": "ralenti",
+   "start": 1.119,
+   "end": 1.512
+  },
+  {
+   "word": "Regarde",
+   "start": 1.682,
+   "end": 1.985
+  },
+  {
+   "word": "ça",
+   "start": 2.032,
+   "end": 2.129
+  },
+  {
+   "word": "Good",
+   "start": 2.199,
+   "end": 2.485
+  },
+  {
+   "word": "Hair",
+   "start": 2.528,
+   "end": 2.699
+  },
+  {
+   "word": "de",
+   "start": 2.724,
+   "end": 2.771
+  },
+  {
+   "word": "Lashilé",
+   "start": 2.842,
+   "end": 3.342
+  },
+  {
+   "word": "pour",
+   "start": 3.371,
+   "end": 3.485
+  },
+  {
+   "word": "la",
+   "start": 3.509,
+   "end": 3.557
+  },
+  {
+   "word": "pousse",
+   "start": 3.628,
+   "end": 3.842
+  },
+  {
+   "word": "et",
+   "start": 3.866,
+   "end": 3.914
+  },
+  {
+   "word": "la",
+   "start": 3.938,
+   "end": 3.985
+  },
+  {
+   "word": "fortification",
+   "start": 4.042,
+   "end": 4.699
+  },
+  {
+   "word": "des",
+   "start": 4.717,
+   "end": 4.771
+  },
+  {
+   "word": "cheveux",
+   "start": 4.807,
+   "end": 5.199
+  },
+  {
+   "word": "Deux",
+   "start": 5.224,
+   "end": 5.342
+  },
+  {
+   "word": "gummies",
+   "start": 5.378,
+   "end": 5.628
+  },
+  {
+   "word": "par",
+   "start": 5.646,
+   "end": 5.699
+  },
+  {
+   "word": "jour",
+   "start": 5.757,
+   "end": 6.128
+  },
+  {
+   "word": "goût",
+   "start": 6.175,
+   "end": 6.342
+  },
+  {
+   "word": "tutti",
+   "start": 6.39,
+   "end": 6.628
+  },
+  {
+   "word": "frutti",
+   "start": 6.652,
+   "end": 7.057
+  },
+  {
+   "word": "Dans",
+   "start": 7.085,
+   "end": 7.199
+  },
+  {
+   "word": "leur",
+   "start": 7.228,
+   "end": 7.342
+  },
+  {
+   "word": "étude",
+   "start": 7.39,
+   "end": 7.699
+  },
+  {
+   "word": "quatre-vingt-dix-sept",
+   "start": 7.73,
+   "end": 8.271
+  },
+  {
+   "word": "pour",
+   "start": 8.299,
+   "end": 8.414
+  },
+  {
+   "word": "cent",
+   "start": 8.442,
+   "end": 8.557
+  },
+  {
+   "word": "constatent",
+   "start": 8.604,
+   "end": 8.914
+  },
+  {
+   "word": "des",
+   "start": 8.949,
+   "end": 9.057
+  },
+  {
+   "word": "cheveux",
+   "start": 9.092,
+   "end": 9.342
+  },
+  {
+   "word": "plus",
+   "start": 9.371,
+   "end": 9.485
+  },
+  {
+   "word": "longs",
+   "start": 9.499,
+   "end": 9.842
+  },
+  {
+   "word": "Vegan",
+   "start": 9.902,
+   "end": 10.414
+  },
+  {
+   "word": "sans",
+   "start": 10.442,
+   "end": 10.557
+  },
+  {
+   "word": "gélatine",
+   "start": 10.604,
+   "end": 11.199
+  },
+  {
+   "word": "Plus",
+   "start": 11.228,
+   "end": 11.342
+  },
+  {
+   "word": "de",
+   "start": 11.39,
+   "end": 11.485
+  },
+  {
+   "word": "deux",
+   "start": 11.514,
+   "end": 11.628
+  },
+  {
+   "word": "mille",
+   "start": 11.699,
+   "end": 11.842
+  },
+  {
+   "word": "six",
+   "start": 11.896,
+   "end": 12.057
+  },
+  {
+   "word": "cents",
+   "start": 12.081,
+   "end": 12.199
+  },
+  {
+   "word": "vendus",
+   "start": 12.257,
+   "end": 12.771
+  },
+  {
+   "word": "Le",
+   "start": 12.818,
+   "end": 12.914
+  },
+  {
+   "word": "prix",
+   "start": 12.957,
+   "end": 13.128
+  },
+  {
+   "word": "Vingt-quatre",
+   "start": 13.292,
+   "end": 13.613
+  },
+  {
+   "word": "euros",
+   "start": 13.649,
+   "end": 13.828
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 13.848,
+   "end": 14.435
+  },
+  {
+   "word": "Clique",
+   "start": 14.485,
+   "end": 14.592
+  },
+  {
+   "word": "sur",
+   "start": 14.627,
+   "end": 14.735
+  },
+  {
+   "word": "le",
+   "start": 14.759,
+   "end": 14.806
+  },
+  {
+   "word": "panier",
+   "start": 14.842,
+   "end": 15.235
+  }
+ ],
+ "durationSec": 15.282,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.08,
+  "tempo": 1.12,
+  "cuts": 4
+ }
+}

@@ -20,5 +20,5 @@ export const gouts = build3d({id: 'creatine3d-gouts', timings: t3, ...P, problem
   shots: [['', 1, 'PLÂTRE', 'ta créatine, frérot ?', {over: 'UN GOÛT DE', color: 'alert'}], ['Prends', 1, 'PRENDS ÇA', 'ostrovit', {view: 'problem'}],
     ['citron', 1, 'CITRON', 'mangue · melon'], ['pomme', 1, 'POMME VERTE', 'ou nature', {view: 'close'}], ['Trois', 1, '300 G', '100 doses'],
     ['performance', 1, 'PERFORMANCE', '3 g / jour', {view: 'open'}], ['répétés', 1, 'RÉPÉTÉS', 'efforts courts, intenses'],
-    ['Cinq', 2, '540', 'vendus', {view: 'stack'}], ['prix', 1, 'LE PRIX ?']],
+    ['Cinq', 1, '540', 'vendus', {view: 'stack'}], ['prix', 1, 'LE PRIX ?']],
   price: {word: 'Quatre', now: '4,99 €', ...PRIX}});

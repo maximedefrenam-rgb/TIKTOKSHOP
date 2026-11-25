@@ -1,0 +1,276 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.139,
+   "end": 0.48
+  },
+  {
+   "word": "ta",
+   "start": 0.507,
+   "end": 0.56
+  },
+  {
+   "word": "créatine",
+   "start": 0.62,
+   "end": 1.12
+  },
+  {
+   "word": "a",
+   "start": 1.16,
+   "end": 1.2
+  },
+  {
+   "word": "un",
+   "start": 1.227,
+   "end": 1.28
+  },
+  {
+   "word": "goût",
+   "start": 1.333,
+   "end": 1.52
+  },
+  {
+   "word": "de",
+   "start": 1.547,
+   "end": 1.6
+  },
+  {
+   "word": "plâtre",
+   "start": 1.68,
+   "end": 2.08
+  },
+  {
+   "word": "Prends",
+   "start": 2.24,
+   "end": 2.56
+  },
+  {
+   "word": "ça",
+   "start": 2.613,
+   "end": 2.8
+  },
+  {
+   "word": "OstroVit",
+   "start": 2.92,
+   "end": 3.92
+  },
+  {
+   "word": "cinq",
+   "start": 3.96,
+   "end": 4.08
+  },
+  {
+   "word": "goûts",
+   "start": 4.133,
+   "end": 4.48
+  },
+  {
+   "word": "citron",
+   "start": 4.7,
+   "end": 5.36
+  },
+  {
+   "word": "mangue",
+   "start": 5.408,
+   "end": 6
+  },
+  {
+   "word": "melon",
+   "start": 6.04,
+   "end": 6.56
+  },
+  {
+   "word": "pomme",
+   "start": 6.6,
+   "end": 6.8
+  },
+  {
+   "word": "verte",
+   "start": 6.853,
+   "end": 7.12
+  },
+  {
+   "word": "ou",
+   "start": 7.227,
+   "end": 7.44
+  },
+  {
+   "word": "nature",
+   "start": 7.497,
+   "end": 8.08
+  },
+  {
+   "word": "Trois",
+   "start": 8.12,
+   "end": 8.32
+  },
+  {
+   "word": "cents",
+   "start": 8.333,
+   "end": 8.4
+  },
+  {
+   "word": "grammes",
+   "start": 8.44,
+   "end": 8.72
+  },
+  {
+   "word": "de",
+   "start": 8.747,
+   "end": 8.8
+  },
+  {
+   "word": "monohydrate",
+   "start": 8.84,
+   "end": 9.76
+  },
+  {
+   "word": "cent",
+   "start": 9.792,
+   "end": 9.92
+  },
+  {
+   "word": "doses",
+   "start": 9.973,
+   "end": 10.4
+  },
+  {
+   "word": "Trois",
+   "start": 10.44,
+   "end": 10.68
+  },
+  {
+   "word": "grammes",
+   "start": 10.7,
+   "end": 10.88
+  },
+  {
+   "word": "par",
+   "start": 10.9,
+   "end": 10.96
+  },
+  {
+   "word": "jour",
+   "start": 11.024,
+   "end": 11.28
+  },
+  {
+   "word": "augmentent",
+   "start": 11.32,
+   "end": 11.68
+  },
+  {
+   "word": "la",
+   "start": 11.707,
+   "end": 11.76
+  },
+  {
+   "word": "performance",
+   "start": 11.8,
+   "end": 12.24
+  },
+  {
+   "word": "physique",
+   "start": 12.284,
+   "end": 12.64
+  },
+  {
+   "word": "lors",
+   "start": 12.672,
+   "end": 12.8
+  },
+  {
+   "word": "d'exercices",
+   "start": 12.84,
+   "end": 13.36
+  },
+  {
+   "word": "courts",
+   "start": 13.394,
+   "end": 13.76
+  },
+  {
+   "word": "intenses",
+   "start": 13.82,
+   "end": 14.32
+  },
+  {
+   "word": "et",
+   "start": 14.4,
+   "end": 14.56
+  },
+  {
+   "word": "répétés",
+   "start": 14.613,
+   "end": 15.28
+  },
+  {
+   "word": "Cinq",
+   "start": 15.32,
+   "end": 15.44
+  },
+  {
+   "word": "cent",
+   "start": 15.472,
+   "end": 15.6
+  },
+  {
+   "word": "quarante",
+   "start": 15.632,
+   "end": 15.92
+  },
+  {
+   "word": "vendus",
+   "start": 15.968,
+   "end": 16.48
+  },
+  {
+   "word": "Le",
+   "start": 16.533,
+   "end": 16.64
+  },
+  {
+   "word": "prix",
+   "start": 16.704,
+   "end": 16.96
+  },
+  {
+   "word": "Quatre",
+   "start": 17.467,
+   "end": 17.6
+  },
+  {
+   "word": "euros",
+   "start": 17.653,
+   "end": 17.92
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 17.954,
+   "end": 18.88
+  },
+  {
+   "word": "Clique",
+   "start": 18.92,
+   "end": 19.12
+  },
+  {
+   "word": "sur",
+   "start": 19.14,
+   "end": 19.2
+  },
+  {
+   "word": "le",
+   "start": 19.227,
+   "end": 19.28
+  },
+  {
+   "word": "panier",
+   "start": 19.34,
+   "end": 19.84
+  }
+ ],
+ "durationSec": 19.879,
+ "model": "eleven_v3"
+}

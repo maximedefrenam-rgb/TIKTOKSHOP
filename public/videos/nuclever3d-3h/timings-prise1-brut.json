@@ -1,0 +1,271 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.139,
+   "end": 0.4
+  },
+  {
+   "word": "trois",
+   "start": 0.427,
+   "end": 0.56
+  },
+  {
+   "word": "heures",
+   "start": 0.594,
+   "end": 0.8
+  },
+  {
+   "word": "du",
+   "start": 0.827,
+   "end": 0.88
+  },
+  {
+   "word": "mat'",
+   "start": 0.92,
+   "end": 1.12
+  },
+  {
+   "word": "et",
+   "start": 1.147,
+   "end": 1.2
+  },
+  {
+   "word": "tu",
+   "start": 1.227,
+   "end": 1.28
+  },
+  {
+   "word": "fixes",
+   "start": 1.32,
+   "end": 1.52
+  },
+  {
+   "word": "encore",
+   "start": 1.554,
+   "end": 1.76
+  },
+  {
+   "word": "le",
+   "start": 1.787,
+   "end": 1.84
+  },
+  {
+   "word": "plafond",
+   "start": 1.867,
+   "end": 2.16
+  },
+  {
+   "word": "Prends",
+   "start": 2.41,
+   "end": 2.64
+  },
+  {
+   "word": "ça",
+   "start": 2.693,
+   "end": 3
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.1,
+   "end": 3.6
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.648,
+   "end": 4.08
+  },
+  {
+   "word": "Manager",
+   "start": 4.14,
+   "end": 4.8
+  },
+  {
+   "word": "un",
+   "start": 4.827,
+   "end": 4.88
+  },
+  {
+   "word": "sachet",
+   "start": 4.928,
+   "end": 5.2
+  },
+  {
+   "word": "par",
+   "start": 5.24,
+   "end": 5.36
+  },
+  {
+   "word": "jour",
+   "start": 5.408,
+   "end": 5.6
+  },
+  {
+   "word": "dans",
+   "start": 5.632,
+   "end": 5.76
+  },
+  {
+   "word": "l'eau",
+   "start": 5.8,
+   "end": 6.16
+  },
+  {
+   "word": "Magnésium",
+   "start": 6.208,
+   "end": 6.64
+  },
+  {
+   "word": "pour",
+   "start": 6.656,
+   "end": 6.72
+  },
+  {
+   "word": "le",
+   "start": 6.773,
+   "end": 6.88
+  },
+  {
+   "word": "sommeil",
+   "start": 6.92,
+   "end": 7.36
+  },
+  {
+   "word": "L-théanine",
+   "start": 7.44,
+   "end": 8
+  },
+  {
+   "word": "pour",
+   "start": 8.016,
+   "end": 8.08
+  },
+  {
+   "word": "le",
+   "start": 8.107,
+   "end": 8.16
+  },
+  {
+   "word": "calme",
+   "start": 8.24,
+   "end": 8.72
+  },
+  {
+   "word": "ashwagandha",
+   "start": 8.76,
+   "end": 9.36
+  },
+  {
+   "word": "pour",
+   "start": 9.376,
+   "end": 9.44
+  },
+  {
+   "word": "le",
+   "start": 9.467,
+   "end": 9.52
+  },
+  {
+   "word": "stress",
+   "start": 9.589,
+   "end": 10.16
+  },
+  {
+   "word": "Le",
+   "start": 10.213,
+   "end": 10.32
+  },
+  {
+   "word": "magnésium",
+   "start": 10.352,
+   "end": 10.72
+  },
+  {
+   "word": "contribue",
+   "start": 10.76,
+   "end": 11.12
+  },
+  {
+   "word": "à",
+   "start": 11.16,
+   "end": 11.2
+  },
+  {
+   "word": "réduire",
+   "start": 11.253,
+   "end": 11.6
+  },
+  {
+   "word": "la",
+   "start": 11.627,
+   "end": 11.68
+  },
+  {
+   "word": "fatigue",
+   "start": 11.73,
+   "end": 12.4
+  },
+  {
+   "word": "Cinquante-cinq",
+   "start": 12.42,
+   "end": 12.88
+  },
+  {
+   "word": "mille",
+   "start": 12.96,
+   "end": 13.12
+  },
+  {
+   "word": "vendus",
+   "start": 13.168,
+   "end": 13.76
+  },
+  {
+   "word": "Le",
+   "start": 13.787,
+   "end": 13.84
+  },
+  {
+   "word": "prix",
+   "start": 13.888,
+   "end": 14.08
+  },
+  {
+   "word": "Vingt",
+   "start": 14.52,
+   "end": 14.64
+  },
+  {
+   "word": "euros",
+   "start": 14.68,
+   "end": 14.88
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 14.914,
+   "end": 15.76
+  },
+  {
+   "word": "Clique",
+   "start": 15.8,
+   "end": 15.92
+  },
+  {
+   "word": "sur",
+   "start": 15.96,
+   "end": 16.08
+  },
+  {
+   "word": "le",
+   "start": 16.107,
+   "end": 16.16
+  },
+  {
+   "word": "panier",
+   "start": 16.2,
+   "end": 16.72
+  }
+ ],
+ "durationSec": 16.771,
+ "model": "eleven_v3"
+}

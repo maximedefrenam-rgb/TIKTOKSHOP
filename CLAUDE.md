@@ -1,4 +1,8 @@
-# Projet : vidéos TikTok Shop en motion design — nutrition sportive
+# Projet : vidéos TikTok Shop — nutrition sportive
+
+> **Depuis le 25/11/2026 : format 3D par défaut → lire `METHODE-3D.md` d'abord.** Le format motion design 2D
+> ci-dessous (plusieurs vidéos restreintes) reste documenté pour référence ; ses règles d'honnêteté, allégations,
+> mots interdits et description sans classement s'appliquent toujours.
 
 Compte TikTok qui vend des produits de nutrition sportive (créatine, whey, pré-workout…) via l'affiliation TikTok Shop.
 Vidéos 100 % motion design (Remotion), voix off ElevenLabs, sons et musique générés par code.

@@ -1,4 +1,4 @@
-import {at as atWord} from '../lib/words';
+import {at as atWord, normalize} from '../lib/words';
 import type {Timings, CharacterCue} from '../types';
 import type {Shot3D, Video3DConfig} from './Video3D';
 import type {Problem3D} from './Studio3D';
@@ -13,13 +13,25 @@ export const build3d = (o: {
 }): Video3DConfig => {
   const w = o.timings.words;
   const r = (word: string, nth = 1) => atWord(w, word, nth);
-  const shots: Shot3D[] = o.shots.map(([word, nth, text, pill, opt], i) => ({at: i === 0 ? 0 : r(word, nth) - 0.05, text, pill, ...(opt ?? {})}));
+  /** occurrence du mot située après `after` (les mots répétés « deux », « dix », « zéro »… ne posent plus de piège) */
+  const after = (word: string, t: number) => {
+    const q = normalize(word);
+    const hit = w.find((x) => x.start > t + 0.05 && (normalize(x.word) === q || normalize(x.word).endsWith("'" + q)));
+    if (!hit) throw new Error(`${o.id} : mot « ${word} » introuvable après ${t.toFixed(2)} s`);
+    return hit.start;
+  };
+  let last = -1;
+  const shots: Shot3D[] = o.shots.map(([word, nth, text, pill, opt], i) => {
+    const t = i === 0 ? 0 : (nth > 1 ? r(word, nth) : after(word, last)) - 0.05;
+    last = i === 0 ? 0 : t;
+    return {at: t, text, pill, ...(opt ?? {})};
+  });
   shots.forEach((s, i) => {
     if (i > 0 && !(s.at > shots[i - 1].at + 0.3)) throw new Error(`${o.id} : plan ${i + 1} « ${s.text} » trop proche ou dans le désordre (${s.at.toFixed(2)} s)`);
   });
-  const priceAt = r(o.price.word, o.price.nth ?? 1) - 0.05;
-  const clickAt = r(o.click ?? 'Clique') - 0.05;
-  if (!(priceAt > shots[shots.length - 1].at + 0.3 && clickAt > priceAt + 0.5)) throw new Error(`${o.id} : prix / clique dans le désordre`);
+  const priceAt = after(o.price.word, shots[shots.length - 1].at) - 0.05;
+  const clickAt = after(o.click ?? 'Clique', priceAt) - 0.05;
+  if (!(priceAt > shots[shots.length - 1].at + 0.15 && clickAt > priceAt + 0.5)) throw new Error(`${o.id} : prix / clique dans le désordre`);
   const cues: CharacterCue[] = [{action: 'present', at: shots[1]?.at ?? 1}, {action: 'shock', at: priceAt}, {action: 'point', at: clickAt}, {action: 'hop', at: clickAt + 1.2}];
   shots.forEach((s, i) => { if (i > 1 && i % 3 === 0) cues.push({action: i % 2 ? 'present' : 'point', at: s.at + 0.1}); });
   cues.sort((a, b) => a.at - b.at);

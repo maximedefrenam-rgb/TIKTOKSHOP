@@ -14,7 +14,7 @@ export const fatigue = build3d({id: 'nuclever3d-fatigue', timings: t2, ...P, pro
   shots: [['', 1, 'CREVÉ', 'avant la salle, frérot ?', {color: 'alert'}], ['Regarde', 1, 'REGARDE ÇA', 'nuclever', {view: 'problem'}],
     ['fatigue', 1, 'FATIGUE', 'le magnésium contribue à la réduire'], ['musculaire', 1, 'MUSCLES', 'vitamine D · fonction normale', {view: 'close'}],
     ['Trois', 1, '300 MG', "d'ashwagandha"], ['quatre', 1, '400 MG', 'de L-théanine', {view: 'open'}],
-    ['Quatre', 2, '4,5 ★', '3 900 avis', {view: 'stack'}], ['prix', 1, 'LE PRIX ?']],
+    ['Quatre', 1, '4,5 ★', '3 900 avis', {view: 'stack'}], ['prix', 1, 'LE PRIX ?']],
   price: {word: 'Vingt', now: '20,92 €', ...PRIX}});
 export const stress = build3d({id: 'nuclever3d-stress', timings: t3, ...P, problem: 'check', jacket: '#FFB800',
   shots: [['', 1, 'STRESS', 'au taf, frérot ?', {color: 'alert'}], ['suffit', 1, 'ÇA SUFFIT', 'prends ça', {view: 'problem'}],

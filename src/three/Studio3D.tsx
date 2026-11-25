@@ -191,7 +191,7 @@ const CAMS: {from: [number, number, number]; to: [number, number, number]; look:
 ];
 const CLOSE = {from: [0.5, 1.9, 5.2] as [number, number, number], to: [-0.3, 1.8, 4.5] as [number, number, number], look: [0, 2.3, 0] as [number, number, number]};
 const PROBLEM = {from: [0, 1.6, 6.2] as [number, number, number], to: [0, 1.6, 5.4] as [number, number, number], look: [0, 1.75, 0] as [number, number, number]};
-const STACK = {from: [0, 3.0, 9.8] as [number, number, number], to: [0.8, 2.9, 9.0] as [number, number, number], look: [0, 2.9, 0] as [number, number, number]};
+const STACK = {from: [0, 3.0, 10.4] as [number, number, number], to: [0.8, 2.9, 9.8] as [number, number, number], look: [0, 3.2, 0] as [number, number, number]};
 
 const CameraRig: React.FC<{p: number; preset: number; close: boolean; mode?: 'problem' | 'stack'}> = ({p, preset, close, mode}) => {
   const {camera} = useThree();
@@ -228,7 +228,7 @@ export const Studio3D: React.FC<{
   const close = shot.view === 'close';
   const prodY = (1 - enter) * 1.6;
 
-  const stack = useMemo(() => [0, 1, 2, 3, 4, 5], []);
+  const stack = useMemo(() => [0, 1, 2, 3], []);
 
   return (
     <ThreeCanvas width={width} height={height} style={{position: 'absolute', inset: 0}} gl={{alpha: true, antialias: true}}>
@@ -278,7 +278,7 @@ export const Studio3D: React.FC<{
       )}
 
       {showProblem && !isProblem && (
-        <group position={[2.3, 3.6, -1.5]} scale={0.55} rotation={[0, -0.4 + 0.3 * p, 0]}>
+        <group position={[1.55, 2.75, 0.8]} scale={0.38} rotation={[0, -0.5 + 0.3 * p, 0]}>
           <ProblemObject kind={problem} solved={solved} t={t} accent={accent} />
         </group>
       )}

@@ -19,6 +19,6 @@ export const sept = build3d({id: 'zap3d-7h', timings: t2, ...P, problem: 'clock'
 export const canette = build3d({id: 'zap3d-canette', timings: t3, ...P, problem: 'tag', jacket: '#FFB800',
   shots: [['', 1, 'CANETTES', '2 € par jour', {over: 'ARRÊTE LES', color: 'alert'}], ['Regarde', 1, 'REGARDE ÇA', 'frérot', {view: 'problem'}],
     ['ZAP', 1, 'ZAP', '36 sachets'], ['cent', 1, '100 MG', 'de caféine chacun', {view: 'close'}], ['zéro', 1, 'SUCRE', 'quasi 0 calorie', {crossed: true}],
-    ['canette', 2, '35 G', 'de sucre dans une canette', {color: 'alert'}], ['lèvre', 1, 'SOUS LA LÈVRE', 'et réglé', {view: 'open'}],
+    ['canette', 1, '35 G', 'de sucre dans une canette', {color: 'alert'}], ['lèvre', 1, 'SOUS LA LÈVRE', 'et réglé', {view: 'open'}],
     ['Suède', 1, 'SUÈDE', 'fabriqué en', {view: 'stack'}], ['prix', 1, 'LE PRIX ?']],
   price: {word: 'Vingt-huit', now: '0,28 €', pills: ['le sachet · 10,16 € les 36', 'livraison gratuite']}});

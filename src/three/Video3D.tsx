@@ -38,12 +38,24 @@ export type Video3DConfig = {
 };
 
 export const HOLD = 3; // « CLIQUE sur le panier » tenu 3 s
-export const durationFrames3D = (c: Video3DConfig) => Math.ceil(Math.max(c.timings.durationSec + 0.3, c.clickAt + HOLD) * 30);
+/** le prix reste au moins 1,5 s à l'écran avant « CLIQUE » */
+export const clickVisual = (c: Video3DConfig) => Math.max(c.clickAt, c.price.at + 1.5);
+export const durationFrames3D = (c: Video3DConfig) => Math.ceil(Math.max(c.timings.durationSec + 0.3, clickVisual(c) + HOLD) * 30);
 
-const Pill: React.FC<{text: string; bg: string; color?: string; size?: number}> = ({text, bg, color = '#0B0B0F', size = 42}) => (
+const Cart: React.FC<{size: number; color: string}> = ({size, color}) => (
+  <svg width={size} height={size} viewBox="0 0 24 24" fill="none" style={{verticalAlign: '-12%', marginRight: size * 0.25}}>
+    <path d="M2.5 3.5h2.6l2.3 11.2a1.6 1.6 0 0 0 1.6 1.3h8.6a1.6 1.6 0 0 0 1.6-1.2l1.6-6.8H6.3" stroke={color} strokeWidth="2.6" strokeLinecap="round" strokeLinejoin="round" />
+    <circle cx="9.5" cy="20" r="1.7" fill={color} /><circle cx="17" cy="20" r="1.7" fill={color} />
+  </svg>
+);
+
+const Pill: React.FC<{text: string; bg: string; color?: string; size?: number}> = ({text, bg, color = '#0B0B0F', size: size0 = 42}) => {
+  const size = Math.min(size0, 820 / (text.length * 0.66));
+  return (
   <div style={{display: 'inline-block', background: bg, color, fontFamily: FONT, fontWeight: 900, fontSize: size, lineHeight: 1.15,
     padding: '2px 22px', borderRadius: 999, textTransform: 'uppercase', whiteSpace: 'nowrap'}}>{text}</div>
-);
+  );
+};
 
 const Headline: React.FC<{shot: Shot3D; start: number; accent: string; pillColor: string}> = ({shot, start, accent, pillColor}) => {
   const f = useCurrentFrame();
@@ -83,7 +95,7 @@ const PriceCard: React.FC<{price: Video3DConfig['price']; start: number; accent:
         <div key={i} style={{transform: `scale(${sp(f, start + 4 + i * 3)})`}}><Pill text={t} bg={i === 0 ? '#FFFFFF' : accent} size={38} /></div>
       ))}
       <div style={{marginTop: 18, transform: `scale(${sp(f, start + 10)})`, background: '#FE6A1A', color: '#fff', fontFamily: FONT, fontWeight: 900,
-        fontSize: 54, padding: '14px 44px', borderRadius: 22, boxShadow: '0 12px 40px #FE6A1A88'}}>🛒 AJOUTE AU PANIER</div>
+        fontSize: 54, padding: '14px 44px', borderRadius: 22, boxShadow: '0 12px 40px #FE6A1A88'}}><Cart size={54} color="#fff" />AJOUTE AU PANIER</div>
     </div>
   );
 };
@@ -98,7 +110,7 @@ const ClickCard: React.FC<{start: number; pillColor: string}> = ({start, pillCol
       <div style={{fontFamily: FONT, fontWeight: 900, fontSize: 150, color: '#fff', lineHeight: 1, letterSpacing: -3}}>CLIQUE</div>
       <Pill text="sur le panier" bg={pillColor} size={52} />
       <div style={{transform: `scale(${pulse})`, marginTop: 10, background: pillColor, color: '#0B0B0F', fontFamily: FONT, fontWeight: 900,
-        fontSize: 46, padding: '10px 36px', borderRadius: 999, boxShadow: `0 0 40px ${pillColor}`}}>🛒 PANIER</div>
+        fontSize: 46, padding: '10px 36px', borderRadius: 999, boxShadow: `0 0 40px ${pillColor}`}}><Cart size={46} color="#0B0B0F" />PANIER</div>
     </div>
   );
 };
@@ -109,7 +121,7 @@ export const Video3D: React.FC<{config: Video3DConfig}> = ({config: c}) => {
   const {durationInFrames} = useVideoConfig();
   const pillColor = c.pillColor ?? c.accent;
   const priceF = Math.round(c.price.at * 30);
-  const clickF = Math.round(c.clickAt * 30);
+  const clickF = Math.round(clickVisual(c) * 30);
 
   // plans : mots-clés, puis prix, puis CLIQUE ; les 4 dernières images reviennent sur l'image 0 (boucle)
   type Seg = {start: number; end: number; view: View3D; shot?: Shot3D; kind: 'shot' | 'price' | 'click' | 'loop'};
@@ -143,7 +155,7 @@ export const Video3D: React.FC<{config: Video3DConfig}> = ({config: c}) => {
       )}
       <Audio src={staticFile(c.voice)} />
       <Audio src={staticFile(c.music)} volume={0.1} />
-      {(c.shots.map((s) => s.at).concat([c.price.at, c.clickAt])).map((t, i) => (
+      {(c.shots.map((s) => s.at).concat([c.price.at, clickVisual(c)])).map((t, i) => (
         <Sequence key={i} from={Math.round(t * 30)} layout="none">
           <Audio src={staticFile(i === c.shots.length ? 'sfx/ding.wav' : i === 0 ? 'sfx/impact.wav' : 'sfx/whoosh.wav')} volume={i === 0 ? 0.45 : 0.3} />
         </Sequence>

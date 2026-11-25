@@ -2,295 +2,295 @@
  "words": [
   {
    "word": "Frérot",
-   "start": 0.089,
-   "end": 0.405
+   "start": 0.087,
+   "end": 0.394
   },
   {
    "word": "arrête",
-   "start": 0.461,
-   "end": 0.701
+   "start": 0.448,
+   "end": 0.682
   },
   {
    "word": "de",
-   "start": 0.726,
-   "end": 0.775
+   "start": 0.707,
+   "end": 0.754
   },
   {
    "word": "claquer",
-   "start": 0.812,
-   "end": 1.22
+   "start": 0.79,
+   "end": 1.187
   },
   {
    "word": "deux",
-   "start": 1.249,
-   "end": 1.368
+   "start": 1.216,
+   "end": 1.331
   },
   {
    "word": "balles",
-   "start": 1.387,
-   "end": 1.516
+   "start": 1.349,
+   "end": 1.475
   },
   {
    "word": "par",
-   "start": 1.553,
-   "end": 1.664
+   "start": 1.511,
+   "end": 1.619
   },
   {
    "word": "jour",
-   "start": 1.709,
-   "end": 1.887
+   "start": 1.663,
+   "end": 1.836
   },
   {
    "word": "en",
-   "start": 1.936,
-   "end": 2.035
+   "start": 1.883,
+   "end": 1.98
   },
   {
    "word": "canettes",
-   "start": 2.072,
-   "end": 2.479
+   "start": 2.016,
+   "end": 2.412
   },
   {
    "word": "Regarde",
-   "start": 2.516,
-   "end": 2.775
+   "start": 2.448,
+   "end": 2.7
   },
   {
    "word": "ça",
-   "start": 2.824,
-   "end": 3.146
+   "start": 2.748,
+   "end": 3.061
   },
   {
    "word": "ZAP",
-   "start": 3.22,
-   "end": 3.664
+   "start": 3.133,
+   "end": 3.565
   },
   {
    "word": "trente-six",
-   "start": 3.683,
-   "end": 4.035
+   "start": 3.583,
+   "end": 3.926
   },
   {
    "word": "sachets",
-   "start": 4.079,
-   "end": 4.553
+   "start": 3.969,
+   "end": 4.43
   },
   {
    "word": "cent",
-   "start": 4.583,
-   "end": 4.701
+   "start": 4.459,
+   "end": 4.574
   },
   {
    "word": "milligrammes",
-   "start": 4.731,
-   "end": 5.146
+   "start": 4.603,
+   "end": 5.007
   },
   {
    "word": "de",
-   "start": 5.171,
-   "end": 5.22
+   "start": 5.031,
+   "end": 5.079
   },
   {
    "word": "caféine",
-   "start": 5.264,
-   "end": 5.59
+   "start": 5.122,
+   "end": 5.439
   },
   {
    "word": "chacun",
-   "start": 5.62,
-   "end": 6.109
+   "start": 5.468,
+   "end": 5.944
   },
   {
    "word": "zéro",
-   "start": 6.146,
-   "end": 6.331
+   "start": 5.98,
+   "end": 6.16
   },
   {
    "word": "sucre",
-   "start": 6.405,
-   "end": 6.849
+   "start": 6.232,
+   "end": 6.664
   },
   {
    "word": "quasi",
-   "start": 6.899,
-   "end": 7.146
+   "start": 6.712,
+   "end": 6.953
   },
   {
    "word": "zéro",
-   "start": 7.22,
-   "end": 7.368
+   "start": 7.025,
+   "end": 7.169
   },
   {
    "word": "calorie",
-   "start": 7.424,
-   "end": 7.887
+   "start": 7.223,
+   "end": 7.673
   },
   {
    "word": "Une",
-   "start": 7.924,
-   "end": 8.035
+   "start": 7.709,
+   "end": 7.818
   },
   {
    "word": "canette",
-   "start": 8.09,
-   "end": 8.405
+   "start": 7.872,
+   "end": 8.178
   },
   {
    "word": "c'est",
-   "start": 8.424,
-   "end": 8.479
+   "start": 8.196,
+   "end": 8.25
   },
   {
    "word": "jusqu'à",
-   "start": 8.516,
-   "end": 8.775
+   "start": 8.286,
+   "end": 8.538
   },
   {
    "word": "trente-cinq",
-   "start": 8.812,
-   "end": 9.22
+   "start": 8.574,
+   "end": 8.971
   },
   {
    "word": "grammes",
-   "start": 9.257,
-   "end": 9.516
+   "start": 9.007,
+   "end": 9.259
   },
   {
    "word": "de",
-   "start": 9.541,
-   "end": 9.59
+   "start": 9.283,
+   "end": 9.331
   },
   {
    "word": "sucre",
-   "start": 9.639,
-   "end": 9.961
+   "start": 9.379,
+   "end": 9.691
   },
   {
    "word": "Toi",
-   "start": 9.986,
-   "end": 10.183
+   "start": 9.716,
+   "end": 9.908
   },
   {
    "word": "tu",
-   "start": 10.208,
-   "end": 10.257
+   "start": 9.932,
+   "end": 9.98
   },
   {
    "word": "poses",
-   "start": 10.306,
-   "end": 10.553
+   "start": 10.027,
+   "end": 10.268
   },
   {
    "word": "un",
-   "start": 10.578,
-   "end": 10.627
+   "start": 10.292,
+   "end": 10.34
   },
   {
    "word": "sachet",
-   "start": 10.672,
-   "end": 10.998
+   "start": 10.383,
+   "end": 10.7
   },
   {
    "word": "sous",
-   "start": 11.012,
-   "end": 11.072
+   "start": 10.715,
+   "end": 10.772
   },
   {
    "word": "la",
-   "start": 11.121,
-   "end": 11.22
+   "start": 10.82,
+   "end": 10.917
   },
   {
    "word": "lèvre",
-   "start": 11.257,
-   "end": 11.664
+   "start": 10.953,
+   "end": 11.349
   },
   {
    "word": "et",
-   "start": 11.689,
-   "end": 11.738
+   "start": 11.373,
+   "end": 11.421
   },
   {
    "word": "c'est",
-   "start": 11.775,
-   "end": 11.887
+   "start": 11.457,
+   "end": 11.565
   },
   {
    "word": "réglé",
-   "start": 11.936,
-   "end": 12.405
+   "start": 11.613,
+   "end": 12.07
   },
   {
    "word": "Fabriqué",
-   "start": 12.442,
-   "end": 12.775
+   "start": 12.106,
+   "end": 12.43
   },
   {
    "word": "en",
-   "start": 12.8,
-   "end": 12.849
+   "start": 12.454,
+   "end": 12.502
   },
   {
    "word": "Suède",
-   "start": 12.899,
-   "end": 13.368
+   "start": 12.55,
+   "end": 13.007
   },
   {
    "word": "Le",
-   "start": 13.393,
-   "end": 13.442
+   "start": 13.031,
+   "end": 13.079
   },
   {
    "word": "prix",
-   "start": 13.487,
-   "end": 13.664
+   "start": 13.122,
+   "end": 13.295
   },
   {
    "word": "Vingt-huit",
-   "start": 13.891,
-   "end": 14.225
+   "start": 13.498,
+   "end": 13.822
   },
   {
    "word": "centimes",
-   "start": 14.254,
-   "end": 14.521
+   "start": 13.851,
+   "end": 14.11
   },
   {
    "word": "le",
-   "start": 14.546,
-   "end": 14.595
+   "start": 14.135,
+   "end": 14.182
   },
   {
    "word": "sachet",
-   "start": 14.639,
-   "end": 15.113
+   "start": 14.226,
+   "end": 14.687
   },
   {
    "word": "Clique",
-   "start": 15.15,
-   "end": 15.262
+   "start": 14.723,
+   "end": 14.831
   },
   {
    "word": "sur",
-   "start": 15.299,
-   "end": 15.41
+   "start": 14.867,
+   "end": 14.975
   },
   {
    "word": "le",
-   "start": 15.435,
-   "end": 15.484
+   "start": 15.0,
+   "end": 15.047
   },
   {
    "word": "panier",
-   "start": 15.521,
-   "end": 15.854
+   "start": 15.083,
+   "end": 15.408
   }
  ],
- "durationSec": 15.909,
+ "durationSec": 15.464,
  "model": "eleven_v3",
  "tightened": {
-  "maxGap": 0.1,
-  "tempo": 1.08,
+  "maxGap": 0.08,
+  "tempo": 1.11,
   "cuts": 2
  }
 }

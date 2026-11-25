@@ -43,3 +43,21 @@
 | 2026-11-25 | Nuclever Cortisol Manager | Variante · Sommeil | Ton cerveau à deux cents à l'heure sur l'oreiller ?! | v1 (nuclever-oreiller) |  |  |  |
 | 2026-11-25 | Nuclever Cortisol Manager | Variante · Interpellation stress | Stress au taf, en couple, à la salle, ça suffit ! | v1 (nuclever-stress) |  |  |  |
 | 2026-11-25 | Nuclever Cortisol Manager | Variante · Preuve sociale | Wesh, cinquante-cinq mille personnes ont craqué ?! | v1 (nuclever-55000) |  |  |  |
+| 2026-11-25 | ZAP cerise noire DUO | 3D · H24 | T'es H24 fatigué frérot | v1 3D (ZAP-H24-3D) |  |  |  |
+| 2026-11-25 | ZAP cerise noire DUO | 3D · Reveil | Réveil 7 h, séance 8 h, mode zombie | v1 3D (ZAP-Reveil-3D) |  |  |  |
+| 2026-11-25 | ZAP cerise noire DUO | 3D · Canette | Arrête de claquer 2 € par jour en canettes 🥤 ZAP : 100 mg de caféine,  | v1 3D (ZAP-Canette-3D) |  |  |  |
+| 2026-11-25 | medicube Toner Pads | 3D · Pores | Tes pores = une passoire | v1 3D (Medicube-Pores-3D) |  |  |  |
+| 2026-11-25 | medicube Toner Pads | 3D · Promo | Skincare coréenne avec coupon -30 % 😱 Toner pads double face, effet gl | v1 3D (Medicube-Promo-3D) |  |  |  |
+| 2026-11-25 | medicube Toner Pads | 3D · Routine | Ta routine en 10 étapes | v1 3D (Medicube-Routine-3D) |  |  |  |
+| 2026-11-25 | Lashilé Good Hair | 3D · Casse | Ses cheveux cassent | v1 3D (Lashile-Casse-3D) |  |  |  |
+| 2026-11-25 | Lashilé Good Hair | 3D · Fleurs | Des fleurs pour Noël | v1 3D (Lashile-Fleurs-3D) |  |  |  |
+| 2026-11-25 | Lashilé Good Hair | 3D · Pousse | Tes cheveux poussent au ralenti | v1 3D (Lashile-Pousse-3D) |  |  |  |
+| 2026-11-25 | Karacare Hair Boost | 3D · Casquette | Toujours planqué sous ta casquette | v1 3D (Karacare-Casquette-3D) |  |  |  |
+| 2026-11-25 | Karacare Hair Boost | 3D · 12cm | Tes cheveux mettent des siècles à pousser | v1 3D (Karacare-12cm-3D) |  |  |  |
+| 2026-11-25 | Karacare Hair Boost | 3D · Elu | Élu produit de l'année 2026 et t'en as jamais entendu parler | v1 3D (Karacare-Elu-3D) |  |  |  |
+| 2026-11-25 | Créatine OstroVit 300 g | 3D · Serie | Tu lâches à la dernière série | v1 3D (Creatine-Serie-3D) |  |  |  |
+| 2026-11-25 | Créatine OstroVit 300 g | 3D · 5cts | Même pas 5 centimes la dose de créatine 😱 OstroVit 300 g micronisée à  | v1 3D (Creatine-5cts-3D) |  |  |  |
+| 2026-11-25 | Créatine OstroVit 300 g | 3D · Gouts | Ta créatine a un goût de plâtre | v1 3D (Creatine-Gouts-3D) |  |  |  |
+| 2026-11-25 | Nuclever Cortisol Manager | 3D · 3h | 3 h du mat' et tu fixes le plafond | v1 3D (Nuclever-3h-3D) |  |  |  |
+| 2026-11-25 | Nuclever Cortisol Manager | 3D · Fatigue | Crevé avant même la salle | v1 3D (Nuclever-Fatigue-3D) |  |  |  |
+| 2026-11-25 | Nuclever Cortisol Manager | 3D · Stress | Stress au taf, stress à la maison, ça suffit 😤 Cortisol Manager, 3 goû | v1 3D (Nuclever-Stress-3D) |  |  |  |

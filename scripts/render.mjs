@@ -3,14 +3,15 @@
  *   node scripts/render.mjs <nom>   → out/<nom>-v<version>.mp4 (H.264) et out/frames/<nom>-*.png
  * La version est lue dans videos/<nom>/config.ts.
  */
-import {readFileSync, mkdirSync, renameSync} from 'node:fs';
+import {readFileSync, mkdirSync, renameSync, existsSync} from 'node:fs';
 import {execFileSync} from 'node:child_process';
 import path from 'node:path';
 import {ROOT, audioDuration} from './lib/common.mjs';
 
 const video = process.argv[2];
 if (!video) throw new Error('usage : node scripts/render.mjs <nom>');
-const cfg = readFileSync(path.join(ROOT, 'videos', video, 'config.ts'), 'utf8');
+const cfgPath = path.join(ROOT, 'videos', video, 'config.ts');
+const cfg = existsSync(cfgPath) ? readFileSync(cfgPath, 'utf8') : 'version: 1';
 const version = (cfg.match(/version:\s*(\d+)/) || [])[1] || '1';
 const out = path.join(ROOT, 'out', `${video}-v${version}.mp4`);
 execFileSync('npx', ['remotion', 'render', 'src/index.ts', video, out, '--codec=h264', '--crf=18'], {cwd: ROOT, stdio: 'inherit'});

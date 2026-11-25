@@ -1,0 +1,306 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.139,
+   "end": 0.56
+  },
+  {
+   "word": "élu",
+   "start": 0.64,
+   "end": 0.8
+  },
+  {
+   "word": "produit",
+   "start": 0.86,
+   "end": 1.28
+  },
+  {
+   "word": "de",
+   "start": 1.307,
+   "end": 1.36
+  },
+  {
+   "word": "l'année",
+   "start": 1.4,
+   "end": 1.68
+  },
+  {
+   "word": "deux",
+   "start": 1.712,
+   "end": 1.84
+  },
+  {
+   "word": "mille",
+   "start": 1.88,
+   "end": 2
+  },
+  {
+   "word": "vingt-six",
+   "start": 2.04,
+   "end": 2.6
+  },
+  {
+   "word": "et",
+   "start": 2.667,
+   "end": 2.8
+  },
+  {
+   "word": "t'en",
+   "start": 2.84,
+   "end": 2.96
+  },
+  {
+   "word": "as",
+   "start": 3.04,
+   "end": 3.2
+  },
+  {
+   "word": "jamais",
+   "start": 3.246,
+   "end": 3.52
+  },
+  {
+   "word": "entendu",
+   "start": 3.577,
+   "end": 4.08
+  },
+  {
+   "word": "parler",
+   "start": 4.114,
+   "end": 4.32
+  },
+  {
+   "word": "Karacare",
+   "start": 4.84,
+   "end": 5.36
+  },
+  {
+   "word": "Hair",
+   "start": 5.424,
+   "end": 5.68
+  },
+  {
+   "word": "Boost",
+   "start": 5.733,
+   "end": 6.32
+  },
+  {
+   "word": "Plus",
+   "start": 6.352,
+   "end": 6.48
+  },
+  {
+   "word": "de",
+   "start": 6.533,
+   "end": 6.64
+  },
+  {
+   "word": "soixante",
+   "start": 6.693,
+   "end": 7.12
+  },
+  {
+   "word": "mille",
+   "start": 7.16,
+   "end": 7.28
+  },
+  {
+   "word": "clientes",
+   "start": 7.324,
+   "end": 7.68
+  },
+  {
+   "word": "l'ont",
+   "start": 7.72,
+   "end": 7.84
+  },
+  {
+   "word": "testé",
+   "start": 7.888,
+   "end": 8.24
+  },
+  {
+   "word": "selon",
+   "start": 8.267,
+   "end": 8.4
+  },
+  {
+   "word": "la",
+   "start": 8.453,
+   "end": 8.56
+  },
+  {
+   "word": "marque",
+   "start": 8.606,
+   "end": 9.2
+  },
+  {
+   "word": "Onze",
+   "start": 9.253,
+   "end": 9.44
+  },
+  {
+   "word": "vitamines",
+   "start": 9.5,
+   "end": 9.92
+  },
+  {
+   "word": "et",
+   "start": 9.973,
+   "end": 10.08
+  },
+  {
+   "word": "minéraux",
+   "start": 10.14,
+   "end": 10.88
+  },
+  {
+   "word": "conçu",
+   "start": 10.92,
+   "end": 11.2
+  },
+  {
+   "word": "pour",
+   "start": 11.232,
+   "end": 11.36
+  },
+  {
+   "word": "la",
+   "start": 11.413,
+   "end": 11.52
+  },
+  {
+   "word": "pousse",
+   "start": 11.56,
+   "end": 12
+  },
+  {
+   "word": "la",
+   "start": 12.027,
+   "end": 12.08
+  },
+  {
+   "word": "force",
+   "start": 12.147,
+   "end": 12.48
+  },
+  {
+   "word": "et",
+   "start": 12.56,
+   "end": 12.72
+  },
+  {
+   "word": "le",
+   "start": 12.747,
+   "end": 12.8
+  },
+  {
+   "word": "volume",
+   "start": 12.869,
+   "end": 13.68
+  },
+  {
+   "word": "Deux",
+   "start": 13.707,
+   "end": 13.84
+  },
+  {
+   "word": "flacons",
+   "start": 13.867,
+   "end": 14.48
+  },
+  {
+   "word": "cent",
+   "start": 14.512,
+   "end": 14.64
+  },
+  {
+   "word": "vingt",
+   "start": 14.68,
+   "end": 14.8
+  },
+  {
+   "word": "gummies",
+   "start": 14.84,
+   "end": 15.52
+  },
+  {
+   "word": "deux",
+   "start": 15.552,
+   "end": 15.68
+  },
+  {
+   "word": "mois",
+   "start": 15.712,
+   "end": 15.84
+  },
+  {
+   "word": "de",
+   "start": 15.867,
+   "end": 15.92
+  },
+  {
+   "word": "cure",
+   "start": 15.984,
+   "end": 16.32
+  },
+  {
+   "word": "Le",
+   "start": 16.453,
+   "end": 16.72
+  },
+  {
+   "word": "prix",
+   "start": 16.768,
+   "end": 16.96
+  },
+  {
+   "word": "Cinquante-six",
+   "start": 17.38,
+   "end": 17.84
+  },
+  {
+   "word": "euros",
+   "start": 17.893,
+   "end": 18.16
+  },
+  {
+   "word": "quatre-vingt-un",
+   "start": 18.194,
+   "end": 18.96
+  },
+  {
+   "word": "livraison",
+   "start": 19.02,
+   "end": 19.44
+  },
+  {
+   "word": "gratuite",
+   "start": 19.493,
+   "end": 20
+  },
+  {
+   "word": "Clique",
+   "start": 20.16,
+   "end": 20.4
+  },
+  {
+   "word": "sur",
+   "start": 20.44,
+   "end": 20.56
+  },
+  {
+   "word": "le",
+   "start": 20.587,
+   "end": 20.64
+  },
+  {
+   "word": "panier",
+   "start": 20.68,
+   "end": 21.04
+  }
+ ],
+ "durationSec": 21.081,
+ "model": "eleven_v3"
+}

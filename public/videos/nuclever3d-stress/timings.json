@@ -1,0 +1,281 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.054,
+   "end": 0.312
+  },
+  {
+   "word": "stress",
+   "start": 0.348,
+   "end": 0.562
+  },
+  {
+   "word": "au",
+   "start": 0.584,
+   "end": 0.625
+  },
+  {
+   "word": "taf",
+   "start": 0.656,
+   "end": 0.938
+  },
+  {
+   "word": "stress",
+   "start": 0.973,
+   "end": 1.188
+  },
+  {
+   "word": "à",
+   "start": 1.219,
+   "end": 1.25
+  },
+  {
+   "word": "la",
+   "start": 1.271,
+   "end": 1.312
+  },
+  {
+   "word": "maison",
+   "start": 1.348,
+   "end": 1.625
+  },
+  {
+   "word": "ça",
+   "start": 1.666,
+   "end": 1.75
+  },
+  {
+   "word": "suffit",
+   "start": 1.787,
+   "end": 2.188
+  },
+  {
+   "word": "Prends",
+   "start": 2.203,
+   "end": 2.312
+  },
+  {
+   "word": "ça",
+   "start": 2.375,
+   "end": 2.501
+  },
+  {
+   "word": "Nuclever",
+   "start": 2.688,
+   "end": 3.25
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.3,
+   "end": 3.75
+  },
+  {
+   "word": "Manager",
+   "start": 3.797,
+   "end": 4.25
+  },
+  {
+   "word": "deuxième",
+   "start": 4.288,
+   "end": 4.5
+  },
+  {
+   "word": "au",
+   "start": 4.521,
+   "end": 4.562
+  },
+  {
+   "word": "classement",
+   "start": 4.589,
+   "end": 4.875
+  },
+  {
+   "word": "des",
+   "start": 4.891,
+   "end": 4.938
+  },
+  {
+   "word": "ventes",
+   "start": 4.975,
+   "end": 5.25
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 5.281,
+   "end": 5.625
+  },
+  {
+   "word": "mille",
+   "start": 5.656,
+   "end": 5.75
+  },
+  {
+   "word": "vendus",
+   "start": 5.788,
+   "end": 6.375
+  },
+  {
+   "word": "Ashwagandha",
+   "start": 6.438,
+   "end": 6.875
+  },
+  {
+   "word": "pour",
+   "start": 6.9,
+   "end": 7.0
+  },
+  {
+   "word": "le",
+   "start": 7.021,
+   "end": 7.062
+  },
+  {
+   "word": "stress",
+   "start": 7.107,
+   "end": 7.437
+  },
+  {
+   "word": "vitamine",
+   "start": 7.484,
+   "end": 7.812
+  },
+  {
+   "word": "D",
+   "start": 7.875,
+   "end": 7.938
+  },
+  {
+   "word": "pour",
+   "start": 7.963,
+   "end": 8.062
+  },
+  {
+   "word": "l'humeur",
+   "start": 8.094,
+   "end": 8.625
+  },
+  {
+   "word": "Certifié",
+   "start": 8.662,
+   "end": 9.0
+  },
+  {
+   "word": "GMP",
+   "start": 9.094,
+   "end": 9.5
+  },
+  {
+   "word": "sans",
+   "start": 9.525,
+   "end": 9.625
+  },
+  {
+   "word": "édulcorant",
+   "start": 9.688,
+   "end": 10.062
+  },
+  {
+   "word": "artificiel",
+   "start": 10.094,
+   "end": 10.688
+  },
+  {
+   "word": "Trois",
+   "start": 10.719,
+   "end": 10.875
+  },
+  {
+   "word": "goûts",
+   "start": 10.896,
+   "end": 11.031
+  },
+  {
+   "word": "au",
+   "start": 11.041,
+   "end": 11.062
+  },
+  {
+   "word": "choix",
+   "start": 11.094,
+   "end": 11.625
+  },
+  {
+   "word": "Le",
+   "start": 11.646,
+   "end": 11.688
+  },
+  {
+   "word": "prix",
+   "start": 11.737,
+   "end": 11.938
+  },
+  {
+   "word": "Vingt",
+   "start": 12.096,
+   "end": 12.253
+  },
+  {
+   "word": "euros",
+   "start": 12.274,
+   "end": 12.378
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 12.396,
+   "end": 12.94
+  },
+  {
+   "word": "le",
+   "start": 12.961,
+   "end": 13.003
+  },
+  {
+   "word": "plus",
+   "start": 13.04,
+   "end": 13.19
+  },
+  {
+   "word": "bas",
+   "start": 13.221,
+   "end": 13.315
+  },
+  {
+   "word": "de",
+   "start": 13.336,
+   "end": 13.378
+  },
+  {
+   "word": "l'année",
+   "start": 13.393,
+   "end": 13.94
+  },
+  {
+   "word": "Clique",
+   "start": 13.971,
+   "end": 14.065
+  },
+  {
+   "word": "sur",
+   "start": 14.096,
+   "end": 14.19
+  },
+  {
+   "word": "le",
+   "start": 14.231,
+   "end": 14.315
+  },
+  {
+   "word": "panier",
+   "start": 14.346,
+   "end": 14.69
+  }
+ ],
+ "durationSec": 14.733,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.08,
+  "tempo": 1.28,
+  "cuts": 1
+ }
+}

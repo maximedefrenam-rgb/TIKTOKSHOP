@@ -1,0 +1,276 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.139,
+   "end": 0.56
+  },
+  {
+   "word": "même",
+   "start": 0.608,
+   "end": 0.8
+  },
+  {
+   "word": "pas",
+   "start": 0.84,
+   "end": 0.96
+  },
+  {
+   "word": "cinq",
+   "start": 1.04,
+   "end": 1.2
+  },
+  {
+   "word": "centimes",
+   "start": 1.264,
+   "end": 1.68
+  },
+  {
+   "word": "la",
+   "start": 1.707,
+   "end": 1.76
+  },
+  {
+   "word": "dose",
+   "start": 1.808,
+   "end": 2
+  },
+  {
+   "word": "de",
+   "start": 2.027,
+   "end": 2.08
+  },
+  {
+   "word": "créatine",
+   "start": 2.12,
+   "end": 2.72
+  },
+  {
+   "word": "t'as",
+   "start": 2.76,
+   "end": 2.88
+  },
+  {
+   "word": "bien",
+   "start": 2.928,
+   "end": 3.12
+  },
+  {
+   "word": "entendu",
+   "start": 3.166,
+   "end": 3.8
+  },
+  {
+   "word": "Regarde",
+   "start": 3.85,
+   "end": 4.16
+  },
+  {
+   "word": "ça",
+   "start": 4.213,
+   "end": 4.56
+  },
+  {
+   "word": "OstroVit",
+   "start": 4.62,
+   "end": 5.36
+  },
+  {
+   "word": "trois",
+   "start": 5.4,
+   "end": 5.6
+  },
+  {
+   "word": "cents",
+   "start": 5.627,
+   "end": 5.76
+  },
+  {
+   "word": "grammes",
+   "start": 5.8,
+   "end": 6.08
+  },
+  {
+   "word": "de",
+   "start": 6.107,
+   "end": 6.16
+  },
+  {
+   "word": "monohydrate",
+   "start": 6.22,
+   "end": 7.04
+  },
+  {
+   "word": "cent",
+   "start": 7.088,
+   "end": 7.28
+  },
+  {
+   "word": "doses",
+   "start": 7.36,
+   "end": 7.76
+  },
+  {
+   "word": "de",
+   "start": 7.813,
+   "end": 7.92
+  },
+  {
+   "word": "trois",
+   "start": 7.947,
+   "end": 8.08
+  },
+  {
+   "word": "grammes",
+   "start": 8.133,
+   "end": 8.64
+  },
+  {
+   "word": "Ultra",
+   "start": 8.68,
+   "end": 8.88
+  },
+  {
+   "word": "micronisée",
+   "start": 8.937,
+   "end": 9.68
+  },
+  {
+   "word": "ça",
+   "start": 9.707,
+   "end": 9.76
+  },
+  {
+   "word": "se",
+   "start": 9.813,
+   "end": 9.92
+  },
+  {
+   "word": "mélange",
+   "start": 9.96,
+   "end": 10.32
+  },
+  {
+   "word": "direct",
+   "start": 10.389,
+   "end": 10.96
+  },
+  {
+   "word": "Trois",
+   "start": 11,
+   "end": 11.24
+  },
+  {
+   "word": "grammes",
+   "start": 11.26,
+   "end": 11.44
+  },
+  {
+   "word": "par",
+   "start": 11.46,
+   "end": 11.52
+  },
+  {
+   "word": "jour",
+   "start": 11.584,
+   "end": 11.84
+  },
+  {
+   "word": "augmentent",
+   "start": 11.89,
+   "end": 12.32
+  },
+  {
+   "word": "la",
+   "start": 12.347,
+   "end": 12.4
+  },
+  {
+   "word": "performance",
+   "start": 12.44,
+   "end": 12.88
+  },
+  {
+   "word": "physique",
+   "start": 12.924,
+   "end": 13.28
+  },
+  {
+   "word": "lors",
+   "start": 13.328,
+   "end": 13.52
+  },
+  {
+   "word": "d'exercices",
+   "start": 13.56,
+   "end": 14.08
+  },
+  {
+   "word": "courts",
+   "start": 14.126,
+   "end": 14.56
+  },
+  {
+   "word": "intenses",
+   "start": 14.62,
+   "end": 15.2
+  },
+  {
+   "word": "et",
+   "start": 15.253,
+   "end": 15.36
+  },
+  {
+   "word": "répétés",
+   "start": 15.413,
+   "end": 16
+  },
+  {
+   "word": "Le",
+   "start": 16.053,
+   "end": 16.16
+  },
+  {
+   "word": "prix",
+   "start": 16.208,
+   "end": 16.4
+  },
+  {
+   "word": "Quatre",
+   "start": 16.827,
+   "end": 16.96
+  },
+  {
+   "word": "euros",
+   "start": 17.013,
+   "end": 17.28
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 17.314,
+   "end": 18.32
+  },
+  {
+   "word": "Clique",
+   "start": 18.36,
+   "end": 18.56
+  },
+  {
+   "word": "sur",
+   "start": 18.58,
+   "end": 18.64
+  },
+  {
+   "word": "le",
+   "start": 18.693,
+   "end": 18.8
+  },
+  {
+   "word": "panier",
+   "start": 18.84,
+   "end": 19.44
+  }
+ ],
+ "durationSec": 19.487,
+ "model": "eleven_v3"
+}

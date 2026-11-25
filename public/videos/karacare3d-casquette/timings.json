@@ -1,0 +1,311 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.079,
+   "end": 0.424
+  },
+  {
+   "word": "toujours",
+   "start": 0.453,
+   "end": 0.682
+  },
+  {
+   "word": "planqué",
+   "start": 0.708,
+   "end": 0.94
+  },
+  {
+   "word": "sous",
+   "start": 0.966,
+   "end": 1.069
+  },
+  {
+   "word": "ta",
+   "start": 1.091,
+   "end": 1.134
+  },
+  {
+   "word": "casquette",
+   "start": 1.166,
+   "end": 1.521
+  },
+  {
+   "word": "Regarde",
+   "start": 1.618,
+   "end": 1.844
+  },
+  {
+   "word": "ça",
+   "start": 1.887,
+   "end": 2.134
+  },
+  {
+   "word": "Karacare",
+   "start": 2.175,
+   "end": 2.618
+  },
+  {
+   "word": "Hair",
+   "start": 2.67,
+   "end": 2.876
+  },
+  {
+   "word": "Boost",
+   "start": 2.93,
+   "end": 3.328
+  },
+  {
+   "word": "onze",
+   "start": 3.367,
+   "end": 3.521
+  },
+  {
+   "word": "vitamines",
+   "start": 3.554,
+   "end": 3.844
+  },
+  {
+   "word": "et",
+   "start": 3.866,
+   "end": 3.908
+  },
+  {
+   "word": "minéraux",
+   "start": 3.941,
+   "end": 4.489
+  },
+  {
+   "word": "zinc",
+   "start": 4.567,
+   "end": 5.005
+  },
+  {
+   "word": "biotine",
+   "start": 5.027,
+   "end": 5.457
+  },
+  {
+   "word": "vitamine",
+   "start": 5.489,
+   "end": 5.779
+  },
+  {
+   "word": "B6",
+   "start": 5.908,
+   "end": 6.231
+  },
+  {
+   "word": "conçu",
+   "start": 6.312,
+   "end": 6.683
+  },
+  {
+   "word": "pour",
+   "start": 6.696,
+   "end": 6.747
+  },
+  {
+   "word": "la",
+   "start": 6.79,
+   "end": 6.876
+  },
+  {
+   "word": "pousse",
+   "start": 6.941,
+   "end": 7.328
+  },
+  {
+   "word": "la",
+   "start": 7.35,
+   "end": 7.392
+  },
+  {
+   "word": "force",
+   "start": 7.446,
+   "end": 7.715
+  },
+  {
+   "word": "et",
+   "start": 7.758,
+   "end": 7.844
+  },
+  {
+   "word": "le",
+   "start": 7.866,
+   "end": 7.908
+  },
+  {
+   "word": "volume",
+   "start": 7.954,
+   "end": 8.231
+  },
+  {
+   "word": "des",
+   "start": 8.247,
+   "end": 8.296
+  },
+  {
+   "word": "cheveux",
+   "start": 8.328,
+   "end": 8.683
+  },
+  {
+   "word": "Élu",
+   "start": 8.747,
+   "end": 8.941
+  },
+  {
+   "word": "produit",
+   "start": 8.973,
+   "end": 9.199
+  },
+  {
+   "word": "de",
+   "start": 9.221,
+   "end": 9.263
+  },
+  {
+   "word": "l'année",
+   "start": 9.296,
+   "end": 9.457
+  },
+  {
+   "word": "deux",
+   "start": 9.483,
+   "end": 9.586
+  },
+  {
+   "word": "mille",
+   "start": 9.618,
+   "end": 9.715
+  },
+  {
+   "word": "vingt-six",
+   "start": 9.747,
+   "end": 10.231
+  },
+  {
+   "word": "plus",
+   "start": 10.257,
+   "end": 10.36
+  },
+  {
+   "word": "de",
+   "start": 10.403,
+   "end": 10.489
+  },
+  {
+   "word": "soixante",
+   "start": 10.511,
+   "end": 10.747
+  },
+  {
+   "word": "mille",
+   "start": 10.812,
+   "end": 11.102
+  },
+  {
+   "word": "clientes",
+   "start": 11.127,
+   "end": 11.328
+  },
+  {
+   "word": "selon",
+   "start": 11.371,
+   "end": 11.586
+  },
+  {
+   "word": "la",
+   "start": 11.629,
+   "end": 11.715
+  },
+  {
+   "word": "marque",
+   "start": 11.752,
+   "end": 12.102
+  },
+  {
+   "word": "Deux",
+   "start": 12.124,
+   "end": 12.231
+  },
+  {
+   "word": "mois",
+   "start": 12.257,
+   "end": 12.36
+  },
+  {
+   "word": "de",
+   "start": 12.403,
+   "end": 12.489
+  },
+  {
+   "word": "cure",
+   "start": 12.541,
+   "end": 12.876
+  },
+  {
+   "word": "livraison",
+   "start": 12.925,
+   "end": 13.263
+  },
+  {
+   "word": "gratuite",
+   "start": 13.299,
+   "end": 13.779
+  },
+  {
+   "word": "Le",
+   "start": 13.801,
+   "end": 13.844
+  },
+  {
+   "word": "prix",
+   "start": 13.896,
+   "end": 14.102
+  },
+  {
+   "word": "Cinquante-six",
+   "start": 14.249,
+   "end": 14.555
+  },
+  {
+   "word": "euros",
+   "start": 14.598,
+   "end": 14.813
+  },
+  {
+   "word": "quatre-vingt-un",
+   "start": 14.84,
+   "end": 15.394
+  },
+  {
+   "word": "Clique",
+   "start": 15.426,
+   "end": 15.587
+  },
+  {
+   "word": "sur",
+   "start": 15.603,
+   "end": 15.652
+  },
+  {
+   "word": "le",
+   "start": 15.674,
+   "end": 15.716
+  },
+  {
+   "word": "panier",
+   "start": 15.765,
+   "end": 16.103
+  }
+ ],
+ "durationSec": 16.144,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.08,
+  "tempo": 1.24,
+  "cuts": 3
+ }
+}
