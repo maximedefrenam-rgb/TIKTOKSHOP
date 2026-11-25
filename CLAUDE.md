@@ -52,6 +52,9 @@ livraison, mentions de l'emballage), parfois `script.md` validé.
 - **Retour utilisateur (vidéo n°2)** : les arguments qui VENDENT (prix, promo, livraison gratuite) le plus tôt possible.
   Accroches de stupéfaction façon « WHAT THE FUCK ?! Qui a validé ce prix ?! » (esprit « le stagiaire s'est trompé »),
   mais sans affirmer une fausse erreur de prix ni un faux stock limité. Achat impulsif : promo réelle, prix barré, prix par dose.
+- **PAS d'humour noir** (essayé sur créatine / ZAP / autobronzant : jugé nul par l'utilisateur). Ce qui marche pour lui :
+  l'interpellation trash directe (« blanc comme un CUL », « arrête de … putain »), la stupéfaction sur le prix (« wsh / WTF,
+  qui a validé ce prix ?! »), les situations du quotidien exagérées (« Maldives / Guingamp », « garde ton fric pour ton poulet-riz »).
   Garde-fou : une punchline ne doit jamais suggérer un effet non autorisé (ex. pour la créatine, pas de promesse
   de prise de muscle ou de perte de gras ; pour les protéines, « masse musculaire » est autorisé).
 
