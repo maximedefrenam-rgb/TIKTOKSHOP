@@ -143,9 +143,8 @@ Seules les allégations santé autorisées par l'UE :
 ## Livrables
 1. `out/<nom>-v<n>.mp4`.
 2. `out/<nom>-legende.txt` : description < 150 caractères + 3 à 5 hashtags (#creatine, #muscu, #tiktokshop…).
-   **Classements (« n°1 des ventes », « 4e au classement des meilleurs avis »…)** : seulement s'ils sont RÉELS et vérifiables
-   (affichés par TikTok sur la fiche, ou source citée par la marque). Un « n°1 » venant seulement d'un visuel de la marque
-   sans source → ne pas le reprendre. Nombre de ventes et note : toujours OK (affichés par TikTok).
+   **Description : JAMAIS de classement** (« n°1 des ventes en France », « 4e au classement »…), consigne utilisateur.
+   Nombre de ventes et note OK. Dans la vidéo elle-même, un classement est OK s'il est réel (fiche / marque).
 3. Rappel : cocher « contenu généré par IA » et rattacher le produit au moment de publier.
 
 ## Suivi
