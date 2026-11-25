@@ -77,7 +77,7 @@ Seules les allégations santé autorisées par l'UE :
 
 ## ElevenLabs
 - Clé : variable d'environnement `ELEVENLABS_API_KEY` (sinon `.env`). Ne jamais l'écrire dans le code ni l'afficher.
-  `.env` est dans `.gitignore`. La clé n'a pas la permission `user_read` (solde non consultable).
+  `.env` est dans `.gitignore`. Solde consultable : `npm run eleven:test` (offre Creator, 241 000 caractères/mois). Lire le solde AVANT chaque génération.
 - Dans l'environnement cloud, Node doit passer par le proxy : utiliser les commandes `npm run` (elles ajoutent `NODE_USE_ENV_PROXY=1`).
 - Modèle par défaut `eleven_v3` avec balises d'émotion : `[excited]`, `[enthusiastic]`, `[laughs]`, `[serious]`.
 - Secours `eleven_multilingual_v2` (stability 0.30, similarity 0.75, style 0.50, speed 1.05) : `--fallback`, balises retirées.
