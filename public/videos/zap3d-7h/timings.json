@@ -1,0 +1,301 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.129,
+   "end": 0.444
+  },
+  {
+   "word": "réveil",
+   "start": 0.494,
+   "end": 0.741
+  },
+  {
+   "word": "à",
+   "start": 0.778,
+   "end": 0.815
+  },
+  {
+   "word": "sept",
+   "start": 0.859,
+   "end": 1.037
+  },
+  {
+   "word": "heures",
+   "start": 1.058,
+   "end": 1.333
+  },
+  {
+   "word": "séance",
+   "start": 1.358,
+   "end": 1.556
+  },
+  {
+   "word": "à",
+   "start": 1.63,
+   "end": 1.704
+  },
+  {
+   "word": "huit",
+   "start": 1.741,
+   "end": 2.0
+  },
+  {
+   "word": "et",
+   "start": 2.025,
+   "end": 2.074
+  },
+  {
+   "word": "t'es",
+   "start": 2.111,
+   "end": 2.222
+  },
+  {
+   "word": "encore",
+   "start": 2.254,
+   "end": 2.444
+  },
+  {
+   "word": "en",
+   "start": 2.494,
+   "end": 2.593
+  },
+  {
+   "word": "mode",
+   "start": 2.622,
+   "end": 2.741
+  },
+  {
+   "word": "zombie",
+   "start": 2.783,
+   "end": 3.037
+  },
+  {
+   "word": "Prends",
+   "start": 3.167,
+   "end": 3.481
+  },
+  {
+   "word": "ça",
+   "start": 3.531,
+   "end": 3.815
+  },
+  {
+   "word": "ZAP",
+   "start": 3.907,
+   "end": 4.222
+  },
+  {
+   "word": "un",
+   "start": 4.247,
+   "end": 4.296
+  },
+  {
+   "word": "sachet",
+   "start": 4.341,
+   "end": 4.593
+  },
+  {
+   "word": "sous",
+   "start": 4.622,
+   "end": 4.741
+  },
+  {
+   "word": "la",
+   "start": 4.766,
+   "end": 4.815
+  },
+  {
+   "word": "lèvre",
+   "start": 4.889,
+   "end": 5.259
+  },
+  {
+   "word": "cent",
+   "start": 5.274,
+   "end": 5.333
+  },
+  {
+   "word": "milligrammes",
+   "start": 5.363,
+   "end": 5.778
+  },
+  {
+   "word": "de",
+   "start": 5.803,
+   "end": 5.852
+  },
+  {
+   "word": "caféine",
+   "start": 5.911,
+   "end": 6.444
+  },
+  {
+   "word": "plus",
+   "start": 6.489,
+   "end": 6.667
+  },
+  {
+   "word": "qu'un",
+   "start": 6.679,
+   "end": 6.741
+  },
+  {
+   "word": "expresso",
+   "start": 6.796,
+   "end": 7.333
+  },
+  {
+   "word": "avec",
+   "start": 7.422,
+   "end": 7.778
+  },
+  {
+   "word": "L-théanine",
+   "start": 7.852,
+   "end": 8.444
+  },
+  {
+   "word": "et",
+   "start": 8.494,
+   "end": 8.593
+  },
+  {
+   "word": "vitamines",
+   "start": 8.63,
+   "end": 9.037
+  },
+  {
+   "word": "B",
+   "start": 9.111,
+   "end": 9.333
+  },
+  {
+   "word": "Pas",
+   "start": 9.352,
+   "end": 9.407
+  },
+  {
+   "word": "de",
+   "start": 9.432,
+   "end": 9.481
+  },
+  {
+   "word": "café",
+   "start": 9.526,
+   "end": 9.704
+  },
+  {
+   "word": "à",
+   "start": 9.741,
+   "end": 9.778
+  },
+  {
+   "word": "préparer",
+   "start": 9.815,
+   "end": 10.296
+  },
+  {
+   "word": "ça",
+   "start": 10.321,
+   "end": 10.37
+  },
+  {
+   "word": "tient",
+   "start": 10.444,
+   "end": 10.593
+  },
+  {
+   "word": "dans",
+   "start": 10.622,
+   "end": 10.741
+  },
+  {
+   "word": "ta",
+   "start": 10.766,
+   "end": 10.815
+  },
+  {
+   "word": "poche",
+   "start": 10.864,
+   "end": 11.185
+  },
+  {
+   "word": "Quatre",
+   "start": 11.245,
+   "end": 11.335
+  },
+  {
+   "word": "virgule",
+   "start": 11.372,
+   "end": 11.557
+  },
+  {
+   "word": "quatre",
+   "start": 11.588,
+   "end": 11.779
+  },
+  {
+   "word": "étoiles",
+   "start": 11.853,
+   "end": 12.298
+  },
+  {
+   "word": "Le",
+   "start": 12.347,
+   "end": 12.446
+  },
+  {
+   "word": "prix",
+   "start": 12.475,
+   "end": 12.594
+  },
+  {
+   "word": "Vingt-huit",
+   "start": 12.838,
+   "end": 13.098
+  },
+  {
+   "word": "centimes",
+   "start": 13.142,
+   "end": 13.394
+  },
+  {
+   "word": "le",
+   "start": 13.443,
+   "end": 13.542
+  },
+  {
+   "word": "sachet",
+   "start": 13.572,
+   "end": 14.061
+  },
+  {
+   "word": "Clique",
+   "start": 14.098,
+   "end": 14.209
+  },
+  {
+   "word": "sur",
+   "start": 14.246,
+   "end": 14.357
+  },
+  {
+   "word": "le",
+   "start": 14.382,
+   "end": 14.431
+  },
+  {
+   "word": "panier",
+   "start": 14.487,
+   "end": 14.875
+  }
+ ],
+ "durationSec": 14.916,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.08,
+  "cuts": 2
+ }
+}

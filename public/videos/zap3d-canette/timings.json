@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.089,
+   "end": 0.405
+  },
+  {
+   "word": "arrête",
+   "start": 0.461,
+   "end": 0.701
+  },
+  {
+   "word": "de",
+   "start": 0.726,
+   "end": 0.775
+  },
+  {
+   "word": "claquer",
+   "start": 0.812,
+   "end": 1.22
+  },
+  {
+   "word": "deux",
+   "start": 1.249,
+   "end": 1.368
+  },
+  {
+   "word": "balles",
+   "start": 1.387,
+   "end": 1.516
+  },
+  {
+   "word": "par",
+   "start": 1.553,
+   "end": 1.664
+  },
+  {
+   "word": "jour",
+   "start": 1.709,
+   "end": 1.887
+  },
+  {
+   "word": "en",
+   "start": 1.936,
+   "end": 2.035
+  },
+  {
+   "word": "canettes",
+   "start": 2.072,
+   "end": 2.479
+  },
+  {
+   "word": "Regarde",
+   "start": 2.516,
+   "end": 2.775
+  },
+  {
+   "word": "ça",
+   "start": 2.824,
+   "end": 3.146
+  },
+  {
+   "word": "ZAP",
+   "start": 3.22,
+   "end": 3.664
+  },
+  {
+   "word": "trente-six",
+   "start": 3.683,
+   "end": 4.035
+  },
+  {
+   "word": "sachets",
+   "start": 4.079,
+   "end": 4.553
+  },
+  {
+   "word": "cent",
+   "start": 4.583,
+   "end": 4.701
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.731,
+   "end": 5.146
+  },
+  {
+   "word": "de",
+   "start": 5.171,
+   "end": 5.22
+  },
+  {
+   "word": "caféine",
+   "start": 5.264,
+   "end": 5.59
+  },
+  {
+   "word": "chacun",
+   "start": 5.62,
+   "end": 6.109
+  },
+  {
+   "word": "zéro",
+   "start": 6.146,
+   "end": 6.331
+  },
+  {
+   "word": "sucre",
+   "start": 6.405,
+   "end": 6.849
+  },
+  {
+   "word": "quasi",
+   "start": 6.899,
+   "end": 7.146
+  },
+  {
+   "word": "zéro",
+   "start": 7.22,
+   "end": 7.368
+  },
+  {
+   "word": "calorie",
+   "start": 7.424,
+   "end": 7.887
+  },
+  {
+   "word": "Une",
+   "start": 7.924,
+   "end": 8.035
+  },
+  {
+   "word": "canette",
+   "start": 8.09,
+   "end": 8.405
+  },
+  {
+   "word": "c'est",
+   "start": 8.424,
+   "end": 8.479
+  },
+  {
+   "word": "jusqu'à",
+   "start": 8.516,
+   "end": 8.775
+  },
+  {
+   "word": "trente-cinq",
+   "start": 8.812,
+   "end": 9.22
+  },
+  {
+   "word": "grammes",
+   "start": 9.257,
+   "end": 9.516
+  },
+  {
+   "word": "de",
+   "start": 9.541,
+   "end": 9.59
+  },
+  {
+   "word": "sucre",
+   "start": 9.639,
+   "end": 9.961
+  },
+  {
+   "word": "Toi",
+   "start": 9.986,
+   "end": 10.183
+  },
+  {
+   "word": "tu",
+   "start": 10.208,
+   "end": 10.257
+  },
+  {
+   "word": "poses",
+   "start": 10.306,
+   "end": 10.553
+  },
+  {
+   "word": "un",
+   "start": 10.578,
+   "end": 10.627
+  },
+  {
+   "word": "sachet",
+   "start": 10.672,
+   "end": 10.998
+  },
+  {
+   "word": "sous",
+   "start": 11.012,
+   "end": 11.072
+  },
+  {
+   "word": "la",
+   "start": 11.121,
+   "end": 11.22
+  },
+  {
+   "word": "lèvre",
+   "start": 11.257,
+   "end": 11.664
+  },
+  {
+   "word": "et",
+   "start": 11.689,
+   "end": 11.738
+  },
+  {
+   "word": "c'est",
+   "start": 11.775,
+   "end": 11.887
+  },
+  {
+   "word": "réglé",
+   "start": 11.936,
+   "end": 12.405
+  },
+  {
+   "word": "Fabriqué",
+   "start": 12.442,
+   "end": 12.775
+  },
+  {
+   "word": "en",
+   "start": 12.8,
+   "end": 12.849
+  },
+  {
+   "word": "Suède",
+   "start": 12.899,
+   "end": 13.368
+  },
+  {
+   "word": "Le",
+   "start": 13.393,
+   "end": 13.442
+  },
+  {
+   "word": "prix",
+   "start": 13.487,
+   "end": 13.664
+  },
+  {
+   "word": "Vingt-huit",
+   "start": 13.891,
+   "end": 14.225
+  },
+  {
+   "word": "centimes",
+   "start": 14.254,
+   "end": 14.521
+  },
+  {
+   "word": "le",
+   "start": 14.546,
+   "end": 14.595
+  },
+  {
+   "word": "sachet",
+   "start": 14.639,
+   "end": 15.113
+  },
+  {
+   "word": "Clique",
+   "start": 15.15,
+   "end": 15.262
+  },
+  {
+   "word": "sur",
+   "start": 15.299,
+   "end": 15.41
+  },
+  {
+   "word": "le",
+   "start": 15.435,
+   "end": 15.484
+  },
+  {
+   "word": "panier",
+   "start": 15.521,
+   "end": 15.854
+  }
+ ],
+ "durationSec": 15.909,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.08,
+  "cuts": 2
+ }
+}

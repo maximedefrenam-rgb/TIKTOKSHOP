@@ -1,0 +1,301 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.069,
+   "end": 0.48
+  },
+  {
+   "word": "la",
+   "start": 0.507,
+   "end": 0.56
+  },
+  {
+   "word": "skincare",
+   "start": 0.613,
+   "end": 1.04
+  },
+  {
+   "word": "coréenne",
+   "start": 1.1,
+   "end": 1.44
+  },
+  {
+   "word": "avec",
+   "start": 1.488,
+   "end": 1.68
+  },
+  {
+   "word": "un",
+   "start": 1.707,
+   "end": 1.76
+  },
+  {
+   "word": "coupon",
+   "start": 1.817,
+   "end": 2.16
+  },
+  {
+   "word": "de",
+   "start": 2.213,
+   "end": 2.32
+  },
+  {
+   "word": "moins",
+   "start": 2.36,
+   "end": 2.56
+  },
+  {
+   "word": "trente",
+   "start": 2.58,
+   "end": 2.72
+  },
+  {
+   "word": "pour",
+   "start": 2.752,
+   "end": 2.88
+  },
+  {
+   "word": "cent",
+   "start": 2.896,
+   "end": 3.04
+  },
+  {
+   "word": "t'as",
+   "start": 3.08,
+   "end": 3.227
+  },
+  {
+   "word": "vu",
+   "start": 3.244,
+   "end": 3.28
+  },
+  {
+   "word": "ça",
+   "start": 3.307,
+   "end": 3.36
+  },
+  {
+   "word": "Les",
+   "start": 3.56,
+   "end": 3.68
+  },
+  {
+   "word": "toner",
+   "start": 3.72,
+   "end": 3.92
+  },
+  {
+   "word": "pads",
+   "start": 3.968,
+   "end": 4.16
+  },
+  {
+   "word": "Medicube",
+   "start": 4.227,
+   "end": 4.88
+  },
+  {
+   "word": "double",
+   "start": 4.914,
+   "end": 5.12
+  },
+  {
+   "word": "face",
+   "start": 5.184,
+   "end": 5.44
+  },
+  {
+   "word": "un",
+   "start": 5.573,
+   "end": 5.68
+  },
+  {
+   "word": "côté",
+   "start": 5.728,
+   "end": 5.92
+  },
+  {
+   "word": "texturé",
+   "start": 5.968,
+   "end": 6.4
+  },
+  {
+   "word": "qui",
+   "start": 6.42,
+   "end": 6.48
+  },
+  {
+   "word": "exfolie",
+   "start": 6.533,
+   "end": 7.04
+  },
+  {
+   "word": "un",
+   "start": 7.067,
+   "end": 7.12
+  },
+  {
+   "word": "côté",
+   "start": 7.184,
+   "end": 7.44
+  },
+  {
+   "word": "doux",
+   "start": 7.48,
+   "end": 7.68
+  },
+  {
+   "word": "qui",
+   "start": 7.7,
+   "end": 7.76
+  },
+  {
+   "word": "hydrate",
+   "start": 7.808,
+   "end": 8.24
+  },
+  {
+   "word": "Pores",
+   "start": 8.28,
+   "end": 8.48
+  },
+  {
+   "word": "nets",
+   "start": 8.528,
+   "end": 8.88
+  },
+  {
+   "word": "effet",
+   "start": 8.933,
+   "end": 9.2
+  },
+  {
+   "word": "glass",
+   "start": 9.267,
+   "end": 9.6
+  },
+  {
+   "word": "skin",
+   "start": 9.68,
+   "end": 10.16
+  },
+  {
+   "word": "Cent",
+   "start": 10.176,
+   "end": 10.24
+  },
+  {
+   "word": "pour",
+   "start": 10.288,
+   "end": 10.48
+  },
+  {
+   "word": "cent",
+   "start": 10.496,
+   "end": 10.56
+  },
+  {
+   "word": "de",
+   "start": 10.613,
+   "end": 10.72
+  },
+  {
+   "word": "satisfaction",
+   "start": 10.763,
+   "end": 11.28
+  },
+  {
+   "word": "après",
+   "start": 11.333,
+   "end": 11.6
+  },
+  {
+   "word": "quatre",
+   "start": 11.623,
+   "end": 11.76
+  },
+  {
+   "word": "semaines",
+   "start": 11.8,
+   "end": 12.2
+  },
+  {
+   "word": "selon",
+   "start": 12.22,
+   "end": 12.32
+  },
+  {
+   "word": "la",
+   "start": 12.347,
+   "end": 12.4
+  },
+  {
+   "word": "marque",
+   "start": 12.446,
+   "end": 12.88
+  },
+  {
+   "word": "Cadeau",
+   "start": 12.94,
+   "end": 13.2
+  },
+  {
+   "word": "offert",
+   "start": 13.28,
+   "end": 13.92
+  },
+  {
+   "word": "Le",
+   "start": 13.947,
+   "end": 14
+  },
+  {
+   "word": "prix",
+   "start": 14.048,
+   "end": 14.24
+  },
+  {
+   "word": "Dès",
+   "start": 14.52,
+   "end": 14.64
+  },
+  {
+   "word": "vingt",
+   "start": 14.68,
+   "end": 14.8
+  },
+  {
+   "word": "euros",
+   "start": 14.84,
+   "end": 15.04
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 15.063,
+   "end": 15.84
+  },
+  {
+   "word": "Clique",
+   "start": 15.88,
+   "end": 16.08
+  },
+  {
+   "word": "sur",
+   "start": 16.1,
+   "end": 16.16
+  },
+  {
+   "word": "le",
+   "start": 16.213,
+   "end": 16.32
+  },
+  {
+   "word": "panier",
+   "start": 16.36,
+   "end": 16.72
+  }
+ ],
+ "durationSec": 16.771,
+ "model": "eleven_v3"
+}

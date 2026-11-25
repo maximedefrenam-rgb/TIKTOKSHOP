@@ -14,6 +14,7 @@ const video = arg('video');
 const take = arg('take', '1');
 if (!video) throw new Error('--video <nom> requis');
 const v = brandVoice();
+if (arg('voice-id')) { v.voiceId = arg('voice-id'); v.voiceName = arg('voice-name', arg('voice-id')); }
 if (!v.voiceId) throw new Error('Aucune voix choisie : remplir VOICE.voiceId dans src/brand.ts (voir scripts/voix-tests.mjs)');
 
 const fallback = flag('fallback');

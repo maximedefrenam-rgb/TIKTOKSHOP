@@ -1,0 +1,261 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.129,
+   "end": 0.444
+  },
+  {
+   "word": "ta",
+   "start": 0.494,
+   "end": 0.593
+  },
+  {
+   "word": "routine",
+   "start": 0.63,
+   "end": 0.889
+  },
+  {
+   "word": "skincare",
+   "start": 0.938,
+   "end": 1.333
+  },
+  {
+   "word": "en",
+   "start": 1.382,
+   "end": 1.481
+  },
+  {
+   "word": "dix",
+   "start": 1.519,
+   "end": 1.63
+  },
+  {
+   "word": "étapes",
+   "start": 1.704,
+   "end": 2.296
+  },
+  {
+   "word": "oublie",
+   "start": 2.345,
+   "end": 2.815
+  },
+  {
+   "word": "Un",
+   "start": 2.84,
+   "end": 2.889
+  },
+  {
+   "word": "pad",
+   "start": 2.963,
+   "end": 3.333
+  },
+  {
+   "word": "un",
+   "start": 3.358,
+   "end": 3.407
+  },
+  {
+   "word": "geste",
+   "start": 3.481,
+   "end": 3.926
+  },
+  {
+   "word": "c'est",
+   "start": 3.963,
+   "end": 4.074
+  },
+  {
+   "word": "fait",
+   "start": 4.104,
+   "end": 4.444
+  },
+  {
+   "word": "Medicube",
+   "start": 4.506,
+   "end": 5.111
+  },
+  {
+   "word": "double",
+   "start": 5.154,
+   "end": 5.407
+  },
+  {
+   "word": "face",
+   "start": 5.467,
+   "end": 5.778
+  },
+  {
+   "word": "exfolie",
+   "start": 5.901,
+   "end": 6.296
+  },
+  {
+   "word": "d'un",
+   "start": 6.333,
+   "end": 6.444
+  },
+  {
+   "word": "côté",
+   "start": 6.504,
+   "end": 6.815
+  },
+  {
+   "word": "hydrate",
+   "start": 6.889,
+   "end": 7.259
+  },
+  {
+   "word": "de",
+   "start": 7.308,
+   "end": 7.407
+  },
+  {
+   "word": "l'autre",
+   "start": 7.444,
+   "end": 7.631
+  },
+  {
+   "word": "Niacinamide",
+   "start": 7.741,
+   "end": 8.37
+  },
+  {
+   "word": "pour",
+   "start": 8.385,
+   "end": 8.444
+  },
+  {
+   "word": "l'éclat",
+   "start": 8.481,
+   "end": 9.037
+  },
+  {
+   "word": "sans",
+   "start": 9.067,
+   "end": 9.185
+  },
+  {
+   "word": "parfum",
+   "start": 9.222,
+   "end": 9.481
+  },
+  {
+   "word": "artificiel",
+   "start": 9.519,
+   "end": 10.259
+  },
+  {
+   "word": "testé",
+   "start": 10.296,
+   "end": 10.519
+  },
+  {
+   "word": "non",
+   "start": 10.574,
+   "end": 10.741
+  },
+  {
+   "word": "comédogène",
+   "start": 10.778,
+   "end": 11.481
+  },
+  {
+   "word": "Soixante-dix",
+   "start": 11.506,
+   "end": 12.037
+  },
+  {
+   "word": "pads",
+   "start": 12.059,
+   "end": 12.148
+  },
+  {
+   "word": "par",
+   "start": 12.167,
+   "end": 12.222
+  },
+  {
+   "word": "pot",
+   "start": 12.278,
+   "end": 12.593
+  },
+  {
+   "word": "Quatre",
+   "start": 12.618,
+   "end": 12.741
+  },
+  {
+   "word": "virgule",
+   "start": 12.796,
+   "end": 13.037
+  },
+  {
+   "word": "six",
+   "start": 13.074,
+   "end": 13.185
+  },
+  {
+   "word": "étoiles",
+   "start": 13.259,
+   "end": 13.815
+  },
+  {
+   "word": "Le",
+   "start": 13.877,
+   "end": 14.0
+  },
+  {
+   "word": "prix",
+   "start": 14.059,
+   "end": 14.296
+  },
+  {
+   "word": "Dès",
+   "start": 14.525,
+   "end": 14.58
+  },
+  {
+   "word": "vingt",
+   "start": 14.654,
+   "end": 14.731
+  },
+  {
+   "word": "euros",
+   "start": 14.779,
+   "end": 15.027
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 15.058,
+   "end": 15.878
+  },
+  {
+   "word": "Clique",
+   "start": 15.971,
+   "end": 16.138
+  },
+  {
+   "word": "sur",
+   "start": 16.175,
+   "end": 16.286
+  },
+  {
+   "word": "le",
+   "start": 16.311,
+   "end": 16.36
+  },
+  {
+   "word": "panier",
+   "start": 16.397,
+   "end": 16.953
+  }
+ ],
+ "durationSec": 17.006,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.08,
+  "cuts": 1
+ }
+}

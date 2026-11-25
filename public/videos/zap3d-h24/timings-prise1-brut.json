@@ -1,0 +1,306 @@
+{
+ "words": [
+  {
+   "word": "T'es",
+   "start": 0.06,
+   "end": 0.08
+  },
+  {
+   "word": "H",
+   "start": 0.16,
+   "end": 0.24
+  },
+  {
+   "word": "vingt-quatre",
+   "start": 0.28,
+   "end": 0.56
+  },
+  {
+   "word": "fatigué",
+   "start": 0.64,
+   "end": 1.04
+  },
+  {
+   "word": "frérot",
+   "start": 1.067,
+   "end": 1.36
+  },
+  {
+   "word": "Ta",
+   "start": 1.627,
+   "end": 1.68
+  },
+  {
+   "word": "batterie",
+   "start": 1.714,
+   "end": 2
+  },
+  {
+   "word": "est",
+   "start": 2.04,
+   "end": 2.16
+  },
+  {
+   "word": "à",
+   "start": 2.2,
+   "end": 2.24
+  },
+  {
+   "word": "zéro",
+   "start": 2.28,
+   "end": 2.48
+  },
+  {
+   "word": "dès",
+   "start": 2.56,
+   "end": 2.8
+  },
+  {
+   "word": "dix",
+   "start": 2.84,
+   "end": 3.04
+  },
+  {
+   "word": "heures",
+   "start": 3.063,
+   "end": 3.6
+  },
+  {
+   "word": "Prends",
+   "start": 3.62,
+   "end": 3.76
+  },
+  {
+   "word": "ça",
+   "start": 3.84,
+   "end": 4.32
+  },
+  {
+   "word": "ZAP",
+   "start": 4.44,
+   "end": 4.8
+  },
+  {
+   "word": "cent",
+   "start": 4.912,
+   "end": 5.36
+  },
+  {
+   "word": "milligrammes",
+   "start": 5.392,
+   "end": 5.84
+  },
+  {
+   "word": "de",
+   "start": 5.867,
+   "end": 5.92
+  },
+  {
+   "word": "caféine",
+   "start": 5.968,
+   "end": 6.32
+  },
+  {
+   "word": "par",
+   "start": 6.36,
+   "end": 6.48
+  },
+  {
+   "word": "sachet",
+   "start": 6.528,
+   "end": 7.12
+  },
+  {
+   "word": "plus",
+   "start": 7.168,
+   "end": 7.36
+  },
+  {
+   "word": "qu'un",
+   "start": 7.373,
+   "end": 7.44
+  },
+  {
+   "word": "expresso",
+   "start": 7.5,
+   "end": 8.08
+  },
+  {
+   "word": "Zéro",
+   "start": 8.28,
+   "end": 8.56
+  },
+  {
+   "word": "sucre",
+   "start": 8.64,
+   "end": 9.12
+  },
+  {
+   "word": "quasi",
+   "start": 9.16,
+   "end": 9.36
+  },
+  {
+   "word": "zéro",
+   "start": 9.44,
+   "end": 9.68
+  },
+  {
+   "word": "calorie",
+   "start": 9.73,
+   "end": 10.4
+  },
+  {
+   "word": "pas",
+   "start": 10.46,
+   "end": 10.64
+  },
+  {
+   "word": "comme",
+   "start": 10.667,
+   "end": 10.8
+  },
+  {
+   "word": "ta",
+   "start": 10.853,
+   "end": 10.96
+  },
+  {
+   "word": "canette",
+   "start": 11,
+   "end": 11.44
+  },
+  {
+   "word": "Tu",
+   "start": 11.573,
+   "end": 11.84
+  },
+  {
+   "word": "le",
+   "start": 11.867,
+   "end": 11.92
+  },
+  {
+   "word": "cales",
+   "start": 11.947,
+   "end": 12.08
+  },
+  {
+   "word": "sous",
+   "start": 12.112,
+   "end": 12.24
+  },
+  {
+   "word": "la",
+   "start": 12.267,
+   "end": 12.32
+  },
+  {
+   "word": "lèvre",
+   "start": 12.4,
+   "end": 13
+  },
+  {
+   "word": "discret",
+   "start": 13.045,
+   "end": 13.44
+  },
+  {
+   "word": "au",
+   "start": 13.547,
+   "end": 13.76
+  },
+  {
+   "word": "taf",
+   "start": 13.84,
+   "end": 14.16
+  },
+  {
+   "word": "ou",
+   "start": 14.213,
+   "end": 14.32
+  },
+  {
+   "word": "avant",
+   "start": 14.347,
+   "end": 14.48
+  },
+  {
+   "word": "ta",
+   "start": 14.533,
+   "end": 14.64
+  },
+  {
+   "word": "séance",
+   "start": 14.693,
+   "end": 15.52
+  },
+  {
+   "word": "Deux",
+   "start": 15.547,
+   "end": 15.68
+  },
+  {
+   "word": "boîtes",
+   "start": 15.707,
+   "end": 16.16
+  },
+  {
+   "word": "trente-six",
+   "start": 16.18,
+   "end": 16.48
+  },
+  {
+   "word": "sachets",
+   "start": 16.528,
+   "end": 17.12
+  },
+  {
+   "word": "Le",
+   "start": 17.2,
+   "end": 17.36
+  },
+  {
+   "word": "prix",
+   "start": 17.408,
+   "end": 17.6
+  },
+  {
+   "word": "Dix",
+   "start": 18.1,
+   "end": 18.16
+  },
+  {
+   "word": "euros",
+   "start": 18.227,
+   "end": 18.56
+  },
+  {
+   "word": "seize",
+   "start": 18.6,
+   "end": 18.96
+  },
+  {
+   "word": "Clique",
+   "start": 19.12,
+   "end": 19.36
+  },
+  {
+   "word": "sur",
+   "start": 19.4,
+   "end": 19.52
+  },
+  {
+   "word": "le",
+   "start": 19.547,
+   "end": 19.6
+  },
+  {
+   "word": "panier",
+   "start": 19.66,
+   "end": 20.16
+  }
+ ],
+ "durationSec": 20.193,
+ "model": "eleven_v3"
+}

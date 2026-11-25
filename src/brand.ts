@@ -30,6 +30,9 @@ export const BRAND = {
  * Voix ElevenLabs du compte. Rempli une seule fois après le test des 4 voix,
  * puis toujours réutilisé (les scripts Node lisent cette valeur par regex).
  */
+/** Voix des vidéos 3D (format « H24 ») : Kenzy, pote qui parle au spectateur. */
+export const VOICE_3D = {voiceId: 'xclXfpLYbMIBNgiHTm8S', voiceName: 'Kenzy'} as const;
+
 export const VOICE = {
   voiceId: 'mvhJVdVoTWVUtL4keT7W',
   voiceName: 'Simon - Cheerful, Energetic and Rapid',

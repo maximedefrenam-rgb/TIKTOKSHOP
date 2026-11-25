@@ -1,0 +1,311 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.139,
+   "end": 0.64
+  },
+  {
+   "word": "ta",
+   "start": 0.667,
+   "end": 0.72
+  },
+  {
+   "word": "meuf",
+   "start": 0.773,
+   "end": 0.96
+  },
+  {
+   "word": "se",
+   "start": 1.013,
+   "end": 1.12
+  },
+  {
+   "word": "plaint",
+   "start": 1.143,
+   "end": 1.28
+  },
+  {
+   "word": "que",
+   "start": 1.3,
+   "end": 1.36
+  },
+  {
+   "word": "ses",
+   "start": 1.38,
+   "end": 1.44
+  },
+  {
+   "word": "cheveux",
+   "start": 1.48,
+   "end": 1.68
+  },
+  {
+   "word": "cassent",
+   "start": 1.728,
+   "end": 2
+  },
+  {
+   "word": "Prends",
+   "start": 2.26,
+   "end": 2.48
+  },
+  {
+   "word": "ça",
+   "start": 2.533,
+   "end": 2.88
+  },
+  {
+   "word": "Good",
+   "start": 2.928,
+   "end": 3.12
+  },
+  {
+   "word": "Hair",
+   "start": 3.18,
+   "end": 3.36
+  },
+  {
+   "word": "de",
+   "start": 3.387,
+   "end": 3.44
+  },
+  {
+   "word": "Lashilé",
+   "start": 3.52,
+   "end": 4.16
+  },
+  {
+   "word": "deux",
+   "start": 4.176,
+   "end": 4.24
+  },
+  {
+   "word": "gummies",
+   "start": 4.32,
+   "end": 4.64
+  },
+  {
+   "word": "par",
+   "start": 4.68,
+   "end": 4.8
+  },
+  {
+   "word": "jour",
+   "start": 4.848,
+   "end": 5.2
+  },
+  {
+   "word": "Biotine",
+   "start": 5.24,
+   "end": 5.92
+  },
+  {
+   "word": "zinc",
+   "start": 6,
+   "end": 6.48
+  },
+  {
+   "word": "vitamine",
+   "start": 6.54,
+   "end": 6.88
+  },
+  {
+   "word": "B6",
+   "start": 7,
+   "end": 7.44
+  },
+  {
+   "word": "et",
+   "start": 7.52,
+   "end": 7.68
+  },
+  {
+   "word": "prêle",
+   "start": 7.733,
+   "end": 8.16
+  },
+  {
+   "word": "Dans",
+   "start": 8.192,
+   "end": 8.32
+  },
+  {
+   "word": "leur",
+   "start": 8.352,
+   "end": 8.48
+  },
+  {
+   "word": "étude",
+   "start": 8.533,
+   "end": 8.96
+  },
+  {
+   "word": "moins",
+   "start": 9.013,
+   "end": 9.28
+  },
+  {
+   "word": "trente-sept",
+   "start": 9.3,
+   "end": 9.68
+  },
+  {
+   "word": "pour",
+   "start": 9.712,
+   "end": 9.84
+  },
+  {
+   "word": "cent",
+   "start": 9.872,
+   "end": 10
+  },
+  {
+   "word": "de",
+   "start": 10.053,
+   "end": 10.16
+  },
+  {
+   "word": "fourches",
+   "start": 10.208,
+   "end": 10.64
+  },
+  {
+   "word": "chez",
+   "start": 10.672,
+   "end": 10.8
+  },
+  {
+   "word": "neuf",
+   "start": 10.853,
+   "end": 11.12
+  },
+  {
+   "word": "utilisatrices",
+   "start": 11.166,
+   "end": 11.76
+  },
+  {
+   "word": "sur",
+   "start": 11.82,
+   "end": 12
+  },
+  {
+   "word": "dix",
+   "start": 12.04,
+   "end": 12.48
+  },
+  {
+   "word": "Cent",
+   "start": 12.496,
+   "end": 12.56
+  },
+  {
+   "word": "pour",
+   "start": 12.608,
+   "end": 12.8
+  },
+  {
+   "word": "cent",
+   "start": 12.816,
+   "end": 12.88
+  },
+  {
+   "word": "vegan",
+   "start": 12.973,
+   "end": 13.44
+  },
+  {
+   "word": "sans",
+   "start": 13.504,
+   "end": 13.76
+  },
+  {
+   "word": "gélatine",
+   "start": 13.813,
+   "end": 14.48
+  },
+  {
+   "word": "Plus",
+   "start": 14.512,
+   "end": 14.64
+  },
+  {
+   "word": "de",
+   "start": 14.72,
+   "end": 14.88
+  },
+  {
+   "word": "deux",
+   "start": 14.896,
+   "end": 14.96
+  },
+  {
+   "word": "mille",
+   "start": 15.04,
+   "end": 15.24
+  },
+  {
+   "word": "six",
+   "start": 15.27,
+   "end": 15.36
+  },
+  {
+   "word": "cents",
+   "start": 15.387,
+   "end": 15.52
+  },
+  {
+   "word": "vendus",
+   "start": 15.568,
+   "end": 16.08
+  },
+  {
+   "word": "Le",
+   "start": 16.133,
+   "end": 16.24
+  },
+  {
+   "word": "prix",
+   "start": 16.288,
+   "end": 16.48
+  },
+  {
+   "word": "Vingt-quatre",
+   "start": 16.76,
+   "end": 17.12
+  },
+  {
+   "word": "euros",
+   "start": 17.16,
+   "end": 17.36
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 17.383,
+   "end": 18.16
+  },
+  {
+   "word": "Clique",
+   "start": 18.2,
+   "end": 18.4
+  },
+  {
+   "word": "sur",
+   "start": 18.42,
+   "end": 18.48
+  },
+  {
+   "word": "le",
+   "start": 18.507,
+   "end": 18.56
+  },
+  {
+   "word": "panier",
+   "start": 18.6,
+   "end": 18.96
+  }
+ ],
+ "durationSec": 18.991,
+ "model": "eleven_v3"
+}

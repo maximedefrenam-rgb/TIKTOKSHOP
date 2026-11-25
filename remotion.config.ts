@@ -12,3 +12,6 @@ if (existsSync(localChromium)) Config.setBrowserExecutable(localChromium);
 // Rendu image par image : en parallèle, Chrome lâche parfois l'image du produit (sachet qui clignote).
 // Plus lent, mais aucune image sans produit.
 Config.setConcurrency(1);
+
+// Rendu 3D (three.js) sans GPU : moteur logiciel.
+Config.setChromiumOpenGlRenderer('angle');

@@ -3,6 +3,8 @@ import {Composition} from 'remotion';
 import {BRAND} from './brand';
 import {ShopVideo, durationFrames} from './templates/ShopVideo';
 import {VIDEOS} from '../videos';
+import {VIDEOS3D} from '../videos3d';
+import {Video3D, durationFrames3D} from './three/Video3D';
 
 export const RemotionRoot: React.FC = () => (
   <>
@@ -17,6 +19,10 @@ export const RemotionRoot: React.FC = () => (
         height={BRAND.video.height}
         defaultProps={{config: cfg}}
       />
+    ))}
+    {VIDEOS3D.map((cfg) => (
+      <Composition key={cfg.id} id={cfg.id} component={Video3D} durationInFrames={durationFrames3D(cfg)} fps={30}
+        width={1080} height={1920} defaultProps={{config: cfg}} />
     ))}
   </>
 );

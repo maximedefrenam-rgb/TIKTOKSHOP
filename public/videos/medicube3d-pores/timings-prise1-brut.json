@@ -1,0 +1,326 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.139,
+   "end": 0.48
+  },
+  {
+   "word": "tes",
+   "start": 0.54,
+   "end": 0.72
+  },
+  {
+   "word": "pores",
+   "start": 0.76,
+   "end": 0.96
+  },
+  {
+   "word": "ressemblent",
+   "start": 1,
+   "end": 1.36
+  },
+  {
+   "word": "à",
+   "start": 1.42,
+   "end": 1.48
+  },
+  {
+   "word": "une",
+   "start": 1.51,
+   "end": 1.6
+  },
+  {
+   "word": "passoire",
+   "start": 1.648,
+   "end": 2.08
+  },
+  {
+   "word": "Regarde",
+   "start": 2.28,
+   "end": 2.56
+  },
+  {
+   "word": "ça",
+   "start": 2.587,
+   "end": 2.88
+  },
+  {
+   "word": "Les",
+   "start": 2.92,
+   "end": 3.04
+  },
+  {
+   "word": "toner",
+   "start": 3.1,
+   "end": 3.44
+  },
+  {
+   "word": "pads",
+   "start": 3.488,
+   "end": 3.68
+  },
+  {
+   "word": "Medicube",
+   "start": 3.747,
+   "end": 4.32
+  },
+  {
+   "word": "un",
+   "start": 4.373,
+   "end": 4.48
+  },
+  {
+   "word": "pad",
+   "start": 4.54,
+   "end": 4.72
+  },
+  {
+   "word": "le",
+   "start": 4.747,
+   "end": 4.8
+  },
+  {
+   "word": "soir",
+   "start": 4.88,
+   "end": 5.2
+  },
+  {
+   "word": "et",
+   "start": 5.28,
+   "end": 5.44
+  },
+  {
+   "word": "c'est",
+   "start": 5.48,
+   "end": 5.6
+  },
+  {
+   "word": "réglé",
+   "start": 5.627,
+   "end": 6.08
+  },
+  {
+   "word": "Niacinamide",
+   "start": 6.12,
+   "end": 6.8
+  },
+  {
+   "word": "A",
+   "start": 6.88,
+   "end": 7.04
+  },
+  {
+   "word": "H",
+   "start": 7.08,
+   "end": 7.2
+  },
+  {
+   "word": "A",
+   "start": 7.24,
+   "end": 7.36
+  },
+  {
+   "word": "et",
+   "start": 7.387,
+   "end": 7.44
+  },
+  {
+   "word": "B",
+   "start": 7.56,
+   "end": 7.76
+  },
+  {
+   "word": "H",
+   "start": 7.8,
+   "end": 7.92
+  },
+  {
+   "word": "A",
+   "start": 7.94,
+   "end": 8
+  },
+  {
+   "word": "d'écorce",
+   "start": 8.08,
+   "end": 8.4
+  },
+  {
+   "word": "de",
+   "start": 8.453,
+   "end": 8.56
+  },
+  {
+   "word": "saule",
+   "start": 8.587,
+   "end": 8.88
+  },
+  {
+   "word": "Élu",
+   "start": 8.96,
+   "end": 9.12
+  },
+  {
+   "word": "meilleur",
+   "start": 9.164,
+   "end": 9.52
+  },
+  {
+   "word": "pad",
+   "start": 9.6,
+   "end": 9.84
+  },
+  {
+   "word": "exfoliant",
+   "start": 9.92,
+   "end": 10.4
+  },
+  {
+   "word": "aux",
+   "start": 10.46,
+   "end": 10.64
+  },
+  {
+   "word": "Acne",
+   "start": 10.693,
+   "end": 10.88
+  },
+  {
+   "word": "Awards",
+   "start": 10.937,
+   "end": 11.52
+  },
+  {
+   "word": "Sans",
+   "start": 11.552,
+   "end": 11.68
+  },
+  {
+   "word": "colorant",
+   "start": 11.733,
+   "end": 12.24
+  },
+  {
+   "word": "ni",
+   "start": 12.32,
+   "end": 12.48
+  },
+  {
+   "word": "parfum",
+   "start": 12.52,
+   "end": 12.8
+  },
+  {
+   "word": "artificiel",
+   "start": 12.84,
+   "end": 13.52
+  },
+  {
+   "word": "Quatre",
+   "start": 13.547,
+   "end": 13.68
+  },
+  {
+   "word": "virgule",
+   "start": 13.72,
+   "end": 13.92
+  },
+  {
+   "word": "six",
+   "start": 13.96,
+   "end": 14.08
+  },
+  {
+   "word": "étoiles",
+   "start": 14.2,
+   "end": 14.72
+  },
+  {
+   "word": "plus",
+   "start": 14.752,
+   "end": 14.88
+  },
+  {
+   "word": "de",
+   "start": 14.933,
+   "end": 15.04
+  },
+  {
+   "word": "deux",
+   "start": 15.072,
+   "end": 15.2
+  },
+  {
+   "word": "mille",
+   "start": 15.24,
+   "end": 15.36
+  },
+  {
+   "word": "cinq",
+   "start": 15.44,
+   "end": 15.64
+  },
+  {
+   "word": "cents",
+   "start": 15.66,
+   "end": 15.76
+  },
+  {
+   "word": "vendus",
+   "start": 15.824,
+   "end": 16.4
+  },
+  {
+   "word": "Le",
+   "start": 16.427,
+   "end": 16.48
+  },
+  {
+   "word": "prix",
+   "start": 16.528,
+   "end": 16.72
+  },
+  {
+   "word": "Dès",
+   "start": 17.16,
+   "end": 17.28
+  },
+  {
+   "word": "vingt",
+   "start": 17.36,
+   "end": 17.52
+  },
+  {
+   "word": "euros",
+   "start": 17.573,
+   "end": 17.84
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 17.863,
+   "end": 18.72
+  },
+  {
+   "word": "Clique",
+   "start": 18.76,
+   "end": 18.88
+  },
+  {
+   "word": "sur",
+   "start": 18.92,
+   "end": 19.04
+  },
+  {
+   "word": "le",
+   "start": 19.067,
+   "end": 19.12
+  },
+  {
+   "word": "panier",
+   "start": 19.16,
+   "end": 19.44
+  }
+ ],
+ "durationSec": 19.487,
+ "model": "eleven_v3"
+}

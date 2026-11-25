@@ -1,0 +1,306 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.064,
+   "end": 0.444
+  },
+  {
+   "word": "la",
+   "start": 0.469,
+   "end": 0.519
+  },
+  {
+   "word": "skincare",
+   "start": 0.568,
+   "end": 0.963
+  },
+  {
+   "word": "coréenne",
+   "start": 1.019,
+   "end": 1.333
+  },
+  {
+   "word": "avec",
+   "start": 1.378,
+   "end": 1.556
+  },
+  {
+   "word": "un",
+   "start": 1.581,
+   "end": 1.63
+  },
+  {
+   "word": "coupon",
+   "start": 1.682,
+   "end": 2.0
+  },
+  {
+   "word": "de",
+   "start": 2.049,
+   "end": 2.148
+  },
+  {
+   "word": "moins",
+   "start": 2.185,
+   "end": 2.37
+  },
+  {
+   "word": "trente",
+   "start": 2.389,
+   "end": 2.519
+  },
+  {
+   "word": "pour",
+   "start": 2.548,
+   "end": 2.667
+  },
+  {
+   "word": "cent",
+   "start": 2.681,
+   "end": 2.815
+  },
+  {
+   "word": "t'as",
+   "start": 2.852,
+   "end": 2.988
+  },
+  {
+   "word": "vu",
+   "start": 3.004,
+   "end": 3.037
+  },
+  {
+   "word": "ça",
+   "start": 3.062,
+   "end": 3.111
+  },
+  {
+   "word": "Les",
+   "start": 3.296,
+   "end": 3.407
+  },
+  {
+   "word": "toner",
+   "start": 3.444,
+   "end": 3.63
+  },
+  {
+   "word": "pads",
+   "start": 3.674,
+   "end": 3.852
+  },
+  {
+   "word": "Medicube",
+   "start": 3.914,
+   "end": 4.519
+  },
+  {
+   "word": "double",
+   "start": 4.55,
+   "end": 4.741
+  },
+  {
+   "word": "face",
+   "start": 4.8,
+   "end": 5.037
+  },
+  {
+   "word": "un",
+   "start": 5.16,
+   "end": 5.259
+  },
+  {
+   "word": "côté",
+   "start": 5.304,
+   "end": 5.481
+  },
+  {
+   "word": "texturé",
+   "start": 5.526,
+   "end": 5.926
+  },
+  {
+   "word": "qui",
+   "start": 5.944,
+   "end": 6.0
+  },
+  {
+   "word": "exfolie",
+   "start": 6.049,
+   "end": 6.519
+  },
+  {
+   "word": "un",
+   "start": 6.544,
+   "end": 6.593
+  },
+  {
+   "word": "côté",
+   "start": 6.652,
+   "end": 6.889
+  },
+  {
+   "word": "doux",
+   "start": 6.926,
+   "end": 7.111
+  },
+  {
+   "word": "qui",
+   "start": 7.13,
+   "end": 7.185
+  },
+  {
+   "word": "hydrate",
+   "start": 7.23,
+   "end": 7.63
+  },
+  {
+   "word": "Pores",
+   "start": 7.667,
+   "end": 7.852
+  },
+  {
+   "word": "nets",
+   "start": 7.896,
+   "end": 8.222
+  },
+  {
+   "word": "effet",
+   "start": 8.271,
+   "end": 8.519
+  },
+  {
+   "word": "glass",
+   "start": 8.581,
+   "end": 8.889
+  },
+  {
+   "word": "skin",
+   "start": 8.963,
+   "end": 9.407
+  },
+  {
+   "word": "Cent",
+   "start": 9.422,
+   "end": 9.481
+  },
+  {
+   "word": "pour",
+   "start": 9.526,
+   "end": 9.704
+  },
+  {
+   "word": "cent",
+   "start": 9.719,
+   "end": 9.778
+  },
+  {
+   "word": "de",
+   "start": 9.827,
+   "end": 9.926
+  },
+  {
+   "word": "satisfaction",
+   "start": 9.966,
+   "end": 10.444
+  },
+  {
+   "word": "après",
+   "start": 10.494,
+   "end": 10.741
+  },
+  {
+   "word": "quatre",
+   "start": 10.762,
+   "end": 10.889
+  },
+  {
+   "word": "semaines",
+   "start": 10.926,
+   "end": 11.296
+  },
+  {
+   "word": "selon",
+   "start": 11.315,
+   "end": 11.407
+  },
+  {
+   "word": "la",
+   "start": 11.432,
+   "end": 11.481
+  },
+  {
+   "word": "marque",
+   "start": 11.524,
+   "end": 11.926
+  },
+  {
+   "word": "Cadeau",
+   "start": 11.981,
+   "end": 12.222
+  },
+  {
+   "word": "offert",
+   "start": 12.296,
+   "end": 12.889
+  },
+  {
+   "word": "Le",
+   "start": 12.914,
+   "end": 12.963
+  },
+  {
+   "word": "prix",
+   "start": 13.007,
+   "end": 13.185
+  },
+  {
+   "word": "Dès",
+   "start": 13.444,
+   "end": 13.556
+  },
+  {
+   "word": "vingt",
+   "start": 13.593,
+   "end": 13.704
+  },
+  {
+   "word": "euros",
+   "start": 13.741,
+   "end": 13.926
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 13.947,
+   "end": 14.667
+  },
+  {
+   "word": "Clique",
+   "start": 14.704,
+   "end": 14.889
+  },
+  {
+   "word": "sur",
+   "start": 14.907,
+   "end": 14.963
+  },
+  {
+   "word": "le",
+   "start": 15.012,
+   "end": 15.111
+  },
+  {
+   "word": "panier",
+   "start": 15.148,
+   "end": 15.481
+  }
+ ],
+ "durationSec": 15.517,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.08,
+  "cuts": 0
+ }
+}

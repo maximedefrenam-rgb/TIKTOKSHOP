@@ -1,0 +1,311 @@
+{
+ "words": [
+  {
+   "word": "Frérot",
+   "start": 0.129,
+   "end": 0.481
+  },
+  {
+   "word": "des",
+   "start": 0.509,
+   "end": 0.593
+  },
+  {
+   "word": "fleurs",
+   "start": 0.63,
+   "end": 0.889
+  },
+  {
+   "word": "pour",
+   "start": 0.919,
+   "end": 1.037
+  },
+  {
+   "word": "Noël",
+   "start": 1.086,
+   "end": 1.333
+  },
+  {
+   "word": "Elles",
+   "start": 1.432,
+   "end": 1.556
+  },
+  {
+   "word": "sont",
+   "start": 1.585,
+   "end": 1.704
+  },
+  {
+   "word": "mortes",
+   "start": 1.733,
+   "end": 1.889
+  },
+  {
+   "word": "en",
+   "start": 1.901,
+   "end": 1.926
+  },
+  {
+   "word": "trois",
+   "start": 1.963,
+   "end": 2.148
+  },
+  {
+   "word": "jours",
+   "start": 2.185,
+   "end": 2.444
+  },
+  {
+   "word": "Offre-lui",
+   "start": 2.481,
+   "end": 2.815
+  },
+  {
+   "word": "ça",
+   "start": 2.864,
+   "end": 3.148
+  },
+  {
+   "word": "Good",
+   "start": 3.185,
+   "end": 3.333
+  },
+  {
+   "word": "Hair",
+   "start": 3.378,
+   "end": 3.556
+  },
+  {
+   "word": "de",
+   "start": 3.605,
+   "end": 3.704
+  },
+  {
+   "word": "Lashilé",
+   "start": 3.759,
+   "end": 4.222
+  },
+  {
+   "word": "des",
+   "start": 4.259,
+   "end": 4.37
+  },
+  {
+   "word": "gummies",
+   "start": 4.444,
+   "end": 4.815
+  },
+  {
+   "word": "pour",
+   "start": 4.844,
+   "end": 4.963
+  },
+  {
+   "word": "des",
+   "start": 5.0,
+   "end": 5.111
+  },
+  {
+   "word": "cheveux",
+   "start": 5.148,
+   "end": 5.481
+  },
+  {
+   "word": "sublimes",
+   "start": 5.537,
+   "end": 6.074
+  },
+  {
+   "word": "Biotine",
+   "start": 6.111,
+   "end": 6.519
+  },
+  {
+   "word": "et",
+   "start": 6.568,
+   "end": 6.667
+  },
+  {
+   "word": "zinc",
+   "start": 6.726,
+   "end": 6.963
+  },
+  {
+   "word": "pour",
+   "start": 6.978,
+   "end": 7.037
+  },
+  {
+   "word": "le",
+   "start": 7.062,
+   "end": 7.111
+  },
+  {
+   "word": "maintien",
+   "start": 7.148,
+   "end": 7.481
+  },
+  {
+   "word": "de",
+   "start": 7.506,
+   "end": 7.556
+  },
+  {
+   "word": "cheveux",
+   "start": 7.593,
+   "end": 7.852
+  },
+  {
+   "word": "normaux",
+   "start": 7.896,
+   "end": 8.37
+  },
+  {
+   "word": "Plus",
+   "start": 8.415,
+   "end": 8.593
+  },
+  {
+   "word": "vingt",
+   "start": 8.667,
+   "end": 8.815
+  },
+  {
+   "word": "pour",
+   "start": 8.859,
+   "end": 9.037
+  },
+  {
+   "word": "cent",
+   "start": 9.081,
+   "end": 9.259
+  },
+  {
+   "word": "de",
+   "start": 9.308,
+   "end": 9.407
+  },
+  {
+   "word": "volume",
+   "start": 9.45,
+   "end": 9.704
+  },
+  {
+   "word": "constaté",
+   "start": 9.753,
+   "end": 10.222
+  },
+  {
+   "word": "dans",
+   "start": 10.237,
+   "end": 10.296
+  },
+  {
+   "word": "leur",
+   "start": 10.326,
+   "end": 10.444
+  },
+  {
+   "word": "étude",
+   "start": 10.494,
+   "end": 10.815
+  },
+  {
+   "word": "Quatre",
+   "start": 10.889,
+   "end": 11.111
+  },
+  {
+   "word": "virgule",
+   "start": 11.167,
+   "end": 11.407
+  },
+  {
+   "word": "six",
+   "start": 11.444,
+   "end": 11.556
+  },
+  {
+   "word": "étoiles",
+   "start": 11.667,
+   "end": 12.0
+  },
+  {
+   "word": "sur",
+   "start": 12.056,
+   "end": 12.222
+  },
+  {
+   "word": "deux",
+   "start": 12.237,
+   "end": 12.296
+  },
+  {
+   "word": "cent",
+   "start": 12.326,
+   "end": 12.444
+  },
+  {
+   "word": "vingt-neuf",
+   "start": 12.481,
+   "end": 12.741
+  },
+  {
+   "word": "avis",
+   "start": 12.8,
+   "end": 13.185
+  },
+  {
+   "word": "Le",
+   "start": 13.21,
+   "end": 13.259
+  },
+  {
+   "word": "prix",
+   "start": 13.304,
+   "end": 13.481
+  },
+  {
+   "word": "Vingt-quatre",
+   "start": 13.735,
+   "end": 14.013
+  },
+  {
+   "word": "euros",
+   "start": 14.062,
+   "end": 14.309
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 14.331,
+   "end": 14.939
+  },
+  {
+   "word": "Clique",
+   "start": 15.031,
+   "end": 15.272
+  },
+  {
+   "word": "sur",
+   "start": 15.291,
+   "end": 15.346
+  },
+  {
+   "word": "le",
+   "start": 15.371,
+   "end": 15.42
+  },
+  {
+   "word": "panier",
+   "start": 15.476,
+   "end": 16.013
+  }
+ ],
+ "durationSec": 16.065,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.08,
+  "cuts": 1
+ }
+}
