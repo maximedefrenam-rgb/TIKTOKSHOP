@@ -10,3 +10,4 @@
 | 2026-11-25 | Vitavea autobronzant bêta-carotène 60 gélules | Promo d'abord + problème + en coupe + urgence Black Friday | Promo de malade ! 6,40 € au lieu de 13,89 € | v1 (promo) |  |  |  |
 | 2026-11-25 | Novoma collagène marin 60 gélules | Prix choc + en coupe + promo + urgence | Wsh, 4,98 € ?! C'est donné | v1 (donné) ; v2 = « wesh » corrigé |  |  |  |
 | 2026-11-25 | Novoma collagène marin 60 gélules | Interpellation salle + promo + en coupe + urgence | Arrête de craquer comme un vieux parquet à chaque squat | v1 (squat) |  |  |  |
+| 2026-11-25 | ZAP sachets énergétiques cerise noire DUO | Interpellation + comparatif expresso + énergie + promo | Bordel, arrête d'être tout le temps crevé | v1 (crevé) |  |  |  |
