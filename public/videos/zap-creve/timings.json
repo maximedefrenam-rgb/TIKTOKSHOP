@@ -1,0 +1,416 @@
+{
+ "words": [
+  {
+   "word": "Bordel",
+   "start": 0.231,
+   "end": 0.542
+  },
+  {
+   "word": "arrête",
+   "start": 0.593,
+   "end": 0.814
+  },
+  {
+   "word": "d'être",
+   "start": 0.847,
+   "end": 0.949
+  },
+  {
+   "word": "tout",
+   "start": 0.976,
+   "end": 1.085
+  },
+  {
+   "word": "le",
+   "start": 1.108,
+   "end": 1.153
+  },
+  {
+   "word": "temps",
+   "start": 1.164,
+   "end": 1.22
+  },
+  {
+   "word": "crevé",
+   "start": 1.288,
+   "end": 1.695
+  },
+  {
+   "word": "de",
+   "start": 1.718,
+   "end": 1.763
+  },
+  {
+   "word": "te",
+   "start": 1.808,
+   "end": 1.898
+  },
+  {
+   "word": "B",
+   "start": 2.0,
+   "end": 2.136
+  },
+  {
+   "word": "R",
+   "start": 2.153,
+   "end": 2.237
+  },
+  {
+   "word": "au",
+   "start": 2.26,
+   "end": 2.305
+  },
+  {
+   "word": "taf",
+   "start": 2.339,
+   "end": 2.508
+  },
+  {
+   "word": "et",
+   "start": 2.531,
+   "end": 2.576
+  },
+  {
+   "word": "de",
+   "start": 2.599,
+   "end": 2.644
+  },
+  {
+   "word": "skip",
+   "start": 2.712,
+   "end": 2.983
+  },
+  {
+   "word": "la",
+   "start": 3.006,
+   "end": 3.051
+  },
+  {
+   "word": "salle",
+   "start": 3.096,
+   "end": 3.322
+  },
+  {
+   "word": "ZAP",
+   "start": 3.621,
+   "end": 3.858
+  },
+  {
+   "word": "cent",
+   "start": 3.94,
+   "end": 4.265
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.292,
+   "end": 4.672
+  },
+  {
+   "word": "de",
+   "start": 4.695,
+   "end": 4.74
+  },
+  {
+   "word": "caféine",
+   "start": 4.78,
+   "end": 5.079
+  },
+  {
+   "word": "par",
+   "start": 5.113,
+   "end": 5.214
+  },
+  {
+   "word": "sachet",
+   "start": 5.255,
+   "end": 5.824
+  },
+  {
+   "word": "plus",
+   "start": 5.865,
+   "end": 6.028
+  },
+  {
+   "word": "qu'un",
+   "start": 6.051,
+   "end": 6.163
+  },
+  {
+   "word": "expresso",
+   "start": 6.206,
+   "end": 6.841
+  },
+  {
+   "word": "avec",
+   "start": 6.896,
+   "end": 7.113
+  },
+  {
+   "word": "elle-théanine",
+   "start": 7.153,
+   "end": 7.723
+  },
+  {
+   "word": "et",
+   "start": 7.768,
+   "end": 7.858
+  },
+  {
+   "word": "vitamines",
+   "start": 7.909,
+   "end": 8.265
+  },
+  {
+   "word": "B",
+   "start": 8.333,
+   "end": 8.672
+  },
+  {
+   "word": "goût",
+   "start": 8.717,
+   "end": 8.875
+  },
+  {
+   "word": "cerise",
+   "start": 8.909,
+   "end": 9.147
+  },
+  {
+   "word": "noire",
+   "start": 9.191,
+   "end": 9.757
+  },
+  {
+   "word": "tu",
+   "start": 9.818,
+   "end": 9.824
+  },
+  {
+   "word": "le",
+   "start": 9.869,
+   "end": 9.96
+  },
+  {
+   "word": "cales",
+   "start": 10.028,
+   "end": 10.231
+  },
+  {
+   "word": "sous",
+   "start": 10.258,
+   "end": 10.367
+  },
+  {
+   "word": "la",
+   "start": 10.39,
+   "end": 10.435
+  },
+  {
+   "word": "lèvre",
+   "start": 10.469,
+   "end": 10.638
+  },
+  {
+   "word": "et",
+   "start": 10.706,
+   "end": 10.841
+  },
+  {
+   "word": "c'est",
+   "start": 10.875,
+   "end": 10.977
+  },
+  {
+   "word": "parti",
+   "start": 11.034,
+   "end": 11.384
+  },
+  {
+   "word": "discret",
+   "start": 11.477,
+   "end": 12.536
+  },
+  {
+   "word": "même",
+   "start": 12.577,
+   "end": 12.74
+  },
+  {
+   "word": "au",
+   "start": 12.763,
+   "end": 12.808
+  },
+  {
+   "word": "taf",
+   "start": 12.841,
+   "end": 13.147
+  },
+  {
+   "word": "Pas",
+   "start": 13.245,
+   "end": 13.255
+  },
+  {
+   "word": "de",
+   "start": 13.278,
+   "end": 13.323
+  },
+  {
+   "word": "café",
+   "start": 13.377,
+   "end": 13.594
+  },
+  {
+   "word": "dégueu",
+   "start": 13.639,
+   "end": 14.205
+  },
+  {
+   "word": "pas",
+   "start": 14.238,
+   "end": 14.34
+  },
+  {
+   "word": "de",
+   "start": 14.363,
+   "end": 14.408
+  },
+  {
+   "word": "canette",
+   "start": 14.442,
+   "end": 14.679
+  },
+  {
+   "word": "à",
+   "start": 14.713,
+   "end": 14.747
+  },
+  {
+   "word": "trois",
+   "start": 14.77,
+   "end": 14.883
+  },
+  {
+   "word": "balles",
+   "start": 14.916,
+   "end": 15.357
+  },
+  {
+   "word": "et",
+   "start": 15.516,
+   "end": 15.533
+  },
+  {
+   "word": "en",
+   "start": 15.543,
+   "end": 15.56
+  },
+  {
+   "word": "Black",
+   "start": 15.594,
+   "end": 15.764
+  },
+  {
+   "word": "Friday",
+   "start": 15.822,
+   "end": 16.238
+  },
+  {
+   "word": "vingt-huit",
+   "start": 16.408,
+   "end": 16.849
+  },
+  {
+   "word": "centimes",
+   "start": 16.903,
+   "end": 17.255
+  },
+  {
+   "word": "le",
+   "start": 17.278,
+   "end": 17.323
+  },
+  {
+   "word": "sachet",
+   "start": 17.364,
+   "end": 17.866
+  },
+  {
+   "word": "moins",
+   "start": 17.899,
+   "end": 18.069
+  },
+  {
+   "word": "trente-deux",
+   "start": 18.103,
+   "end": 18.51
+  },
+  {
+   "word": "pour",
+   "start": 18.53,
+   "end": 18.611
+  },
+  {
+   "word": "cent",
+   "start": 18.638,
+   "end": 19.086
+  },
+  {
+   "word": "livraison",
+   "start": 19.137,
+   "end": 19.493
+  },
+  {
+   "word": "gratuite",
+   "start": 19.545,
+   "end": 20.171
+  },
+  {
+   "word": "trente-six",
+   "start": 20.221,
+   "end": 20.645
+  },
+  {
+   "word": "sachets",
+   "start": 20.686,
+   "end": 20.984
+  },
+  {
+   "word": "pour",
+   "start": 21.011,
+   "end": 21.12
+  },
+  {
+   "word": "dix",
+   "start": 21.154,
+   "end": 21.255
+  },
+  {
+   "word": "balles",
+   "start": 21.289,
+   "end": 21.527
+  },
+  {
+   "word": "panier",
+   "start": 21.628,
+   "end": 22.069
+  },
+  {
+   "word": "orange",
+   "start": 22.117,
+   "end": 22.476
+  },
+  {
+   "word": "FONCE",
+   "start": 22.645,
+   "end": 23.154
+  }
+ ],
+ "durationSec": 23.353,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}
