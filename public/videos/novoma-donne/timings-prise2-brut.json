@@ -1,0 +1,341 @@
+{
+ "words": [
+  {
+   "word": "Mais",
+   "start": 0.144,
+   "end": 0.16
+  },
+  {
+   "word": "WSH",
+   "start": 0.44,
+   "end": 1.52
+  },
+  {
+   "word": "quatre",
+   "start": 1.543,
+   "end": 1.68
+  },
+  {
+   "word": "euros",
+   "start": 1.733,
+   "end": 2
+  },
+  {
+   "word": "quatre-vingt-dix-huit",
+   "start": 2.034,
+   "end": 2.76
+  },
+  {
+   "word": "C'est",
+   "start": 3.24,
+   "end": 3.44
+  },
+  {
+   "word": "DONNÉ",
+   "start": 3.5,
+   "end": 3.84
+  },
+  {
+   "word": "là",
+   "start": 3.947,
+   "end": 4.16
+  },
+  {
+   "word": "Collagène",
+   "start": 4.928,
+   "end": 5.2
+  },
+  {
+   "word": "marin",
+   "start": 5.267,
+   "end": 5.68
+  },
+  {
+   "word": "acide",
+   "start": 5.84,
+   "end": 6.32
+  },
+  {
+   "word": "hyaluronique",
+   "start": 6.347,
+   "end": 7.12
+  },
+  {
+   "word": "vitamine",
+   "start": 7.16,
+   "end": 7.6
+  },
+  {
+   "word": "C",
+   "start": 7.72,
+   "end": 8
+  },
+  {
+   "word": "soixante",
+   "start": 8.133,
+   "end": 8.72
+  },
+  {
+   "word": "gélules",
+   "start": 8.8,
+   "end": 9.44
+  },
+  {
+   "word": "un",
+   "start": 9.467,
+   "end": 9.52
+  },
+  {
+   "word": "mois",
+   "start": 9.584,
+   "end": 9.84
+  },
+  {
+   "word": "de",
+   "start": 9.867,
+   "end": 9.92
+  },
+  {
+   "word": "cure",
+   "start": 10,
+   "end": 10.64
+  },
+  {
+   "word": "au",
+   "start": 10.693,
+   "end": 10.8
+  },
+  {
+   "word": "lieu",
+   "start": 10.832,
+   "end": 10.96
+  },
+  {
+   "word": "de",
+   "start": 11.04,
+   "end": 11.2
+  },
+  {
+   "word": "onze",
+   "start": 11.248,
+   "end": 11.44
+  },
+  {
+   "word": "euros",
+   "start": 11.493,
+   "end": 11.76
+  },
+  {
+   "word": "soixante-dix-sept",
+   "start": 11.787,
+   "end": 12.8
+  },
+  {
+   "word": "moins",
+   "start": 12.84,
+   "end": 13.04
+  },
+  {
+   "word": "CINQUANTE-HUIT",
+   "start": 13.2,
+   "end": 13.84
+  },
+  {
+   "word": "pour",
+   "start": 13.888,
+   "end": 14.08
+  },
+  {
+   "word": "cent",
+   "start": 14.112,
+   "end": 14.24
+  },
+  {
+   "word": "Hydratation",
+   "start": 15.262,
+   "end": 15.763
+  },
+  {
+   "word": "de",
+   "start": 15.79,
+   "end": 15.843
+  },
+  {
+   "word": "la",
+   "start": 15.87,
+   "end": 15.923
+  },
+  {
+   "word": "peau",
+   "start": 15.976,
+   "end": 16.323
+  },
+  {
+   "word": "qualité",
+   "start": 16.393,
+   "end": 16.883
+  },
+  {
+   "word": "des",
+   "start": 16.923,
+   "end": 17.043
+  },
+  {
+   "word": "cheveux",
+   "start": 17.103,
+   "end": 17.843
+  },
+  {
+   "word": "confort",
+   "start": 17.893,
+   "end": 18.243
+  },
+  {
+   "word": "articulaire",
+   "start": 18.296,
+   "end": 19.043
+  },
+  {
+   "word": "et",
+   "start": 19.585,
+   "end": 19.603
+  },
+  {
+   "word": "la",
+   "start": 19.656,
+   "end": 19.763
+  },
+  {
+   "word": "vitamine",
+   "start": 19.803,
+   "end": 20.163
+  },
+  {
+   "word": "C",
+   "start": 20.283,
+   "end": 20.403
+  },
+  {
+   "word": "contribue",
+   "start": 20.453,
+   "end": 20.883
+  },
+  {
+   "word": "à",
+   "start": 20.923,
+   "end": 20.963
+  },
+  {
+   "word": "la",
+   "start": 20.99,
+   "end": 21.043
+  },
+  {
+   "word": "formation",
+   "start": 21.091,
+   "end": 21.523
+  },
+  {
+   "word": "normale",
+   "start": 21.571,
+   "end": 21.843
+  },
+  {
+   "word": "de",
+   "start": 21.87,
+   "end": 21.923
+  },
+  {
+   "word": "collagène",
+   "start": 21.971,
+   "end": 23.122
+  },
+  {
+   "word": "Prends-en",
+   "start": 23.236,
+   "end": 23.616
+  },
+  {
+   "word": "deux",
+   "start": 23.648,
+   "end": 24.176
+  },
+  {
+   "word": "la",
+   "start": 24.229,
+   "end": 24.336
+  },
+  {
+   "word": "livraison",
+   "start": 24.376,
+   "end": 24.736
+  },
+  {
+   "word": "est",
+   "start": 24.776,
+   "end": 24.896
+  },
+  {
+   "word": "offerte",
+   "start": 24.936,
+   "end": 25.456
+  },
+  {
+   "word": "Black",
+   "start": 26.143,
+   "end": 26.176
+  },
+  {
+   "word": "Friday",
+   "start": 26.233,
+   "end": 26.576
+  },
+  {
+   "word": "jusqu'au",
+   "start": 26.629,
+   "end": 27.056
+  },
+  {
+   "word": "trente",
+   "start": 27.076,
+   "end": 27.216
+  },
+  {
+   "word": "novembre",
+   "start": 27.269,
+   "end": 27.936
+  },
+  {
+   "word": "après",
+   "start": 27.989,
+   "end": 28.256
+  },
+  {
+   "word": "c'est",
+   "start": 28.296,
+   "end": 28.416
+  },
+  {
+   "word": "fini",
+   "start": 28.456,
+   "end": 29.056
+  },
+  {
+   "word": "panier",
+   "start": 29.096,
+   "end": 29.376
+  },
+  {
+   "word": "orange",
+   "start": 29.433,
+   "end": 30.176
+  },
+  {
+   "word": "FONCE",
+   "start": 30.296,
+   "end": 30.736
+  }
+ ],
+ "durationSec": 30.929,
+ "model": "eleven_v3"
+}

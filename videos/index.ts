@@ -7,5 +7,7 @@ import {config as vitaveaAutobronzant} from './vitavea-autobronzant/config';
 import {config as creatineBraquage} from './creatine-ostrovit-braquage/config';
 import {config as zapSnus} from './zap-pas-du-snus/config';
 import {config as vitaveaPromo} from './vitavea-promo/config';
+import {config as novomaDonne} from './novoma-donne/config';
+import {config as novomaSquat} from './novoma-squat/config';
 
-export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo];
+export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat];

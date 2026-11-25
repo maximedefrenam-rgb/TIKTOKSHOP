@@ -1,0 +1,396 @@
+{
+ "words": [
+  {
+   "word": "Arrête",
+   "start": 0.173,
+   "end": 0.271
+  },
+  {
+   "word": "de",
+   "start": 0.316,
+   "end": 0.407
+  },
+  {
+   "word": "craquer",
+   "start": 0.441,
+   "end": 0.746
+  },
+  {
+   "word": "comme",
+   "start": 0.769,
+   "end": 0.881
+  },
+  {
+   "word": "un",
+   "start": 0.904,
+   "end": 0.949
+  },
+  {
+   "word": "vieux",
+   "start": 0.983,
+   "end": 1.153
+  },
+  {
+   "word": "parquet",
+   "start": 1.186,
+   "end": 1.424
+  },
+  {
+   "word": "à",
+   "start": 1.458,
+   "end": 1.492
+  },
+  {
+   "word": "chaque",
+   "start": 1.511,
+   "end": 1.627
+  },
+  {
+   "word": "squat",
+   "start": 1.684,
+   "end": 2.034
+  },
+  {
+   "word": "putain",
+   "start": 2.068,
+   "end": 2.441
+  },
+  {
+   "word": "Collagène",
+   "start": 2.716,
+   "end": 2.933
+  },
+  {
+   "word": "marin",
+   "start": 2.977,
+   "end": 3.204
+  },
+  {
+   "word": "Novoma",
+   "start": 3.255,
+   "end": 4.017
+  },
+  {
+   "word": "quatre",
+   "start": 4.037,
+   "end": 4.153
+  },
+  {
+   "word": "euros",
+   "start": 4.198,
+   "end": 4.424
+  },
+  {
+   "word": "quatre-vingt-dix-huit",
+   "start": 4.444,
+   "end": 4.966
+  },
+  {
+   "word": "au",
+   "start": 5.034,
+   "end": 5.17
+  },
+  {
+   "word": "lieu",
+   "start": 5.211,
+   "end": 5.373
+  },
+  {
+   "word": "de",
+   "start": 5.418,
+   "end": 5.509
+  },
+  {
+   "word": "onze",
+   "start": 5.536,
+   "end": 5.644
+  },
+  {
+   "word": "soixante-dix-sept",
+   "start": 5.712,
+   "end": 6.797
+  },
+  {
+   "word": "même",
+   "start": 6.838,
+   "end": 7.0
+  },
+  {
+   "word": "pas",
+   "start": 7.051,
+   "end": 7.204
+  },
+  {
+   "word": "dix-sept",
+   "start": 7.238,
+   "end": 7.408
+  },
+  {
+   "word": "centimes",
+   "start": 7.461,
+   "end": 7.814
+  },
+  {
+   "word": "par",
+   "start": 7.848,
+   "end": 7.949
+  },
+  {
+   "word": "jour",
+   "start": 8.004,
+   "end": 8.356
+  },
+  {
+   "word": "c'est",
+   "start": 8.39,
+   "end": 8.56
+  },
+  {
+   "word": "DONNÉ",
+   "start": 8.627,
+   "end": 8.899
+  },
+  {
+   "word": "Collagène",
+   "start": 9.159,
+   "end": 9.313
+  },
+  {
+   "word": "hydrolysé",
+   "start": 9.358,
+   "end": 9.787
+  },
+  {
+   "word": "Naticol",
+   "start": 9.821,
+   "end": 10.33
+  },
+  {
+   "word": "acide",
+   "start": 10.465,
+   "end": 10.872
+  },
+  {
+   "word": "hyaluronique",
+   "start": 10.895,
+   "end": 11.55
+  },
+  {
+   "word": "vitamine",
+   "start": 11.584,
+   "end": 11.889
+  },
+  {
+   "word": "C",
+   "start": 11.991,
+   "end": 12.16
+  },
+  {
+   "word": "pour",
+   "start": 12.334,
+   "end": 12.371
+  },
+  {
+   "word": "le",
+   "start": 12.394,
+   "end": 12.438
+  },
+  {
+   "word": "confort",
+   "start": 12.481,
+   "end": 12.777
+  },
+  {
+   "word": "articulaire",
+   "start": 12.834,
+   "end": 13.455
+  },
+  {
+   "word": "l'hydratation",
+   "start": 13.557,
+   "end": 14.066
+  },
+  {
+   "word": "de",
+   "start": 14.11,
+   "end": 14.201
+  },
+  {
+   "word": "la",
+   "start": 14.224,
+   "end": 14.269
+  },
+  {
+   "word": "peau",
+   "start": 14.314,
+   "end": 14.472
+  },
+  {
+   "word": "et",
+   "start": 14.54,
+   "end": 14.62
+  },
+  {
+   "word": "la",
+   "start": 14.664,
+   "end": 14.755
+  },
+  {
+   "word": "qualité",
+   "start": 14.798,
+   "end": 15.094
+  },
+  {
+   "word": "des",
+   "start": 15.111,
+   "end": 15.162
+  },
+  {
+   "word": "cheveux",
+   "start": 15.196,
+   "end": 15.569
+  },
+  {
+   "word": "Tes",
+   "start": 15.656,
+   "end": 15.673
+  },
+  {
+   "word": "genoux",
+   "start": 15.707,
+   "end": 15.876
+  },
+  {
+   "word": "te",
+   "start": 15.921,
+   "end": 16.012
+  },
+  {
+   "word": "remercient",
+   "start": 16.057,
+   "end": 16.554
+  },
+  {
+   "word": "ta",
+   "start": 16.667,
+   "end": 16.893
+  },
+  {
+   "word": "peau",
+   "start": 16.938,
+   "end": 17.097
+  },
+  {
+   "word": "et",
+   "start": 17.12,
+   "end": 17.165
+  },
+  {
+   "word": "tes",
+   "start": 17.182,
+   "end": 17.232
+  },
+  {
+   "word": "cheveux",
+   "start": 17.283,
+   "end": 17.639
+  },
+  {
+   "word": "aussi",
+   "start": 17.662,
+   "end": 17.843
+  },
+  {
+   "word": "Black",
+   "start": 18.112,
+   "end": 18.154
+  },
+  {
+   "word": "Friday",
+   "start": 18.212,
+   "end": 18.696
+  },
+  {
+   "word": "ça",
+   "start": 18.741,
+   "end": 18.832
+  },
+  {
+   "word": "s'arrête",
+   "start": 18.866,
+   "end": 19.171
+  },
+  {
+   "word": "le",
+   "start": 19.194,
+   "end": 19.239
+  },
+  {
+   "word": "trente",
+   "start": 19.29,
+   "end": 19.51
+  },
+  {
+   "word": "novembre",
+   "start": 19.555,
+   "end": 20.323
+  },
+  {
+   "word": "deux",
+   "start": 20.351,
+   "end": 20.459
+  },
+  {
+   "word": "sachets",
+   "start": 20.513,
+   "end": 20.934
+  },
+  {
+   "word": "et",
+   "start": 20.957,
+   "end": 21.001
+  },
+  {
+   "word": "la",
+   "start": 21.046,
+   "end": 21.137
+  },
+  {
+   "word": "livraison",
+   "start": 21.171,
+   "end": 21.476
+  },
+  {
+   "word": "est",
+   "start": 21.51,
+   "end": 21.612
+  },
+  {
+   "word": "offerte",
+   "start": 21.645,
+   "end": 22.222
+  },
+  {
+   "word": "panier",
+   "start": 22.273,
+   "end": 22.493
+  },
+  {
+   "word": "orange",
+   "start": 22.551,
+   "end": 23.103
+  },
+  {
+   "word": "FONCE",
+   "start": 23.171,
+   "end": 23.578
+  }
+ ],
+ "durationSec": 23.693,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 6
+ }
+}
