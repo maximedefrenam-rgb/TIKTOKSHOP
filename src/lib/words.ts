@@ -16,7 +16,8 @@ export const at = (words: Word[], query: string, nth = 1, which: 'start' | 'end'
   const q = normalize(query);
   let count = 0;
   for (const w of words) {
-    if (normalize(w.word) === q || normalize(w.word).startsWith(q + "'")) {
+    const n = normalize(w.word);
+    if (n === q || n.startsWith(q + "'") || (!q.includes("'") && n.endsWith("'" + q))) {
       count++;
       if (count === nth) return w[which];
     }

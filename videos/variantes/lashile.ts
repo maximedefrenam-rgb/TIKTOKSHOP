@@ -9,7 +9,7 @@ const INGR = (r: R, from: number, extra: ReturnType<typeof kw>[] = []) => ({kind
   {label: 'BIOTINE', at: r('biotine')}, {label: 'ZINC', at: r('zinc')}, {label: 'VITAMINE B6', at: r('vitamine')}, {label: 'PRÊLE', at: r('prêle')},
 ], keywords: extra});
 const CTA = (r: R, from: number, extra: ReturnType<typeof kw>[] = []) => ({kind: 'cta' as const, from, arrowAt: r('panier'),
-  keywords: [kw('24,90 €', r('vingt-quatre'), {y: 520, size: 150, color: 'accent', stack: true}), ...extra]});
+  keywords: [kw('24,90 €', from + 0.05, {y: 520, size: 150, color: 'accent', stack: true}), ...extra]});
 
 export const casse = variant({
   id: 'lashile-casse', timings: tCasse, ...P, jacket: JACKETS[0], format: 'idee-recue',

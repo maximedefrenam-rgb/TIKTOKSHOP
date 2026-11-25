@@ -6,7 +6,7 @@ import {variant, kw, JACKETS} from '../../src/lib/variant';
 const P = {accent: '#E03541', productImage: 'videos/karacare-casquette/produit.png', productScale: 0.62};
 type R = (w: string, n?: number) => number;
 const INGR = (r: R, from: number, onze = true) => ({kind: 'cutaway' as const, from, openAt: from + 0.1, items: [
-  {label: 'ZINC', at: r('zinc')}, {label: 'BIOTINE', at: r('biotine')}, {label: 'VITAMINE B6', at: r('vitamine', onze ? 1 : 2)},
+  {label: 'ZINC', at: r('zinc')}, {label: 'BIOTINE', at: r('biotine')}, {label: 'VITAMINE B6', at: r('vitamine')},
   ...(onze ? [{label: '11 VITAMINES', sub: '& minéraux', at: r('onze')}] : []),
 ], keywords: [kw('POUSSE · FORCE · VOLUME', r('pousse'), {y: 810, size: 85, color: 'accent', stack: true})]});
 const DOUZE = (r: R, from: number, note: string) => ({kind: 'benefit' as const, from, keywords: [
@@ -29,7 +29,7 @@ export const salaire = variant({
     INGR(r, r('Karacare') - 0.08),
     DOUZE(r, r('selon') - 0.15, 'selon la marque (cure de 3 mois)'),
     ELU(r, r('Élu') - 0.08, r('Élu') + 0.1, r('Élu')),
-    CTA(r, r('panier') - 0.1),
+    CTA(r, r('livraison') - 0.08),
   ],
 });
 

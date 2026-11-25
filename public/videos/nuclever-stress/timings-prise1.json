@@ -1,0 +1,276 @@
+{
+ "words": [
+  {
+   "word": "Stress",
+   "start": 0.216,
+   "end": 0.274
+  },
+  {
+   "word": "au",
+   "start": 0.297,
+   "end": 0.342
+  },
+  {
+   "word": "taf",
+   "start": 0.376,
+   "end": 0.884
+  },
+  {
+   "word": "stress",
+   "start": 0.923,
+   "end": 1.155
+  },
+  {
+   "word": "en",
+   "start": 1.178,
+   "end": 1.223
+  },
+  {
+   "word": "couple",
+   "start": 1.262,
+   "end": 1.63
+  },
+  {
+   "word": "stress",
+   "start": 1.669,
+   "end": 1.901
+  },
+  {
+   "word": "à",
+   "start": 1.935,
+   "end": 1.969
+  },
+  {
+   "word": "la",
+   "start": 1.992,
+   "end": 2.037
+  },
+  {
+   "word": "salle",
+   "start": 2.082,
+   "end": 2.376
+  },
+  {
+   "word": "ça",
+   "start": 2.444,
+   "end": 2.579
+  },
+  {
+   "word": "suffit",
+   "start": 2.633,
+   "end": 2.918
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.162,
+   "end": 3.647
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.702,
+   "end": 4.19
+  },
+  {
+   "word": "Manager",
+   "start": 4.249,
+   "end": 4.732
+  },
+  {
+   "word": "stress",
+   "start": 4.829,
+   "end": 5.478
+  },
+  {
+   "word": "anxiété",
+   "start": 5.546,
+   "end": 6.088
+  },
+  {
+   "word": "repos",
+   "start": 6.145,
+   "end": 6.495
+  },
+  {
+   "word": "humeur",
+   "start": 6.529,
+   "end": 7.173
+  },
+  {
+   "word": "trois",
+   "start": 7.343,
+   "end": 7.381
+  },
+  {
+   "word": "cents",
+   "start": 7.403,
+   "end": 7.516
+  },
+  {
+   "word": "milligrammes",
+   "start": 7.543,
+   "end": 7.889
+  },
+  {
+   "word": "d'ashwagandha",
+   "start": 7.906,
+   "end": 8.736
+  },
+  {
+   "word": "quatre",
+   "start": 8.765,
+   "end": 8.94
+  },
+  {
+   "word": "cents",
+   "start": 8.974,
+   "end": 9.143
+  },
+  {
+   "word": "de",
+   "start": 9.166,
+   "end": 9.211
+  },
+  {
+   "word": "elle-théanine",
+   "start": 9.252,
+   "end": 10.092
+  },
+  {
+   "word": "magnésium",
+   "start": 10.133,
+   "end": 10.703
+  },
+  {
+   "word": "vitamine",
+   "start": 10.736,
+   "end": 11.042
+  },
+  {
+   "word": "D",
+   "start": 11.109,
+   "end": 11.584
+  },
+  {
+   "word": "le",
+   "start": 11.704,
+   "end": 11.72
+  },
+  {
+   "word": "magnésium",
+   "start": 11.747,
+   "end": 12.059
+  },
+  {
+   "word": "contribue",
+   "start": 12.101,
+   "end": 12.465
+  },
+  {
+   "word": "à",
+   "start": 12.499,
+   "end": 12.533
+  },
+  {
+   "word": "réduire",
+   "start": 12.556,
+   "end": 12.736
+  },
+  {
+   "word": "la",
+   "start": 12.759,
+   "end": 12.804
+  },
+  {
+   "word": "fatigue",
+   "start": 12.847,
+   "end": 13.211
+  },
+  {
+   "word": "et",
+   "start": 13.3,
+   "end": 13.393
+  },
+  {
+   "word": "la",
+   "start": 13.416,
+   "end": 13.461
+  },
+  {
+   "word": "vitamine",
+   "start": 13.495,
+   "end": 13.8
+  },
+  {
+   "word": "D",
+   "start": 13.902,
+   "end": 14.003
+  },
+  {
+   "word": "au",
+   "start": 14.071,
+   "end": 14.207
+  },
+  {
+   "word": "maintien",
+   "start": 14.241,
+   "end": 14.478
+  },
+  {
+   "word": "d'une",
+   "start": 14.512,
+   "end": 14.613
+  },
+  {
+   "word": "fonction",
+   "start": 14.644,
+   "end": 14.885
+  },
+  {
+   "word": "musculaire",
+   "start": 14.918,
+   "end": 15.291
+  },
+  {
+   "word": "normale",
+   "start": 15.332,
+   "end": 16.173
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 16.363,
+   "end": 16.715
+  },
+  {
+   "word": "mille",
+   "start": 16.749,
+   "end": 16.851
+  },
+  {
+   "word": "vendus",
+   "start": 16.891,
+   "end": 17.325
+  },
+  {
+   "word": "panier",
+   "start": 17.376,
+   "end": 17.596
+  },
+  {
+   "word": "orange",
+   "start": 17.645,
+   "end": 18.207
+  },
+  {
+   "word": "FONCE",
+   "start": 18.274,
+   "end": 18.681
+  }
+ ],
+ "durationSec": 18.86,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

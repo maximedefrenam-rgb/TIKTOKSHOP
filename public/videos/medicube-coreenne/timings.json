@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "La",
+   "start": 0.118,
+   "end": 0.136
+  },
+  {
+   "word": "routine",
+   "start": 0.178,
+   "end": 0.475
+  },
+  {
+   "word": "coréenne",
+   "start": 0.525,
+   "end": 0.881
+  },
+  {
+   "word": "en",
+   "start": 0.949,
+   "end": 1.085
+  },
+  {
+   "word": "une",
+   "start": 1.119,
+   "end": 1.22
+  },
+  {
+   "word": "seule",
+   "start": 1.254,
+   "end": 1.424
+  },
+  {
+   "word": "étape",
+   "start": 1.492,
+   "end": 1.831
+  },
+  {
+   "word": "wesh",
+   "start": 1.864,
+   "end": 2.169
+  },
+  {
+   "word": "Les",
+   "start": 2.311,
+   "end": 2.321
+  },
+  {
+   "word": "toner",
+   "start": 2.372,
+   "end": 2.592
+  },
+  {
+   "word": "pads",
+   "start": 2.646,
+   "end": 2.863
+  },
+  {
+   "word": "Medicube",
+   "start": 2.92,
+   "end": 3.677
+  },
+  {
+   "word": "un",
+   "start": 3.722,
+   "end": 3.813
+  },
+  {
+   "word": "pad",
+   "start": 3.846,
+   "end": 3.948
+  },
+  {
+   "word": "sur",
+   "start": 3.982,
+   "end": 4.084
+  },
+  {
+   "word": "ta",
+   "start": 4.129,
+   "end": 4.219
+  },
+  {
+   "word": "face",
+   "start": 4.287,
+   "end": 4.558
+  },
+  {
+   "word": "et",
+   "start": 4.626,
+   "end": 4.762
+  },
+  {
+   "word": "c'est",
+   "start": 4.796,
+   "end": 4.897
+  },
+  {
+   "word": "réglé",
+   "start": 4.942,
+   "end": 5.643
+  },
+  {
+   "word": "niacinamide",
+   "start": 5.771,
+   "end": 6.457
+  },
+  {
+   "word": "vitamine",
+   "start": 6.491,
+   "end": 6.796
+  },
+  {
+   "word": "C",
+   "start": 6.897,
+   "end": 7.067
+  },
+  {
+   "word": "acide",
+   "start": 7.157,
+   "end": 7.406
+  },
+  {
+   "word": "succinique",
+   "start": 7.46,
+   "end": 7.948
+  },
+  {
+   "word": "pour",
+   "start": 8.043,
+   "end": 8.423
+  },
+  {
+   "word": "des",
+   "start": 8.457,
+   "end": 8.558
+  },
+  {
+   "word": "pores",
+   "start": 8.592,
+   "end": 8.762
+  },
+  {
+   "word": "nets",
+   "start": 8.83,
+   "end": 9.372
+  },
+  {
+   "word": "moins",
+   "start": 9.406,
+   "end": 9.575
+  },
+  {
+   "word": "de",
+   "start": 9.598,
+   "end": 9.643
+  },
+  {
+   "word": "marques",
+   "start": 9.694,
+   "end": 9.982
+  },
+  {
+   "word": "post-imperfections",
+   "start": 10.023,
+   "end": 10.999
+  },
+  {
+   "word": "et",
+   "start": 11.044,
+   "end": 11.135
+  },
+  {
+   "word": "l'effet",
+   "start": 11.169,
+   "end": 11.474
+  },
+  {
+   "word": "glass",
+   "start": 11.53,
+   "end": 11.813
+  },
+  {
+   "word": "skin",
+   "start": 11.867,
+   "end": 12.152
+  },
+  {
+   "word": "quatrièmes",
+   "start": 12.287,
+   "end": 12.641
+  },
+  {
+   "word": "au",
+   "start": 12.664,
+   "end": 12.709
+  },
+  {
+   "word": "classement",
+   "start": 12.738,
+   "end": 13.048
+  },
+  {
+   "word": "des",
+   "start": 13.065,
+   "end": 13.116
+  },
+  {
+   "word": "meilleurs",
+   "start": 13.143,
+   "end": 13.387
+  },
+  {
+   "word": "avis",
+   "start": 13.387,
+   "end": 13.93
+  },
+  {
+   "word": "quatre",
+   "start": 13.958,
+   "end": 14.133
+  },
+  {
+   "word": "virgule",
+   "start": 14.167,
+   "end": 14.336
+  },
+  {
+   "word": "six",
+   "start": 14.387,
+   "end": 14.54
+  },
+  {
+   "word": "étoiles",
+   "start": 14.607,
+   "end": 15.217
+  },
+  {
+   "word": "plus",
+   "start": 15.306,
+   "end": 15.36
+  },
+  {
+   "word": "de",
+   "start": 15.383,
+   "end": 15.428
+  },
+  {
+   "word": "deux",
+   "start": 15.469,
+   "end": 15.631
+  },
+  {
+   "word": "mille",
+   "start": 15.699,
+   "end": 15.835
+  },
+  {
+   "word": "cinq",
+   "start": 15.902,
+   "end": 16.038
+  },
+  {
+   "word": "cents",
+   "start": 16.072,
+   "end": 16.241
+  },
+  {
+   "word": "vendus",
+   "start": 16.282,
+   "end": 16.784
+  },
+  {
+   "word": "panier",
+   "start": 16.852,
+   "end": 17.123
+  },
+  {
+   "word": "orange",
+   "start": 17.181,
+   "end": 17.801
+  },
+  {
+   "word": "FONCE",
+   "start": 17.902,
+   "end": 18.343
+  }
+ ],
+ "durationSec": 18.547,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

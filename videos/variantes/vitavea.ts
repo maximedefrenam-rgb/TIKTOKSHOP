@@ -42,7 +42,7 @@ export const dubai = variant({
       keywords: [kw('TES POTES\nRENTRENT DE…', r('potes'), {y: 280, size: 110, stack: true})]},
     BENEF(r, r('Autobronzant') - 0.08),
     GEL(r, r('une') - 0.08),
-    DEAL(r, r('soixante') - 0.08, [kw("PAS BESOIN\nDE BILLET D'AVION", r('billet'), {y: 840, size: 90, color: 'accent'})]),
+    DEAL(r, r('soixante') - 0.08, [kw("PAS BESOIN\nDE BILLET D'AVION", r('billet'), {y: 935, size: 80, color: 'accent'})]),
     CTA(r),
   ],
 });
@@ -53,7 +53,7 @@ export const uv = variant({
     {kind: 'myth', from: 0, statement: 'CRAMER SOUS\nLES UV ?', crossAt: r('malheureux'), verdict: 'STOP'},
     BENEF(r, r('Vitavea') - 0.08),
     GEL(r, r('une') - 0.08),
-    DEAL(r, r('tous') - 0.08, [kw('TOUS TYPES DE PEAU', r('tous'), {y: 840, size: 90, color: 'accent'})]),
+    DEAL(r, r('tous') - 0.08, [kw('TOUS TYPES DE PEAU', r('tous'), {y: 935, size: 80, color: 'accent'})]),
     CTA(r),
   ],
 });

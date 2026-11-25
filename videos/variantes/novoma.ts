@@ -43,7 +43,7 @@ export const n28000 = variant({
     ]},
     AVIS(r, r('Collagène') - 0.08, r('Collagène'), r('quatre')),
     COUPE(r, r('collagène', 2) - 0.08),
-    {kind: 'benefit', from: r('pour') - 0.08, keywords: [
+    {kind: 'benefit', from: r('pour', 2) - 0.08, keywords: [
       kw('HYDRATATION\nDE LA PEAU', r("l'hydratation"), {y: 290, size: 120, color: 'accent', stack: true}),
       kw('QUALITÉ DES CHEVEUX', r('qualité'), {y: 480, size: 90, stack: true}),
       kw('CONFORT ARTICULAIRE', r('confort'), {y: 590, size: 90, stack: true}),

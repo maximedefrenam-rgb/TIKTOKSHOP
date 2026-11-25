@@ -1,0 +1,331 @@
+{
+ "words": [
+  {
+   "word": "Hello",
+   "start": 0.169,
+   "end": 0.203
+  },
+  {
+   "word": "mes",
+   "start": 0.237,
+   "end": 0.339
+  },
+  {
+   "word": "baddies",
+   "start": 0.373,
+   "end": 1.153
+  },
+  {
+   "word": "vos",
+   "start": 1.203,
+   "end": 1.356
+  },
+  {
+   "word": "pointes",
+   "start": 1.39,
+   "end": 1.661
+  },
+  {
+   "word": "ressemblent",
+   "start": 1.686,
+   "end": 1.932
+  },
+  {
+   "word": "à",
+   "start": 1.949,
+   "end": 1.966
+  },
+  {
+   "word": "de",
+   "start": 1.989,
+   "end": 2.034
+  },
+  {
+   "word": "la",
+   "start": 2.079,
+   "end": 2.169
+  },
+  {
+   "word": "paille",
+   "start": 2.203,
+   "end": 2.508
+  },
+  {
+   "word": "Karacare",
+   "start": 2.741,
+   "end": 2.962
+  },
+  {
+   "word": "Hair",
+   "start": 2.989,
+   "end": 3.097
+  },
+  {
+   "word": "Boost",
+   "start": 3.142,
+   "end": 3.64
+  },
+  {
+   "word": "concentré",
+   "start": 3.685,
+   "end": 4.114
+  },
+  {
+   "word": "de",
+   "start": 4.137,
+   "end": 4.182
+  },
+  {
+   "word": "vitamines",
+   "start": 4.233,
+   "end": 4.589
+  },
+  {
+   "word": "et",
+   "start": 4.612,
+   "end": 4.657
+  },
+  {
+   "word": "minéraux",
+   "start": 4.691,
+   "end": 5.199
+  },
+  {
+   "word": "zinc",
+   "start": 5.267,
+   "end": 5.674
+  },
+  {
+   "word": "biotine",
+   "start": 5.719,
+   "end": 6.284
+  },
+  {
+   "word": "vitamine",
+   "start": 6.318,
+   "end": 6.623
+  },
+  {
+   "word": "B6",
+   "start": 6.758,
+   "end": 7.165
+  },
+  {
+   "word": "pour",
+   "start": 7.247,
+   "end": 7.572
+  },
+  {
+   "word": "la",
+   "start": 7.595,
+   "end": 7.64
+  },
+  {
+   "word": "pousse",
+   "start": 7.708,
+   "end": 8.114
+  },
+  {
+   "word": "la",
+   "start": 8.159,
+   "end": 8.25
+  },
+  {
+   "word": "force",
+   "start": 8.318,
+   "end": 8.657
+  },
+  {
+   "word": "et",
+   "start": 8.702,
+   "end": 8.792
+  },
+  {
+   "word": "le",
+   "start": 8.815,
+   "end": 8.86
+  },
+  {
+   "word": "volume",
+   "start": 8.908,
+   "end": 9.199
+  },
+  {
+   "word": "des",
+   "start": 9.216,
+   "end": 9.267
+  },
+  {
+   "word": "cheveux",
+   "start": 9.318,
+   "end": 10.012
+  },
+  {
+   "word": "et",
+   "start": 10.067,
+   "end": 10.082
+  },
+  {
+   "word": "selon",
+   "start": 10.127,
+   "end": 10.353
+  },
+  {
+   "word": "la",
+   "start": 10.398,
+   "end": 10.489
+  },
+  {
+   "word": "marque",
+   "start": 10.528,
+   "end": 10.828
+  },
+  {
+   "word": "jusqu'à",
+   "start": 10.919,
+   "end": 11.438
+  },
+  {
+   "word": "douze",
+   "start": 11.523,
+   "end": 11.845
+  },
+  {
+   "word": "centimètres",
+   "start": 11.913,
+   "end": 12.455
+  },
+  {
+   "word": "de",
+   "start": 12.5,
+   "end": 12.591
+  },
+  {
+   "word": "pousse",
+   "start": 12.658,
+   "end": 12.93
+  },
+  {
+   "word": "avec",
+   "start": 12.984,
+   "end": 13.201
+  },
+  {
+   "word": "la",
+   "start": 13.224,
+   "end": 13.269
+  },
+  {
+   "word": "cure",
+   "start": 13.323,
+   "end": 13.54
+  },
+  {
+   "word": "de",
+   "start": 13.563,
+   "end": 13.608
+  },
+  {
+   "word": "trois",
+   "start": 13.653,
+   "end": 13.879
+  },
+  {
+   "word": "mois",
+   "start": 13.919,
+   "end": 14.082
+  },
+  {
+   "word": "Plus",
+   "start": 14.245,
+   "end": 14.254
+  },
+  {
+   "word": "de",
+   "start": 14.322,
+   "end": 14.458
+  },
+  {
+   "word": "soixante",
+   "start": 14.503,
+   "end": 14.865
+  },
+  {
+   "word": "mille",
+   "start": 14.899,
+   "end": 15.068
+  },
+  {
+   "word": "clientes",
+   "start": 15.121,
+   "end": 15.61
+  },
+  {
+   "word": "élu",
+   "start": 15.678,
+   "end": 15.814
+  },
+  {
+   "word": "produit",
+   "start": 15.856,
+   "end": 16.153
+  },
+  {
+   "word": "de",
+   "start": 16.198,
+   "end": 16.288
+  },
+  {
+   "word": "l'année",
+   "start": 16.305,
+   "end": 16.56
+  },
+  {
+   "word": "gummies",
+   "start": 16.73,
+   "end": 17.078
+  },
+  {
+   "word": "myrtille",
+   "start": 17.123,
+   "end": 17.484
+  },
+  {
+   "word": "framboise",
+   "start": 17.539,
+   "end": 18.162
+  },
+  {
+   "word": "livraison",
+   "start": 18.213,
+   "end": 18.569
+  },
+  {
+   "word": "gratuite",
+   "start": 18.622,
+   "end": 19.112
+  },
+  {
+   "word": "panier",
+   "start": 19.162,
+   "end": 19.451
+  },
+  {
+   "word": "orange",
+   "start": 19.509,
+   "end": 19.925
+  },
+  {
+   "word": "cours",
+   "start": 19.993,
+   "end": 20.332
+  }
+ ],
+ "durationSec": 20.506,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

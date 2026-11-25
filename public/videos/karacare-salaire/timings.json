@@ -1,0 +1,326 @@
+{
+ "words": [
+  {
+   "word": "Tes",
+   "start": 0.115,
+   "end": 0.136
+  },
+  {
+   "word": "cheveux",
+   "start": 0.169,
+   "end": 0.407
+  },
+  {
+   "word": "s'affinent",
+   "start": 0.441,
+   "end": 0.746
+  },
+  {
+   "word": "plus",
+   "start": 0.773,
+   "end": 0.881
+  },
+  {
+   "word": "vite",
+   "start": 0.908,
+   "end": 1.017
+  },
+  {
+   "word": "que",
+   "start": 1.034,
+   "end": 1.085
+  },
+  {
+   "word": "ton",
+   "start": 1.119,
+   "end": 1.22
+  },
+  {
+   "word": "salaire",
+   "start": 1.271,
+   "end": 1.559
+  },
+  {
+   "word": "augmente",
+   "start": 1.593,
+   "end": 1.864
+  },
+  {
+   "word": "frérot",
+   "start": 1.875,
+   "end": 2.102
+  },
+  {
+   "word": "Et",
+   "start": 2.245,
+   "end": 2.254
+  },
+  {
+   "word": "tu",
+   "start": 2.299,
+   "end": 2.39
+  },
+  {
+   "word": "crois",
+   "start": 2.424,
+   "end": 2.559
+  },
+  {
+   "word": "que",
+   "start": 2.568,
+   "end": 2.593
+  },
+  {
+   "word": "ta",
+   "start": 2.661,
+   "end": 2.797
+  },
+  {
+   "word": "casquette",
+   "start": 2.848,
+   "end": 3.203
+  },
+  {
+   "word": "cache",
+   "start": 3.248,
+   "end": 3.475
+  },
+  {
+   "word": "quelque",
+   "start": 3.5,
+   "end": 3.678
+  },
+  {
+   "word": "chose",
+   "start": 3.723,
+   "end": 3.949
+  },
+  {
+   "word": "Karacare",
+   "start": 4.196,
+   "end": 4.493
+  },
+  {
+   "word": "Hair",
+   "start": 4.534,
+   "end": 4.696
+  },
+  {
+   "word": "Boost",
+   "start": 4.753,
+   "end": 5.103
+  },
+  {
+   "word": "zinc",
+   "start": 5.212,
+   "end": 5.713
+  },
+  {
+   "word": "biotine",
+   "start": 5.804,
+   "end": 6.527
+  },
+  {
+   "word": "vitamine",
+   "start": 6.578,
+   "end": 6.866
+  },
+  {
+   "word": "B6",
+   "start": 7.001,
+   "end": 7.408
+  },
+  {
+   "word": "onze",
+   "start": 7.503,
+   "end": 7.883
+  },
+  {
+   "word": "vitamines",
+   "start": 7.917,
+   "end": 8.29
+  },
+  {
+   "word": "et",
+   "start": 8.323,
+   "end": 8.391
+  },
+  {
+   "word": "minéraux",
+   "start": 8.417,
+   "end": 8.764
+  },
+  {
+   "word": "conçu",
+   "start": 8.849,
+   "end": 9.239
+  },
+  {
+   "word": "pour",
+   "start": 9.279,
+   "end": 9.442
+  },
+  {
+   "word": "augmenter",
+   "start": 9.484,
+   "end": 9.849
+  },
+  {
+   "word": "la",
+   "start": 9.872,
+   "end": 9.917
+  },
+  {
+   "word": "pousse",
+   "start": 9.984,
+   "end": 10.323
+  },
+  {
+   "word": "la",
+   "start": 10.368,
+   "end": 10.459
+  },
+  {
+   "word": "force",
+   "start": 10.516,
+   "end": 10.798
+  },
+  {
+   "word": "et",
+   "start": 10.843,
+   "end": 10.934
+  },
+  {
+   "word": "le",
+   "start": 10.957,
+   "end": 11.001
+  },
+  {
+   "word": "volume",
+   "start": 11.05,
+   "end": 11.34
+  },
+  {
+   "word": "des",
+   "start": 11.357,
+   "end": 11.408
+  },
+  {
+   "word": "cheveux",
+   "start": 11.442,
+   "end": 12.086
+  },
+  {
+   "word": "et",
+   "start": 12.204,
+   "end": 12.222
+  },
+  {
+   "word": "selon",
+   "start": 12.267,
+   "end": 12.493
+  },
+  {
+   "word": "la",
+   "start": 12.538,
+   "end": 12.629
+  },
+  {
+   "word": "marque",
+   "start": 12.668,
+   "end": 12.968
+  },
+  {
+   "word": "jusqu'à",
+   "start": 13.046,
+   "end": 13.51
+  },
+  {
+   "word": "douze",
+   "start": 13.561,
+   "end": 13.781
+  },
+  {
+   "word": "centimètres",
+   "start": 13.835,
+   "end": 14.323
+  },
+  {
+   "word": "de",
+   "start": 14.346,
+   "end": 14.391
+  },
+  {
+   "word": "pousse",
+   "start": 14.493,
+   "end": 14.798
+  },
+  {
+   "word": "en",
+   "start": 14.843,
+   "end": 14.934
+  },
+  {
+   "word": "trois",
+   "start": 14.979,
+   "end": 15.205
+  },
+  {
+   "word": "mois",
+   "start": 15.286,
+   "end": 15.547
+  },
+  {
+   "word": "Élu",
+   "start": 15.594,
+   "end": 15.736
+  },
+  {
+   "word": "produit",
+   "start": 15.779,
+   "end": 16.075
+  },
+  {
+   "word": "de",
+   "start": 16.098,
+   "end": 16.143
+  },
+  {
+   "word": "l'année",
+   "start": 16.177,
+   "end": 16.618
+  },
+  {
+   "word": "livraison",
+   "start": 16.669,
+   "end": 17.024
+  },
+  {
+   "word": "gratuite",
+   "start": 17.069,
+   "end": 17.635
+  },
+  {
+   "word": "panier",
+   "start": 17.669,
+   "end": 17.838
+  },
+  {
+   "word": "orange",
+   "start": 17.886,
+   "end": 18.448
+  },
+  {
+   "word": "FONCE",
+   "start": 18.55,
+   "end": 18.923
+  }
+ ],
+ "durationSec": 19.122,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

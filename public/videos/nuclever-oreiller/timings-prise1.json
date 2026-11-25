@@ -1,0 +1,306 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.115,
+   "end": 0.136
+  },
+  {
+   "word": "cerveau",
+   "start": 0.169,
+   "end": 0.475
+  },
+  {
+   "word": "tourne",
+   "start": 0.515,
+   "end": 0.746
+  },
+  {
+   "word": "à",
+   "start": 0.78,
+   "end": 0.814
+  },
+  {
+   "word": "deux",
+   "start": 0.841,
+   "end": 0.949
+  },
+  {
+   "word": "cents",
+   "start": 0.972,
+   "end": 1.085
+  },
+  {
+   "word": "à",
+   "start": 1.153,
+   "end": 1.22
+  },
+  {
+   "word": "l'heure",
+   "start": 1.243,
+   "end": 1.356
+  },
+  {
+   "word": "dès",
+   "start": 1.373,
+   "end": 1.424
+  },
+  {
+   "word": "que",
+   "start": 1.441,
+   "end": 1.492
+  },
+  {
+   "word": "tu",
+   "start": 1.536,
+   "end": 1.627
+  },
+  {
+   "word": "poses",
+   "start": 1.661,
+   "end": 1.831
+  },
+  {
+   "word": "ta",
+   "start": 1.853,
+   "end": 1.898
+  },
+  {
+   "word": "tête",
+   "start": 1.939,
+   "end": 2.102
+  },
+  {
+   "word": "sur",
+   "start": 2.136,
+   "end": 2.237
+  },
+  {
+   "word": "l'oreiller",
+   "start": 2.254,
+   "end": 2.508
+  },
+  {
+   "word": "Nuclever",
+   "start": 2.689,
+   "end": 3.104
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.145,
+   "end": 3.579
+  },
+  {
+   "word": "Manager",
+   "start": 3.63,
+   "end": 4.121
+  },
+  {
+   "word": "ashwagandha",
+   "start": 4.274,
+   "end": 5.07
+  },
+  {
+   "word": "pour",
+   "start": 5.097,
+   "end": 5.206
+  },
+  {
+   "word": "le",
+   "start": 5.229,
+   "end": 5.274
+  },
+  {
+   "word": "stress",
+   "start": 5.322,
+   "end": 5.681
+  },
+  {
+   "word": "elle-théanine",
+   "start": 5.789,
+   "end": 6.63
+  },
+  {
+   "word": "pour",
+   "start": 6.643,
+   "end": 6.697
+  },
+  {
+   "word": "le",
+   "start": 6.742,
+   "end": 6.833
+  },
+  {
+   "word": "calme",
+   "start": 6.884,
+   "end": 7.172
+  },
+  {
+   "word": "magnésium",
+   "start": 7.294,
+   "end": 8.053
+  },
+  {
+   "word": "pour",
+   "start": 8.067,
+   "end": 8.121
+  },
+  {
+   "word": "le",
+   "start": 8.166,
+   "end": 8.257
+  },
+  {
+   "word": "sommeil",
+   "start": 8.291,
+   "end": 8.664
+  },
+  {
+   "word": "vitamine",
+   "start": 8.799,
+   "end": 9.409
+  },
+  {
+   "word": "D",
+   "start": 9.477,
+   "end": 9.545
+  },
+  {
+   "word": "pour",
+   "start": 9.586,
+   "end": 9.748
+  },
+  {
+   "word": "l'humeur",
+   "start": 9.782,
+   "end": 10.155
+  },
+  {
+   "word": "et",
+   "start": 10.267,
+   "end": 10.282
+  },
+  {
+   "word": "le",
+   "start": 10.305,
+   "end": 10.35
+  },
+  {
+   "word": "magnésium",
+   "start": 10.391,
+   "end": 10.825
+  },
+  {
+   "word": "contribue",
+   "start": 10.867,
+   "end": 11.231
+  },
+  {
+   "word": "à",
+   "start": 11.265,
+   "end": 11.299
+  },
+  {
+   "word": "réduire",
+   "start": 11.344,
+   "end": 11.57
+  },
+  {
+   "word": "la",
+   "start": 11.593,
+   "end": 11.638
+  },
+  {
+   "word": "fatigue",
+   "start": 11.689,
+   "end": 12.113
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 12.333,
+   "end": 12.757
+  },
+  {
+   "word": "mille",
+   "start": 12.791,
+   "end": 12.893
+  },
+  {
+   "word": "vendus",
+   "start": 12.933,
+   "end": 13.232
+  },
+  {
+   "word": "quatre",
+   "start": 13.319,
+   "end": 13.842
+  },
+  {
+   "word": "virgule",
+   "start": 13.893,
+   "end": 14.113
+  },
+  {
+   "word": "cinq",
+   "start": 14.181,
+   "end": 14.316
+  },
+  {
+   "word": "étoiles",
+   "start": 14.384,
+   "end": 15.299
+  },
+  {
+   "word": "un",
+   "start": 15.452,
+   "end": 15.486
+  },
+  {
+   "word": "sachet",
+   "start": 15.496,
+   "end": 15.672
+  },
+  {
+   "word": "par",
+   "start": 15.689,
+   "end": 15.74
+  },
+  {
+   "word": "jour",
+   "start": 15.781,
+   "end": 15.944
+  },
+  {
+   "word": "dans",
+   "start": 15.957,
+   "end": 16.011
+  },
+  {
+   "word": "l'eau",
+   "start": 16.045,
+   "end": 16.486
+  },
+  {
+   "word": "panier",
+   "start": 16.537,
+   "end": 16.757
+  },
+  {
+   "word": "orange",
+   "start": 16.805,
+   "end": 17.503
+  },
+  {
+   "word": "FONCE",
+   "start": 17.571,
+   "end": 17.977
+  }
+ ],
+ "durationSec": 18.181,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}
