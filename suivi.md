@@ -7,3 +7,4 @@
 | 2026-11-24 | Vitavea autobronzant bêta-carotène 60 gélules | Problème trash + promo + en coupe | Arrête de te balader blanc comme un cul | v1 |  |  |  |
 | 2026-11-24 | Créatine OstroVit 300 g citron | Comparatif prix vs moyenne du marché | Si tu paies ta créatine plus de 5 centimes la dose, tu t'es fait braquer | v1 (braquage) |  |  |  |
 | 2026-11-24 | ZAP sachets énergétiques cerise noire DUO | Idée reçue (snus) + prix + en coupe | Mais wsh, tu prends du snus maintenant ?! | v1 (pas du snus) |  |  |  |
+| 2026-11-25 | Vitavea autobronzant bêta-carotène 60 gélules | Promo d'abord + problème + en coupe + urgence Black Friday | Promo de malade ! 6,40 € au lieu de 13,89 € | v1 (promo) |  |  |  |

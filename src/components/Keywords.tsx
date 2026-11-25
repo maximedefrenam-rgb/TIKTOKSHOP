@@ -28,6 +28,7 @@ export const BigText: React.FC<{
         textTransform: small ? 'none' : 'uppercase',
         letterSpacing: small ? 0 : 1,
         whiteSpace: 'pre-line',
+        WebkitTextStroke: small ? undefined : '4px #0B0B0F', paintOrder: 'stroke fill',
         textShadow: `0 10px 40px rgba(0,0,0,0.7)${color !== BRAND.colors.text ? `, 0 0 40px ${color}55` : ''}`,
       }}
     >

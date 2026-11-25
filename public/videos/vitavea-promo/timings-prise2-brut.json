@@ -1,0 +1,416 @@
+{
+ "words": [
+  {
+   "word": "PROMO",
+   "start": 0.269,
+   "end": 0.48
+  },
+  {
+   "word": "DE",
+   "start": 0.56,
+   "end": 0.72
+  },
+  {
+   "word": "MALADE",
+   "start": 0.8,
+   "end": 1.36
+  },
+  {
+   "word": "Autobronzant",
+   "start": 1.963,
+   "end": 2.483
+  },
+  {
+   "word": "Vitavea",
+   "start": 2.543,
+   "end": 3.203
+  },
+  {
+   "word": "six",
+   "start": 3.323,
+   "end": 3.683
+  },
+  {
+   "word": "euros",
+   "start": 3.736,
+   "end": 4.003
+  },
+  {
+   "word": "quarante",
+   "start": 4.035,
+   "end": 4.243
+  },
+  {
+   "word": "au",
+   "start": 4.296,
+   "end": 4.403
+  },
+  {
+   "word": "lieu",
+   "start": 4.435,
+   "end": 4.563
+  },
+  {
+   "word": "de",
+   "start": 4.616,
+   "end": 4.723
+  },
+  {
+   "word": "treize",
+   "start": 4.763,
+   "end": 5.043
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 5.066,
+   "end": 5.843
+  },
+  {
+   "word": "moins",
+   "start": 5.896,
+   "end": 6.163
+  },
+  {
+   "word": "CINQUANTE-QUATRE",
+   "start": 6.323,
+   "end": 7.046
+  },
+  {
+   "word": "pour",
+   "start": 7.109,
+   "end": 7.365
+  },
+  {
+   "word": "cent",
+   "start": 7.413,
+   "end": 8.005
+  },
+  {
+   "word": "livraison",
+   "start": 8.045,
+   "end": 8.405
+  },
+  {
+   "word": "gratuite",
+   "start": 8.467,
+   "end": 8.965
+  },
+  {
+   "word": "Arrête",
+   "start": 9.836,
+   "end": 10.176
+  },
+  {
+   "word": "de",
+   "start": 10.229,
+   "end": 10.336
+  },
+  {
+   "word": "perdre",
+   "start": 10.368,
+   "end": 10.576
+  },
+  {
+   "word": "ton",
+   "start": 10.616,
+   "end": 10.736
+  },
+  {
+   "word": "bronzage",
+   "start": 10.789,
+   "end": 11.216
+  },
+  {
+   "word": "de",
+   "start": 11.243,
+   "end": 11.296
+  },
+  {
+   "word": "l'été",
+   "start": 11.336,
+   "end": 11.616
+  },
+  {
+   "word": "et",
+   "start": 11.749,
+   "end": 12.016
+  },
+  {
+   "word": "de",
+   "start": 12.043,
+   "end": 12.096
+  },
+  {
+   "word": "redevenir",
+   "start": 12.144,
+   "end": 12.576
+  },
+  {
+   "word": "blanc",
+   "start": 12.643,
+   "end": 12.976
+  },
+  {
+   "word": "comme",
+   "start": 13.003,
+   "end": 13.136
+  },
+  {
+   "word": "un",
+   "start": 13.189,
+   "end": 13.296
+  },
+  {
+   "word": "CUL",
+   "start": 13.336,
+   "end": 14.176
+  },
+  {
+   "word": "hâle",
+   "start": 14.306,
+   "end": 14.416
+  },
+  {
+   "word": "naturel",
+   "start": 14.485,
+   "end": 14.976
+  },
+  {
+   "word": "et",
+   "start": 15.003,
+   "end": 15.056
+  },
+  {
+   "word": "uniforme",
+   "start": 15.116,
+   "end": 15.696
+  },
+  {
+   "word": "sans",
+   "start": 15.792,
+   "end": 16.176
+  },
+  {
+   "word": "soleil",
+   "start": 16.24,
+   "end": 16.656
+  },
+  {
+   "word": "effets",
+   "start": 16.796,
+   "end": 17.296
+  },
+  {
+   "word": "visibles",
+   "start": 17.356,
+   "end": 17.776
+  },
+  {
+   "word": "dès",
+   "start": 17.836,
+   "end": 18.016
+  },
+  {
+   "word": "le",
+   "start": 18.043,
+   "end": 18.096
+  },
+  {
+   "word": "premier",
+   "start": 18.136,
+   "end": 18.416
+  },
+  {
+   "word": "mois",
+   "start": 18.464,
+   "end": 18.656
+  },
+  {
+   "word": "de",
+   "start": 18.683,
+   "end": 18.736
+  },
+  {
+   "word": "cure",
+   "start": 18.816,
+   "end": 19.456
+  },
+  {
+   "word": "Une",
+   "start": 19.846,
+   "end": 19.856
+  },
+  {
+   "word": "gélule",
+   "start": 19.936,
+   "end": 20.176
+  },
+  {
+   "word": "par",
+   "start": 20.236,
+   "end": 20.416
+  },
+  {
+   "word": "jour",
+   "start": 20.464,
+   "end": 20.656
+  },
+  {
+   "word": "au",
+   "start": 20.683,
+   "end": 20.736
+  },
+  {
+   "word": "bêta-carotène",
+   "start": 20.776,
+   "end": 21.776
+  },
+  {
+   "word": "soixante",
+   "start": 21.803,
+   "end": 22.096
+  },
+  {
+   "word": "gélules",
+   "start": 22.176,
+   "end": 22.896
+  },
+  {
+   "word": "deux",
+   "start": 22.912,
+   "end": 22.976
+  },
+  {
+   "word": "mois",
+   "start": 23.024,
+   "end": 23.216
+  },
+  {
+   "word": "de",
+   "start": 23.243,
+   "end": 23.296
+  },
+  {
+   "word": "cure",
+   "start": 23.376,
+   "end": 23.776
+  },
+  {
+   "word": "tous",
+   "start": 23.84,
+   "end": 24.096
+  },
+  {
+   "word": "types",
+   "start": 24.136,
+   "end": 24.336
+  },
+  {
+   "word": "de",
+   "start": 24.363,
+   "end": 24.416
+  },
+  {
+   "word": "peau",
+   "start": 24.469,
+   "end": 24.736
+  },
+  {
+   "word": "fabriqué",
+   "start": 24.856,
+   "end": 25.456
+  },
+  {
+   "word": "en",
+   "start": 25.483,
+   "end": 25.536
+  },
+  {
+   "word": "France",
+   "start": 25.605,
+   "end": 26.096
+  },
+  {
+   "word": "même",
+   "start": 26.192,
+   "end": 26.576
+  },
+  {
+   "word": "pas",
+   "start": 26.656,
+   "end": 26.896
+  },
+  {
+   "word": "onze",
+   "start": 26.976,
+   "end": 27.296
+  },
+  {
+   "word": "centimes",
+   "start": 27.376,
+   "end": 27.856
+  },
+  {
+   "word": "par",
+   "start": 27.896,
+   "end": 28.016
+  },
+  {
+   "word": "jour",
+   "start": 28.128,
+   "end": 28.576
+  },
+  {
+   "word": "Black",
+   "start": 29.109,
+   "end": 29.136
+  },
+  {
+   "word": "Friday",
+   "start": 29.205,
+   "end": 29.696
+  },
+  {
+   "word": "ça",
+   "start": 29.803,
+   "end": 30.016
+  },
+  {
+   "word": "s'arrête",
+   "start": 30.096,
+   "end": 30.416
+  },
+  {
+   "word": "le",
+   "start": 30.443,
+   "end": 30.496
+  },
+  {
+   "word": "trente",
+   "start": 30.536,
+   "end": 30.736
+  },
+  {
+   "word": "novembre",
+   "start": 30.789,
+   "end": 31.456
+  },
+  {
+   "word": "panier",
+   "start": 31.516,
+   "end": 31.776
+  },
+  {
+   "word": "orange",
+   "start": 31.833,
+   "end": 32.576
+  },
+  {
+   "word": "FONCE",
+   "start": 32.616,
+   "end": 33.056
+  }
+ ],
+ "durationSec": 33.149,
+ "model": "eleven_v3"
+}
