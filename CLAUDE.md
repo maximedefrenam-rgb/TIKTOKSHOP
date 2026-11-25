@@ -69,7 +69,7 @@ Seules les allégations santé autorisées par l'UE :
   et aux femmes enceintes ou allaitantes » (à aligner sur le verso de l'emballage).
 - **Mots interdits TikTok (vidéo ZAP « C'est pas du snus » restreinte)** : jamais « snus », « nicotine », « tabac »,
   « cigarette », « vape », même pour dire « ce n'est PAS du… » ni « zéro nicotine ». Pour les sachets de caféine : angle prix,
-  comparaison avec un expresso, moments d'usage. Éviter aussi d'insister sur le geste « sous la lèvre » (évoque le snus).
+  comparaison avec un expresso, moments d'usage. « Sous la lèvre » est autorisé (validé par l'utilisateur).
 - Les réactions du personnage ne doivent jamais suggérer un effet non autorisé.
 
 ## ElevenLabs
