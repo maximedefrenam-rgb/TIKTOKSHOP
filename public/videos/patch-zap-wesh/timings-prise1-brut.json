@@ -1,0 +1,16 @@
+{
+ "words": [
+  {
+   "word": "Mais",
+   "start": 0.134,
+   "end": 0.16
+  },
+  {
+   "word": "wesh",
+   "start": 0.2,
+   "end": 0.64
+  }
+ ],
+ "durationSec": 0.679,
+ "model": "eleven_v3"
+}

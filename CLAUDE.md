@@ -78,6 +78,9 @@ Seules les allégations santé autorisées par l'UE :
 - Voix du compte : **Simon** (« Cheerful, Energetic and Rapid », jeune, parisien, hyper énergique),
   `voiceId` `mvhJVdVoTWVUtL4keT7W`, enregistré dans `src/brand.ts`. Toujours réutiliser cette voix.
 - Nombres en lettres, MAJUSCULES sur les mots à appuyer, « ... » pour les pauses.
+- **Jamais d'argot de 2–4 lettres en MAJUSCULES** (« WSH » a été épelé W-S-H) : écrire « wesh », « wtf » → « ouatte-de-fuck »
+  si besoin ; les MAJUSCULES seulement sur des mots normaux. Pour corriger un mot sans tout régénérer :
+  `scripts/patch_intro.py` (remplace le début de la voix par un extrait de quelques caractères).
 - **ÉMOTION MAXIMALE, collée au script** : une balise d'émotion à chaque changement d'intention (quasiment chaque phrase),
   choisie selon ce qui se passe : `[excited]`, `[enthusiastic]`, `[shouting]` (prix choc, CTA), `[gasps]` / `[amazed]` (révélation),
   `[laughs]` / `[chuckles]` (vanne), `[sarcastic]` (idée reçue cassée), `[whispers]` (confidence, « entre nous... »),

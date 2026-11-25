@@ -17,7 +17,7 @@ const S4 = at(w, 'Prends-en') - 0.08;
 
 export const config: VideoConfig = {
   id: 'novoma-donne',
-  version: 1,
+  version: 2,
   format: 'prix-choc',
   accent: '#7FE0CF',
   productImage: D + 'produit.png',
@@ -26,7 +26,7 @@ export const config: VideoConfig = {
   timings,
   character: {
     cues: [
-      {action: 'shock', at: at(w, 'WSH')},
+      {action: 'shock', at: at(w, 'wesh')},
       {action: 'faint', at: at(w, 'DONNÉ'), duration: 0.8},
       {action: 'present', at: at(w, 'Collagène')},
       {action: 'slam', at: at(w, 'moins')},
@@ -40,7 +40,7 @@ export const config: VideoConfig = {
     {
       kind: 'hook', from: 0, to: S1,
       keywords: [
-        {text: 'WSH ?!', at: at(w, 'WSH'), until: at(w, 'quatre') - 0.04, y: 320, size: 220, color: 'accent', impact: true},
+        {text: 'WSH ?!', at: at(w, 'wesh'), until: at(w, 'quatre') - 0.04, y: 320, size: 220, color: 'accent', impact: true},
         {text: '4,98 €', at: at(w, 'quatre'), y: 330, size: 280, color: 'accent', impact: true, stack: true},
         {text: "C'EST DONNÉ !", at: at(w, 'DONNÉ'), y: 590, size: 140, stack: true},
       ],

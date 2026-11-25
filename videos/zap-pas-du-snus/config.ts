@@ -17,7 +17,7 @@ const S4 = at(w, 'Trente-six') - 0.08;
 
 export const config: VideoConfig = {
   id: 'zap-pas-du-snus',
-  version: 1,
+  version: 2,
   format: 'idee-recue',
   accent: '#F0465A',
   productImage: D + 'produit.png',
@@ -27,7 +27,7 @@ export const config: VideoConfig = {
   timings,
   character: {
     cues: [
-      {action: 'shock', at: at(w, 'WSH')},
+      {action: 'shock', at: at(w, 'wesh')},
       {action: 'slam', at: at(w, 'ZÉRO')},
       {action: 'point', at: at(w, 'cent')},
       {action: 'faint', at: at(w, 'centimes'), duration: 0.9},
@@ -42,7 +42,7 @@ export const config: VideoConfig = {
     {
       kind: 'myth', from: 0, to: S1, statement: 'TU PRENDS\nDU SNUS ?!', crossAt: at(w, 'ZÉRO'),
       keywords: [
-        {text: 'WSH ?!', at: at(w, 'WSH'), until: at(w, 'ZÉRO') - 0.05, y: 220, size: 150, color: 'accent', impact: true},
+        {text: 'WSH ?!', at: at(w, 'wesh'), until: at(w, 'ZÉRO') - 0.05, y: 220, size: 150, color: 'accent', impact: true},
         {text: '0 NICOTINE · 0 TABAC', at: at(w, 'nicotine'), y: 830, size: 90, color: 'accent', stack: true},
       ],
     },
