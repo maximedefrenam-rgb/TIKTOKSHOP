@@ -63,7 +63,8 @@ Seules les allégations santé autorisées par l'UE :
 - Protéines : « contribuent à augmenter la masse musculaire » / « contribuent au maintien de la masse musculaire ».
 - Créatine (3 g/jour) : « augmente la performance physique lors d'exercices courts et intenses répétés ».
 - Tout autre produit / ingrédient : uniquement l'allégation écrite sur l'emballage ou la fiche, sinon demander.
-- Caféine (sachets ZAP…) : aucune allégation d'effet (« énergie », « réveil », « performance ») ; uniquement des faits
+- Caféine (sachets ZAP…) : « énergie » AUTORISÉ par l'utilisateur, ton pub (« l'énergie qui monte », « dans ta zone ») —
+  c'est le nom du produit (« sachets énergétiques / energy pouches ») ; jamais « illimitée » ni promesse chiffrée. Sinon des faits
   (mg par dose, comparaison chiffrée avec un expresso ≈ 80 mg selon l'EFSA) et des moments d'usage. Jamais d'incitation
   à la nuit blanche ou à enchaîner les doses. Mention à l'écran : « Contient de la caféine (… mg). Déconseillé aux enfants
   et aux femmes enceintes ou allaitantes » (à aligner sur le verso de l'emballage).
