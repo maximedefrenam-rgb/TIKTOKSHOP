@@ -26,7 +26,7 @@ const PH = (from: number, image: string, keywords: K[] = []) => ({kind: 'photo' 
 const CUT = (from: number, items: {label: string; sub?: string; at: number}[], style: 'lid' | 'zoom' = 'lid', keywords: K[] = []) =>
   ({kind: 'cutaway' as const, from, openAt: from + 0.1, style, items, keywords});
 const CTA = (r: R, from: number, keywords: K[] = []) => ({kind: 'cta' as const, from, arrowAt: r('panier'), keywords});
-const WARN = (text: string, at: number) => kw(text, at, {y: 635, size: 30, small: true, stack: true});
+const WARN = (text: string, at: number) => kw(text, at, {y: 600, size: 30, small: true, stack: true});
 const T1 = (text: string, at: number, o: Record<string, unknown> = {}) => kw(text, at, {y: text.includes('\n') ? 340 : 300, size: 140, color: 'accent', ...o});
 const ST = (text: string, at: number, y: number, o = {}) => kw(text, at, {y, size: 110, stack: true, ...o});
 
@@ -52,7 +52,7 @@ export const zapStagiaire = variant({
     CUT(r('avec') - 0.08, [{label: 'CAFÉINE', sub: '100 mg', at: r('avec')}, {label: 'L-THÉANINE', at: r('elle-théanine')}, {label: 'VITAMINES B', at: r('vitamines')}]),
     B(r('tu') - 0.08, [T1('SOUS LA LÈVRE', r('glisses'), {size: 150}), ST("T'ES DANS TA ZONE", r('zone'), 480)]),
     B(r('prix', 2) - 0.08, [T1('PRIX LE PLUS BAS\nEN 2026', r('prix', 2), {size: 130, impact: true}), ST('LIVRAISON GRATUITE', r('livraison'), 500, {size: 100})]),
-    CTA(r, r('panier') - 0.1, [ST('10,16 € AU LIEU DE 14,90 €', r('panier'), 520, {size: 80, color: 'accent'}), WARN(WARN_CAFEINE, r('panier'))]),
+    CTA(r, r('panier') - 0.1, [ST('10,16 € AU LIEU DE 14,90 €', r('panier'), 490, {size: 80, color: 'accent'}), WARN(WARN_CAFEINE, r('panier'))]),
   ],
 });
 
@@ -84,7 +84,7 @@ export const zapSac = variant({
     B(r('zéro') - 0.08, [ST('0 CAFÉ À PRÉPARER', r('zéro'), 300), ST('0 CANETTE', r('zéro', 2), 440)]),
     B(r('ça', 2) - 0.08, [T1('ÇA TIENT DANS\nTA POCHE', r('tient'), {size: 150, impact: true})]),
     ZDEAL(r('trente-six') - 0.08, r('trente-six'), r('quatorze'), r('dix'), [kw('36 SACHETS', r('trente-six'), {y: 840, size: 90, stack: true})]),
-    CTA(r, r('livraison') - 0.08, [ST('LIVRAISON GRATUITE', r('livraison'), 495, {size: 100, color: 'accent'}), WARN(WARN_CAFEINE, r('livraison'))]),
+    CTA(r, r('livraison') - 0.08, [ST('LIVRAISON GRATUITE', r('livraison'), 480, {size: 90, color: 'accent'}), WARN(WARN_CAFEINE, r('livraison'))]),
   ],
 });
 

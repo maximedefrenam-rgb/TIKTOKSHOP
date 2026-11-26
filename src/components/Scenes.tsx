@@ -3,7 +3,7 @@ import {AbsoluteFill, useCurrentFrame} from 'remotion';
 import {BRAND, SAFE_CX, SAFE_W, SAFE_BOTTOM_Y} from '../brand';
 import {sp, SNAP, s2f, lin, easeOut, rand} from '../lib/anim';
 import type {Scene, VideoConfig} from '../types';
-import {Product} from './Product';
+import {Product, ProductLift} from './Product';
 import {BigText, Keywords} from './Keywords';
 
 type P<K extends Scene['kind']> = {scene: Extract<Scene, {kind: K}>; cfg: VideoConfig; offset: number};
@@ -113,14 +113,17 @@ export const CutawayScene: React.FC<P<'cutaway'>> = ({scene, cfg, offset}) => {
   const zoom = scene.style === 'zoom';
   const open = zoom ? 0 : openS;
   // emballage large (productScale < 1) : produit plus bas pour que le couvercle ne monte pas sur les textes
-  const h = 700, cy = 1260 + (1 - (cfg.productScale ?? 1)) * h * 0.5;
+  // pas de pastille pendant la coupe : on annule la remontée, et l'emballage reste ≤ 0,95 pour que le couvercle ne monte pas sur la liste
+  const lift = React.useContext(ProductLift);
+  const cutScale = Math.min(cfg.productScale ?? 1, 0.95);
+  const h = 700, cy = 1260 + lift + (1 - cutScale) * h * 0.5;
   const glow = lin(f, oA, oA + 8) * (1 - lin(f, oA + 20, oA + 45) * 0.5);
   return (
     <AbsoluteFill>
       {/* lueur qui sort du produit ouvert */}
       <div style={{position: 'absolute', left: productCx(cfg, scene), top: cy - h * 0.05, width: 700, height: 700, transform: 'translate(-50%, -50%)',
         background: `radial-gradient(circle, ${cfg.accent}AA 0%, ${cfg.accent}00 65%)`, opacity: glow}} />
-      <Product offset={offset} src={cfg.productImage} scale={(cfg.productScale ?? 1) * (zoom ? 1 + 0.22 * openS : 1)} height={h} cx={productCx(cfg, scene)} cy={zoom ? cy + 40 : cy} enterAt={s2f(scene.from)} open={open} seed="cut" sweeps={[s2f(scene.from) + 6]} />
+      <Product offset={offset} src={cfg.productImage} scale={cutScale * (zoom ? 1 + 0.22 * openS : 1)} height={h} cx={productCx(cfg, scene)} cy={zoom ? cy + 40 : cy} enterAt={s2f(scene.from)} open={open} seed="cut" sweeps={[s2f(scene.from) + 6]} />
       <Particles frame={f} start={oA} cx={productCx(cfg, scene)} cy={cy - h * 0.04} accent={cfg.accent} />
       {scene.items.map((it, i) => {
         const a = s2f(it.at);
@@ -207,10 +210,11 @@ export const CtaScene: React.FC<P<'cta'>> = ({scene, cfg, offset}) => {
   const pT = sp(f, f0 + 2);
   const pA = f >= aA ? sp(f, aA) : 0;
   // deux petites relances de la flèche (pas de boucle)
+  const lift = React.useContext(ProductLift);
   const nudge = [aA + 24, aA + 48].reduce((acc, n) => acc + (f >= n ? Math.sin(Math.min(1, (f - n) / 10) * Math.PI) * 26 : 0), 0);
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={720} cx={productCx(cfg, scene)} cy={1060} enterAt={f0} enter="slam" sweeps={[f0 + 8]} seed="cta" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={720} cx={productCx(cfg, scene)} cy={1110 + lift} enterAt={f0} enter="slam" sweeps={[f0 + 8]} seed="cta" />
       <div style={{position: 'absolute', left: SAFE_CX, top: 330, transform: `translate(-50%, -50%) scale(${pT})`, display: 'flex',
         alignItems: 'center', gap: 26, background: BRAND.colors.cart, padding: '18px 44px 18px 34px', borderRadius: 28,
         boxShadow: `0 16px 60px ${BRAND.colors.cart}77`}}>
