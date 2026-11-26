@@ -7,7 +7,7 @@ import {variant, kw, JACKETS, WARN_COMPLEMENT} from '../../src/lib/variant';
 type R = (w: string, n?: number) => number;
 const COL = {accent: '#1FA3B5', productScale: 0.8};
 const CHX = {accent: '#3B6BFF', productScale: 0.8};
-const VITC = (r: R) => kw('La vitamine C contribue à la formation\nnormale de collagène', r('contribue'), {y: 830, size: 34, small: true, stack: true});
+const VITC = (r: R) => kw('La vitamine C contribue à la formation\nnormale de collagène', r('contribue'), {y: 690, size: 34, small: true, stack: true});
 const WARN = (from: number) => kw(WARN_COMPLEMENT, from + 0.05, {y: 700, size: 30, small: true, stack: true});
 const AVIS_COL = (r: R, from: number) => ({kind: 'reviews' as const, from, rating: 4.5, reviews: 178, sold: 1440, ratingAt: r('quatre') + 0.1, soldAt: r('étoiles') + 0.2});
 const AVIS_CHX = (r: R, from: number) => ({kind: 'reviews' as const, from, rating: 4.7, reviews: 81, sold: 709, ratingAt: r('quatre') + 0.1, soldAt: r('étoiles') + 0.2});
@@ -23,8 +23,7 @@ export const shaker = variant({
       kw('GOÛT NEUTRE', r('neutre'), {y: 300, size: 160, color: 'accent', impact: true}),
     ]},
     {kind: 'cutaway', from: r('collagène', 3) - 0.08, openAt: r('collagène', 3) + 0.1, items: [
-      {label: 'COLLAGÈNE MARIN', sub: 'type I', at: r('collagène', 3)},
-      {label: 'HYDROLYSÉ', at: r('hydrolysé')},
+      {label: 'COLLAGÈNE MARIN', sub: 'type I · hydrolysé', at: r('collagène', 3)},
       {label: '< 2 000 DALTONS', sub: 'bas poids moléculaire', at: r('bas')},
       {label: 'VITAMINE C', at: r('vitamine')},
     ], keywords: [VITC(r)]},
@@ -50,8 +49,7 @@ export const athletes = variant({
       kw('selon la marque', r('selon'), {y: 470, size: 40, small: true, stack: true}),
     ]},
     {kind: 'cutaway', from: r('Collagène') - 0.08, openAt: r('Collagène') + 0.1, items: [
-      {label: '10 G / JOUR', at: r('dix')},
-      {label: 'COLLAGÈNE MARIN', sub: 'type I', at: r('type')},
+      {label: 'COLLAGÈNE MARIN', sub: '10 g / jour · type I', at: r('dix')},
       {label: '< 2 000 DALTONS', sub: 'bas poids moléculaire', at: r('bas')},
       {label: 'VITAMINE C', at: r('vitamine')},
     ], keywords: [VITC(r)]},
@@ -74,13 +72,12 @@ export const shampoing = variant({
       kw('2 GUMMIES / JOUR', r('deux'), {y: 520, size: 110, stack: true}),
     ]},
     {kind: 'cutaway', from: r('biotine') - 0.08, openAt: r('biotine') + 0.1, items: [
-      {label: 'BIOTINE', at: r('biotine')},
-      {label: 'ZINC · SÉLÉNIUM', at: r('zinc')},
+      {label: 'BIOTINE · ZINC · SÉLÉNIUM', at: r('biotine')},
       {label: 'CUIVRE', at: r('cuivre')},
       {label: 'KÉRATINE', sub: '110 mg', at: r('kératine')},
     ], keywords: [
-      kw('Biotine, zinc et sélénium : maintien de cheveux normaux', r('maintien'), {y: 820, size: 32, small: true, stack: true}),
-      kw('Cuivre : pigmentation normale des cheveux', r('pigmentation'), {y: 870, size: 32, small: true, stack: true}),
+      kw('Biotine, zinc et sélénium : maintien de cheveux normaux', r('maintien'), {y: 680, size: 32, small: true, stack: true}),
+      kw('Cuivre : pigmentation normale des cheveux', r('pigmentation'), {y: 725, size: 32, small: true, stack: true}),
     ]},
     {kind: 'benefit', from: r('fabriqués') - 0.08, keywords: [
       kw('FABRIQUÉ\nEN FRANCE', r('fabriqués'), {y: 300, size: 150, color: 'accent', impact: true}),
