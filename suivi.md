@@ -61,3 +61,13 @@
 | 2026-11-25 | Nuclever Cortisol Manager | 3D · 3h | 3 h du mat' et tu fixes le plafond | v1 3D (Nuclever-3h-3D) |  |  |  |
 | 2026-11-25 | Nuclever Cortisol Manager | 3D · Fatigue | Crevé avant même la salle | v1 3D (Nuclever-Fatigue-3D) |  |  |  |
 | 2026-11-25 | Nuclever Cortisol Manager | 3D · Stress | Stress au taf, stress à la maison, ça suffit 😤 Cortisol Manager, 3 goû | v1 3D (Nuclever-Stress-3D) |  |  |  |
+| 2026-11-26 | WindBoss Shilajit bonbons (60) | Idée reçue (résine) + en coupe + promo | Arrête de galérer avec ta résine de shilajit, putain ! | v1 (windboss-resine) |  |  |  |
+| 2026-11-26 | WindBoss Shilajit bonbons (60) | Prix choc (prix/jour) + en coupe + avis | Wesh, 63 centimes par jour le shilajit ?! | v1 (windboss-centimes) |  |  |  |
+| 2026-11-26 | Topdon ArtiDiag 600 S | Problème (voyant moteur) + en coupe + prix barré | Ton voyant moteur s'allume et tu chies dans ton froc ?! | v1 (topdon-voyant) |  |  |  |
+| 2026-11-26 | Topdon ArtiDiag 600 S | Prix choc (coupons) + prix barré + en coupe + avis | Wesh, 151 € la valise diagnostic ?! | v1 (topdon-coupons) |  |  |  |
+| 2026-11-26 | Granions Collagène Marin 258 g | Curiosité (goût neutre) + en coupe + avis | Wesh, 10 g de collagène dans ton shaker sans le goût ?! | v1 (granions-shaker) |  |  |  |
+| 2026-11-26 | Granions Collagène Marin 258 g | Athlètes (selon la marque) + en coupe + prix/jour | Tu sais ce que prennent les athlètes pros ?! | v1 (granions-athletes) |  |  |  |
+| 2026-11-26 | Granions Gummies Cheveux 4-en-1 | Interpellation (shampoings) + en coupe + avis | Arrête de claquer ton fric dans des shampoings miracles ! | v1 (granions-shampoing) |  |  |  |
+| 2026-11-26 | Granions Gummies Cheveux 4-en-1 | Prix choc (prix/jour) + en coupe + allégations | Wesh, 80 centimes par jour pour tes cheveux ?! | v1 (granions-80cts) |  |  |  |
+| 2026-11-26 | Meelito kit curcuma 6 pièces | Prix choc (stagiaire) + en coupe + avis | 6 pièces de skincare pour 21 €, qui a validé ce prix ?! | v1 (meelito-prix) |  |  |  |
+| 2026-11-26 | Meelito kit curcuma 6 pièces | Interpellation (un rein) + prix/pièce + en coupe | Ta routine skincare te coûte un rein ?! | v1 (meelito-rein) |  |  |  |

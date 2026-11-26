@@ -1,0 +1,346 @@
+{
+ "words": [
+  {
+   "word": "Arrête",
+   "start": 0.204,
+   "end": 0.4
+  },
+  {
+   "word": "de",
+   "start": 0.427,
+   "end": 0.48
+  },
+  {
+   "word": "galérer",
+   "start": 0.54,
+   "end": 0.96
+  },
+  {
+   "word": "avec",
+   "start": 0.992,
+   "end": 1.12
+  },
+  {
+   "word": "ta",
+   "start": 1.173,
+   "end": 1.28
+  },
+  {
+   "word": "résine",
+   "start": 1.34,
+   "end": 1.68
+  },
+  {
+   "word": "de",
+   "start": 1.707,
+   "end": 1.76
+  },
+  {
+   "word": "shilajit",
+   "start": 1.813,
+   "end": 2.24
+  },
+  {
+   "word": "qui",
+   "start": 2.28,
+   "end": 2.4
+  },
+  {
+   "word": "colle",
+   "start": 2.44,
+   "end": 2.64
+  },
+  {
+   "word": "partout",
+   "start": 2.688,
+   "end": 3.04
+  },
+  {
+   "word": "putain",
+   "start": 3.08,
+   "end": 3.44
+  },
+  {
+   "word": "WindBoss",
+   "start": 4.512,
+   "end": 4.8
+  },
+  {
+   "word": "l'a",
+   "start": 4.84,
+   "end": 4.96
+  },
+  {
+   "word": "mis",
+   "start": 5,
+   "end": 5.12
+  },
+  {
+   "word": "en",
+   "start": 5.147,
+   "end": 5.2
+  },
+  {
+   "word": "bonbons",
+   "start": 5.28,
+   "end": 6.08
+  },
+  {
+   "word": "emballés",
+   "start": 6.133,
+   "end": 6.64
+  },
+  {
+   "word": "un",
+   "start": 6.693,
+   "end": 6.8
+  },
+  {
+   "word": "par",
+   "start": 6.86,
+   "end": 7.04
+  },
+  {
+   "word": "un",
+   "start": 7.067,
+   "end": 7.68
+  },
+  {
+   "word": "deux",
+   "start": 7.908,
+   "end": 7.921
+  },
+  {
+   "word": "bonbons",
+   "start": 7.981,
+   "end": 8.241
+  },
+  {
+   "word": "par",
+   "start": 8.281,
+   "end": 8.401
+  },
+  {
+   "word": "jour",
+   "start": 8.465,
+   "end": 9.041
+  },
+  {
+   "word": "l'équivalent",
+   "start": 9.081,
+   "end": 9.601
+  },
+  {
+   "word": "de",
+   "start": 9.628,
+   "end": 9.681
+  },
+  {
+   "word": "trois",
+   "start": 9.734,
+   "end": 10.001
+  },
+  {
+   "word": "mille",
+   "start": 10.081,
+   "end": 10.241
+  },
+  {
+   "word": "milligrammes",
+   "start": 10.273,
+   "end": 10.721
+  },
+  {
+   "word": "de",
+   "start": 10.748,
+   "end": 10.801
+  },
+  {
+   "word": "shilajit",
+   "start": 10.854,
+   "end": 11.361
+  },
+  {
+   "word": "en",
+   "start": 11.388,
+   "end": 11.441
+  },
+  {
+   "word": "poudre",
+   "start": 11.481,
+   "end": 11.761
+  },
+  {
+   "word": "selon",
+   "start": 11.814,
+   "end": 12.081
+  },
+  {
+   "word": "la",
+   "start": 12.134,
+   "end": 12.241
+  },
+  {
+   "word": "marque",
+   "start": 12.287,
+   "end": 12.641
+  },
+  {
+   "word": "avec",
+   "start": 12.769,
+   "end": 13.281
+  },
+  {
+   "word": "ashwagandha",
+   "start": 13.361,
+   "end": 14.401
+  },
+  {
+   "word": "gingembre",
+   "start": 14.465,
+   "end": 15.121
+  },
+  {
+   "word": "et",
+   "start": 15.148,
+   "end": 15.201
+  },
+  {
+   "word": "ginseng",
+   "start": 15.281,
+   "end": 16.241
+  },
+  {
+   "word": "zéro",
+   "start": 16.474,
+   "end": 16.721
+  },
+  {
+   "word": "sucre",
+   "start": 16.774,
+   "end": 16.961
+  },
+  {
+   "word": "ajouté",
+   "start": 17.028,
+   "end": 17.841
+  },
+  {
+   "word": "vegan",
+   "start": 17.934,
+   "end": 18.481
+  },
+  {
+   "word": "sans",
+   "start": 18.577,
+   "end": 18.961
+  },
+  {
+   "word": "gélatine",
+   "start": 19.014,
+   "end": 19.601
+  },
+  {
+   "word": "plus",
+   "start": 20.198,
+   "end": 20.326
+  },
+  {
+   "word": "de",
+   "start": 20.379,
+   "end": 20.486
+  },
+  {
+   "word": "dix",
+   "start": 20.566,
+   "end": 20.726
+  },
+  {
+   "word": "mille",
+   "start": 20.766,
+   "end": 20.966
+  },
+  {
+   "word": "vendus",
+   "start": 21.014,
+   "end": 21.845
+  },
+  {
+   "word": "et",
+   "start": 21.907,
+   "end": 21.934
+  },
+  {
+   "word": "pour",
+   "start": 21.966,
+   "end": 22.094
+  },
+  {
+   "word": "le",
+   "start": 22.121,
+   "end": 22.174
+  },
+  {
+   "word": "Black",
+   "start": 22.214,
+   "end": 22.414
+  },
+  {
+   "word": "Friday",
+   "start": 22.471,
+   "end": 23.214
+  },
+  {
+   "word": "moins",
+   "start": 23.254,
+   "end": 23.454
+  },
+  {
+   "word": "vingt",
+   "start": 23.574,
+   "end": 23.774
+  },
+  {
+   "word": "pour",
+   "start": 23.822,
+   "end": 24.014
+  },
+  {
+   "word": "cent",
+   "start": 24.062,
+   "end": 24.254
+  },
+  {
+   "word": "dès",
+   "start": 24.334,
+   "end": 24.574
+  },
+  {
+   "word": "vingt-cinq",
+   "start": 24.614,
+   "end": 25.094
+  },
+  {
+   "word": "euros",
+   "start": 25.127,
+   "end": 25.614
+  },
+  {
+   "word": "panier",
+   "start": 25.654,
+   "end": 25.854
+  },
+  {
+   "word": "orange",
+   "start": 25.923,
+   "end": 26.734
+  },
+  {
+   "word": "FONCE",
+   "start": 26.854,
+   "end": 27.294
+  }
+ ],
+ "durationSec": 27.481,
+ "model": "eleven_v3"
+}

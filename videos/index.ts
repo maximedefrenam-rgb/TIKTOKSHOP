@@ -43,6 +43,17 @@ import {config as v_karacare_elu} from './karacare-elu/config';
 import {config as v_nuclever_oreiller} from './nuclever-oreiller/config';
 import {config as v_nuclever_stress} from './nuclever-stress/config';
 import {config as v_nuclever_55000} from './nuclever-55000/config';
+import {config as v_windboss_resine} from './windboss-resine/config';
+import {config as v_windboss_centimes} from './windboss-centimes/config';
+import {config as v_topdon_voyant} from './topdon-voyant/config';
+import {config as v_topdon_coupons} from './topdon-coupons/config';
+import {config as v_granions_shaker} from './granions-shaker/config';
+import {config as v_granions_athletes} from './granions-athletes/config';
+import {config as v_granions_shampoing} from './granions-shampoing/config';
+import {config as v_granions_80cts} from './granions-80cts/config';
+import {config as v_meelito_prix} from './meelito-prix/config';
+import {config as v_meelito_rein} from './meelito-rein/config';
 
 export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil,
-  v_creatine_coach, v_creatine_kebab, v_creatine_serie, v_zap_poubelle, v_zap_cardio, v_zap_poche, v_vitavea_fantome, v_vitavea_dubai, v_vitavea_uv, v_novoma_genoux, v_novoma_28000, v_novoma_3en1, v_lashile_casse, v_lashile_meuf, v_lashile_bonbons, v_medicube_ton_nez, v_medicube_coreenne, v_medicube_miroir, v_karacare_salaire, v_karacare_paille, v_karacare_elu, v_nuclever_oreiller, v_nuclever_stress, v_nuclever_55000];
+  v_creatine_coach, v_creatine_kebab, v_creatine_serie, v_zap_poubelle, v_zap_cardio, v_zap_poche, v_vitavea_fantome, v_vitavea_dubai, v_vitavea_uv, v_novoma_genoux, v_novoma_28000, v_novoma_3en1, v_lashile_casse, v_lashile_meuf, v_lashile_bonbons, v_medicube_ton_nez, v_medicube_coreenne, v_medicube_miroir, v_karacare_salaire, v_karacare_paille, v_karacare_elu, v_nuclever_oreiller, v_nuclever_stress, v_nuclever_55000,
+  v_windboss_resine, v_windboss_centimes, v_topdon_voyant, v_topdon_coupons, v_granions_shaker, v_granions_athletes, v_granions_shampoing, v_granions_80cts, v_meelito_prix, v_meelito_rein];

@@ -1,0 +1,356 @@
+{
+ "words": [
+  {
+   "word": "Six",
+   "start": 0.145,
+   "end": 0.16
+  },
+  {
+   "word": "pièces",
+   "start": 0.24,
+   "end": 0.56
+  },
+  {
+   "word": "de",
+   "start": 0.587,
+   "end": 0.64
+  },
+  {
+   "word": "skincare",
+   "start": 0.702,
+   "end": 1.2
+  },
+  {
+   "word": "pour",
+   "start": 1.232,
+   "end": 1.36
+  },
+  {
+   "word": "vingt",
+   "start": 1.48,
+   "end": 1.76
+  },
+  {
+   "word": "et",
+   "start": 1.787,
+   "end": 1.84
+  },
+  {
+   "word": "un",
+   "start": 1.867,
+   "end": 1.92
+  },
+  {
+   "word": "euros",
+   "start": 1.973,
+   "end": 2.64
+  },
+  {
+   "word": "mais",
+   "start": 2.688,
+   "end": 2.88
+  },
+  {
+   "word": "qui",
+   "start": 2.92,
+   "end": 3.04
+  },
+  {
+   "word": "a",
+   "start": 3.12,
+   "end": 3.2
+  },
+  {
+   "word": "validé",
+   "start": 3.24,
+   "end": 3.52
+  },
+  {
+   "word": "ce",
+   "start": 3.547,
+   "end": 3.6
+  },
+  {
+   "word": "prix",
+   "start": 3.648,
+   "end": 3.84
+  },
+  {
+   "word": "Le",
+   "start": 4.467,
+   "end": 4.48
+  },
+  {
+   "word": "kit",
+   "start": 4.54,
+   "end": 4.72
+  },
+  {
+   "word": "au",
+   "start": 4.747,
+   "end": 4.8
+  },
+  {
+   "word": "curcuma",
+   "start": 4.86,
+   "end": 5.44
+  },
+  {
+   "word": "savon",
+   "start": 5.5,
+   "end": 5.84
+  },
+  {
+   "word": "nettoyant",
+   "start": 5.88,
+   "end": 6.24
+  },
+  {
+   "word": "moussant",
+   "start": 6.26,
+   "end": 6.72
+  },
+  {
+   "word": "huile",
+   "start": 6.773,
+   "end": 7.12
+  },
+  {
+   "word": "masque",
+   "start": 7.16,
+   "end": 7.44
+  },
+  {
+   "word": "peel-off",
+   "start": 7.472,
+   "end": 7.92
+  },
+  {
+   "word": "crème",
+   "start": 7.973,
+   "end": 8.32
+  },
+  {
+   "word": "et",
+   "start": 8.48,
+   "end": 8.8
+  },
+  {
+   "word": "le",
+   "start": 8.853,
+   "end": 8.96
+  },
+  {
+   "word": "filet",
+   "start": 9.024,
+   "end": 9.32
+  },
+  {
+   "word": "à",
+   "start": 9.34,
+   "end": 9.36
+  },
+  {
+   "word": "mousse",
+   "start": 9.4,
+   "end": 10.08
+  },
+  {
+   "word": "curcuma",
+   "start": 10.3,
+   "end": 10.72
+  },
+  {
+   "word": "acide",
+   "start": 10.773,
+   "end": 11.04
+  },
+  {
+   "word": "kojique",
+   "start": 11.093,
+   "end": 11.44
+  },
+  {
+   "word": "vitamine",
+   "start": 11.48,
+   "end": 11.76
+  },
+  {
+   "word": "C",
+   "start": 11.88,
+   "end": 12.08
+  },
+  {
+   "word": "acide",
+   "start": 12.133,
+   "end": 12.32
+  },
+  {
+   "word": "hyaluronique",
+   "start": 12.347,
+   "end": 13.36
+  },
+  {
+   "word": "selon",
+   "start": 13.578,
+   "end": 13.6
+  },
+  {
+   "word": "la",
+   "start": 13.627,
+   "end": 13.68
+  },
+  {
+   "word": "marque",
+   "start": 13.737,
+   "end": 14.4
+  },
+  {
+   "word": "nettoyage",
+   "start": 14.44,
+   "end": 14.88
+  },
+  {
+   "word": "en",
+   "start": 14.907,
+   "end": 14.96
+  },
+  {
+   "word": "profondeur",
+   "start": 15.008,
+   "end": 15.6
+  },
+  {
+   "word": "teint",
+   "start": 15.627,
+   "end": 15.76
+  },
+  {
+   "word": "plus",
+   "start": 15.808,
+   "end": 16
+  },
+  {
+   "word": "uniforme",
+   "start": 16.07,
+   "end": 16.667
+  },
+  {
+   "word": "peau",
+   "start": 16.684,
+   "end": 16.8
+  },
+  {
+   "word": "hydratée",
+   "start": 16.832,
+   "end": 17.68
+  },
+  {
+   "word": "plus",
+   "start": 17.888,
+   "end": 17.92
+  },
+  {
+   "word": "de",
+   "start": 17.973,
+   "end": 18.08
+  },
+  {
+   "word": "soixante-trois",
+   "start": 18.187,
+   "end": 19.12
+  },
+  {
+   "word": "mille",
+   "start": 19.16,
+   "end": 19.28
+  },
+  {
+   "word": "vendus",
+   "start": 19.36,
+   "end": 20.16
+  },
+  {
+   "word": "quatre",
+   "start": 20.206,
+   "end": 20.48
+  },
+  {
+   "word": "virgule",
+   "start": 20.54,
+   "end": 20.8
+  },
+  {
+   "word": "cinq",
+   "start": 20.88,
+   "end": 21.04
+  },
+  {
+   "word": "étoiles",
+   "start": 21.12,
+   "end": 22.24
+  },
+  {
+   "word": "quatre",
+   "start": 22.446,
+   "end": 22.48
+  },
+  {
+   "word": "euros",
+   "start": 22.533,
+   "end": 22.8
+  },
+  {
+   "word": "trente-cinq",
+   "start": 22.82,
+   "end": 23.24
+  },
+  {
+   "word": "la",
+   "start": 23.28,
+   "end": 23.36
+  },
+  {
+   "word": "pièce",
+   "start": 23.4,
+   "end": 23.68
+  },
+  {
+   "word": "pour",
+   "start": 23.696,
+   "end": 23.76
+  },
+  {
+   "word": "le",
+   "start": 23.787,
+   "end": 23.84
+  },
+  {
+   "word": "Black",
+   "start": 23.893,
+   "end": 24.16
+  },
+  {
+   "word": "Friday",
+   "start": 24.217,
+   "end": 24.64
+  },
+  {
+   "word": "panier",
+   "start": 24.76,
+   "end": 25.2
+  },
+  {
+   "word": "orange",
+   "start": 25.257,
+   "end": 25.92
+  },
+  {
+   "word": "FONCE",
+   "start": 25.96,
+   "end": 26.4
+  }
+ ],
+ "durationSec": 26.828,
+ "model": "eleven_v3"
+}

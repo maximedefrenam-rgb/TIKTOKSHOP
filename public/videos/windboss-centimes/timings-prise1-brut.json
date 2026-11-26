@@ -1,0 +1,316 @@
+{
+ "words": [
+  {
+   "word": "Wesh",
+   "start": 0.144,
+   "end": 0.56
+  },
+  {
+   "word": "soixante-trois",
+   "start": 0.613,
+   "end": 1.201
+  },
+  {
+   "word": "centimes",
+   "start": 1.264,
+   "end": 1.76
+  },
+  {
+   "word": "par",
+   "start": 1.8,
+   "end": 1.92
+  },
+  {
+   "word": "jour",
+   "start": 1.968,
+   "end": 2.24
+  },
+  {
+   "word": "le",
+   "start": 2.267,
+   "end": 2.32
+  },
+  {
+   "word": "shilajit",
+   "start": 2.373,
+   "end": 2.96
+  },
+  {
+   "word": "Les",
+   "start": 3.665,
+   "end": 3.68
+  },
+  {
+   "word": "bonbons",
+   "start": 3.74,
+   "end": 4.08
+  },
+  {
+   "word": "WindBoss",
+   "start": 4.144,
+   "end": 4.72
+  },
+  {
+   "word": "dix-huit",
+   "start": 4.76,
+   "end": 5.042
+  },
+  {
+   "word": "euros",
+   "start": 5.121,
+   "end": 5.521
+  },
+  {
+   "word": "quatre-vingt-dix-huit",
+   "start": 5.555,
+   "end": 6.241
+  },
+  {
+   "word": "les",
+   "start": 6.301,
+   "end": 6.481
+  },
+  {
+   "word": "soixante",
+   "start": 6.508,
+   "end": 6.881
+  },
+  {
+   "word": "bonbons",
+   "start": 6.941,
+   "end": 7.681
+  },
+  {
+   "word": "deux",
+   "start": 7.697,
+   "end": 7.761
+  },
+  {
+   "word": "par",
+   "start": 7.821,
+   "end": 8.001
+  },
+  {
+   "word": "jour",
+   "start": 8.065,
+   "end": 8.561
+  },
+  {
+   "word": "ça",
+   "start": 8.614,
+   "end": 8.721
+  },
+  {
+   "word": "fait",
+   "start": 8.753,
+   "end": 8.881
+  },
+  {
+   "word": "trente",
+   "start": 8.921,
+   "end": 9.201
+  },
+  {
+   "word": "jours",
+   "start": 9.241,
+   "end": 9.841
+  },
+  {
+   "word": "dedans",
+   "start": 10.061,
+   "end": 10.321
+  },
+  {
+   "word": "shilajit",
+   "start": 10.374,
+   "end": 11.041
+  },
+  {
+   "word": "ashwagandha",
+   "start": 11.101,
+   "end": 11.761
+  },
+  {
+   "word": "musli",
+   "start": 11.881,
+   "end": 12.401
+  },
+  {
+   "word": "noir",
+   "start": 12.465,
+   "end": 12.801
+  },
+  {
+   "word": "gokshura",
+   "start": 12.841,
+   "end": 13.441
+  },
+  {
+   "word": "et",
+   "start": 13.912,
+   "end": 13.921
+  },
+  {
+   "word": "ça",
+   "start": 13.974,
+   "end": 14.081
+  },
+  {
+   "word": "se",
+   "start": 14.108,
+   "end": 14.161
+  },
+  {
+   "word": "mange",
+   "start": 14.214,
+   "end": 14.481
+  },
+  {
+   "word": "comme",
+   "start": 14.508,
+   "end": 14.641
+  },
+  {
+   "word": "un",
+   "start": 14.668,
+   "end": 14.721
+  },
+  {
+   "word": "bonbon",
+   "start": 14.761,
+   "end": 15.361
+  },
+  {
+   "word": "zéro",
+   "start": 15.441,
+   "end": 15.681
+  },
+  {
+   "word": "sucre",
+   "start": 15.761,
+   "end": 16.001
+  },
+  {
+   "word": "ajouté",
+   "start": 16.054,
+   "end": 16.881
+  },
+  {
+   "word": "quatre",
+   "start": 17.024,
+   "end": 17.041
+  },
+  {
+   "word": "virgule",
+   "start": 17.121,
+   "end": 17.441
+  },
+  {
+   "word": "un",
+   "start": 17.521,
+   "end": 17.681
+  },
+  {
+   "word": "étoiles",
+   "start": 17.761,
+   "end": 18.241
+  },
+  {
+   "word": "plus",
+   "start": 18.289,
+   "end": 18.481
+  },
+  {
+   "word": "de",
+   "start": 18.534,
+   "end": 18.641
+  },
+  {
+   "word": "dix",
+   "start": 18.681,
+   "end": 18.801
+  },
+  {
+   "word": "mille",
+   "start": 18.881,
+   "end": 19.041
+  },
+  {
+   "word": "vendus",
+   "start": 19.105,
+   "end": 19.521
+  },
+  {
+   "word": "moins",
+   "start": 20.128,
+   "end": 20.161
+  },
+  {
+   "word": "vingt",
+   "start": 20.241,
+   "end": 20.401
+  },
+  {
+   "word": "pour",
+   "start": 20.449,
+   "end": 20.641
+  },
+  {
+   "word": "cent",
+   "start": 20.689,
+   "end": 20.881
+  },
+  {
+   "word": "dès",
+   "start": 20.921,
+   "end": 21.041
+  },
+  {
+   "word": "vingt-cinq",
+   "start": 21.081,
+   "end": 21.641
+  },
+  {
+   "word": "euros",
+   "start": 21.674,
+   "end": 21.841
+  },
+  {
+   "word": "pour",
+   "start": 21.857,
+   "end": 21.921
+  },
+  {
+   "word": "le",
+   "start": 21.948,
+   "end": 22.001
+  },
+  {
+   "word": "Black",
+   "start": 22.041,
+   "end": 22.241
+  },
+  {
+   "word": "Friday",
+   "start": 22.31,
+   "end": 23.041
+  },
+  {
+   "word": "panier",
+   "start": 23.101,
+   "end": 23.361
+  },
+  {
+   "word": "orange",
+   "start": 23.418,
+   "end": 24.081
+  },
+  {
+   "word": "FONCE",
+   "start": 24.201,
+   "end": 24.721
+  }
+ ],
+ "durationSec": 24.921,
+ "model": "eleven_v3"
+}

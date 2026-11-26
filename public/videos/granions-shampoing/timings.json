@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Arrête",
+   "start": 0.139,
+   "end": 0.312
+  },
+  {
+   "word": "de",
+   "start": 0.335,
+   "end": 0.38
+  },
+  {
+   "word": "claquer",
+   "start": 0.414,
+   "end": 0.584
+  },
+  {
+   "word": "ton",
+   "start": 0.618,
+   "end": 0.719
+  },
+  {
+   "word": "fric",
+   "start": 0.764,
+   "end": 0.923
+  },
+  {
+   "word": "dans",
+   "start": 0.936,
+   "end": 0.99
+  },
+  {
+   "word": "des",
+   "start": 1.024,
+   "end": 1.126
+  },
+  {
+   "word": "shampoings",
+   "start": 1.149,
+   "end": 1.397
+  },
+  {
+   "word": "miracles",
+   "start": 1.442,
+   "end": 1.872
+  },
+  {
+   "word": "putain",
+   "start": 1.906,
+   "end": 2.211
+  },
+  {
+   "word": "Granions",
+   "start": 2.56,
+   "end": 2.817
+  },
+  {
+   "word": "Gummies",
+   "start": 2.851,
+   "end": 3.156
+  },
+  {
+   "word": "Cheveux",
+   "start": 3.207,
+   "end": 3.428
+  },
+  {
+   "word": "quatre-en-un",
+   "start": 3.466,
+   "end": 4.309
+  },
+  {
+   "word": "deux",
+   "start": 4.322,
+   "end": 4.377
+  },
+  {
+   "word": "gummies",
+   "start": 4.411,
+   "end": 4.648
+  },
+  {
+   "word": "par",
+   "start": 4.682,
+   "end": 4.783
+  },
+  {
+   "word": "jour",
+   "start": 4.838,
+   "end": 5.19
+  },
+  {
+   "word": "biotine",
+   "start": 5.357,
+   "end": 5.877
+  },
+  {
+   "word": "zinc",
+   "start": 5.944,
+   "end": 6.216
+  },
+  {
+   "word": "et",
+   "start": 6.283,
+   "end": 6.419
+  },
+  {
+   "word": "sélénium",
+   "start": 6.487,
+   "end": 6.961
+  },
+  {
+   "word": "qui",
+   "start": 7.105,
+   "end": 7.122
+  },
+  {
+   "word": "contribuent",
+   "start": 7.164,
+   "end": 7.528
+  },
+  {
+   "word": "au",
+   "start": 7.551,
+   "end": 7.596
+  },
+  {
+   "word": "maintien",
+   "start": 7.63,
+   "end": 7.935
+  },
+  {
+   "word": "de",
+   "start": 7.958,
+   "end": 8.003
+  },
+  {
+   "word": "cheveux",
+   "start": 8.037,
+   "end": 8.274
+  },
+  {
+   "word": "normaux",
+   "start": 8.315,
+   "end": 8.884
+  },
+  {
+   "word": "plus",
+   "start": 9.07,
+   "end": 9.088
+  },
+  {
+   "word": "du",
+   "start": 9.111,
+   "end": 9.155
+  },
+  {
+   "word": "cuivre",
+   "start": 9.223,
+   "end": 9.766
+  },
+  {
+   "word": "pour",
+   "start": 9.779,
+   "end": 9.833
+  },
+  {
+   "word": "la",
+   "start": 9.856,
+   "end": 9.901
+  },
+  {
+   "word": "pigmentation",
+   "start": 9.952,
+   "end": 10.444
+  },
+  {
+   "word": "normale",
+   "start": 10.484,
+   "end": 10.783
+  },
+  {
+   "word": "des",
+   "start": 10.8,
+   "end": 10.85
+  },
+  {
+   "word": "cheveux",
+   "start": 10.901,
+   "end": 11.461
+  },
+  {
+   "word": "et",
+   "start": 11.505,
+   "end": 11.596
+  },
+  {
+   "word": "de",
+   "start": 11.619,
+   "end": 11.664
+  },
+  {
+   "word": "la",
+   "start": 11.687,
+   "end": 11.732
+  },
+  {
+   "word": "kératine",
+   "start": 11.8,
+   "end": 12.612
+  },
+  {
+   "word": "fabriqués",
+   "start": 12.729,
+   "end": 13.026
+  },
+  {
+   "word": "en",
+   "start": 13.049,
+   "end": 13.094
+  },
+  {
+   "word": "France",
+   "start": 13.142,
+   "end": 13.839
+  },
+  {
+   "word": "quatre",
+   "start": 13.987,
+   "end": 14.045
+  },
+  {
+   "word": "virgule",
+   "start": 14.096,
+   "end": 14.316
+  },
+  {
+   "word": "sept",
+   "start": 14.357,
+   "end": 14.52
+  },
+  {
+   "word": "étoiles",
+   "start": 14.622,
+   "end": 15.198
+  },
+  {
+   "word": "vingt-trois",
+   "start": 15.313,
+   "end": 15.672
+  },
+  {
+   "word": "euros",
+   "start": 15.695,
+   "end": 15.808
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 15.827,
+   "end": 16.452
+  },
+  {
+   "word": "le",
+   "start": 16.486,
+   "end": 16.554
+  },
+  {
+   "word": "mois",
+   "start": 16.594,
+   "end": 17.028
+  },
+  {
+   "word": "panier",
+   "start": 17.079,
+   "end": 17.3
+  },
+  {
+   "word": "orange",
+   "start": 17.358,
+   "end": 17.977
+  },
+  {
+   "word": "FONCE",
+   "start": 18.045,
+   "end": 18.452
+  }
+ ],
+ "durationSec": 18.599,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

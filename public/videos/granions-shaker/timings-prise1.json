@@ -1,0 +1,316 @@
+{
+ "words": [
+  {
+   "word": "Wesh",
+   "start": 0.086,
+   "end": 0.569
+  },
+  {
+   "word": "dix",
+   "start": 0.603,
+   "end": 0.705
+  },
+  {
+   "word": "grammes",
+   "start": 0.749,
+   "end": 1.044
+  },
+  {
+   "word": "de",
+   "start": 1.088,
+   "end": 1.179
+  },
+  {
+   "word": "collagène",
+   "start": 1.206,
+   "end": 1.586
+  },
+  {
+   "word": "dans",
+   "start": 1.599,
+   "end": 1.654
+  },
+  {
+   "word": "ton",
+   "start": 1.688,
+   "end": 1.789
+  },
+  {
+   "word": "shaker",
+   "start": 1.834,
+   "end": 2.399
+  },
+  {
+   "word": "et",
+   "start": 2.422,
+   "end": 2.467
+  },
+  {
+   "word": "t'as",
+   "start": 2.501,
+   "end": 2.671
+  },
+  {
+   "word": "même",
+   "start": 2.711,
+   "end": 2.874
+  },
+  {
+   "word": "pas",
+   "start": 2.891,
+   "end": 2.942
+  },
+  {
+   "word": "le",
+   "start": 2.965,
+   "end": 3.01
+  },
+  {
+   "word": "goût",
+   "start": 3.055,
+   "end": 3.179
+  },
+  {
+   "word": "Granions",
+   "start": 3.488,
+   "end": 3.665
+  },
+  {
+   "word": "Collagène",
+   "start": 3.705,
+   "end": 4.072
+  },
+  {
+   "word": "Marin",
+   "start": 4.116,
+   "end": 4.682
+  },
+  {
+   "word": "goût",
+   "start": 4.727,
+   "end": 4.885
+  },
+  {
+   "word": "neutre",
+   "start": 4.926,
+   "end": 5.224
+  },
+  {
+   "word": "collagène",
+   "start": 5.36,
+   "end": 5.577
+  },
+  {
+   "word": "marin",
+   "start": 5.622,
+   "end": 5.848
+  },
+  {
+   "word": "de",
+   "start": 5.871,
+   "end": 5.916
+  },
+  {
+   "word": "type",
+   "start": 5.943,
+   "end": 6.052
+  },
+  {
+   "word": "un",
+   "start": 6.142,
+   "end": 6.594
+  },
+  {
+   "word": "hydrolysé",
+   "start": 6.639,
+   "end": 7.136
+  },
+  {
+   "word": "bas",
+   "start": 7.255,
+   "end": 7.611
+  },
+  {
+   "word": "poids",
+   "start": 7.634,
+   "end": 7.747
+  },
+  {
+   "word": "moléculaire",
+   "start": 7.781,
+   "end": 8.289
+  },
+  {
+   "word": "avec",
+   "start": 8.37,
+   "end": 8.696
+  },
+  {
+   "word": "de",
+   "start": 8.741,
+   "end": 8.831
+  },
+  {
+   "word": "la",
+   "start": 8.854,
+   "end": 8.899
+  },
+  {
+   "word": "vitamine",
+   "start": 8.933,
+   "end": 9.17
+  },
+  {
+   "word": "C",
+   "start": 9.272,
+   "end": 9.713
+  },
+  {
+   "word": "qui",
+   "start": 9.768,
+   "end": 9.781
+  },
+  {
+   "word": "contribue",
+   "start": 9.823,
+   "end": 10.255
+  },
+  {
+   "word": "à",
+   "start": 10.272,
+   "end": 10.289
+  },
+  {
+   "word": "la",
+   "start": 10.3,
+   "end": 10.323
+  },
+  {
+   "word": "formation",
+   "start": 10.377,
+   "end": 10.865
+  },
+  {
+   "word": "normale",
+   "start": 10.92,
+   "end": 11.272
+  },
+  {
+   "word": "de",
+   "start": 11.295,
+   "end": 11.34
+  },
+  {
+   "word": "collagène",
+   "start": 11.381,
+   "end": 12.289
+  },
+  {
+   "word": "zéro",
+   "start": 12.531,
+   "end": 12.56
+  },
+  {
+   "word": "sucre",
+   "start": 12.628,
+   "end": 12.831
+  },
+  {
+   "word": "ajouté",
+   "start": 12.876,
+   "end": 13.509
+  },
+  {
+   "word": "zéro",
+   "start": 13.577,
+   "end": 13.713
+  },
+  {
+   "word": "édulcorant",
+   "start": 13.781,
+   "end": 14.526
+  },
+  {
+   "word": "zéro",
+   "start": 14.594,
+   "end": 14.797
+  },
+  {
+   "word": "lactose",
+   "start": 14.852,
+   "end": 15.679
+  },
+  {
+   "word": "quatre",
+   "start": 15.826,
+   "end": 15.855
+  },
+  {
+   "word": "virgule",
+   "start": 15.923,
+   "end": 16.194
+  },
+  {
+   "word": "cinq",
+   "start": 16.262,
+   "end": 16.397
+  },
+  {
+   "word": "étoiles",
+   "start": 16.465,
+   "end": 17.143
+  },
+  {
+   "word": "vingt-sept",
+   "start": 17.27,
+   "end": 17.552
+  },
+  {
+   "word": "euros",
+   "start": 17.596,
+   "end": 17.822
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 17.851,
+   "end": 18.33
+  },
+  {
+   "word": "les",
+   "start": 18.356,
+   "end": 18.432
+  },
+  {
+   "word": "vingt-cinq",
+   "start": 18.466,
+   "end": 18.703
+  },
+  {
+   "word": "jours",
+   "start": 18.748,
+   "end": 19.246
+  },
+  {
+   "word": "panier",
+   "start": 19.28,
+   "end": 19.517
+  },
+  {
+   "word": "orange",
+   "start": 19.565,
+   "end": 20.195
+  },
+  {
+   "word": "FONCE",
+   "start": 20.263,
+   "end": 20.602
+  }
+ ],
+ "durationSec": 20.793,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

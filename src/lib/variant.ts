@@ -75,3 +75,4 @@ export const variant = (o: {
 export const JACKETS = ['#FF2E88', '#2E7BFF', '#FFB800'] as const;
 export const WARN_CAFEINE = 'Contient de la caféine (100 mg/sachet).\nDéconseillé aux enfants et aux femmes\nenceintes ou allaitantes.';
 export const WARN_NUCLEVER = "Déconseillé aux femmes enceintes ou allaitantes et aux enfants.\nVoir précautions d'emploi sur l'emballage.";
+export const WARN_COMPLEMENT = "Complément alimentaire. Ne remplace pas une alimentation variée et équilibrée.\nVoir précautions d'emploi sur l'emballage.";

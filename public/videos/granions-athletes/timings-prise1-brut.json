@@ -1,0 +1,331 @@
+{
+ "words": [
+  {
+   "word": "Tu",
+   "start": 0.139,
+   "end": 0.16
+  },
+  {
+   "word": "sais",
+   "start": 0.192,
+   "end": 0.32
+  },
+  {
+   "word": "ce",
+   "start": 0.347,
+   "end": 0.4
+  },
+  {
+   "word": "que",
+   "start": 0.42,
+   "end": 0.48
+  },
+  {
+   "word": "prennent",
+   "start": 0.54,
+   "end": 0.8
+  },
+  {
+   "word": "les",
+   "start": 0.82,
+   "end": 0.88
+  },
+  {
+   "word": "athlètes",
+   "start": 0.92,
+   "end": 1.2
+  },
+  {
+   "word": "pros",
+   "start": 1.248,
+   "end": 1.56
+  },
+  {
+   "word": "toi",
+   "start": 1.59,
+   "end": 1.68
+  },
+  {
+   "word": "Granions",
+   "start": 2.71,
+   "end": 3.446
+  },
+  {
+   "word": "testé",
+   "start": 3.526,
+   "end": 3.926
+  },
+  {
+   "word": "et",
+   "start": 3.979,
+   "end": 4.086
+  },
+  {
+   "word": "recommandé",
+   "start": 4.134,
+   "end": 4.646
+  },
+  {
+   "word": "par",
+   "start": 4.686,
+   "end": 4.806
+  },
+  {
+   "word": "des",
+   "start": 4.846,
+   "end": 4.966
+  },
+  {
+   "word": "grandes",
+   "start": 5.006,
+   "end": 5.286
+  },
+  {
+   "word": "athlètes",
+   "start": 5.346,
+   "end": 5.806
+  },
+  {
+   "word": "selon",
+   "start": 5.826,
+   "end": 5.926
+  },
+  {
+   "word": "la",
+   "start": 5.953,
+   "end": 6.006
+  },
+  {
+   "word": "marque",
+   "start": 6.052,
+   "end": 6.726
+  },
+  {
+   "word": "et",
+   "start": 6.97,
+   "end": 7.002
+  },
+  {
+   "word": "ce",
+   "start": 7.018,
+   "end": 7.05
+  },
+  {
+   "word": "Collagène",
+   "start": 7.082,
+   "end": 7.45
+  },
+  {
+   "word": "Marin",
+   "start": 7.503,
+   "end": 8.17
+  },
+  {
+   "word": "c'est",
+   "start": 8.21,
+   "end": 8.41
+  },
+  {
+   "word": "dix",
+   "start": 8.49,
+   "end": 8.73
+  },
+  {
+   "word": "grammes",
+   "start": 8.757,
+   "end": 8.97
+  },
+  {
+   "word": "par",
+   "start": 9.01,
+   "end": 9.13
+  },
+  {
+   "word": "jour",
+   "start": 9.194,
+   "end": 9.85
+  },
+  {
+   "word": "type",
+   "start": 9.898,
+   "end": 10.09
+  },
+  {
+   "word": "un",
+   "start": 10.197,
+   "end": 10.73
+  },
+  {
+   "word": "bas",
+   "start": 10.79,
+   "end": 10.97
+  },
+  {
+   "word": "poids",
+   "start": 10.997,
+   "end": 11.13
+  },
+  {
+   "word": "moléculaire",
+   "start": 11.17,
+   "end": 11.85
+  },
+  {
+   "word": "avec",
+   "start": 12.287,
+   "end": 12.33
+  },
+  {
+   "word": "de",
+   "start": 12.383,
+   "end": 12.49
+  },
+  {
+   "word": "la",
+   "start": 12.517,
+   "end": 12.57
+  },
+  {
+   "word": "vitamine",
+   "start": 12.63,
+   "end": 13.05
+  },
+  {
+   "word": "C",
+   "start": 13.17,
+   "end": 13.37
+  },
+  {
+   "word": "qui",
+   "start": 13.47,
+   "end": 13.77
+  },
+  {
+   "word": "contribue",
+   "start": 13.82,
+   "end": 14.25
+  },
+  {
+   "word": "à",
+   "start": 14.29,
+   "end": 14.33
+  },
+  {
+   "word": "la",
+   "start": 14.357,
+   "end": 14.41
+  },
+  {
+   "word": "formation",
+   "start": 14.466,
+   "end": 14.97
+  },
+  {
+   "word": "normale",
+   "start": 15.05,
+   "end": 15.53
+  },
+  {
+   "word": "de",
+   "start": 15.557,
+   "end": 15.61
+  },
+  {
+   "word": "collagène",
+   "start": 15.658,
+   "end": 16.81
+  },
+  {
+   "word": "vingt-sept",
+   "start": 16.96,
+   "end": 17.371
+  },
+  {
+   "word": "euros",
+   "start": 17.437,
+   "end": 17.77
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 17.793,
+   "end": 18.33
+  },
+  {
+   "word": "les",
+   "start": 18.39,
+   "end": 18.57
+  },
+  {
+   "word": "vingt-cinq",
+   "start": 18.61,
+   "end": 18.97
+  },
+  {
+   "word": "jours",
+   "start": 19.037,
+   "end": 19.85
+  },
+  {
+   "word": "ça",
+   "start": 19.903,
+   "end": 20.01
+  },
+  {
+   "word": "fait",
+   "start": 20.058,
+   "end": 20.25
+  },
+  {
+   "word": "un",
+   "start": 20.357,
+   "end": 20.57
+  },
+  {
+   "word": "euro",
+   "start": 20.65,
+   "end": 20.97
+  },
+  {
+   "word": "douze",
+   "start": 21.03,
+   "end": 21.29
+  },
+  {
+   "word": "par",
+   "start": 21.35,
+   "end": 21.53
+  },
+  {
+   "word": "jour",
+   "start": 21.61,
+   "end": 22.41
+  },
+  {
+   "word": "boutique",
+   "start": 22.739,
+   "end": 22.81
+  },
+  {
+   "word": "officielle",
+   "start": 22.863,
+   "end": 23.61
+  },
+  {
+   "word": "panier",
+   "start": 23.65,
+   "end": 23.93
+  },
+  {
+   "word": "orange",
+   "start": 23.987,
+   "end": 24.65
+  },
+  {
+   "word": "FONCE",
+   "start": 24.77,
+   "end": 25.21
+  }
+ ],
+ "durationSec": 25.548,
+ "model": "eleven_v3"
+}

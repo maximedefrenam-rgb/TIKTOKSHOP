@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Arrête",
+   "start": 0.275,
+   "end": 0.48
+  },
+  {
+   "word": "de",
+   "start": 0.507,
+   "end": 0.56
+  },
+  {
+   "word": "claquer",
+   "start": 0.6,
+   "end": 0.8
+  },
+  {
+   "word": "ton",
+   "start": 0.84,
+   "end": 0.96
+  },
+  {
+   "word": "fric",
+   "start": 1.013,
+   "end": 1.2
+  },
+  {
+   "word": "dans",
+   "start": 1.216,
+   "end": 1.28
+  },
+  {
+   "word": "des",
+   "start": 1.32,
+   "end": 1.44
+  },
+  {
+   "word": "shampoings",
+   "start": 1.467,
+   "end": 1.76
+  },
+  {
+   "word": "miracles",
+   "start": 1.813,
+   "end": 2.32
+  },
+  {
+   "word": "putain",
+   "start": 2.36,
+   "end": 2.72
+  },
+  {
+   "word": "Granions",
+   "start": 3.38,
+   "end": 3.684
+  },
+  {
+   "word": "Gummies",
+   "start": 3.724,
+   "end": 4.084
+  },
+  {
+   "word": "Cheveux",
+   "start": 4.144,
+   "end": 4.404
+  },
+  {
+   "word": "quatre-en-un",
+   "start": 4.45,
+   "end": 5.444
+  },
+  {
+   "word": "deux",
+   "start": 5.46,
+   "end": 5.524
+  },
+  {
+   "word": "gummies",
+   "start": 5.564,
+   "end": 5.844
+  },
+  {
+   "word": "par",
+   "start": 5.884,
+   "end": 6.004
+  },
+  {
+   "word": "jour",
+   "start": 6.068,
+   "end": 6.484
+  },
+  {
+   "word": "biotine",
+   "start": 6.681,
+   "end": 7.294
+  },
+  {
+   "word": "zinc",
+   "start": 7.374,
+   "end": 7.694
+  },
+  {
+   "word": "et",
+   "start": 7.774,
+   "end": 7.934
+  },
+  {
+   "word": "sélénium",
+   "start": 8.014,
+   "end": 8.574
+  },
+  {
+   "word": "qui",
+   "start": 8.954,
+   "end": 8.974
+  },
+  {
+   "word": "contribuent",
+   "start": 9.024,
+   "end": 9.454
+  },
+  {
+   "word": "au",
+   "start": 9.481,
+   "end": 9.534
+  },
+  {
+   "word": "maintien",
+   "start": 9.574,
+   "end": 9.934
+  },
+  {
+   "word": "de",
+   "start": 9.961,
+   "end": 10.014
+  },
+  {
+   "word": "cheveux",
+   "start": 10.054,
+   "end": 10.334
+  },
+  {
+   "word": "normaux",
+   "start": 10.382,
+   "end": 11.054
+  },
+  {
+   "word": "plus",
+   "start": 11.273,
+   "end": 11.294
+  },
+  {
+   "word": "du",
+   "start": 11.321,
+   "end": 11.374
+  },
+  {
+   "word": "cuivre",
+   "start": 11.454,
+   "end": 12.094
+  },
+  {
+   "word": "pour",
+   "start": 12.11,
+   "end": 12.174
+  },
+  {
+   "word": "la",
+   "start": 12.201,
+   "end": 12.254
+  },
+  {
+   "word": "pigmentation",
+   "start": 12.314,
+   "end": 12.894
+  },
+  {
+   "word": "normale",
+   "start": 12.942,
+   "end": 13.294
+  },
+  {
+   "word": "des",
+   "start": 13.314,
+   "end": 13.374
+  },
+  {
+   "word": "cheveux",
+   "start": 13.434,
+   "end": 14.094
+  },
+  {
+   "word": "et",
+   "start": 14.147,
+   "end": 14.254
+  },
+  {
+   "word": "de",
+   "start": 14.281,
+   "end": 14.334
+  },
+  {
+   "word": "la",
+   "start": 14.361,
+   "end": 14.414
+  },
+  {
+   "word": "kératine",
+   "start": 14.494,
+   "end": 15.453
+  },
+  {
+   "word": "fabriqués",
+   "start": 15.591,
+   "end": 15.941
+  },
+  {
+   "word": "en",
+   "start": 15.968,
+   "end": 16.021
+  },
+  {
+   "word": "France",
+   "start": 16.078,
+   "end": 16.901
+  },
+  {
+   "word": "quatre",
+   "start": 17.075,
+   "end": 17.144
+  },
+  {
+   "word": "virgule",
+   "start": 17.204,
+   "end": 17.464
+  },
+  {
+   "word": "sept",
+   "start": 17.512,
+   "end": 17.704
+  },
+  {
+   "word": "étoiles",
+   "start": 17.824,
+   "end": 18.504
+  },
+  {
+   "word": "vingt-trois",
+   "start": 18.64,
+   "end": 19.064
+  },
+  {
+   "word": "euros",
+   "start": 19.091,
+   "end": 19.224
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 19.247,
+   "end": 19.984
+  },
+  {
+   "word": "le",
+   "start": 20.024,
+   "end": 20.104
+  },
+  {
+   "word": "mois",
+   "start": 20.152,
+   "end": 20.664
+  },
+  {
+   "word": "panier",
+   "start": 20.724,
+   "end": 20.984
+  },
+  {
+   "word": "orange",
+   "start": 21.053,
+   "end": 21.784
+  },
+  {
+   "word": "FONCE",
+   "start": 21.864,
+   "end": 22.344
+  }
+ ],
+ "durationSec": 22.518,
+ "model": "eleven_v3"
+}

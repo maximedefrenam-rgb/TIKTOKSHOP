@@ -1,0 +1,331 @@
+{
+ "words": [
+  {
+   "word": "Ta",
+   "start": 0.118,
+   "end": 0.136
+  },
+  {
+   "word": "routine",
+   "start": 0.178,
+   "end": 0.475
+  },
+  {
+   "word": "skincare",
+   "start": 0.527,
+   "end": 0.949
+  },
+  {
+   "word": "te",
+   "start": 0.994,
+   "end": 1.085
+  },
+  {
+   "word": "coûte",
+   "start": 1.108,
+   "end": 1.288
+  },
+  {
+   "word": "un",
+   "start": 1.356,
+   "end": 1.492
+  },
+  {
+   "word": "rein",
+   "start": 1.559,
+   "end": 1.898
+  },
+  {
+   "word": "sérieux",
+   "start": 1.943,
+   "end": 2.237
+  },
+  {
+   "word": "Regarde",
+   "start": 2.535,
+   "end": 2.696
+  },
+  {
+   "word": "ce",
+   "start": 2.719,
+   "end": 2.764
+  },
+  {
+   "word": "kit",
+   "start": 2.815,
+   "end": 2.968
+  },
+  {
+   "word": "au",
+   "start": 2.991,
+   "end": 3.035
+  },
+  {
+   "word": "curcuma",
+   "start": 3.069,
+   "end": 3.646
+  },
+  {
+   "word": "six",
+   "start": 3.696,
+   "end": 3.849
+  },
+  {
+   "word": "pièces",
+   "start": 3.883,
+   "end": 4.256
+  },
+  {
+   "word": "vingt",
+   "start": 4.29,
+   "end": 4.391
+  },
+  {
+   "word": "et",
+   "start": 4.414,
+   "end": 4.459
+  },
+  {
+   "word": "un",
+   "start": 4.482,
+   "end": 4.527
+  },
+  {
+   "word": "euros",
+   "start": 4.572,
+   "end": 4.798
+  },
+  {
+   "word": "soixante-quinze",
+   "start": 4.821,
+   "end": 5.544
+  },
+  {
+   "word": "le",
+   "start": 5.734,
+   "end": 5.757
+  },
+  {
+   "word": "savon",
+   "start": 5.841,
+   "end": 6.367
+  },
+  {
+   "word": "le",
+   "start": 6.39,
+   "end": 6.435
+  },
+  {
+   "word": "nettoyant",
+   "start": 6.485,
+   "end": 6.841
+  },
+  {
+   "word": "avec",
+   "start": 6.869,
+   "end": 6.977
+  },
+  {
+   "word": "sa",
+   "start": 7.022,
+   "end": 7.113
+  },
+  {
+   "word": "brosse",
+   "start": 7.163,
+   "end": 7.655
+  },
+  {
+   "word": "l'huile",
+   "start": 7.689,
+   "end": 8.13
+  },
+  {
+   "word": "la",
+   "start": 8.152,
+   "end": 8.197
+  },
+  {
+   "word": "crème",
+   "start": 8.288,
+   "end": 8.604
+  },
+  {
+   "word": "et",
+   "start": 8.695,
+   "end": 8.763
+  },
+  {
+   "word": "le",
+   "start": 8.786,
+   "end": 8.831
+  },
+  {
+   "word": "masque",
+   "start": 8.882,
+   "end": 9.102
+  },
+  {
+   "word": "peel-off",
+   "start": 9.156,
+   "end": 9.509
+  },
+  {
+   "word": "à",
+   "start": 9.543,
+   "end": 9.577
+  },
+  {
+   "word": "la",
+   "start": 9.6,
+   "end": 9.645
+  },
+  {
+   "word": "vitamine",
+   "start": 9.678,
+   "end": 9.983
+  },
+  {
+   "word": "C",
+   "start": 10.085,
+   "end": 10.255
+  },
+  {
+   "word": "avec",
+   "start": 10.433,
+   "end": 10.469
+  },
+  {
+   "word": "de",
+   "start": 10.514,
+   "end": 10.605
+  },
+  {
+   "word": "l'acide",
+   "start": 10.639,
+   "end": 10.944
+  },
+  {
+   "word": "kojique",
+   "start": 11.012,
+   "end": 11.351
+  },
+  {
+   "word": "pour",
+   "start": 11.378,
+   "end": 11.486
+  },
+  {
+   "word": "unifier",
+   "start": 11.531,
+   "end": 11.757
+  },
+  {
+   "word": "le",
+   "start": 11.802,
+   "end": 11.893
+  },
+  {
+   "word": "teint",
+   "start": 11.938,
+   "end": 12.232
+  },
+  {
+   "word": "selon",
+   "start": 12.277,
+   "end": 12.503
+  },
+  {
+   "word": "la",
+   "start": 12.526,
+   "end": 12.571
+  },
+  {
+   "word": "marque",
+   "start": 12.61,
+   "end": 12.91
+  },
+  {
+   "word": "soixante-trois",
+   "start": 13.141,
+   "end": 13.728
+  },
+  {
+   "word": "mille",
+   "start": 13.762,
+   "end": 13.864
+  },
+  {
+   "word": "personnes",
+   "start": 13.911,
+   "end": 14.339
+  },
+  {
+   "word": "l'ont",
+   "start": 14.372,
+   "end": 14.474
+  },
+  {
+   "word": "déjà",
+   "start": 14.515,
+   "end": 14.678
+  },
+  {
+   "word": "pris",
+   "start": 14.732,
+   "end": 15.22
+  },
+  {
+   "word": "quatre",
+   "start": 15.249,
+   "end": 15.423
+  },
+  {
+   "word": "virgule",
+   "start": 15.474,
+   "end": 15.694
+  },
+  {
+   "word": "cinq",
+   "start": 15.762,
+   "end": 15.898
+  },
+  {
+   "word": "étoiles",
+   "start": 15.966,
+   "end": 16.542
+  },
+  {
+   "word": "Black",
+   "start": 16.887,
+   "end": 16.915
+  },
+  {
+   "word": "Friday",
+   "start": 16.973,
+   "end": 17.389
+  },
+  {
+   "word": "panier",
+   "start": 17.457,
+   "end": 17.796
+  },
+  {
+   "word": "orange",
+   "start": 17.855,
+   "end": 18.406
+  },
+  {
+   "word": "FONCE",
+   "start": 18.474,
+   "end": 18.881
+  }
+ ],
+ "durationSec": 19.043,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}
