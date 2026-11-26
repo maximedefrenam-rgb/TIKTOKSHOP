@@ -144,6 +144,10 @@ Pas encore codées dans le modèle : les implémenter (ShopVideo / Scenes / vari
 7. **Contraste** : contour ou bandeau sous les gros chiffres quand l'accent est sombre (bleus, verts foncés).
 8. **Calcul prix ÷ jours** : le prix total s'estompe, il n'est PAS barré en rouge (sinon on croit à un ancien prix).
    Le prix unitaire affiché doit correspondre à celui de la fiche (ex. Meelito : 4,35 €/pièce = fiche sur 5 unités, pas ÷ 6).
+9. **Plans plus rapides (dynamisme)** : un changement visuel toutes les 1,5 à 2,5 s maximum, aucune scène de plus de ~3 s.
+   Découper les scènes longues (coupe, bénéfices, avis) en plusieurs plans ; entre deux plans d'une même idée, un
+   « punch-in » (zoom rapide sur le produit ou le chiffre, secousse légère) plutôt qu'un plan qui reste figé.
+   Viser ~8 à 12 plans pour une vidéo de 20–25 s (contre ~5–6 dans les vidéos du 26/11).
 
 ## Sons et musique
 - Effets : `public/sfx/` (whoosh, impact, pop, tick, ding, riser) générés par `scripts/gen_sfx.py`, réutilisés partout.
