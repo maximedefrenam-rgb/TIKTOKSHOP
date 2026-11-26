@@ -161,7 +161,7 @@ export const meeNoel = variant({
     B(r('Ce') - 0.08, [ST('KIT AU CURCUMA', r('kit'), 300, {size: 130, color: 'accent'}), ST('6 PIÈCES', r('six'), 470, {size: 160, impact: true})]),
     CUT(r('savon') - 0.08, [{label: 'SAVON', at: r('savon')}, {label: 'NETTOYANT', at: r('nettoyant')}, {label: 'MASQUE PEEL-OFF', at: r('masque')}, {label: 'HUILE · CRÈME', at: r('huile')}], 'zoom'),
     B(r('acide') - 0.08, [ST('ACIDE KOJIQUE', r('kojique'), 290, {size: 140, color: 'accent'}), ST('VITAMINE C', r('vitamine'), 450, {size: 130})]),
-    B(r('pour', 2) - 0.08, [T1('TEINT PLUS\nUNIFORME', r('teint'), {size: 150, stack: true}), SELON(r('selon'), 470)]),
+    B(r('pour', 2) - 0.08, [T1('TEINT PLUS\nUNIFORME', r('teint'), {size: 150, stack: true}), SELON(r('selon'), 560)]),
     MAVIS(r('soixante-trois') - 0.08, r('quatre'), r('soixante-trois')),
     B(r('vingt') - 0.08, [T1('21,75 €\nLE KIT', r('vingt'), {size: 170, impact: true})]),
     CTA(r, r('panier') - 0.1, [ST('BLACK FRIDAY', r('panier'), 520, {color: 'accent'})]),
@@ -176,7 +176,7 @@ export const meeMasque = variant({
     PH(r('avec') - 0.08, 'videos/photos/meelito.jpg', [
       kw('CURCUMA · ACIDE KOJIQUE', r('curcuma', 2), {y: 250, size: 80, color: 'accent', stack: true}),
       kw('CALENDULA · MIEL', r('calendula'), {y: 350, size: 80, stack: true})]),
-    B(r('nettoyage') - 0.08, [T1('NETTOYAGE EN\nPROFONDEUR', r('nettoyage'), {size: 150, impact: true, stack: true}), SELON(r('selon'), 480)]),
+    B(r('nettoyage') - 0.08, [T1('NETTOYAGE EN\nPROFONDEUR', r('nettoyage'), {size: 150, impact: true, stack: true}), SELON(r('selon'), 560)]),
     CUT(r('et', 2) - 0.08, [{label: 'SAVON', at: r('savon')}, {label: 'NETTOYANT', at: r('nettoyant')}, {label: 'HUILE', at: r('huile')}, {label: 'CRÈME', at: r('crème')}], 'zoom'),
     MAVIS(r('plus') - 0.08, r('plus') + 0.1, r('soixante-trois')),
     B(r('vingt') - 0.08, [T1('21,75 €\nLES 6 PIÈCES', r('vingt'), {size: 160, impact: true})]),
