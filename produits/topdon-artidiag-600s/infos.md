@@ -1,10 +1,11 @@
 # TOPDON ArtiDiag 600 S — valise diagnostic auto OBD2
 
-Source : captures de la fiche TikTok Shop (26/11/2026). Hors niche nutrition (angle « galère auto »). À compléter : commission.
+Source : captures de la fiche TikTok Shop (26/11/2026). Hors niche nutrition (angle « galère auto »).
 
 - **Vendeur** : TopdonTTS_France (boutique officielle), 1 690 vendus, 4,4★ (189 avis). Expédié depuis DE.
 - **Prix** : 189,99 € au lieu de 209 € (-9 %), Black Friday du 11 au 30 novembre, « le plus bas sur 30 jours » ;
   151,99 € avec les coupons (à l'écran : « avec les coupons », selon les coupons disponibles).
+- **Commission** : **18,50 €** par vente.
 - **Livraison** : gratuite, livraison du 1er au 10 décembre.
 - **Fonctions (fiche)** : 4 systèmes (moteur, transmission, airbag, ABS) ; 9 services d'entretien ; fonctions OBD2 complètes
   (lecture / effacement des codes, test capteur O2, disponibilité I/M, bibliothèque DTC, test EVAP, moniteur embarqué,
