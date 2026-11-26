@@ -1,4 +1,12 @@
-# Méthode 3D — format « T'es H24 fatigué frérot ? » (nouvelle stratégie, 25/11/2026)
+# Méthode — format « T'es H24 fatigué frérot ? » (nouvelle stratégie, 25/11/2026)
+
+> **26/11/2026 — décision utilisateur : visuel « MIX ».** L'utilisateur préfère le GRAPHISME 2D du début
+> (fond noir + halo d'accent, Anton à contour sombre, produit qui flotte avec reflet, présentateur cartoon, voix SIMON
+> énergique) avec la STRUCTURE ci-dessous (objet problème plein cadre en image 0, plan ~1,1 s, mot géant + pastille,
+> prix suspense, objet retourné, CLIQUE tenu 3 s, boucle). Modèle : `src/mix/VideoMix.tsx`, configs `videosmix/`
+> (même `build3d`). Voix Simon (défaut, sans `--voice-id`), `tighten.py --tempo` ~1,3 pour ~4 mots/s.
+> Le rendu three.js (`src/three/`) reste disponible mais n'est plus le défaut.
+
 
 Remplace le format motion design 2D (plusieurs vidéos restreintes). Référence visuelle : `produits/_refs-3d/ref-1.mov` et `ref-2.mov`.
 

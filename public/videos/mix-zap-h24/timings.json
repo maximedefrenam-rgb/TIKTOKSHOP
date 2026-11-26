@@ -1,0 +1,311 @@
+{
+ "words": [
+  {
+   "word": "T'es",
+   "start": 0.055,
+   "end": 0.121
+  },
+  {
+   "word": "H",
+   "start": 0.182,
+   "end": 0.242
+  },
+  {
+   "word": "vingt-quatre",
+   "start": 0.273,
+   "end": 0.485
+  },
+  {
+   "word": "fatigué",
+   "start": 0.53,
+   "end": 0.848
+  },
+  {
+   "word": "frérot",
+   "start": 0.869,
+   "end": 1.091
+  },
+  {
+   "word": "Ta",
+   "start": 1.193,
+   "end": 1.201
+  },
+  {
+   "word": "batterie",
+   "start": 1.227,
+   "end": 1.443
+  },
+  {
+   "word": "est",
+   "start": 1.459,
+   "end": 1.504
+  },
+  {
+   "word": "à",
+   "start": 1.534,
+   "end": 1.565
+  },
+  {
+   "word": "zéro",
+   "start": 1.656,
+   "end": 1.868
+  },
+  {
+   "word": "dès",
+   "start": 1.928,
+   "end": 2.11
+  },
+  {
+   "word": "dix",
+   "start": 2.14,
+   "end": 2.231
+  },
+  {
+   "word": "heures",
+   "start": 2.266,
+   "end": 2.474
+  },
+  {
+   "word": "Prends",
+   "start": 2.604,
+   "end": 2.71
+  },
+  {
+   "word": "ça",
+   "start": 2.75,
+   "end": 2.892
+  },
+  {
+   "word": "ZAP",
+   "start": 2.984,
+   "end": 3.287
+  },
+  {
+   "word": "cent",
+   "start": 3.36,
+   "end": 3.651
+  },
+  {
+   "word": "milligrammes",
+   "start": 3.675,
+   "end": 4.014
+  },
+  {
+   "word": "de",
+   "start": 4.035,
+   "end": 4.075
+  },
+  {
+   "word": "caféine",
+   "start": 4.124,
+   "end": 4.378
+  },
+  {
+   "word": "par",
+   "start": 4.408,
+   "end": 4.499
+  },
+  {
+   "word": "sachet",
+   "start": 4.536,
+   "end": 5.045
+  },
+  {
+   "word": "PLUS",
+   "start": 5.093,
+   "end": 5.287
+  },
+  {
+   "word": "qu'un",
+   "start": 5.308,
+   "end": 5.408
+  },
+  {
+   "word": "expresso",
+   "start": 5.446,
+   "end": 5.984
+  },
+  {
+   "word": "zéro",
+   "start": 6.191,
+   "end": 6.317
+  },
+  {
+   "word": "sucre",
+   "start": 6.378,
+   "end": 6.833
+  },
+  {
+   "word": "quasi",
+   "start": 6.868,
+   "end": 7.045
+  },
+  {
+   "word": "zéro",
+   "start": 7.136,
+   "end": 7.348
+  },
+  {
+   "word": "calorie",
+   "start": 7.386,
+   "end": 7.711
+  },
+  {
+   "word": "pas",
+   "start": 7.802,
+   "end": 8.075
+  },
+  {
+   "word": "comme",
+   "start": 8.096,
+   "end": 8.196
+  },
+  {
+   "word": "ta",
+   "start": 8.236,
+   "end": 8.317
+  },
+  {
+   "word": "canette",
+   "start": 8.348,
+   "end": 8.863
+  },
+  {
+   "word": "tu",
+   "start": 8.883,
+   "end": 8.924
+  },
+  {
+   "word": "le",
+   "start": 8.964,
+   "end": 9.045
+  },
+  {
+   "word": "cales",
+   "start": 9.085,
+   "end": 9.227
+  },
+  {
+   "word": "sous",
+   "start": 9.251,
+   "end": 9.348
+  },
+  {
+   "word": "la",
+   "start": 9.368,
+   "end": 9.408
+  },
+  {
+   "word": "lèvre",
+   "start": 9.439,
+   "end": 9.711
+  },
+  {
+   "word": "discret",
+   "start": 9.78,
+   "end": 10.439
+  },
+  {
+   "word": "au",
+   "start": 10.479,
+   "end": 10.56
+  },
+  {
+   "word": "taf",
+   "start": 10.59,
+   "end": 10.863
+  },
+  {
+   "word": "ou",
+   "start": 10.883,
+   "end": 10.924
+  },
+  {
+   "word": "avant",
+   "start": 10.954,
+   "end": 11.105
+  },
+  {
+   "word": "ta",
+   "start": 11.166,
+   "end": 11.287
+  },
+  {
+   "word": "séance",
+   "start": 11.327,
+   "end": 11.651
+  },
+  {
+   "word": "deux",
+   "start": 11.724,
+   "end": 12.014
+  },
+  {
+   "word": "boîtes",
+   "start": 12.055,
+   "end": 12.469
+  },
+  {
+   "word": "trente-six",
+   "start": 12.507,
+   "end": 12.802
+  },
+  {
+   "word": "sachets",
+   "start": 12.839,
+   "end": 13.317
+  },
+  {
+   "word": "Le",
+   "start": 13.583,
+   "end": 13.59
+  },
+  {
+   "word": "prix",
+   "start": 13.627,
+   "end": 13.772
+  },
+  {
+   "word": "Dix",
+   "start": 14.032,
+   "end": 14.055
+  },
+  {
+   "word": "euros",
+   "start": 14.106,
+   "end": 14.358
+  },
+  {
+   "word": "seize",
+   "start": 14.389,
+   "end": 14.54
+  },
+  {
+   "word": "Clique",
+   "start": 14.735,
+   "end": 14.826
+  },
+  {
+   "word": "sur",
+   "start": 14.856,
+   "end": 14.947
+  },
+  {
+   "word": "le",
+   "start": 14.967,
+   "end": 15.007
+  },
+  {
+   "word": "panier",
+   "start": 15.053,
+   "end": 15.25
+  }
+ ],
+ "durationSec": 15.464,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.08,
+  "tempo": 1.32,
+  "cuts": 5
+ }
+}

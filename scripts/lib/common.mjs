@@ -17,7 +17,9 @@ export const apiKey = () => {
 
 /** Lit VOICE depuis src/brand.ts. */
 export const brandVoice = () => {
-  const src = readFileSync(path.join(ROOT, 'src/brand.ts'), 'utf8');
+  const all = readFileSync(path.join(ROOT, 'src/brand.ts'), 'utf8');
+  // ne lire que le bloc `export const VOICE = {` (et pas VOICE_3D)
+  const src = all.slice(all.indexOf('export const VOICE = {'));
   const get = (k) => (src.match(new RegExp(`${k}:\\s*'([^']*)'`)) || [])[1] || '';
   return {voiceId: get('voiceId'), voiceName: get('voiceName'), model: get('model'), fallbackModel: get('fallbackModel')};
 };
