@@ -296,7 +296,7 @@ export const topGaragiste = variant({
 export const topDaron = variant({
   id: 'topdon-daron', timings: tT3, ...TOP, jacket: JACKETS[2],
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1('LE CADEAU DE NOËL\nPOUR TON DARON', 0, {size: 120, stack: true}), ST('QUI BRICOLE SA CAISSE !', r('bricole'), 480, {size: 100})]},
+    {kind: 'hook', from: 0, keywords: [T1('LE CADEAU DE NOËL\nPOUR TON DARON', 0, {size: 120, stack: true}), ST('QUI BRICOLE SA CAISSE !', r('bricole'), 530, {size: 100})]},
     B(r('La') - 0.08, [T1('TOPDON\nARTIDIAG 600 S', r('Topdon'), {size: 140})]),
     PH(r('il') - 0.08, TPHOTO, [kw('SUR LA PRISE OBD', r('prise'), {y: 250, size: 120, color: 'accent'})]),
     CUT(r('il', 2) - 0.08, [{label: 'LIT + EFFACE', sub: 'les codes défaut', at: r('lit')}], 'zoom'),
