@@ -26,7 +26,7 @@ const PH = (from: number, image: string, keywords: K[] = []) => ({kind: 'photo' 
 const CUT = (from: number, items: {label: string; sub?: string; at: number}[], style: 'lid' | 'zoom' = 'lid', keywords: K[] = []) =>
   ({kind: 'cutaway' as const, from, openAt: from + 0.1, style, items, keywords});
 const CTA = (r: R, from: number, keywords: K[] = []) => ({kind: 'cta' as const, from, arrowAt: r('panier'), keywords});
-const WARN = (text: string, at: number) => kw(text, at, {y: 680, size: 30, small: true, stack: true});
+const WARN = (text: string, at: number) => kw(text, at, {y: 615, size: 30, small: true, stack: true});
 const T1 = (text: string, at: number, o: Record<string, unknown> = {}) => kw(text, at, {y: text.includes('\n') ? 340 : 300, size: 140, color: 'accent', ...o});
 const ST = (text: string, at: number, y: number, o = {}) => kw(text, at, {y, size: 110, stack: true, ...o});
 
