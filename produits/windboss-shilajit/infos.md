@@ -1,9 +1,9 @@
 # WindBoss — Premium Shilajit Bonbons 3000 mg (60 bonbons, 30 jours)
 
-Source : captures de la fiche TikTok Shop (26/11/2026). À compléter : verso (précautions d'emploi exactes), commission.
+Source : captures de la fiche TikTok Shop (26/11/2026). À compléter : verso (précautions d'emploi exactes).
 
 - **Vendeur** : Windboss Officiel, 10,3K vendus, 4,1★ (829 avis). Expédié depuis FR, retours prolongés.
-- **Prix** : 18,98 € (fourchette 18,98–66,48 € selon le lot). Black Friday du 11 au 30 novembre : -20 % au-delà de 25 €.
+- **Prix** : 18,98 € (fourchette 18,98–66,48 € selon le lot). Commission **1,40 €**. Black Friday du 11 au 30 novembre : -20 % au-delà de 25 €.
 - **Livraison** : jusqu'à 5,12 € ; gratuite dès 20 € (le lot à 18,98 € seul n'y est pas).
 - **Contenu** : 60 bonbons ; portion = 2 bonbons ; 30 portions → **0,63 €/jour** (18,98 / 30).
 - **Composition (pour 2 bonbons)** : extrait 10:1 de shilajit 300 mg (« équivalent à 3000 mg de shilajit en poudre »),
