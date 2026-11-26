@@ -125,6 +125,26 @@ Seules les allégations santé autorisées par l'UE :
 - Le texte à l'écran ne promet jamais plus que la voix.
 - Aucun texte important dans les 250 px du bas ni les 150 px de droite.
 
+## Règles visuelles pour attirer l'œil et vendre (décidées le 26/11, à appliquer à toutes les prochaines vidéos)
+Pas encore codées dans le modèle : les implémenter (ShopVideo / Scenes / variant.ts) à la prochaine vidéo, puis s'y tenir.
+1. **Image 0 = miniature** : le chiffre ou la phrase choc est déjà affiché, en très gros, dès la toute première image
+   (pas d'animation d'entrée sur le premier mot-clé). Ne pas gaspiller l'écran sur un « WESH ?! » de 0,4 s : l'interjection
+   peut rester dans la voix, l'écran montre directement le chiffre choc.
+2. **Pastille de prix permanente** près du produit pendant toute la vidéo (ex. « 189,99 € · -9 % », « 0,63 €/jour »,
+   « 21,75 € le kit »), uniquement avec des prix de la fiche.
+3. **Urgence réelle uniquement** : si la fiche affiche une date de fin de promo (ex. « Black Friday du 11 au 30 novembre »),
+   bandeau « Black Friday · jusqu'au 30/11 ». Jamais de faux compte à rebours ni de faux stock.
+4. **Produit plus gros et jamais masqué** : produit +15 à 20 % et remonté, le présentateur ne cache aucune partie de
+   l'emballage (sachets, bas du kit…) ; éviter le tiers central vide entre le texte et le produit.
+5. **Produit en coupe adapté au produit** : couvercle qui s'envole seulement pour pots / boîtes / sachets.
+   Appareil (ex. valise diag) : zoom sur l'écran, fonctions qui en sortent. Kit / lot : pièces qui se séparent une par une
+   avec leur nom. Max 4 lignes de texte dans la coupe, aucune mention par-dessus le couvercle (y ≤ ~700).
+6. **Produit en situation** : 1 à 2 s de photo d'usage tirée du carrousel de la fiche (appareil branché, gummy entre les
+   doigts, savon qui mousse…), sans personne identifiable (jamais d'athlète / célébrité nommé).
+7. **Contraste** : contour ou bandeau sous les gros chiffres quand l'accent est sombre (bleus, verts foncés).
+8. **Calcul prix ÷ jours** : le prix total s'estompe, il n'est PAS barré en rouge (sinon on croit à un ancien prix).
+   Le prix unitaire affiché doit correspondre à celui de la fiche (ex. Meelito : 4,35 €/pièce = fiche sur 5 unités, pas ÷ 6).
+
 ## Sons et musique
 - Effets : `public/sfx/` (whoosh, impact, pop, tick, ding, riser) générés par `scripts/gen_sfx.py`, réutilisés partout.
 - Musique : nouvelle par vidéo, électro 120–130 BPM, tonalité / rythme variés (seed), durée = vidéo, fondu final.
