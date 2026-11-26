@@ -182,9 +182,14 @@ export const VideoMix: React.FC<{config: Video3DConfig}> = ({config: c}) => {
       <Background accent={isProblem ? RED : c.accent} />
       <AbsoluteFill style={{transform: `translate(${enterTx + camTx + shx}px, ${shy}px) scale(${enterSc * camSc})`, filter: blur > 0.5 ? `blur(${blur}px)` : undefined}}>
         {isProblem ? (
-          <div style={{position: 'absolute', left: SAFE_CX, top: 1130, transform: `translate(-50%, -50%) scale(${1.05 + 0.08 * prog}) rotate(${(prog - 0.5) * 6}deg)`}}>
-            <ProblemArt kind={c.problem} solved={false} t={seg.kind === 'loop' ? 0 : t} accent={c.accent} />
-          </div>
+          <>
+            {/* le PRODUIT est visible dès l'image 0 (comme au début) ; l'objet problème est à côté */}
+            <Product offset={0} src={prodSrc} height={820 * baseH} cx={SAFE_CX + 150} cy={1250}
+              enterAt={-99} enter="none" seed="hook" sweeps={[6]} scale={idx === 0 ? 1.12 - 0.12 * Math.min(1, local / 8) : 1} />
+            <div style={{position: 'absolute', left: 205, top: 960, transform: `translate(-50%, -50%) scale(${0.52 + 0.05 * prog}) rotate(${-10 + (prog - 0.5) * 8}deg)`}}>
+              <ProblemArt kind={c.problem} solved={false} t={seg.kind === 'loop' ? 0 : t} accent={c.accent} />
+            </div>
+          </>
         ) : (
           <>
             {seg.view === 'open' && (
@@ -203,7 +208,7 @@ export const VideoMix: React.FC<{config: Video3DConfig}> = ({config: c}) => {
 
       {/* textes (hors caméra pour rester nets) */}
       {(seg.kind === 'shot' || seg.kind === 'loop') && (
-        <Headline key={idx} shot={seg.kind === 'loop' ? c.shots[0] : seg.shot!} start={seg.kind === 'loop' ? -99 : seg.start} accent={c.accent} pillColor={pillColor} />
+        <Headline key={idx} shot={seg.kind === 'loop' ? c.shots[0] : seg.shot!} start={seg.kind === 'loop' || idx === 0 ? -99 : seg.start} accent={c.accent} pillColor={pillColor} />
       )}
       {seg.kind === 'price' && (
         <div style={{position: 'absolute', left: BRAND.safe.left, width: SAFE_W, top: 140, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 12,
