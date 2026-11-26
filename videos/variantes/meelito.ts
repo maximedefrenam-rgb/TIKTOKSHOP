@@ -13,20 +13,18 @@ export const prix = variant({
       kw('QUI A VALIDÉ\nCE PRIX ?!', r('validé'), {y: 300, size: 140, color: 'alert', impact: true}),
     ]},
     {kind: 'cutaway', from: r('Le') - 0.08, openAt: r('Le') + 0.1, items: [
-      {label: 'SAVON', at: r('savon')},
+      {label: 'SAVON + FILET', at: r('savon')},
       {label: 'NETTOYANT MOUSSANT', at: r('nettoyant')},
-      {label: 'HUILE', at: r('huile')},
-      {label: 'MASQUE PEEL-OFF', at: r('masque')},
+      {label: 'HUILE · MASQUE PEEL-OFF', at: r('huile')},
       {label: 'CRÈME', at: r('crème')},
-      {label: 'FILET À MOUSSE', at: r('filet')},
     ]},
     {kind: 'benefit', from: r('curcuma', 2) - 0.08, keywords: [
-      kw('CURCUMA · ACIDE KOJIQUE', r('curcuma', 2), {y: 270, size: 90, color: 'accent', stack: true}),
-      kw('VITAMINE C · ACIDE HYALURONIQUE', r('vitamine'), {y: 380, size: 70, stack: true}),
-      kw('NETTOYAGE EN PROFONDEUR', r('nettoyage'), {y: 520, size: 80, stack: true}),
-      kw('TEINT PLUS UNIFORME', r('teint'), {y: 620, size: 80, stack: true}),
-      kw('PEAU HYDRATÉE', r('peau'), {y: 720, size: 80, stack: true}),
-      kw('selon la marque', r('selon'), {y: 820, size: 36, small: true, stack: true}),
+      kw('CURCUMA · ACIDE KOJIQUE', r('curcuma', 2), {y: 250, size: 85, color: 'accent', stack: true}),
+      kw('VITAMINE C · ACIDE HYALURONIQUE', r('vitamine'), {y: 350, size: 62, stack: true}),
+      kw('NETTOYAGE EN PROFONDEUR', r('nettoyage'), {y: 460, size: 72, stack: true}),
+      kw('TEINT PLUS UNIFORME', r('teint'), {y: 550, size: 72, stack: true}),
+      kw('PEAU HYDRATÉE', r('peau'), {y: 640, size: 72, stack: true}),
+      kw('selon la marque', r('selon'), {y: 720, size: 36, small: true, stack: true}),
     ]},
     AVIS(r('plus', 2) - 0.08, r('quatre') + 0.1, r('soixante-trois')),
     {kind: 'cta', from: r('quatre', 2) - 0.08, arrowAt: r('panier'), keywords: [
@@ -48,8 +46,7 @@ export const rein = variant({
     {kind: 'cutaway', from: r('le') - 0.08, openAt: r('le') + 0.1, items: [
       {label: 'SAVON', at: r('savon')},
       {label: 'NETTOYANT + BROSSE', at: r('nettoyant')},
-      {label: 'HUILE', at: r("l'huile")},
-      {label: 'CRÈME', at: r('crème')},
+      {label: 'HUILE · CRÈME', at: r("l'huile")},
       {label: 'MASQUE PEEL-OFF', sub: 'à la vitamine C', at: r('masque')},
     ]},
     {kind: 'benefit', from: r('avec', 2) - 0.08, keywords: [
