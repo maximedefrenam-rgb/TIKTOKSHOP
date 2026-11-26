@@ -1,8 +1,10 @@
 # Projet : vidéos TikTok Shop — nutrition sportive
 
-> **Depuis le 25/11/2026 : format 3D par défaut → lire `METHODE-3D.md` d'abord.** Le format motion design 2D
-> ci-dessous (plusieurs vidéos restreintes) reste documenté pour référence ; ses règles d'honnêteté, allégations,
-> mots interdits et description sans classement s'appliquent toujours.
+> **26/11/2026 — décision utilisateur : RETOUR AU FORMAT DU DÉBUT (motion design 2D décrit ci-dessous), graphisme ET
+> déroulé des plans identiques aux premières vidéos, voix Simon.** Le format 3D (`METHODE-3D.md`, `src/three/`) et le
+> « mix » (`src/mix/`) ont été essayés puis écartés (« pas fan ») : ne plus les utiliser sauf demande explicite.
+> Les leçons acquises restent valables : honnêteté (faits de la fiche, affirmations de la marque attribuées),
+> allégations UE au mot près, mots interdits TikTok, description sans classement, produit visible dès l'image 0.
 
 Compte TikTok qui vend des produits de nutrition sportive (créatine, whey, pré-workout…) via l'affiliation TikTok Shop.
 Vidéos 100 % motion design (Remotion), voix off ElevenLabs, sons et musique générés par code.

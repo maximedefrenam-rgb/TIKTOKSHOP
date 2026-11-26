@@ -1,3 +1,5 @@
+> **ÉCARTÉ le 26/11/2026** : l'utilisateur est revenu au format 2D du début (voir CLAUDE.md). Gardé pour mémoire.
+
 # Méthode — format « T'es H24 fatigué frérot ? » (nouvelle stratégie, 25/11/2026)
 
 > **26/11/2026 — décision utilisateur : visuel « MIX ».** L'utilisateur préfère le GRAPHISME 2D du début
