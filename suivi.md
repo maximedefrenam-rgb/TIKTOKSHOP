@@ -71,3 +71,18 @@
 | 2026-11-26 | Granions Gummies Cheveux 4-en-1 | Prix choc (prix/jour) + en coupe + allégations | Wesh, 80 centimes par jour pour tes cheveux ?! | v1 (granions-80cts) |  |  |  |
 | 2026-11-26 | Meelito kit curcuma 6 pièces | Prix choc (stagiaire) + en coupe + avis | 6 pièces de skincare pour 21 €, qui a validé ce prix ?! | v1 (meelito-prix) |  |  |  |
 | 2026-11-26 | Meelito kit curcuma 6 pièces | Interpellation (un rein) + prix/pièce + en coupe | Ta routine skincare te coûte un rein ?! | v1 (meelito-rein) |  |  |  |
+| 2026-11-26 | ZAP cerise noire DUO | Lot 2 · Prix choc (stagiaire) + prix/sachet + comparatif expresso | 36 sachets pour 10 balles, qui a validé ce prix ?! | v1 (zap-stagiaire) |  |  |  |
+| 2026-11-26 | ZAP cerise noire DUO | Lot 2 · Idée reçue (pré-workout) + expresso + prix/séance | Ton pré-workout, faut le doser, le shaker… | v1 (zap-preworkout) |  |  |  |
+| 2026-11-26 | ZAP cerise noire DUO | Lot 2 · Situation salle (sac) + en coupe + promo | Regarde ce qu'il y a dans mon sac de salle ! | v1 (zap-sac) |  |  |  |
+| 2026-11-26 | Nuclever Cortisol Manager | Lot 2 · Situation (dimanche soir) + en coupe + allégations | Dimanche soir, la boule au ventre pour lundi ?! | v1 (nuclever-dimanche) |  |  |  |
+| 2026-11-26 | Nuclever Cortisol Manager | Lot 2 · Curiosité (goûts) + photo d'usage + classement | Un complément goût litchi-fraise ?! | v1 (nuclever-gouts) |  |  |  |
+| 2026-11-26 | Nuclever Cortisol Manager | Lot 2 · Preuve sociale + prix/jour + en coupe | 55 000 vendus et 0,70 € par jour ?! | v1 (nuclever-55k) |  |  |  |
+| 2026-11-26 | Meelito kit curcuma | Lot 2 · Cadeau de Noël + en coupe (zoom) + avis | Tu sais pas quoi offrir à ta sœur pour Noël ?! | v1 (meelito-noel) |  |  |  |
+| 2026-11-26 | Meelito kit curcuma | Lot 2 · Curiosité (peel-off) + photo d'usage + en coupe | Un masque qui s'arrache d'un coup ?! | v1 (meelito-masque) |  |  |  |
+| 2026-11-26 | Meelito kit curcuma | Lot 2 · Routine 5 étapes (plans rapides) + avis | Ta routine visage en 5 étapes pour 21 balles ?! | v1 (meelito-etapes) |  |  |  |
+| 2026-11-26 | Novoma collagène marin | Lot 2 · Urgence réelle (fin BF 30/11) + prix barré + en coupe | Le collagène à moins de 5 balles, ça s'arrête le 30 ! | v1 (novoma-trente) |  |  |  |
+| 2026-11-26 | Novoma collagène marin | Lot 2 · Offre duo livraison offerte + photo + en coupe | Avant de payer ton collagène, prends-en deux ! | v1 (novoma-duo) |  |  |  |
+| 2026-11-26 | Novoma collagène marin | Lot 2 · Prix choc (0,17 €/jour) + en coupe + avis | Wesh, 17 centimes par jour ton collagène ?! | v1 (novoma-17cts) |  |  |  |
+| 2026-11-26 | Topdon ArtiDiag 600 S | Lot 2 · Situation (voiture d'occasion) + photo + coupe zoom | Tu achètes une voiture d'occasion sans la scanner ?! | v1 (topdon-occasion) |  |  |  |
+| 2026-11-26 | Topdon ArtiDiag 600 S | Lot 2 · Interpellation (garagiste) + coupons | Le garagiste branche sa valise 2 minutes et il te facture ?! | v1 (topdon-garagiste) |  |  |  |
+| 2026-11-26 | Topdon ArtiDiag 600 S | Lot 2 · Cadeau de Noël (daron) + photo + prix barré | Le cadeau de Noël parfait pour ton daron ! | v1 (topdon-daron) |  |  |  |
