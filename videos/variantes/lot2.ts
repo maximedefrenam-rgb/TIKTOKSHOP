@@ -187,7 +187,7 @@ export const meeMasque = variant({
 export const meeEtapes = variant({
   id: 'meelito-etapes', timings: tM3, ...MEE, jacket: JACKETS[2],
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1('ROUTINE VISAGE\nEN 5 ÉTAPES', 0, {size: 150, stack: true}), ST('POUR 21 BALLES ?!', r('vingt'), 500, {size: 130, impact: true})]},
+    {kind: 'hook', from: 0, keywords: [T1('ROUTINE VISAGE\nEN 5 ÉTAPES', 0, {size: 150, stack: true}), ST('POUR 21 BALLES ?!', r('vingt'), 560, {size: 130, impact: true})]},
     CUT(r('Étape') - 0.08, [{label: 'ÉTAPE 1 · SAVON', at: r('Étape')}], 'zoom'),
     B(r('étape', 2) - 0.08, [T1('ÉTAPE 2\nNETTOYANT + BROSSE', r('étape', 2), {size: 120})]),
     B(r('étape', 3) - 0.08, [T1('ÉTAPE 3\nMASQUE PEEL-OFF', r('étape', 3), {size: 130})]),
