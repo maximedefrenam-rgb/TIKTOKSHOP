@@ -29,7 +29,8 @@ export const prix = variant({
     AVIS(r('plus', 2) - 0.08, r('quatre') + 0.1, r('soixante-trois')),
     {kind: 'cta', from: r('quatre', 2) - 0.08, arrowAt: r('panier'), keywords: [
       kw('4,35 € LA PIÈCE', r('quatre', 2), {y: 500, size: 120, color: 'accent', stack: true}),
-      kw('BLACK FRIDAY · 21,75 € LE KIT', r('Black'), {y: 650, size: 70, stack: true}),
+      kw('BLACK FRIDAY · 21,75 € LE KIT', r('Black'), {y: 690, size: 70, stack: true}),
+      kw('prix unitaire affiché sur la fiche produit', r('quatre', 2), {y: 600, size: 34, small: true, stack: true}),
     ]},
   ],
 });
@@ -41,8 +42,11 @@ export const rein = variant({
       kw('TA ROUTINE SKINCARE', r('routine'), {y: 280, size: 120}),
       kw('TE COÛTE UN REIN ?!', r('rein'), {y: 450, size: 140, color: 'alert', impact: true, stack: true}),
     ]},
-    {kind: 'price', from: r('Regarde') - 0.08, price: 21.75, doses: 6, divLabel: 'PIÈCES', unitLabel: 'LA PIÈCE',
-      priceAt: r('kit'), dividerAt: r('six'), resultAt: r('soixante-quinze')},
+    {kind: 'benefit', from: r('Regarde') - 0.08, keywords: [
+      kw('KIT AU CURCUMA', r('kit'), {y: 280, size: 120, color: 'accent', stack: true}),
+      kw('6 PIÈCES', r('six'), {y: 450, size: 150, stack: true}),
+      kw('21,75 €', r('vingt'), {y: 640, size: 170, color: 'accent', impact: true, stack: true}),
+    ]},
     {kind: 'cutaway', from: r('le') - 0.08, openAt: r('le') + 0.1, items: [
       {label: 'SAVON', at: r('savon')},
       {label: 'NETTOYANT + BROSSE', at: r('nettoyant')},
