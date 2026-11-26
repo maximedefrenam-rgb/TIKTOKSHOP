@@ -212,7 +212,7 @@ const VAVIS = (from: number, ratingAt: number, soldAt: number) => ({kind: 'revie
 export const novTrente = variant({
   id: 'novoma-trente', timings: tV1, ...NOV, jacket: JACKETS[0],
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1('LE COLLAGÈNE\nÀ - DE 5 BALLES', 0, {size: 150}),
+    {kind: 'hook', from: 0, keywords: [T1('LE COLLAGÈNE À\nMOINS DE 5 BALLES', 0, {size: 140}),
       kw("ÇA S'ARRÊTE\nLE 30 NOVEMBRE !", r("s'arrête"), {y: 300, size: 140, color: 'alert', impact: true})]},
     NDEAL(r('Novoma') - 0.08, r('Novoma'), r('onze'), r('quatre')),
     B(r('moins', 2) - 0.08, [T1('-58 %', r('moins', 2), {size: 280, impact: true})]),
