@@ -23,6 +23,8 @@ export type Keyword = {
   y?: number;
   /** reste affiché (empilé) au lieu d'être remplacé par le suivant */
   stack?: boolean;
+  /** déjà affiché sans animation d'entrée (image 0 = miniature) */
+  instant?: boolean;
 };
 
 type SceneBase = {
@@ -52,6 +54,8 @@ export type Scene =
   | (SceneBase & {
       kind: 'cutaway';
       openAt: number;
+      /** 'lid' : le couvercle s'envole (pots, boîtes, sachets) ; 'zoom' : le produit grossit sans être coupé (appareils, kits) */
+      style?: 'lid' | 'zoom';
       items: {label: string; sub?: string; at: number}[];
     })
   | (SceneBase & {
@@ -95,6 +99,8 @@ export type Scene =
   /** photo avant / après (image composite : moitié gauche = avant, droite = après), volet à revealAt, STOP optionnel */
   | (SceneBase & {kind: 'beforeAfter'; image: string; revealAt?: number; stopAt?: number})
   /** avis : note + étoiles, nombre de ventes, classement */
+  /** photo d'usage tirée du carrousel de la fiche (sans personne identifiable), produit en petit à côté */
+  | (SceneBase & {kind: 'photo'; image: string})
   | (SceneBase & {kind: 'reviews'; rating?: number; reviews?: number; sold: number; soldLabel?: string; rank?: string; ratingAt: number; soldAt: number; rankAt?: number});
 
 export type UsageIcon = 'dumbbell' | 'controller' | 'palm' | 'rain';
@@ -128,6 +134,8 @@ export type VideoConfig = {
   autoSfx?: boolean;
   /** échelle du produit (ex. 0.72 pour une boîte ronde, plus large qu'un sachet) */
   productScale?: number;
+  /** pastille de prix permanente près du produit (prix de la fiche uniquement) */
+  priceTag?: {text: string; sub?: string; hideIn?: Scene['kind'][]};
   /** le présentateur (absent = vidéo sans personnage) */
   character?: CharacterConfig;
 };

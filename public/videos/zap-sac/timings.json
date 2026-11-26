@@ -1,0 +1,326 @@
+{
+ "words": [
+  {
+   "word": "Wesh",
+   "start": 0.104,
+   "end": 0.443
+  },
+  {
+   "word": "regarde",
+   "start": 0.511,
+   "end": 0.85
+  },
+  {
+   "word": "ce",
+   "start": 0.873,
+   "end": 0.918
+  },
+  {
+   "word": "qu'il",
+   "start": 0.929,
+   "end": 0.985
+  },
+  {
+   "word": "y",
+   "start": 0.986,
+   "end": 0.986
+  },
+  {
+   "word": "a",
+   "start": 1.02,
+   "end": 1.053
+  },
+  {
+   "word": "dans",
+   "start": 1.067,
+   "end": 1.121
+  },
+  {
+   "word": "mon",
+   "start": 1.138,
+   "end": 1.189
+  },
+  {
+   "word": "sac",
+   "start": 1.223,
+   "end": 1.325
+  },
+  {
+   "word": "de",
+   "start": 1.37,
+   "end": 1.46
+  },
+  {
+   "word": "salle",
+   "start": 1.505,
+   "end": 1.799
+  },
+  {
+   "word": "ma",
+   "start": 1.935,
+   "end": 2.206
+  },
+  {
+   "word": "gourde",
+   "start": 2.24,
+   "end": 2.884
+  },
+  {
+   "word": "ma",
+   "start": 2.907,
+   "end": 2.952
+  },
+  {
+   "word": "serviette",
+   "start": 3.006,
+   "end": 3.833
+  },
+  {
+   "word": "et",
+   "start": 3.878,
+   "end": 3.969
+  },
+  {
+   "word": "ÇA",
+   "start": 4.104,
+   "end": 4.308
+  },
+  {
+   "word": "ZAP",
+   "start": 4.587,
+   "end": 4.757
+  },
+  {
+   "word": "les",
+   "start": 4.825,
+   "end": 5.028
+  },
+  {
+   "word": "sachets",
+   "start": 5.069,
+   "end": 5.299
+  },
+  {
+   "word": "énergétiques",
+   "start": 5.333,
+   "end": 5.706
+  },
+  {
+   "word": "cerise",
+   "start": 5.757,
+   "end": 5.977
+  },
+  {
+   "word": "noire",
+   "start": 6.022,
+   "end": 6.384
+  },
+  {
+   "word": "fabriqués",
+   "start": 6.435,
+   "end": 6.791
+  },
+  {
+   "word": "en",
+   "start": 6.814,
+   "end": 6.859
+  },
+  {
+   "word": "Suède",
+   "start": 6.904,
+   "end": 7.604
+  },
+  {
+   "word": "cent",
+   "start": 7.713,
+   "end": 7.74
+  },
+  {
+   "word": "milligrammes",
+   "start": 7.767,
+   "end": 8.215
+  },
+  {
+   "word": "de",
+   "start": 8.26,
+   "end": 8.35
+  },
+  {
+   "word": "caféine",
+   "start": 8.391,
+   "end": 8.689
+  },
+  {
+   "word": "par",
+   "start": 8.723,
+   "end": 8.825
+  },
+  {
+   "word": "sachet",
+   "start": 8.879,
+   "end": 9.435
+  },
+  {
+   "word": "plus",
+   "start": 9.476,
+   "end": 9.638
+  },
+  {
+   "word": "qu'un",
+   "start": 9.661,
+   "end": 9.774
+  },
+  {
+   "word": "expresso",
+   "start": 9.816,
+   "end": 10.655
+  },
+  {
+   "word": "zéro",
+   "start": 10.835,
+   "end": 10.937
+  },
+  {
+   "word": "café",
+   "start": 10.991,
+   "end": 11.208
+  },
+  {
+   "word": "à",
+   "start": 11.242,
+   "end": 11.276
+  },
+  {
+   "word": "préparer",
+   "start": 11.326,
+   "end": 11.954
+  },
+  {
+   "word": "zéro",
+   "start": 12.021,
+   "end": 12.157
+  },
+  {
+   "word": "canette",
+   "start": 12.208,
+   "end": 12.428
+  },
+  {
+   "word": "à",
+   "start": 12.462,
+   "end": 12.496
+  },
+  {
+   "word": "trimballer",
+   "start": 12.537,
+   "end": 13.174
+  },
+  {
+   "word": "ça",
+   "start": 13.219,
+   "end": 13.31
+  },
+  {
+   "word": "tient",
+   "start": 13.377,
+   "end": 13.513
+  },
+  {
+   "word": "dans",
+   "start": 13.526,
+   "end": 13.581
+  },
+  {
+   "word": "ta",
+   "start": 13.626,
+   "end": 13.716
+  },
+  {
+   "word": "poche",
+   "start": 13.784,
+   "end": 14.462
+  },
+  {
+   "word": "trente-six",
+   "start": 14.581,
+   "end": 14.937
+  },
+  {
+   "word": "sachets",
+   "start": 14.991,
+   "end": 15.615
+  },
+  {
+   "word": "dix",
+   "start": 15.648,
+   "end": 15.75
+  },
+  {
+   "word": "euros",
+   "start": 15.807,
+   "end": 16.089
+  },
+  {
+   "word": "seize",
+   "start": 16.112,
+   "end": 16.225
+  },
+  {
+   "word": "au",
+   "start": 16.27,
+   "end": 16.36
+  },
+  {
+   "word": "lieu",
+   "start": 16.387,
+   "end": 16.496
+  },
+  {
+   "word": "de",
+   "start": 16.541,
+   "end": 16.632
+  },
+  {
+   "word": "quatorze",
+   "start": 16.654,
+   "end": 16.971
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 16.99,
+   "end": 17.716
+  },
+  {
+   "word": "livraison",
+   "start": 17.801,
+   "end": 18.259
+  },
+  {
+   "word": "gratuite",
+   "start": 18.304,
+   "end": 19.004
+  },
+  {
+   "word": "panier",
+   "start": 19.038,
+   "end": 19.208
+  },
+  {
+   "word": "orange",
+   "start": 19.266,
+   "end": 19.682
+  },
+  {
+   "word": "FONCE",
+   "start": 19.954,
+   "end": 20.564
+  }
+ ],
+ "durationSec": 20.741,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

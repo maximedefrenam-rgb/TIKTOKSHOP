@@ -1,0 +1,351 @@
+{
+ "words": [
+  {
+   "word": "Trente-six",
+   "start": 0.131,
+   "end": 0.436
+  },
+  {
+   "word": "sachets",
+   "start": 0.477,
+   "end": 0.707
+  },
+  {
+   "word": "pour",
+   "start": 0.734,
+   "end": 0.843
+  },
+  {
+   "word": "dix",
+   "start": 0.911,
+   "end": 1.046
+  },
+  {
+   "word": "balles",
+   "start": 1.08,
+   "end": 1.521
+  },
+  {
+   "word": "mais",
+   "start": 1.548,
+   "end": 1.656
+  },
+  {
+   "word": "qui",
+   "start": 1.69,
+   "end": 1.792
+  },
+  {
+   "word": "a",
+   "start": 1.86,
+   "end": 1.928
+  },
+  {
+   "word": "validé",
+   "start": 1.961,
+   "end": 2.199
+  },
+  {
+   "word": "ce",
+   "start": 2.222,
+   "end": 2.267
+  },
+  {
+   "word": "prix",
+   "start": 2.307,
+   "end": 2.47
+  },
+  {
+   "word": "ZAP",
+   "start": 2.697,
+   "end": 2.841
+  },
+  {
+   "word": "cerise",
+   "start": 2.875,
+   "end": 3.112
+  },
+  {
+   "word": "noire",
+   "start": 3.157,
+   "end": 3.519
+  },
+  {
+   "word": "le",
+   "start": 3.564,
+   "end": 3.655
+  },
+  {
+   "word": "duo",
+   "start": 3.722,
+   "end": 3.994
+  },
+  {
+   "word": "dix",
+   "start": 4.061,
+   "end": 4.228
+  },
+  {
+   "word": "euros",
+   "start": 4.285,
+   "end": 4.567
+  },
+  {
+   "word": "seize",
+   "start": 4.601,
+   "end": 4.771
+  },
+  {
+   "word": "au",
+   "start": 4.838,
+   "end": 4.974
+  },
+  {
+   "word": "lieu",
+   "start": 5.001,
+   "end": 5.11
+  },
+  {
+   "word": "de",
+   "start": 5.177,
+   "end": 5.313
+  },
+  {
+   "word": "quatorze",
+   "start": 5.336,
+   "end": 5.584
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 5.613,
+   "end": 6.364
+  },
+  {
+   "word": "ça",
+   "start": 6.714,
+   "end": 6.737
+  },
+  {
+   "word": "fait",
+   "start": 6.764,
+   "end": 6.872
+  },
+  {
+   "word": "vingt-huit",
+   "start": 6.94,
+   "end": 7.279
+  },
+  {
+   "word": "centimes",
+   "start": 7.333,
+   "end": 7.686
+  },
+  {
+   "word": "le",
+   "start": 7.709,
+   "end": 7.754
+  },
+  {
+   "word": "sachet",
+   "start": 7.794,
+   "end": 8.567
+  },
+  {
+   "word": "et",
+   "start": 8.738,
+   "end": 8.751
+  },
+  {
+   "word": "dans",
+   "start": 8.755,
+   "end": 8.771
+  },
+  {
+   "word": "chaque",
+   "start": 8.81,
+   "end": 9.042
+  },
+  {
+   "word": "sachet",
+   "start": 9.082,
+   "end": 9.652
+  },
+  {
+   "word": "cent",
+   "start": 9.693,
+   "end": 9.855
+  },
+  {
+   "word": "milligrammes",
+   "start": 9.882,
+   "end": 10.262
+  },
+  {
+   "word": "de",
+   "start": 10.285,
+   "end": 10.33
+  },
+  {
+   "word": "caféine",
+   "start": 10.384,
+   "end": 11.076
+  },
+  {
+   "word": "plus",
+   "start": 11.116,
+   "end": 11.279
+  },
+  {
+   "word": "qu'un",
+   "start": 11.302,
+   "end": 11.415
+  },
+  {
+   "word": "expresso",
+   "start": 11.457,
+   "end": 12.228
+  },
+  {
+   "word": "avec",
+   "start": 12.269,
+   "end": 12.432
+  },
+  {
+   "word": "elle-théanine",
+   "start": 12.472,
+   "end": 13.177
+  },
+  {
+   "word": "et",
+   "start": 13.2,
+   "end": 13.245
+  },
+  {
+   "word": "vitamines",
+   "start": 13.296,
+   "end": 13.652
+  },
+  {
+   "word": "B",
+   "start": 13.754,
+   "end": 14.262
+  },
+  {
+   "word": "tu",
+   "start": 14.39,
+   "end": 14.398
+  },
+  {
+   "word": "le",
+   "start": 14.421,
+   "end": 14.466
+  },
+  {
+   "word": "glisses",
+   "start": 14.51,
+   "end": 14.737
+  },
+  {
+   "word": "sous",
+   "start": 14.764,
+   "end": 14.872
+  },
+  {
+   "word": "la",
+   "start": 14.895,
+   "end": 14.94
+  },
+  {
+   "word": "lèvre",
+   "start": 14.974,
+   "end": 15.347
+  },
+  {
+   "word": "et",
+   "start": 15.438,
+   "end": 15.618
+  },
+  {
+   "word": "t'es",
+   "start": 15.652,
+   "end": 15.754
+  },
+  {
+   "word": "dans",
+   "start": 15.781,
+   "end": 15.889
+  },
+  {
+   "word": "ta",
+   "start": 15.912,
+   "end": 15.957
+  },
+  {
+   "word": "zone",
+   "start": 16.025,
+   "end": 16.906
+  },
+  {
+   "word": "prix",
+   "start": 17.06,
+   "end": 17.115
+  },
+  {
+   "word": "le",
+   "start": 17.16,
+   "end": 17.25
+  },
+  {
+   "word": "plus",
+   "start": 17.277,
+   "end": 17.386
+  },
+  {
+   "word": "bas",
+   "start": 17.42,
+   "end": 17.521
+  },
+  {
+   "word": "de",
+   "start": 17.544,
+   "end": 17.589
+  },
+  {
+   "word": "l'année",
+   "start": 17.623,
+   "end": 18.064
+  },
+  {
+   "word": "livraison",
+   "start": 18.115,
+   "end": 18.471
+  },
+  {
+   "word": "gratuite",
+   "start": 18.516,
+   "end": 19.081
+  },
+  {
+   "word": "panier",
+   "start": 19.115,
+   "end": 19.352
+  },
+  {
+   "word": "orange",
+   "start": 19.4,
+   "end": 20.098
+  },
+  {
+   "word": "FONCE",
+   "start": 20.166,
+   "end": 20.504
+  }
+ ],
+ "durationSec": 20.611,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

@@ -1,0 +1,326 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.147,
+   "end": 0.16
+  },
+  {
+   "word": "cadeau",
+   "start": 0.224,
+   "end": 0.56
+  },
+  {
+   "word": "de",
+   "start": 0.587,
+   "end": 0.64
+  },
+  {
+   "word": "Noël",
+   "start": 0.693,
+   "end": 0.96
+  },
+  {
+   "word": "parfait",
+   "start": 1.03,
+   "end": 1.52
+  },
+  {
+   "word": "pour",
+   "start": 1.568,
+   "end": 1.76
+  },
+  {
+   "word": "ton",
+   "start": 1.8,
+   "end": 1.92
+  },
+  {
+   "word": "daron",
+   "start": 2,
+   "end": 2.32
+  },
+  {
+   "word": "qui",
+   "start": 2.36,
+   "end": 2.48
+  },
+  {
+   "word": "bricole",
+   "start": 2.533,
+   "end": 2.88
+  },
+  {
+   "word": "sa",
+   "start": 2.933,
+   "end": 3.04
+  },
+  {
+   "word": "caisse",
+   "start": 3.093,
+   "end": 3.28
+  },
+  {
+   "word": "le",
+   "start": 3.333,
+   "end": 3.44
+  },
+  {
+   "word": "dimanche",
+   "start": 3.48,
+   "end": 3.84
+  },
+  {
+   "word": "La",
+   "start": 4.552,
+   "end": 4.56
+  },
+  {
+   "word": "Topdon",
+   "start": 4.66,
+   "end": 5.2
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 5.26,
+   "end": 5.84
+  },
+  {
+   "word": "six",
+   "start": 5.9,
+   "end": 6.08
+  },
+  {
+   "word": "cents",
+   "start": 6.093,
+   "end": 6.16
+  },
+  {
+   "word": "S",
+   "start": 6.36,
+   "end": 6.64
+  },
+  {
+   "word": "il",
+   "start": 6.827,
+   "end": 7.2
+  },
+  {
+   "word": "la",
+   "start": 7.253,
+   "end": 7.36
+  },
+  {
+   "word": "branche",
+   "start": 7.413,
+   "end": 7.68
+  },
+  {
+   "word": "sur",
+   "start": 7.72,
+   "end": 7.84
+  },
+  {
+   "word": "la",
+   "start": 7.867,
+   "end": 7.92
+  },
+  {
+   "word": "prise",
+   "start": 7.96,
+   "end": 8.16
+  },
+  {
+   "word": "OBD",
+   "start": 8.2,
+   "end": 9.12
+  },
+  {
+   "word": "il",
+   "start": 9.259,
+   "end": 9.28
+  },
+  {
+   "word": "lit",
+   "start": 9.36,
+   "end": 9.6
+  },
+  {
+   "word": "et",
+   "start": 9.68,
+   "end": 9.84
+  },
+  {
+   "word": "efface",
+   "start": 9.94,
+   "end": 10.4
+  },
+  {
+   "word": "les",
+   "start": 10.44,
+   "end": 10.56
+  },
+  {
+   "word": "codes",
+   "start": 10.6,
+   "end": 10.8
+  },
+  {
+   "word": "défaut",
+   "start": 10.86,
+   "end": 11.52
+  },
+  {
+   "word": "moteur",
+   "start": 11.616,
+   "end": 12.32
+  },
+  {
+   "word": "boîte",
+   "start": 12.373,
+   "end": 13.04
+  },
+  {
+   "word": "airbag",
+   "start": 13.1,
+   "end": 13.6
+  },
+  {
+   "word": "ABS",
+   "start": 13.74,
+   "end": 14.64
+  },
+  {
+   "word": "avec",
+   "start": 14.798,
+   "end": 14.894
+  },
+  {
+   "word": "sacoche",
+   "start": 14.994,
+   "end": 15.454
+  },
+  {
+   "word": "de",
+   "start": 15.481,
+   "end": 15.534
+  },
+  {
+   "word": "rangement",
+   "start": 15.582,
+   "end": 16.254
+  },
+  {
+   "word": "et",
+   "start": 16.307,
+   "end": 16.414
+  },
+  {
+   "word": "mises",
+   "start": 16.494,
+   "end": 16.734
+  },
+  {
+   "word": "à",
+   "start": 16.814,
+   "end": 16.894
+  },
+  {
+   "word": "jour",
+   "start": 16.942,
+   "end": 17.134
+  },
+  {
+   "word": "gratuites",
+   "start": 17.198,
+   "end": 17.774
+  },
+  {
+   "word": "à",
+   "start": 17.894,
+   "end": 18.014
+  },
+  {
+   "word": "vie",
+   "start": 18.054,
+   "end": 18.814
+  },
+  {
+   "word": "cent",
+   "start": 19.038,
+   "end": 19.054
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 19.1,
+   "end": 19.694
+  },
+  {
+   "word": "euros",
+   "start": 19.734,
+   "end": 19.934
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 19.957,
+   "end": 20.894
+  },
+  {
+   "word": "au",
+   "start": 20.974,
+   "end": 21.134
+  },
+  {
+   "word": "lieu",
+   "start": 21.182,
+   "end": 21.374
+  },
+  {
+   "word": "de",
+   "start": 21.427,
+   "end": 21.534
+  },
+  {
+   "word": "deux",
+   "start": 21.566,
+   "end": 21.694
+  },
+  {
+   "word": "cent",
+   "start": 21.726,
+   "end": 21.854
+  },
+  {
+   "word": "neuf",
+   "start": 21.907,
+   "end": 22.494
+  },
+  {
+   "word": "livraison",
+   "start": 22.594,
+   "end": 23.134
+  },
+  {
+   "word": "gratuite",
+   "start": 23.178,
+   "end": 23.854
+  },
+  {
+   "word": "panier",
+   "start": 23.914,
+   "end": 24.174
+  },
+  {
+   "word": "orange",
+   "start": 24.231,
+   "end": 24.654
+  },
+  {
+   "word": "FONCE",
+   "start": 24.974,
+   "end": 25.694
+  }
+ ],
+ "durationSec": 26.044,
+ "model": "eleven_v3"
+}

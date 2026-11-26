@@ -1,0 +1,336 @@
+{
+ "words": [
+  {
+   "word": "Tu",
+   "start": 0.147,
+   "end": 0.17
+  },
+  {
+   "word": "achètes",
+   "start": 0.221,
+   "end": 0.509
+  },
+  {
+   "word": "une",
+   "start": 0.526,
+   "end": 0.577
+  },
+  {
+   "word": "voiture",
+   "start": 0.611,
+   "end": 0.848
+  },
+  {
+   "word": "d'occasion",
+   "start": 0.882,
+   "end": 1.323
+  },
+  {
+   "word": "sans",
+   "start": 1.377,
+   "end": 1.594
+  },
+  {
+   "word": "la",
+   "start": 1.617,
+   "end": 1.662
+  },
+  {
+   "word": "scanner",
+   "start": 1.704,
+   "end": 2.001
+  },
+  {
+   "word": "T'es",
+   "start": 2.146,
+   "end": 2.319
+  },
+  {
+   "word": "malade",
+   "start": 2.353,
+   "end": 2.658
+  },
+  {
+   "word": "Branche",
+   "start": 2.964,
+   "end": 3.191
+  },
+  {
+   "word": "la",
+   "start": 3.214,
+   "end": 3.258
+  },
+  {
+   "word": "Topdon",
+   "start": 3.309,
+   "end": 3.597
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 3.648,
+   "end": 4.072
+  },
+  {
+   "word": "six",
+   "start": 4.106,
+   "end": 4.208
+  },
+  {
+   "word": "cents",
+   "start": 4.242,
+   "end": 4.411
+  },
+  {
+   "word": "S",
+   "start": 4.547,
+   "end": 4.75
+  },
+  {
+   "word": "tu",
+   "start": 4.894,
+   "end": 4.901
+  },
+  {
+   "word": "lis",
+   "start": 4.935,
+   "end": 5.037
+  },
+  {
+   "word": "les",
+   "start": 5.071,
+   "end": 5.173
+  },
+  {
+   "word": "codes",
+   "start": 5.195,
+   "end": 5.308
+  },
+  {
+   "word": "défaut",
+   "start": 5.359,
+   "end": 5.952
+  },
+  {
+   "word": "moteur",
+   "start": 6.013,
+   "end": 6.461
+  },
+  {
+   "word": "boîte",
+   "start": 6.529,
+   "end": 7.003
+  },
+  {
+   "word": "airbag",
+   "start": 7.054,
+   "end": 7.545
+  },
+  {
+   "word": "ABS",
+   "start": 7.664,
+   "end": 8.088
+  },
+  {
+   "word": "et",
+   "start": 8.169,
+   "end": 8.212
+  },
+  {
+   "word": "les",
+   "start": 8.246,
+   "end": 8.347
+  },
+  {
+   "word": "données",
+   "start": 8.373,
+   "end": 8.551
+  },
+  {
+   "word": "en",
+   "start": 8.573,
+   "end": 8.618
+  },
+  {
+   "word": "temps",
+   "start": 8.652,
+   "end": 8.822
+  },
+  {
+   "word": "réel",
+   "start": 8.867,
+   "end": 9.5
+  },
+  {
+   "word": "tu",
+   "start": 9.561,
+   "end": 9.568
+  },
+  {
+   "word": "vois",
+   "start": 9.608,
+   "end": 9.771
+  },
+  {
+   "word": "ce",
+   "start": 9.794,
+   "end": 9.839
+  },
+  {
+   "word": "qui",
+   "start": 9.873,
+   "end": 9.974
+  },
+  {
+   "word": "cloche",
+   "start": 10.042,
+   "end": 10.449
+  },
+  {
+   "word": "AVANT",
+   "start": 10.629,
+   "end": 11.127
+  },
+  {
+   "word": "de",
+   "start": 11.195,
+   "end": 11.33
+  },
+  {
+   "word": "signer",
+   "start": 11.379,
+   "end": 12.144
+  },
+  {
+   "word": "mises",
+   "start": 12.307,
+   "end": 12.347
+  },
+  {
+   "word": "à",
+   "start": 12.381,
+   "end": 12.415
+  },
+  {
+   "word": "jour",
+   "start": 12.442,
+   "end": 12.551
+  },
+  {
+   "word": "gratuites",
+   "start": 12.584,
+   "end": 12.89
+  },
+  {
+   "word": "à",
+   "start": 12.923,
+   "end": 12.957
+  },
+  {
+   "word": "vie",
+   "start": 12.991,
+   "end": 13.161
+  },
+  {
+   "word": "quatre",
+   "start": 13.209,
+   "end": 13.5
+  },
+  {
+   "word": "virgule",
+   "start": 13.551,
+   "end": 13.771
+  },
+  {
+   "word": "quatre",
+   "start": 13.79,
+   "end": 13.907
+  },
+  {
+   "word": "étoiles",
+   "start": 13.974,
+   "end": 14.652
+  },
+  {
+   "word": "cent",
+   "start": 14.774,
+   "end": 14.788
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 14.817,
+   "end": 15.333
+  },
+  {
+   "word": "euros",
+   "start": 15.356,
+   "end": 15.468
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 15.497,
+   "end": 16.214
+  },
+  {
+   "word": "au",
+   "start": 16.282,
+   "end": 16.418
+  },
+  {
+   "word": "lieu",
+   "start": 16.445,
+   "end": 16.553
+  },
+  {
+   "word": "de",
+   "start": 16.598,
+   "end": 16.689
+  },
+  {
+   "word": "deux",
+   "start": 16.702,
+   "end": 16.757
+  },
+  {
+   "word": "cent",
+   "start": 16.784,
+   "end": 16.892
+  },
+  {
+   "word": "neuf",
+   "start": 16.937,
+   "end": 17.479
+  },
+  {
+   "word": "livraison",
+   "start": 17.536,
+   "end": 17.909
+  },
+  {
+   "word": "gratuite",
+   "start": 17.954,
+   "end": 18.485
+  },
+  {
+   "word": "panier",
+   "start": 18.528,
+   "end": 18.723
+  },
+  {
+   "word": "orange",
+   "start": 18.781,
+   "end": 19.401
+  },
+  {
+   "word": "FONCE",
+   "start": 19.468,
+   "end": 19.875
+  }
+ ],
+ "durationSec": 20.062,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 6
+ }
+}

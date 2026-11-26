@@ -421,3 +421,22 @@ export const ReviewsScene: React.FC<P<'reviews'>> = ({scene, cfg, offset}) => {
     </AbsoluteFill>
   );
 };
+
+/* ---------------------------------------------------------------- PHOTO D'USAGE (carrousel de la fiche) */
+export const PhotoScene: React.FC<P<'photo'>> = ({scene, cfg, offset}) => {
+  const f = useAbs(offset);
+  const f0 = s2f(scene.from), f1 = s2f(scene.to);
+  const p = sp(f, f0);
+  const zoom = 1 + lin(f, f0, f1 + 10) * 0.08;
+  const W = 820, H = 820;
+  return (
+    <AbsoluteFill>
+      <div style={{position: 'absolute', left: SAFE_CX, top: 930, width: W, height: H, transform: `translate(-50%, -50%) scale(${0.85 + 0.15 * p}) rotate(${(1 - p) * 4 - 1.5}deg)`,
+        opacity: Math.min(1, p * 2), borderRadius: 36, overflow: 'hidden', border: `8px solid ${cfg.accent}`, boxShadow: `0 30px 90px rgba(0,0,0,0.8), 0 0 60px ${cfg.accent}44`}}>
+        <img src={staticFile(scene.image)} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${zoom})`}} />
+      </div>
+      <Product offset={offset} src={cfg.productImage} scale={(cfg.productScale ?? 1) * 0.55} height={700} cx={800} cy={1420} enterAt={f0 + 4} seed="photo" />
+      <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={300} />
+    </AbsoluteFill>
+  );
+};

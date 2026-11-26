@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Dimanche",
+   "start": 0.21,
+   "end": 0.4
+  },
+  {
+   "word": "soir",
+   "start": 0.464,
+   "end": 1.04
+  },
+  {
+   "word": "et",
+   "start": 1.093,
+   "end": 1.2
+  },
+  {
+   "word": "t'as",
+   "start": 1.24,
+   "end": 1.44
+  },
+  {
+   "word": "déjà",
+   "start": 1.504,
+   "end": 1.76
+  },
+  {
+   "word": "la",
+   "start": 1.787,
+   "end": 1.84
+  },
+  {
+   "word": "boule",
+   "start": 1.88,
+   "end": 2.08
+  },
+  {
+   "word": "au",
+   "start": 2.107,
+   "end": 2.16
+  },
+  {
+   "word": "ventre",
+   "start": 2.176,
+   "end": 2.32
+  },
+  {
+   "word": "pour",
+   "start": 2.336,
+   "end": 2.4
+  },
+  {
+   "word": "lundi",
+   "start": 2.44,
+   "end": 2.72
+  },
+  {
+   "word": "Regarde",
+   "start": 3.65,
+   "end": 4.32
+  },
+  {
+   "word": "Nuclever",
+   "start": 4.4,
+   "end": 4.96
+  },
+  {
+   "word": "Cortisol",
+   "start": 5.024,
+   "end": 5.52
+  },
+  {
+   "word": "Manager",
+   "start": 5.59,
+   "end": 6.48
+  },
+  {
+   "word": "un",
+   "start": 6.533,
+   "end": 6.64
+  },
+  {
+   "word": "sachet",
+   "start": 6.688,
+   "end": 7.04
+  },
+  {
+   "word": "par",
+   "start": 7.06,
+   "end": 7.12
+  },
+  {
+   "word": "jour",
+   "start": 7.184,
+   "end": 7.44
+  },
+  {
+   "word": "dans",
+   "start": 7.472,
+   "end": 7.6
+  },
+  {
+   "word": "ton",
+   "start": 7.64,
+   "end": 7.76
+  },
+  {
+   "word": "eau",
+   "start": 7.8,
+   "end": 8
+  },
+  {
+   "word": "ashwagandha",
+   "start": 8.62,
+   "end": 9.36
+  },
+  {
+   "word": "elle-théanine",
+   "start": 9.408,
+   "end": 10.32
+  },
+  {
+   "word": "magnésium",
+   "start": 10.368,
+   "end": 10.88
+  },
+  {
+   "word": "et",
+   "start": 10.933,
+   "end": 11.04
+  },
+  {
+   "word": "vitamine",
+   "start": 11.1,
+   "end": 11.52
+  },
+  {
+   "word": "D",
+   "start": 11.6,
+   "end": 12.24
+  },
+  {
+   "word": "le",
+   "start": 12.307,
+   "end": 12.32
+  },
+  {
+   "word": "magnésium",
+   "start": 12.368,
+   "end": 12.88
+  },
+  {
+   "word": "contribue",
+   "start": 12.93,
+   "end": 13.36
+  },
+  {
+   "word": "à",
+   "start": 13.4,
+   "end": 13.44
+  },
+  {
+   "word": "des",
+   "start": 13.46,
+   "end": 13.52
+  },
+  {
+   "word": "fonctions",
+   "start": 13.56,
+   "end": 13.92
+  },
+  {
+   "word": "psychologiques",
+   "start": 13.96,
+   "end": 14.56
+  },
+  {
+   "word": "normales",
+   "start": 14.624,
+   "end": 14.96
+  },
+  {
+   "word": "et",
+   "start": 15.093,
+   "end": 15.36
+  },
+  {
+   "word": "à",
+   "start": 15.44,
+   "end": 15.52
+  },
+  {
+   "word": "réduire",
+   "start": 15.573,
+   "end": 15.92
+  },
+  {
+   "word": "la",
+   "start": 15.947,
+   "end": 16
+  },
+  {
+   "word": "fatigue",
+   "start": 16.05,
+   "end": 16.96
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 17.185,
+   "end": 17.68
+  },
+  {
+   "word": "mille",
+   "start": 17.76,
+   "end": 17.92
+  },
+  {
+   "word": "vendus",
+   "start": 17.968,
+   "end": 18.64
+  },
+  {
+   "word": "quatre",
+   "start": 18.663,
+   "end": 18.8
+  },
+  {
+   "word": "virgule",
+   "start": 18.86,
+   "end": 19.12
+  },
+  {
+   "word": "cinq",
+   "start": 19.16,
+   "end": 19.28
+  },
+  {
+   "word": "étoiles",
+   "start": 19.4,
+   "end": 20.4
+  },
+  {
+   "word": "soixante-dix",
+   "start": 20.547,
+   "end": 20.961
+  },
+  {
+   "word": "centimes",
+   "start": 21.024,
+   "end": 21.44
+  },
+  {
+   "word": "par",
+   "start": 21.46,
+   "end": 21.52
+  },
+  {
+   "word": "jour",
+   "start": 21.584,
+   "end": 22.16
+  },
+  {
+   "word": "livraison",
+   "start": 22.22,
+   "end": 22.64
+  },
+  {
+   "word": "gratuite",
+   "start": 22.693,
+   "end": 23.44
+  },
+  {
+   "word": "panier",
+   "start": 23.48,
+   "end": 23.76
+  },
+  {
+   "word": "orange",
+   "start": 23.817,
+   "end": 24.56
+  },
+  {
+   "word": "FONCE",
+   "start": 24.68,
+   "end": 25.2
+  }
+ ],
+ "durationSec": 25.313,
+ "model": "eleven_v3"
+}

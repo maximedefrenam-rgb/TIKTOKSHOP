@@ -1,0 +1,301 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.082,
+   "end": 0.099
+  },
+  {
+   "word": "pré-workout",
+   "start": 0.133,
+   "end": 0.845
+  },
+  {
+   "word": "faut",
+   "start": 0.859,
+   "end": 0.913
+  },
+  {
+   "word": "le",
+   "start": 0.958,
+   "end": 1.048
+  },
+  {
+   "word": "doser",
+   "start": 1.116,
+   "end": 1.659
+  },
+  {
+   "word": "le",
+   "start": 1.681,
+   "end": 1.726
+  },
+  {
+   "word": "shaker",
+   "start": 1.794,
+   "end": 2.269
+  },
+  {
+   "word": "et",
+   "start": 2.337,
+   "end": 2.39
+  },
+  {
+   "word": "te",
+   "start": 2.413,
+   "end": 2.458
+  },
+  {
+   "word": "taper",
+   "start": 2.503,
+   "end": 2.729
+  },
+  {
+   "word": "un",
+   "start": 2.797,
+   "end": 2.933
+  },
+  {
+   "word": "litre",
+   "start": 2.978,
+   "end": 3.204
+  },
+  {
+   "word": "de",
+   "start": 3.227,
+   "end": 3.272
+  },
+  {
+   "word": "flotte",
+   "start": 3.339,
+   "end": 3.611
+  },
+  {
+   "word": "Avec",
+   "start": 3.864,
+   "end": 3.904
+  },
+  {
+   "word": "ZAP",
+   "start": 3.972,
+   "end": 4.447
+  },
+  {
+   "word": "un",
+   "start": 4.492,
+   "end": 4.582
+  },
+  {
+   "word": "sachet",
+   "start": 4.623,
+   "end": 4.854
+  },
+  {
+   "word": "sous",
+   "start": 4.881,
+   "end": 4.989
+  },
+  {
+   "word": "la",
+   "start": 5.012,
+   "end": 5.057
+  },
+  {
+   "word": "lèvre",
+   "start": 5.091,
+   "end": 5.26
+  },
+  {
+   "word": "et",
+   "start": 5.305,
+   "end": 5.396
+  },
+  {
+   "word": "t'es",
+   "start": 5.43,
+   "end": 5.599
+  },
+  {
+   "word": "dans",
+   "start": 5.626,
+   "end": 5.735
+  },
+  {
+   "word": "ta",
+   "start": 5.78,
+   "end": 5.87
+  },
+  {
+   "word": "zone",
+   "start": 5.911,
+   "end": 6.413
+  },
+  {
+   "word": "cent",
+   "start": 6.607,
+   "end": 6.616
+  },
+  {
+   "word": "milligrammes",
+   "start": 6.643,
+   "end": 7.023
+  },
+  {
+   "word": "de",
+   "start": 7.046,
+   "end": 7.091
+  },
+  {
+   "word": "caféine",
+   "start": 7.145,
+   "end": 7.565
+  },
+  {
+   "word": "plus",
+   "start": 7.606,
+   "end": 7.769
+  },
+  {
+   "word": "qu'un",
+   "start": 7.792,
+   "end": 7.904
+  },
+  {
+   "word": "expresso",
+   "start": 7.955,
+   "end": 8.447
+  },
+  {
+   "word": "elle-théanine",
+   "start": 8.515,
+   "end": 9.464
+  },
+  {
+   "word": "vitamines",
+   "start": 9.515,
+   "end": 9.938
+  },
+  {
+   "word": "B",
+   "start": 10.006,
+   "end": 10.142
+  },
+  {
+   "word": "goût",
+   "start": 10.254,
+   "end": 10.548
+  },
+  {
+   "word": "cerise",
+   "start": 10.599,
+   "end": 10.887
+  },
+  {
+   "word": "noire",
+   "start": 10.932,
+   "end": 11.226
+  },
+  {
+   "word": "trente-six",
+   "start": 11.385,
+   "end": 11.669
+  },
+  {
+   "word": "sachets",
+   "start": 11.737,
+   "end": 12.076
+  },
+  {
+   "word": "pour",
+   "start": 12.116,
+   "end": 12.279
+  },
+  {
+   "word": "dix",
+   "start": 12.347,
+   "end": 12.55
+  },
+  {
+   "word": "euros",
+   "start": 12.573,
+   "end": 12.686
+  },
+  {
+   "word": "seize",
+   "start": 12.731,
+   "end": 13.364
+  },
+  {
+   "word": "vingt-huit",
+   "start": 13.432,
+   "end": 13.94
+  },
+  {
+   "word": "centimes",
+   "start": 13.974,
+   "end": 14.245
+  },
+  {
+   "word": "la",
+   "start": 14.268,
+   "end": 14.313
+  },
+  {
+   "word": "séance",
+   "start": 14.381,
+   "end": 14.991
+  },
+  {
+   "word": "moins",
+   "start": 15.112,
+   "end": 15.127
+  },
+  {
+   "word": "trente-deux",
+   "start": 15.177,
+   "end": 15.635
+  },
+  {
+   "word": "pour",
+   "start": 15.655,
+   "end": 15.737
+  },
+  {
+   "word": "cent",
+   "start": 15.777,
+   "end": 16.008
+  },
+  {
+   "word": "livraison",
+   "start": 16.11,
+   "end": 16.618
+  },
+  {
+   "word": "gratuite",
+   "start": 16.671,
+   "end": 17.296
+  },
+  {
+   "word": "panier",
+   "start": 17.347,
+   "end": 17.567
+  },
+  {
+   "word": "orange",
+   "start": 17.616,
+   "end": 18.245
+  },
+  {
+   "word": "FONCE",
+   "start": 18.313,
+   "end": 18.72
+  }
+ ],
+ "durationSec": 18.913,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

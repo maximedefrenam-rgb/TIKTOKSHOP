@@ -23,6 +23,7 @@ export const variant = (o: {
   productScale?: number;
   jacket?: string;
   format?: VideoConfig['format'];
+  priceTag?: VideoConfig['priceTag'];
   /** mot sur lequel le présentateur s'évanouit de bonheur (optionnel) */
   faint?: (r: R) => number;
   build: (r: R) => SceneSpec[];
@@ -31,6 +32,9 @@ export const variant = (o: {
   const r: R = (word, nth = 1) => atWord(w, word, nth);
   const T = o.timings.durationSec + 0.5;
   const specs = o.build(r);
+  // règle visuelle n°1 : le premier mot-clé (chiffre / phrase choc) est déjà affiché à l'image 0
+  const k0 = specs[0]?.keywords?.[0];
+  if (k0) { k0.at = 0; k0.instant = true; }
 
   const scenes = specs.map((s, i) => ({...s, to: i < specs.length - 1 ? specs[i + 1].from : T})) as unknown as Scene[];
   scenes.forEach((s, i) => {
@@ -64,6 +68,7 @@ export const variant = (o: {
     accent: o.accent,
     productImage: o.productImage,
     productScale: o.productScale,
+    priceTag: o.priceTag,
     voice: `videos/${o.id}/voice.mp3`,
     music: `videos/${o.id}/music.wav`,
     timings: o.timings,

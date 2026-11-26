@@ -1,0 +1,311 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.149,
+   "end": 0.16
+  },
+  {
+   "word": "garagiste",
+   "start": 0.2,
+   "end": 0.72
+  },
+  {
+   "word": "branche",
+   "start": 0.773,
+   "end": 1.12
+  },
+  {
+   "word": "sa",
+   "start": 1.147,
+   "end": 1.2
+  },
+  {
+   "word": "valise",
+   "start": 1.24,
+   "end": 1.52
+  },
+  {
+   "word": "deux",
+   "start": 1.536,
+   "end": 1.6
+  },
+  {
+   "word": "minutes",
+   "start": 1.65,
+   "end": 2.08
+  },
+  {
+   "word": "et",
+   "start": 2.267,
+   "end": 2.64
+  },
+  {
+   "word": "il",
+   "start": 2.667,
+   "end": 2.72
+  },
+  {
+   "word": "te",
+   "start": 2.773,
+   "end": 2.88
+  },
+  {
+   "word": "facture",
+   "start": 2.944,
+   "end": 3.36
+  },
+  {
+   "word": "Maintenant",
+   "start": 4.447,
+   "end": 4.72
+  },
+  {
+   "word": "la",
+   "start": 4.747,
+   "end": 4.8
+  },
+  {
+   "word": "valise",
+   "start": 4.84,
+   "end": 5.28
+  },
+  {
+   "word": "c'est",
+   "start": 5.44,
+   "end": 5.76
+  },
+  {
+   "word": "toi",
+   "start": 5.8,
+   "end": 5.92
+  },
+  {
+   "word": "qui",
+   "start": 5.98,
+   "end": 6.16
+  },
+  {
+   "word": "l'as",
+   "start": 6.18,
+   "end": 6.8
+  },
+  {
+   "word": "Topdon",
+   "start": 6.86,
+   "end": 7.2
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 7.28,
+   "end": 7.92
+  },
+  {
+   "word": "six",
+   "start": 7.96,
+   "end": 8.08
+  },
+  {
+   "word": "cents",
+   "start": 8.107,
+   "end": 8.24
+  },
+  {
+   "word": "S",
+   "start": 8.4,
+   "end": 8.64
+  },
+  {
+   "word": "écran",
+   "start": 9.113,
+   "end": 9.36
+  },
+  {
+   "word": "cinq",
+   "start": 9.4,
+   "end": 9.6
+  },
+  {
+   "word": "pouces",
+   "start": 9.64,
+   "end": 10
+  },
+  {
+   "word": "lecture",
+   "start": 10.09,
+   "end": 10.72
+  },
+  {
+   "word": "et",
+   "start": 10.747,
+   "end": 10.8
+  },
+  {
+   "word": "effacement",
+   "start": 10.84,
+   "end": 11.2
+  },
+  {
+   "word": "des",
+   "start": 11.22,
+   "end": 11.28
+  },
+  {
+   "word": "codes",
+   "start": 11.333,
+   "end": 11.92
+  },
+  {
+   "word": "quatre",
+   "start": 11.966,
+   "end": 12.24
+  },
+  {
+   "word": "systèmes",
+   "start": 12.304,
+   "end": 13.04
+  },
+  {
+   "word": "neuf",
+   "start": 13.093,
+   "end": 13.28
+  },
+  {
+   "word": "services",
+   "start": 13.324,
+   "end": 13.68
+  },
+  {
+   "word": "d'entretien",
+   "start": 13.72,
+   "end": 14.32
+  },
+  {
+   "word": "mises",
+   "start": 14.832,
+   "end": 14.88
+  },
+  {
+   "word": "à",
+   "start": 14.92,
+   "end": 14.96
+  },
+  {
+   "word": "jour",
+   "start": 15.008,
+   "end": 15.2
+  },
+  {
+   "word": "gratuites",
+   "start": 15.264,
+   "end": 15.84
+  },
+  {
+   "word": "à",
+   "start": 15.92,
+   "end": 16
+  },
+  {
+   "word": "vie",
+   "start": 16.08,
+   "end": 16.88
+  },
+  {
+   "word": "Black",
+   "start": 17.087,
+   "end": 17.12
+  },
+  {
+   "word": "Friday",
+   "start": 17.189,
+   "end": 17.6
+  },
+  {
+   "word": "jusqu'au",
+   "start": 17.64,
+   "end": 17.92
+  },
+  {
+   "word": "trente",
+   "start": 17.96,
+   "end": 18.24
+  },
+  {
+   "word": "novembre",
+   "start": 18.284,
+   "end": 18.96
+  },
+  {
+   "word": "cent",
+   "start": 18.992,
+   "end": 19.12
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 19.154,
+   "end": 19.68
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 19.714,
+   "end": 20.72
+  },
+  {
+   "word": "et",
+   "start": 20.8,
+   "end": 20.96
+  },
+  {
+   "word": "cent",
+   "start": 21.008,
+   "end": 21.2
+  },
+  {
+   "word": "cinquante",
+   "start": 21.24,
+   "end": 21.6
+  },
+  {
+   "word": "et",
+   "start": 21.653,
+   "end": 21.76
+  },
+  {
+   "word": "un",
+   "start": 21.8,
+   "end": 21.88
+  },
+  {
+   "word": "avec",
+   "start": 21.904,
+   "end": 22
+  },
+  {
+   "word": "les",
+   "start": 22.02,
+   "end": 22.08
+  },
+  {
+   "word": "coupons",
+   "start": 22.13,
+   "end": 22.56
+  },
+  {
+   "word": "panier",
+   "start": 22.66,
+   "end": 23.12
+  },
+  {
+   "word": "orange",
+   "start": 23.177,
+   "end": 23.84
+  },
+  {
+   "word": "FONCE",
+   "start": 23.92,
+   "end": 24.4
+  }
+ ],
+ "durationSec": 24.764,
+ "model": "eleven_v3"
+}

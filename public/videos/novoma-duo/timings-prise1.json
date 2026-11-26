@@ -1,0 +1,286 @@
+{
+ "words": [
+  {
+   "word": "Attends",
+   "start": 0.115,
+   "end": 0.542
+  },
+  {
+   "word": "avant",
+   "start": 0.576,
+   "end": 0.746
+  },
+  {
+   "word": "de",
+   "start": 0.769,
+   "end": 0.814
+  },
+  {
+   "word": "payer",
+   "start": 0.858,
+   "end": 1.085
+  },
+  {
+   "word": "ton",
+   "start": 1.119,
+   "end": 1.22
+  },
+  {
+   "word": "collagène",
+   "start": 1.234,
+   "end": 1.831
+  },
+  {
+   "word": "prends-en",
+   "start": 1.864,
+   "end": 2.305
+  },
+  {
+   "word": "DEUX",
+   "start": 2.328,
+   "end": 2.441
+  },
+  {
+   "word": "Novoma",
+   "start": 2.746,
+   "end": 3.0
+  },
+  {
+   "word": "Collagène",
+   "start": 3.041,
+   "end": 3.339
+  },
+  {
+   "word": "Marin",
+   "start": 3.396,
+   "end": 3.814
+  },
+  {
+   "word": "l'offre",
+   "start": 3.848,
+   "end": 4.085
+  },
+  {
+   "word": "duo",
+   "start": 4.187,
+   "end": 4.763
+  },
+  {
+   "word": "la",
+   "start": 4.786,
+   "end": 4.831
+  },
+  {
+   "word": "livraison",
+   "start": 4.865,
+   "end": 5.17
+  },
+  {
+   "word": "est",
+   "start": 5.204,
+   "end": 5.305
+  },
+  {
+   "word": "offerte",
+   "start": 5.356,
+   "end": 5.78
+  },
+  {
+   "word": "et",
+   "start": 5.933,
+   "end": 5.944
+  },
+  {
+   "word": "un",
+   "start": 5.967,
+   "end": 6.012
+  },
+  {
+   "word": "sachet",
+   "start": 6.066,
+   "end": 6.418
+  },
+  {
+   "word": "c'est",
+   "start": 6.452,
+   "end": 6.622
+  },
+  {
+   "word": "quatre",
+   "start": 6.651,
+   "end": 6.825
+  },
+  {
+   "word": "euros",
+   "start": 6.87,
+   "end": 7.096
+  },
+  {
+   "word": "quatre-vingt-dix-huit",
+   "start": 7.116,
+   "end": 7.639
+  },
+  {
+   "word": "au",
+   "start": 7.774,
+   "end": 8.046
+  },
+  {
+   "word": "lieu",
+   "start": 8.086,
+   "end": 8.249
+  },
+  {
+   "word": "de",
+   "start": 8.294,
+   "end": 8.384
+  },
+  {
+   "word": "onze",
+   "start": 8.425,
+   "end": 8.588
+  },
+  {
+   "word": "soixante-dix-sept",
+   "start": 8.656,
+   "end": 9.537
+  },
+  {
+   "word": "collagène",
+   "start": 9.926,
+   "end": 10.215
+  },
+  {
+   "word": "Naticol",
+   "start": 10.249,
+   "end": 10.757
+  },
+  {
+   "word": "acide",
+   "start": 10.893,
+   "end": 11.3
+  },
+  {
+   "word": "hyaluronique",
+   "start": 11.323,
+   "end": 11.978
+  },
+  {
+   "word": "vitamine",
+   "start": 12.029,
+   "end": 12.384
+  },
+  {
+   "word": "C",
+   "start": 12.52,
+   "end": 13.333
+  },
+  {
+   "word": "la",
+   "start": 13.386,
+   "end": 13.401
+  },
+  {
+   "word": "vitamine",
+   "start": 13.452,
+   "end": 13.74
+  },
+  {
+   "word": "C",
+   "start": 13.876,
+   "end": 14.012
+  },
+  {
+   "word": "contribue",
+   "start": 14.054,
+   "end": 14.418
+  },
+  {
+   "word": "à",
+   "start": 14.452,
+   "end": 14.486
+  },
+  {
+   "word": "la",
+   "start": 14.509,
+   "end": 14.554
+  },
+  {
+   "word": "formation",
+   "start": 14.595,
+   "end": 14.961
+  },
+  {
+   "word": "normale",
+   "start": 15.015,
+   "end": 15.368
+  },
+  {
+   "word": "de",
+   "start": 15.39,
+   "end": 15.435
+  },
+  {
+   "word": "collagène",
+   "start": 15.476,
+   "end": 16.452
+  },
+  {
+   "word": "quatre",
+   "start": 16.627,
+   "end": 16.656
+  },
+  {
+   "word": "virgule",
+   "start": 16.707,
+   "end": 16.995
+  },
+  {
+   "word": "sept",
+   "start": 17.035,
+   "end": 17.198
+  },
+  {
+   "word": "étoiles",
+   "start": 17.266,
+   "end": 17.808
+  },
+  {
+   "word": "vingt-huit",
+   "start": 17.842,
+   "end": 18.147
+  },
+  {
+   "word": "mille",
+   "start": 18.181,
+   "end": 18.283
+  },
+  {
+   "word": "vendus",
+   "start": 18.323,
+   "end": 18.961
+  },
+  {
+   "word": "panier",
+   "start": 19.084,
+   "end": 19.232
+  },
+  {
+   "word": "orange",
+   "start": 19.28,
+   "end": 19.774
+  },
+  {
+   "word": "FONCE",
+   "start": 19.842,
+   "end": 20.249
+  }
+ ],
+ "durationSec": 20.349,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

@@ -1,0 +1,256 @@
+{
+ "words": [
+  {
+   "word": "Wesh",
+   "start": 0.192,
+   "end": 0.542
+  },
+  {
+   "word": "un",
+   "start": 0.701,
+   "end": 1.017
+  },
+  {
+   "word": "complément",
+   "start": 1.074,
+   "end": 1.559
+  },
+  {
+   "word": "goût",
+   "start": 1.627,
+   "end": 1.831
+  },
+  {
+   "word": "litchi-fraise",
+   "start": 1.864,
+   "end": 2.644
+  },
+  {
+   "word": "Nuclever",
+   "start": 2.901,
+   "end": 3.384
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.438,
+   "end": 3.926
+  },
+  {
+   "word": "Manager",
+   "start": 3.985,
+   "end": 4.604
+  },
+  {
+   "word": "trois",
+   "start": 4.638,
+   "end": 4.807
+  },
+  {
+   "word": "goûts",
+   "start": 4.852,
+   "end": 5.078
+  },
+  {
+   "word": "framboise-citron",
+   "start": 5.173,
+   "end": 6.434
+  },
+  {
+   "word": "litchi-fraise",
+   "start": 6.468,
+   "end": 7.112
+  },
+  {
+   "word": "et",
+   "start": 7.203,
+   "end": 7.384
+  },
+  {
+   "word": "pêche",
+   "start": 7.485,
+   "end": 7.723
+  },
+  {
+   "word": "blanche",
+   "start": 7.767,
+   "end": 8.468
+  },
+  {
+   "word": "dedans",
+   "start": 8.655,
+   "end": 8.875
+  },
+  {
+   "word": "ashwagandha",
+   "start": 8.977,
+   "end": 10.028
+  },
+  {
+   "word": "elle-théanine",
+   "start": 10.068,
+   "end": 10.909
+  },
+  {
+   "word": "magnésium",
+   "start": 10.95,
+   "end": 11.655
+  },
+  {
+   "word": "vitamine",
+   "start": 11.706,
+   "end": 12.062
+  },
+  {
+   "word": "D",
+   "start": 12.163,
+   "end": 12.807
+  },
+  {
+   "word": "la",
+   "start": 12.928,
+   "end": 12.943
+  },
+  {
+   "word": "vitamine",
+   "start": 12.977,
+   "end": 13.282
+  },
+  {
+   "word": "D",
+   "start": 13.35,
+   "end": 13.417
+  },
+  {
+   "word": "contribue",
+   "start": 13.46,
+   "end": 13.892
+  },
+  {
+   "word": "au",
+   "start": 13.937,
+   "end": 14.028
+  },
+  {
+   "word": "maintien",
+   "start": 14.051,
+   "end": 14.231
+  },
+  {
+   "word": "d'une",
+   "start": 14.265,
+   "end": 14.367
+  },
+  {
+   "word": "fonction",
+   "start": 14.397,
+   "end": 14.638
+  },
+  {
+   "word": "musculaire",
+   "start": 14.689,
+   "end": 15.045
+  },
+  {
+   "word": "normale",
+   "start": 15.099,
+   "end": 15.994
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 16.252,
+   "end": 16.739
+  },
+  {
+   "word": "mille",
+   "start": 16.773,
+   "end": 16.943
+  },
+  {
+   "word": "vendus",
+   "start": 16.984,
+   "end": 17.621
+  },
+  {
+   "word": "deuxième",
+   "start": 17.675,
+   "end": 18.095
+  },
+  {
+   "word": "au",
+   "start": 18.118,
+   "end": 18.163
+  },
+  {
+   "word": "classement",
+   "start": 18.202,
+   "end": 18.502
+  },
+  {
+   "word": "des",
+   "start": 18.519,
+   "end": 18.57
+  },
+  {
+   "word": "ventes",
+   "start": 18.624,
+   "end": 19.248
+  },
+  {
+   "word": "vingt",
+   "start": 19.339,
+   "end": 19.389
+  },
+  {
+   "word": "euros",
+   "start": 19.434,
+   "end": 19.661
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 19.689,
+   "end": 20.169
+  },
+  {
+   "word": "le",
+   "start": 20.203,
+   "end": 20.271
+  },
+  {
+   "word": "mois",
+   "start": 20.312,
+   "end": 20.678
+  },
+  {
+   "word": "livraison",
+   "start": 20.728,
+   "end": 21.084
+  },
+  {
+   "word": "gratuite",
+   "start": 21.129,
+   "end": 21.695
+  },
+  {
+   "word": "panier",
+   "start": 21.745,
+   "end": 21.966
+  },
+  {
+   "word": "orange",
+   "start": 22.024,
+   "end": 22.712
+  },
+  {
+   "word": "FONCE",
+   "start": 22.779,
+   "end": 23.186
+  }
+ ],
+ "durationSec": 23.38,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

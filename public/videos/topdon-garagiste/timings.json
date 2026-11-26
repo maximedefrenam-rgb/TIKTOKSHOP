@@ -1,0 +1,316 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.065,
+   "end": 0.074
+  },
+  {
+   "word": "garagiste",
+   "start": 0.108,
+   "end": 0.549
+  },
+  {
+   "word": "branche",
+   "start": 0.594,
+   "end": 0.888
+  },
+  {
+   "word": "sa",
+   "start": 0.911,
+   "end": 0.956
+  },
+  {
+   "word": "valise",
+   "start": 0.99,
+   "end": 1.227
+  },
+  {
+   "word": "deux",
+   "start": 1.24,
+   "end": 1.295
+  },
+  {
+   "word": "minutes",
+   "start": 1.337,
+   "end": 1.701
+  },
+  {
+   "word": "et",
+   "start": 1.769,
+   "end": 1.81
+  },
+  {
+   "word": "il",
+   "start": 1.833,
+   "end": 1.878
+  },
+  {
+   "word": "te",
+   "start": 1.923,
+   "end": 2.014
+  },
+  {
+   "word": "facture",
+   "start": 2.068,
+   "end": 2.42
+  },
+  {
+   "word": "Maintenant",
+   "start": 2.705,
+   "end": 2.937
+  },
+  {
+   "word": "la",
+   "start": 2.96,
+   "end": 3.005
+  },
+  {
+   "word": "valise",
+   "start": 3.039,
+   "end": 3.411
+  },
+  {
+   "word": "c'est",
+   "start": 3.547,
+   "end": 3.818
+  },
+  {
+   "word": "toi",
+   "start": 3.852,
+   "end": 3.954
+  },
+  {
+   "word": "qui",
+   "start": 4.005,
+   "end": 4.157
+  },
+  {
+   "word": "l'as",
+   "start": 4.174,
+   "end": 4.7
+  },
+  {
+   "word": "Topdon",
+   "start": 4.75,
+   "end": 5.039
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 5.106,
+   "end": 5.649
+  },
+  {
+   "word": "six",
+   "start": 5.683,
+   "end": 5.784
+  },
+  {
+   "word": "cents",
+   "start": 5.807,
+   "end": 5.92
+  },
+  {
+   "word": "S",
+   "start": 6.055,
+   "end": 6.259
+  },
+  {
+   "word": "écran",
+   "start": 6.393,
+   "end": 6.602
+  },
+  {
+   "word": "cinq",
+   "start": 6.636,
+   "end": 6.805
+  },
+  {
+   "word": "pouces",
+   "start": 6.839,
+   "end": 7.144
+  },
+  {
+   "word": "lecture",
+   "start": 7.221,
+   "end": 7.754
+  },
+  {
+   "word": "et",
+   "start": 7.777,
+   "end": 7.822
+  },
+  {
+   "word": "effacement",
+   "start": 7.856,
+   "end": 8.161
+  },
+  {
+   "word": "des",
+   "start": 8.178,
+   "end": 8.229
+  },
+  {
+   "word": "codes",
+   "start": 8.274,
+   "end": 8.771
+  },
+  {
+   "word": "quatre",
+   "start": 8.81,
+   "end": 9.043
+  },
+  {
+   "word": "systèmes",
+   "start": 9.097,
+   "end": 9.721
+  },
+  {
+   "word": "neuf",
+   "start": 9.765,
+   "end": 9.924
+  },
+  {
+   "word": "services",
+   "start": 9.961,
+   "end": 10.263
+  },
+  {
+   "word": "d'entretien",
+   "start": 10.297,
+   "end": 10.805
+  },
+  {
+   "word": "mises",
+   "start": 11.005,
+   "end": 11.046
+  },
+  {
+   "word": "à",
+   "start": 11.08,
+   "end": 11.114
+  },
+  {
+   "word": "jour",
+   "start": 11.154,
+   "end": 11.317
+  },
+  {
+   "word": "gratuites",
+   "start": 11.371,
+   "end": 11.859
+  },
+  {
+   "word": "à",
+   "start": 11.927,
+   "end": 11.995
+  },
+  {
+   "word": "vie",
+   "start": 12.063,
+   "end": 12.741
+  },
+  {
+   "word": "Black",
+   "start": 12.916,
+   "end": 12.944
+  },
+  {
+   "word": "Friday",
+   "start": 13.003,
+   "end": 13.351
+  },
+  {
+   "word": "jusqu'au",
+   "start": 13.385,
+   "end": 13.622
+  },
+  {
+   "word": "trente",
+   "start": 13.656,
+   "end": 13.893
+  },
+  {
+   "word": "novembre",
+   "start": 13.931,
+   "end": 14.503
+  },
+  {
+   "word": "cent",
+   "start": 14.531,
+   "end": 14.639
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 14.668,
+   "end": 15.114
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 15.142,
+   "end": 15.995
+  },
+  {
+   "word": "et",
+   "start": 16.063,
+   "end": 16.198
+  },
+  {
+   "word": "cent",
+   "start": 16.239,
+   "end": 16.402
+  },
+  {
+   "word": "cinquante",
+   "start": 16.436,
+   "end": 16.741
+  },
+  {
+   "word": "et",
+   "start": 16.786,
+   "end": 16.876
+  },
+  {
+   "word": "un",
+   "start": 16.91,
+   "end": 16.978
+  },
+  {
+   "word": "avec",
+   "start": 16.998,
+   "end": 17.08
+  },
+  {
+   "word": "les",
+   "start": 17.097,
+   "end": 17.147
+  },
+  {
+   "word": "coupons",
+   "start": 17.19,
+   "end": 17.554
+  },
+  {
+   "word": "panier",
+   "start": 17.639,
+   "end": 18.029
+  },
+  {
+   "word": "orange",
+   "start": 18.077,
+   "end": 18.639
+  },
+  {
+   "word": "FONCE",
+   "start": 18.707,
+   "end": 19.114
+  }
+ ],
+ "durationSec": 19.331,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 6
+ }
+}

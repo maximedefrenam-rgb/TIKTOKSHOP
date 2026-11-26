@@ -1,0 +1,311 @@
+{
+ "words": [
+  {
+   "word": "Un",
+   "start": 0.1,
+   "end": 0.123
+  },
+  {
+   "word": "masque",
+   "start": 0.191,
+   "end": 0.462
+  },
+  {
+   "word": "qui",
+   "start": 0.513,
+   "end": 0.665
+  },
+  {
+   "word": "s'arrache",
+   "start": 0.699,
+   "end": 1.072
+  },
+  {
+   "word": "d'un",
+   "start": 1.14,
+   "end": 1.276
+  },
+  {
+   "word": "coup",
+   "start": 1.33,
+   "end": 1.886
+  },
+  {
+   "word": "t'as",
+   "start": 1.92,
+   "end": 2.021
+  },
+  {
+   "word": "jamais",
+   "start": 2.06,
+   "end": 2.292
+  },
+  {
+   "word": "testé",
+   "start": 2.333,
+   "end": 2.564
+  },
+  {
+   "word": "Le",
+   "start": 2.773,
+   "end": 2.818
+  },
+  {
+   "word": "masque",
+   "start": 2.869,
+   "end": 3.157
+  },
+  {
+   "word": "peel-off",
+   "start": 3.211,
+   "end": 3.699
+  },
+  {
+   "word": "à",
+   "start": 3.767,
+   "end": 3.835
+  },
+  {
+   "word": "la",
+   "start": 3.858,
+   "end": 3.902
+  },
+  {
+   "word": "vitamine",
+   "start": 3.953,
+   "end": 4.241
+  },
+  {
+   "word": "C",
+   "start": 4.377,
+   "end": 4.513
+  },
+  {
+   "word": "de",
+   "start": 4.535,
+   "end": 4.58
+  },
+  {
+   "word": "ce",
+   "start": 4.625,
+   "end": 4.716
+  },
+  {
+   "word": "kit",
+   "start": 4.767,
+   "end": 4.919
+  },
+  {
+   "word": "curcuma",
+   "start": 4.97,
+   "end": 5.462
+  },
+  {
+   "word": "avec",
+   "start": 5.648,
+   "end": 5.675
+  },
+  {
+   "word": "curcuma",
+   "start": 5.743,
+   "end": 6.421
+  },
+  {
+   "word": "acide",
+   "start": 6.466,
+   "end": 6.692
+  },
+  {
+   "word": "kojique",
+   "start": 6.737,
+   "end": 7.234
+  },
+  {
+   "word": "calendula",
+   "start": 7.273,
+   "end": 7.709
+  },
+  {
+   "word": "et",
+   "start": 7.777,
+   "end": 7.912
+  },
+  {
+   "word": "miel",
+   "start": 7.957,
+   "end": 8.251
+  },
+  {
+   "word": "nettoyage",
+   "start": 8.404,
+   "end": 9.268
+  },
+  {
+   "word": "en",
+   "start": 9.313,
+   "end": 9.404
+  },
+  {
+   "word": "profondeur",
+   "start": 9.445,
+   "end": 10.014
+  },
+  {
+   "word": "selon",
+   "start": 10.048,
+   "end": 10.217
+  },
+  {
+   "word": "la",
+   "start": 10.262,
+   "end": 10.353
+  },
+  {
+   "word": "marque",
+   "start": 10.392,
+   "end": 10.963
+  },
+  {
+   "word": "et",
+   "start": 11.076,
+   "end": 11.087
+  },
+  {
+   "word": "t'as",
+   "start": 11.095,
+   "end": 11.307
+  },
+  {
+   "word": "aussi",
+   "start": 11.33,
+   "end": 11.443
+  },
+  {
+   "word": "le",
+   "start": 11.511,
+   "end": 11.646
+  },
+  {
+   "word": "savon",
+   "start": 11.714,
+   "end": 12.324
+  },
+  {
+   "word": "le",
+   "start": 12.347,
+   "end": 12.392
+  },
+  {
+   "word": "nettoyant",
+   "start": 12.443,
+   "end": 13.206
+  },
+  {
+   "word": "l'huile",
+   "start": 13.24,
+   "end": 13.68
+  },
+  {
+   "word": "et",
+   "start": 13.703,
+   "end": 13.748
+  },
+  {
+   "word": "la",
+   "start": 13.771,
+   "end": 13.816
+  },
+  {
+   "word": "crème",
+   "start": 13.884,
+   "end": 14.697
+  },
+  {
+   "word": "plus",
+   "start": 14.85,
+   "end": 14.904
+  },
+  {
+   "word": "de",
+   "start": 14.972,
+   "end": 15.107
+  },
+  {
+   "word": "soixante-trois",
+   "start": 15.152,
+   "end": 15.785
+  },
+  {
+   "word": "mille",
+   "start": 15.819,
+   "end": 15.921
+  },
+  {
+   "word": "vendus",
+   "start": 15.975,
+   "end": 16.734
+  },
+  {
+   "word": "vingt",
+   "start": 16.965,
+   "end": 17.006
+  },
+  {
+   "word": "et",
+   "start": 17.051,
+   "end": 17.141
+  },
+  {
+   "word": "un",
+   "start": 17.198,
+   "end": 17.311
+  },
+  {
+   "word": "euros",
+   "start": 17.339,
+   "end": 17.48
+  },
+  {
+   "word": "soixante-quinze",
+   "start": 17.503,
+   "end": 17.989
+  },
+  {
+   "word": "les",
+   "start": 18.014,
+   "end": 18.09
+  },
+  {
+   "word": "six",
+   "start": 18.124,
+   "end": 18.226
+  },
+  {
+   "word": "pièces",
+   "start": 18.277,
+   "end": 18.701
+  },
+  {
+   "word": "panier",
+   "start": 18.751,
+   "end": 18.972
+  },
+  {
+   "word": "orange",
+   "start": 19.04,
+   "end": 19.65
+  },
+  {
+   "word": "FONCE",
+   "start": 19.717,
+   "end": 20.124
+  }
+ ],
+ "durationSec": 20.297,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.14,
+   "end": 0.16
+  },
+  {
+   "word": "pré-workout",
+   "start": 0.2,
+   "end": 1.04
+  },
+  {
+   "word": "faut",
+   "start": 1.056,
+   "end": 1.12
+  },
+  {
+   "word": "le",
+   "start": 1.173,
+   "end": 1.28
+  },
+  {
+   "word": "doser",
+   "start": 1.36,
+   "end": 2
+  },
+  {
+   "word": "le",
+   "start": 2.027,
+   "end": 2.08
+  },
+  {
+   "word": "shaker",
+   "start": 2.16,
+   "end": 2.72
+  },
+  {
+   "word": "et",
+   "start": 2.853,
+   "end": 3.12
+  },
+  {
+   "word": "te",
+   "start": 3.147,
+   "end": 3.2
+  },
+  {
+   "word": "taper",
+   "start": 3.253,
+   "end": 3.52
+  },
+  {
+   "word": "un",
+   "start": 3.6,
+   "end": 3.76
+  },
+  {
+   "word": "litre",
+   "start": 3.813,
+   "end": 4.08
+  },
+  {
+   "word": "de",
+   "start": 4.107,
+   "end": 4.16
+  },
+  {
+   "word": "flotte",
+   "start": 4.24,
+   "end": 4.56
+  },
+  {
+   "word": "Avec",
+   "start": 5.472,
+   "end": 5.52
+  },
+  {
+   "word": "ZAP",
+   "start": 5.6,
+   "end": 6.16
+  },
+  {
+   "word": "un",
+   "start": 6.213,
+   "end": 6.32
+  },
+  {
+   "word": "sachet",
+   "start": 6.368,
+   "end": 6.64
+  },
+  {
+   "word": "sous",
+   "start": 6.672,
+   "end": 6.8
+  },
+  {
+   "word": "la",
+   "start": 6.827,
+   "end": 6.88
+  },
+  {
+   "word": "lèvre",
+   "start": 6.92,
+   "end": 7.12
+  },
+  {
+   "word": "et",
+   "start": 7.173,
+   "end": 7.28
+  },
+  {
+   "word": "t'es",
+   "start": 7.32,
+   "end": 7.52
+  },
+  {
+   "word": "dans",
+   "start": 7.552,
+   "end": 7.68
+  },
+  {
+   "word": "ta",
+   "start": 7.733,
+   "end": 7.84
+  },
+  {
+   "word": "zone",
+   "start": 7.888,
+   "end": 8.48
+  },
+  {
+   "word": "cent",
+   "start": 8.709,
+   "end": 8.72
+  },
+  {
+   "word": "milligrammes",
+   "start": 8.752,
+   "end": 9.2
+  },
+  {
+   "word": "de",
+   "start": 9.227,
+   "end": 9.28
+  },
+  {
+   "word": "caféine",
+   "start": 9.344,
+   "end": 9.84
+  },
+  {
+   "word": "plus",
+   "start": 9.888,
+   "end": 10.08
+  },
+  {
+   "word": "qu'un",
+   "start": 10.107,
+   "end": 10.24
+  },
+  {
+   "word": "expresso",
+   "start": 10.3,
+   "end": 10.88
+  },
+  {
+   "word": "elle-théanine",
+   "start": 10.96,
+   "end": 12.08
+  },
+  {
+   "word": "vitamines",
+   "start": 12.14,
+   "end": 12.64
+  },
+  {
+   "word": "B",
+   "start": 12.72,
+   "end": 12.88
+  },
+  {
+   "word": "goût",
+   "start": 13.013,
+   "end": 13.36
+  },
+  {
+   "word": "cerise",
+   "start": 13.42,
+   "end": 13.76
+  },
+  {
+   "word": "noire",
+   "start": 13.813,
+   "end": 14.16
+  },
+  {
+   "word": "trente-six",
+   "start": 14.705,
+   "end": 15.04
+  },
+  {
+   "word": "sachets",
+   "start": 15.12,
+   "end": 15.52
+  },
+  {
+   "word": "pour",
+   "start": 15.568,
+   "end": 15.76
+  },
+  {
+   "word": "dix",
+   "start": 15.84,
+   "end": 16.08
+  },
+  {
+   "word": "euros",
+   "start": 16.107,
+   "end": 16.24
+  },
+  {
+   "word": "seize",
+   "start": 16.293,
+   "end": 17.04
+  },
+  {
+   "word": "vingt-huit",
+   "start": 17.12,
+   "end": 17.72
+  },
+  {
+   "word": "centimes",
+   "start": 17.76,
+   "end": 18.08
+  },
+  {
+   "word": "la",
+   "start": 18.107,
+   "end": 18.16
+  },
+  {
+   "word": "séance",
+   "start": 18.24,
+   "end": 18.96
+  },
+  {
+   "word": "moins",
+   "start": 19.103,
+   "end": 19.12
+  },
+  {
+   "word": "trente-deux",
+   "start": 19.18,
+   "end": 19.72
+  },
+  {
+   "word": "pour",
+   "start": 19.744,
+   "end": 19.84
+  },
+  {
+   "word": "cent",
+   "start": 19.888,
+   "end": 20.16
+  },
+  {
+   "word": "livraison",
+   "start": 20.28,
+   "end": 20.88
+  },
+  {
+   "word": "gratuite",
+   "start": 20.942,
+   "end": 21.68
+  },
+  {
+   "word": "panier",
+   "start": 21.74,
+   "end": 22
+  },
+  {
+   "word": "orange",
+   "start": 22.057,
+   "end": 22.8
+  },
+  {
+   "word": "FONCE",
+   "start": 22.88,
+   "end": 23.36
+  }
+ ],
+ "durationSec": 23.562,
+ "model": "eleven_v3"
+}

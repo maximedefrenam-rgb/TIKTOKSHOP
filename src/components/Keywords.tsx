@@ -57,7 +57,7 @@ export const Keywords: React.FC<{keywords: Keyword[]; sceneTo: number; offset: n
         const a = s2f(k.at);
         const u = s2f(until);
         if (frame < a || frame > u + 6) return null;
-        const pin = sp(frame, a);
+        const pin = k.instant ? 1 : sp(frame, a);
         const pout = frame > u ? 1 - sp(frame, u, SNAP) : 1;
         return (
           <BigText

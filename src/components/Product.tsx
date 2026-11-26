@@ -24,6 +24,9 @@ type Props = {
   offset?: number;
 };
 
+/** Remontée du produit (px) quand une pastille de prix occupe le bas de l'écran. */
+export const ProductLift = React.createContext(0);
+
 /**
  * Le produit n'est JAMAIS immobile : flottement non périodique (bruit), rotateY ±12°,
  * reflet de lumière qui le balaie, ombre douce. L'emballage n'est jamais recoloré ni déformé :
@@ -33,6 +36,7 @@ export const Product: React.FC<Props> = ({
   src, height, cx, cy, enterAt, enter = 'rise', sweeps = [], open = 0, splitAt = 0.46, seed = 'p', scale = 1, offset = 0,
 }) => {
   const frame = useCurrentFrame() + offset;
+  const lift = React.useContext(ProductLift);
   const t = frame / 30;
   const n1 = noise2D(seed + 'ry', t * 0.35, 0);
   const n2 = noise2D(seed + 'y', t * 0.45, 3);
@@ -73,7 +77,7 @@ export const Product: React.FC<Props> = ({
   return (
     <div
       style={{
-        position: 'absolute', left: cx, top: cy,
+        position: 'absolute', left: cx, top: cy - lift,
         transform: `translate(-50%, -50%) translateY(${floatY + enterY}px) scale(${enterScale * scale})`,
         opacity,
       }}

@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Dimanche",
+   "start": 0.178,
+   "end": 0.339
+  },
+  {
+   "word": "soir",
+   "start": 0.393,
+   "end": 0.881
+  },
+  {
+   "word": "et",
+   "start": 0.926,
+   "end": 1.017
+  },
+  {
+   "word": "t'as",
+   "start": 1.051,
+   "end": 1.22
+  },
+  {
+   "word": "déjà",
+   "start": 1.275,
+   "end": 1.492
+  },
+  {
+   "word": "la",
+   "start": 1.514,
+   "end": 1.559
+  },
+  {
+   "word": "boule",
+   "start": 1.593,
+   "end": 1.763
+  },
+  {
+   "word": "au",
+   "start": 1.786,
+   "end": 1.831
+  },
+  {
+   "word": "ventre",
+   "start": 1.844,
+   "end": 1.966
+  },
+  {
+   "word": "pour",
+   "start": 1.98,
+   "end": 2.034
+  },
+  {
+   "word": "lundi",
+   "start": 2.068,
+   "end": 2.305
+  },
+  {
+   "word": "Regarde",
+   "start": 2.594,
+   "end": 3.162
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.23,
+   "end": 3.705
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.759,
+   "end": 4.179
+  },
+  {
+   "word": "Manager",
+   "start": 4.238,
+   "end": 4.993
+  },
+  {
+   "word": "un",
+   "start": 5.038,
+   "end": 5.128
+  },
+  {
+   "word": "sachet",
+   "start": 5.169,
+   "end": 5.467
+  },
+  {
+   "word": "par",
+   "start": 5.484,
+   "end": 5.535
+  },
+  {
+   "word": "jour",
+   "start": 5.589,
+   "end": 5.806
+  },
+  {
+   "word": "dans",
+   "start": 5.833,
+   "end": 5.942
+  },
+  {
+   "word": "ton",
+   "start": 5.976,
+   "end": 6.077
+  },
+  {
+   "word": "eau",
+   "start": 6.111,
+   "end": 6.281
+  },
+  {
+   "word": "ashwagandha",
+   "start": 6.455,
+   "end": 7.082
+  },
+  {
+   "word": "elle-théanine",
+   "start": 7.123,
+   "end": 7.896
+  },
+  {
+   "word": "magnésium",
+   "start": 7.937,
+   "end": 8.37
+  },
+  {
+   "word": "et",
+   "start": 8.415,
+   "end": 8.506
+  },
+  {
+   "word": "vitamine",
+   "start": 8.557,
+   "end": 8.913
+  },
+  {
+   "word": "D",
+   "start": 8.981,
+   "end": 9.523
+  },
+  {
+   "word": "le",
+   "start": 9.58,
+   "end": 9.591
+  },
+  {
+   "word": "magnésium",
+   "start": 9.632,
+   "end": 10.065
+  },
+  {
+   "word": "contribue",
+   "start": 10.108,
+   "end": 10.472
+  },
+  {
+   "word": "à",
+   "start": 10.506,
+   "end": 10.54
+  },
+  {
+   "word": "des",
+   "start": 10.557,
+   "end": 10.608
+  },
+  {
+   "word": "fonctions",
+   "start": 10.642,
+   "end": 10.947
+  },
+  {
+   "word": "psychologiques",
+   "start": 10.981,
+   "end": 11.489
+  },
+  {
+   "word": "normales",
+   "start": 11.543,
+   "end": 11.828
+  },
+  {
+   "word": "et",
+   "start": 11.941,
+   "end": 12.167
+  },
+  {
+   "word": "à",
+   "start": 12.235,
+   "end": 12.303
+  },
+  {
+   "word": "réduire",
+   "start": 12.348,
+   "end": 12.642
+  },
+  {
+   "word": "la",
+   "start": 12.665,
+   "end": 12.709
+  },
+  {
+   "word": "fatigue",
+   "start": 12.752,
+   "end": 13.523
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 13.714,
+   "end": 14.133
+  },
+  {
+   "word": "mille",
+   "start": 14.201,
+   "end": 14.337
+  },
+  {
+   "word": "vendus",
+   "start": 14.377,
+   "end": 14.947
+  },
+  {
+   "word": "quatre",
+   "start": 14.966,
+   "end": 15.082
+  },
+  {
+   "word": "virgule",
+   "start": 15.133,
+   "end": 15.354
+  },
+  {
+   "word": "cinq",
+   "start": 15.387,
+   "end": 15.489
+  },
+  {
+   "word": "étoiles",
+   "start": 15.591,
+   "end": 16.438
+  },
+  {
+   "word": "soixante-dix",
+   "start": 16.563,
+   "end": 16.914
+  },
+  {
+   "word": "centimes",
+   "start": 16.967,
+   "end": 17.32
+  },
+  {
+   "word": "par",
+   "start": 17.337,
+   "end": 17.387
+  },
+  {
+   "word": "jour",
+   "start": 17.442,
+   "end": 17.93
+  },
+  {
+   "word": "livraison",
+   "start": 17.981,
+   "end": 18.337
+  },
+  {
+   "word": "gratuite",
+   "start": 18.382,
+   "end": 19.015
+  },
+  {
+   "word": "panier",
+   "start": 19.048,
+   "end": 19.286
+  },
+  {
+   "word": "orange",
+   "start": 19.334,
+   "end": 19.964
+  },
+  {
+   "word": "FONCE",
+   "start": 20.065,
+   "end": 20.506
+  }
+ ],
+ "durationSec": 20.637,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

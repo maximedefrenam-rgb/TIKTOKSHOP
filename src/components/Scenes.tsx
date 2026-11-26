@@ -11,7 +11,7 @@ type P<K extends Scene['kind']> = {scene: Extract<Scene, {kind: K}>; cfg: VideoC
 const useAbs = (offset: number) => useCurrentFrame() + offset;
 /** Centre horizontal du produit : décalé à droite si le présentateur est à l'écran (en bas à gauche). */
 export const productCx = (cfg: VideoConfig, scene: Scene) =>
-  cfg.character && !(cfg.character.hiddenInScenes ?? []).includes(cfg.scenes.indexOf(scene)) ? 600 : SAFE_CX;
+  cfg.character && !(cfg.character.hiddenInScenes ?? []).includes(cfg.scenes.indexOf(scene)) ? (cfg.priceTag ? 630 : 600) : SAFE_CX;
 const euro = (v: number) => v.toFixed(2).replace('.', ',') + ' €';
 
 /* ---------------------------------------------------------------- ACCROCHE */
@@ -19,7 +19,7 @@ export const HookScene: React.FC<P<'hook'>> = ({scene, cfg, offset}) => {
   const f0 = s2f(scene.from);
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={900} cx={productCx(cfg, scene)} cy={1140} enterAt={f0} enter="slam" sweeps={[f0 + 12]} seed="hook" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={900} cx={productCx(cfg, scene)} cy={1140} enterAt={f0} enter={f0 <= 1 ? 'none' : 'slam'} sweeps={[f0 + 12]} seed="hook" />
       <Keywords keywords={scene.keywords ?? []} sceneTo={scene.to} offset={offset} accent={cfg.accent} defaultY={420} />
     </AbsoluteFill>
   );
@@ -42,8 +42,6 @@ export const PriceScene: React.FC<P<'price'>> = ({scene, cfg, offset}) => {
       <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={640} cx={productCx(cfg, scene)} cy={1320} enterAt={s2f(scene.from)} sweeps={[rA + 2]} seed="price" />
       <div style={{opacity: 1 - strike * 0.55}}>
         <BigText text={euro(count)} size={190} color={BRAND.colors.text} y={360} progress={pPrice} />
-        <div style={{position: 'absolute', left: SAFE_CX, top: 360, width: 560 * strike, height: 12, background: BRAND.colors.alert,
-          transform: 'translate(-50%, -50%) rotate(-6deg)', borderRadius: 6}} />
         <BigText text={`÷ ${scene.doses} ${scene.divLabel ?? 'DOSES'}`} size={110} color={BRAND.colors.text} y={540} progress={pDiv} />
       </div>
       <BigText text={euro(f >= rA ? resCount : perDose)} size={240} color={cfg.accent} y={770} progress={pRes} />
@@ -111,7 +109,9 @@ const labelSize = (it: {label: string; sub?: string}) => {
 export const CutawayScene: React.FC<P<'cutaway'>> = ({scene, cfg, offset}) => {
   const f = useAbs(offset);
   const oA = s2f(scene.openAt);
-  const open = f >= oA ? sp(f, oA, {damping: 12, stiffness: 120, mass: 0.8}) : 0;
+  const openS = f >= oA ? sp(f, oA, {damping: 12, stiffness: 120, mass: 0.8}) : 0;
+  const zoom = scene.style === 'zoom';
+  const open = zoom ? 0 : openS;
   // emballage large (productScale < 1) : produit plus bas pour que le couvercle ne monte pas sur les textes
   const h = 700, cy = 1260 + (1 - (cfg.productScale ?? 1)) * h * 0.5;
   const glow = lin(f, oA, oA + 8) * (1 - lin(f, oA + 20, oA + 45) * 0.5);
@@ -120,7 +120,7 @@ export const CutawayScene: React.FC<P<'cutaway'>> = ({scene, cfg, offset}) => {
       {/* lueur qui sort du produit ouvert */}
       <div style={{position: 'absolute', left: productCx(cfg, scene), top: cy - h * 0.05, width: 700, height: 700, transform: 'translate(-50%, -50%)',
         background: `radial-gradient(circle, ${cfg.accent}AA 0%, ${cfg.accent}00 65%)`, opacity: glow}} />
-      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={h} cx={productCx(cfg, scene)} cy={cy} enterAt={s2f(scene.from)} open={open} seed="cut" sweeps={[s2f(scene.from) + 6]} />
+      <Product offset={offset} src={cfg.productImage} scale={(cfg.productScale ?? 1) * (zoom ? 1 + 0.22 * openS : 1)} height={h} cx={productCx(cfg, scene)} cy={zoom ? cy + 40 : cy} enterAt={s2f(scene.from)} open={open} seed="cut" sweeps={[s2f(scene.from) + 6]} />
       <Particles frame={f} start={oA} cx={productCx(cfg, scene)} cy={cy - h * 0.04} accent={cfg.accent} />
       {scene.items.map((it, i) => {
         const a = s2f(it.at);
