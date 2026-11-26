@@ -126,7 +126,8 @@ Seules les allégations santé autorisées par l'UE :
 - Aucun texte important dans les 250 px du bas ni les 150 px de droite.
 
 ## Règles visuelles pour attirer l'œil et vendre (décidées le 26/11, à appliquer à toutes les prochaines vidéos)
-Pas encore codées dans le modèle : les implémenter (ShopVideo / Scenes / variant.ts) à la prochaine vidéo, puis s'y tenir.
+Codées depuis le lot 2 (26/11) : `priceTag` (pastille), 1er mot-clé `instant` (variant.ts), coupe `style: 'zoom'`,
+scène `photo` (photos d'usage dans `public/videos/photos/`), prix total estompé. Exemple complet : `videos/variantes/lot2.ts`.
 1. **Image 0 = miniature** : le chiffre ou la phrase choc est déjà affiché, en très gros, dès la toute première image
    (pas d'animation d'entrée sur le premier mot-clé). Ne pas gaspiller l'écran sur un « WESH ?! » de 0,4 s : l'interjection
    peut rester dans la voix, l'écran montre directement le chiffre choc.
