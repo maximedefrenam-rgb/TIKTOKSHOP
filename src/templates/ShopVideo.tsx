@@ -86,7 +86,7 @@ const SceneFrame: React.FC<{start: number; dur: number; T: number; enter: Transi
 const PriceTag: React.FC<{cfg: VideoConfig}> = ({cfg}) => {
   const frame = useCurrentFrame();
   const tag = cfg.priceTag!;
-  const hideIn = tag.hideIn ?? ['price', 'deal', 'cta', 'reviews', 'cutaway', 'photo'];
+  const hideIn = tag.hideIn ?? ['price', 'deal', 'cta', 'reviews', 'cutaway', 'photo', 'doses', 'compare'];
   let vis = 1;
   cfg.scenes.forEach((s) => {
     if (!hideIn.includes(s.kind)) return;

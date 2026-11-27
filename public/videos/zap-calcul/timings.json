@@ -1,0 +1,241 @@
+{
+ "words": [
+  {
+   "word": "Attends",
+   "start": 0.115,
+   "end": 0.407
+  },
+  {
+   "word": "on",
+   "start": 0.43,
+   "end": 0.475
+  },
+  {
+   "word": "fait",
+   "start": 0.502,
+   "end": 0.61
+  },
+  {
+   "word": "le",
+   "start": 0.655,
+   "end": 0.746
+  },
+  {
+   "word": "calcul",
+   "start": 0.765,
+   "end": 0.881
+  },
+  {
+   "word": "ensemble",
+   "start": 0.919,
+   "end": 1.22
+  },
+  {
+   "word": "Dix",
+   "start": 1.468,
+   "end": 1.481
+  },
+  {
+   "word": "euros",
+   "start": 1.538,
+   "end": 1.82
+  },
+  {
+   "word": "seize",
+   "start": 1.854,
+   "end": 2.43
+  },
+  {
+   "word": "divisé",
+   "start": 2.498,
+   "end": 2.905
+  },
+  {
+   "word": "par",
+   "start": 2.939,
+   "end": 3.04
+  },
+  {
+   "word": "trente-six",
+   "start": 3.091,
+   "end": 3.515
+  },
+  {
+   "word": "sachets",
+   "start": 3.555,
+   "end": 3.922
+  },
+  {
+   "word": "vingt-huit",
+   "start": 4.111,
+   "end": 4.391
+  },
+  {
+   "word": "centimes",
+   "start": 4.458,
+   "end": 4.865
+  },
+  {
+   "word": "wesh",
+   "start": 4.899,
+   "end": 5.136
+  },
+  {
+   "word": "et",
+   "start": 5.297,
+   "end": 5.312
+  },
+  {
+   "word": "pour",
+   "start": 5.339,
+   "end": 5.448
+  },
+  {
+   "word": "ce",
+   "start": 5.493,
+   "end": 5.583
+  },
+  {
+   "word": "prix-là",
+   "start": 5.624,
+   "end": 5.99
+  },
+  {
+   "word": "cent",
+   "start": 6.098,
+   "end": 6.532
+  },
+  {
+   "word": "milligrammes",
+   "start": 6.573,
+   "end": 7.007
+  },
+  {
+   "word": "de",
+   "start": 7.03,
+   "end": 7.075
+  },
+  {
+   "word": "caféine",
+   "start": 7.143,
+   "end": 7.753
+  },
+  {
+   "word": "plus",
+   "start": 7.793,
+   "end": 7.956
+  },
+  {
+   "word": "qu'un",
+   "start": 7.979,
+   "end": 8.092
+  },
+  {
+   "word": "expresso",
+   "start": 8.143,
+   "end": 9.041
+  },
+  {
+   "word": "elle-théanine",
+   "start": 9.068,
+   "end": 9.651
+  },
+  {
+   "word": "et",
+   "start": 9.674,
+   "end": 9.719
+  },
+  {
+   "word": "vitamines",
+   "start": 9.753,
+   "end": 10.126
+  },
+  {
+   "word": "B",
+   "start": 10.193,
+   "end": 10.397
+  },
+  {
+   "word": "fabriqué",
+   "start": 10.567,
+   "end": 10.872
+  },
+  {
+   "word": "en",
+   "start": 10.895,
+   "end": 10.94
+  },
+  {
+   "word": "Suède",
+   "start": 11.031,
+   "end": 11.753
+  },
+  {
+   "word": "goût",
+   "start": 11.798,
+   "end": 11.957
+  },
+  {
+   "word": "cerise",
+   "start": 12.025,
+   "end": 12.364
+  },
+  {
+   "word": "noire",
+   "start": 12.409,
+   "end": 13.245
+  },
+  {
+   "word": "moins",
+   "start": 13.42,
+   "end": 13.448
+  },
+  {
+   "word": "trente-deux",
+   "start": 13.499,
+   "end": 13.889
+  },
+  {
+   "word": "pour",
+   "start": 13.909,
+   "end": 13.991
+  },
+  {
+   "word": "cent",
+   "start": 14.031,
+   "end": 14.465
+  },
+  {
+   "word": "livraison",
+   "start": 14.516,
+   "end": 14.872
+  },
+  {
+   "word": "gratuite",
+   "start": 14.917,
+   "end": 15.347
+  },
+  {
+   "word": "panier",
+   "start": 15.397,
+   "end": 15.686
+  },
+  {
+   "word": "orange",
+   "start": 15.734,
+   "end": 16.296
+  },
+  {
+   "word": "FONCE",
+   "start": 16.397,
+   "end": 16.838
+  }
+ ],
+ "durationSec": 17.006,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

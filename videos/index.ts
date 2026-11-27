@@ -68,8 +68,24 @@ import {config as l2_novoma_17cts} from './novoma-17cts/config';
 import {config as l2_topdon_occasion} from './topdon-occasion/config';
 import {config as l2_topdon_garagiste} from './topdon-garagiste/config';
 import {config as l2_topdon_daron} from './topdon-daron/config';
+import {config as l3_zap_ouatte} from './zap-ouatte/config';
+import {config as l3_zap_cafe_bar} from './zap-cafe-bar/config';
+import {config as l3_zap_calcul} from './zap-calcul/config';
+import {config as l3_zap_seances} from './zap-seances/config';
+import {config as l3_zap_blackfriday} from './zap-blackfriday/config';
+import {config as l3_novoma_ouatte} from './novoma-ouatte/config';
+import {config as l3_novoma_mois} from './novoma-mois/config';
+import {config as l3_novoma_58} from './novoma-58/config';
+import {config as l3_novoma_kebab} from './novoma-kebab/config';
+import {config as l3_novoma_28k} from './novoma-28k/config';
+import {config as l3_creatine_ouatte} from './creatine-ouatte/config';
+import {config as l3_creatine_moyenne} from './creatine-moyenne/config';
+import {config as l3_creatine_gouts2} from './creatine-gouts2/config';
+import {config as l3_creatine_566} from './creatine-566/config';
+import {config as l3_creatine_centdoses} from './creatine-centdoses/config';
 
 export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil,
   v_creatine_coach, v_creatine_kebab, v_creatine_serie, v_zap_poubelle, v_zap_cardio, v_zap_poche, v_vitavea_fantome, v_vitavea_dubai, v_vitavea_uv, v_novoma_genoux, v_novoma_28000, v_novoma_3en1, v_lashile_casse, v_lashile_meuf, v_lashile_bonbons, v_medicube_ton_nez, v_medicube_coreenne, v_medicube_miroir, v_karacare_salaire, v_karacare_paille, v_karacare_elu, v_nuclever_oreiller, v_nuclever_stress, v_nuclever_55000,
   v_windboss_resine, v_windboss_centimes, v_topdon_voyant, v_topdon_coupons, v_granions_shaker, v_granions_athletes, v_granions_shampoing, v_granions_80cts, v_meelito_prix, v_meelito_rein,
-  l2_zap_stagiaire, l2_zap_preworkout, l2_zap_sac, l2_nuclever_dimanche, l2_nuclever_gouts, l2_nuclever_55k, l2_meelito_noel, l2_meelito_masque, l2_meelito_etapes, l2_novoma_trente, l2_novoma_duo, l2_novoma_17cts, l2_topdon_occasion, l2_topdon_garagiste, l2_topdon_daron];
+  l2_zap_stagiaire, l2_zap_preworkout, l2_zap_sac, l2_nuclever_dimanche, l2_nuclever_gouts, l2_nuclever_55k, l2_meelito_noel, l2_meelito_masque, l2_meelito_etapes, l2_novoma_trente, l2_novoma_duo, l2_novoma_17cts, l2_topdon_occasion, l2_topdon_garagiste, l2_topdon_daron,
+  l3_zap_ouatte, l3_zap_cafe_bar, l3_zap_calcul, l3_zap_seances, l3_zap_blackfriday, l3_novoma_ouatte, l3_novoma_mois, l3_novoma_58, l3_novoma_kebab, l3_novoma_28k, l3_creatine_ouatte, l3_creatine_moyenne, l3_creatine_gouts2, l3_creatine_566, l3_creatine_centdoses];

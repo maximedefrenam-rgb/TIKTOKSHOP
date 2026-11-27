@@ -28,3 +28,9 @@ Ne jamais nommer les marques dans la vidéo : uniquement la moyenne.
 | Forme & Santé (page ~3 mois) | 18,50 € |
 **Moyenne : 22,67 €** (≈ 0,23 €/dose de 3 g) — fourchette 17,50 € à 31,90 €. OstroVit : 4,99 € (≈ 0,05 €/dose), ~4,5× moins cher.
 Sources : shop.biotechusa.fr, la-french-nutrition.fr, broadwhey.com, formeetsante.fr, bonsplansmania.fr (Prozis).
+
+## Mise à jour 27/11/2026 (captures `capture-fiche-27-11.png`, `capture-description.png`)
+- Prix inchangé : 4,99 € (-8 %, barré 5,41 €). Offre « -5 € au-delà de 20 € ». Livraison gratuite dès 5 € (le sachet seul à 4,99 € n'y est pas).
+- 566 vendus, 4,5★ (28 avis). Expédié depuis PL. Retours prolongés.
+- Description : « ne contient pas d'additifs sucrants », « conçu pour les sportifs ».
+- Ventes affiliées constatées à 1,99 € de GMV (réduction côté acheteur probable) : ne jamais annoncer 1,99 € dans une vidéo.

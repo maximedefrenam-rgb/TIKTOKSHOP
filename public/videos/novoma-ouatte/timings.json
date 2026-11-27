@@ -1,0 +1,231 @@
+{
+ "words": [
+  {
+   "word": "Ouatte-de-fuck",
+   "start": 0.127,
+   "end": 0.814
+  },
+  {
+   "word": "le",
+   "start": 0.836,
+   "end": 0.881
+  },
+  {
+   "word": "collagène",
+   "start": 0.908,
+   "end": 1.22
+  },
+  {
+   "word": "marin",
+   "start": 1.265,
+   "end": 1.492
+  },
+  {
+   "word": "à",
+   "start": 1.559,
+   "end": 1.627
+  },
+  {
+   "word": "quatre",
+   "start": 1.656,
+   "end": 1.831
+  },
+  {
+   "word": "euros",
+   "start": 1.875,
+   "end": 2.102
+  },
+  {
+   "word": "quatre-vingt-dix-huit",
+   "start": 2.131,
+   "end": 2.78
+  },
+  {
+   "word": "Novoma",
+   "start": 3.149,
+   "end": 3.581
+  },
+  {
+   "word": "normalement",
+   "start": 3.621,
+   "end": 3.988
+  },
+  {
+   "word": "onze",
+   "start": 4.042,
+   "end": 4.259
+  },
+  {
+   "word": "soixante-dix-sept",
+   "start": 4.327,
+   "end": 5.547
+  },
+  {
+   "word": "là",
+   "start": 5.665,
+   "end": 5.682
+  },
+  {
+   "word": "c'est",
+   "start": 5.75,
+   "end": 5.954
+  },
+  {
+   "word": "moins",
+   "start": 5.988,
+   "end": 6.157
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 6.225,
+   "end": 6.801
+  },
+  {
+   "word": "pour",
+   "start": 6.821,
+   "end": 6.903
+  },
+  {
+   "word": "cent",
+   "start": 6.943,
+   "end": 7.648
+  },
+  {
+   "word": "collagène",
+   "start": 7.765,
+   "end": 8.058
+  },
+  {
+   "word": "hydrolysé",
+   "start": 8.115,
+   "end": 8.6
+  },
+  {
+   "word": "Naticol",
+   "start": 8.668,
+   "end": 9.21
+  },
+  {
+   "word": "acide",
+   "start": 9.278,
+   "end": 9.549
+  },
+  {
+   "word": "hyaluronique",
+   "start": 9.572,
+   "end": 10.092
+  },
+  {
+   "word": "vitamine",
+   "start": 10.126,
+   "end": 10.499
+  },
+  {
+   "word": "C",
+   "start": 10.6,
+   "end": 10.77
+  },
+  {
+   "word": "la",
+   "start": 10.905,
+   "end": 10.92
+  },
+  {
+   "word": "vitamine",
+   "start": 10.954,
+   "end": 11.259
+  },
+  {
+   "word": "C",
+   "start": 11.361,
+   "end": 11.463
+  },
+  {
+   "word": "contribue",
+   "start": 11.505,
+   "end": 11.87
+  },
+  {
+   "word": "à",
+   "start": 11.903,
+   "end": 11.937
+  },
+  {
+   "word": "la",
+   "start": 11.96,
+   "end": 12.005
+  },
+  {
+   "word": "formation",
+   "start": 12.046,
+   "end": 12.412
+  },
+  {
+   "word": "normale",
+   "start": 12.48,
+   "end": 12.819
+  },
+  {
+   "word": "de",
+   "start": 12.864,
+   "end": 12.954
+  },
+  {
+   "word": "collagène",
+   "start": 12.995,
+   "end": 13.497
+  },
+  {
+   "word": "vingt-huit",
+   "start": 13.703,
+   "end": 13.982
+  },
+  {
+   "word": "mille",
+   "start": 14.05,
+   "end": 14.186
+  },
+  {
+   "word": "vendus",
+   "start": 14.254,
+   "end": 14.965
+  },
+  {
+   "word": "jusqu'au",
+   "start": 15.432,
+   "end": 15.542
+  },
+  {
+   "word": "trente",
+   "start": 15.576,
+   "end": 15.745
+  },
+  {
+   "word": "novembre",
+   "start": 15.79,
+   "end": 16.355
+  },
+  {
+   "word": "panier",
+   "start": 16.389,
+   "end": 16.626
+  },
+  {
+   "word": "orange",
+   "start": 16.675,
+   "end": 17.237
+  },
+  {
+   "word": "FONCE",
+   "start": 17.304,
+   "end": 17.643
+  }
+ ],
+ "durationSec": 17.763,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

@@ -1,0 +1,256 @@
+{
+ "words": [
+  {
+   "word": "Ta",
+   "start": 0.044,
+   "end": 0.053
+  },
+  {
+   "word": "créatine",
+   "start": 0.087,
+   "end": 0.46
+  },
+  {
+   "word": "a",
+   "start": 0.494,
+   "end": 0.528
+  },
+  {
+   "word": "encore",
+   "start": 0.567,
+   "end": 0.799
+  },
+  {
+   "word": "un",
+   "start": 0.822,
+   "end": 0.867
+  },
+  {
+   "word": "goût",
+   "start": 0.89,
+   "end": 1.002
+  },
+  {
+   "word": "de",
+   "start": 1.025,
+   "end": 1.07
+  },
+  {
+   "word": "plâtre",
+   "start": 1.093,
+   "end": 1.341
+  },
+  {
+   "word": "OstroVit",
+   "start": 1.503,
+   "end": 2.131
+  },
+  {
+   "word": "citron",
+   "start": 2.249,
+   "end": 3.012
+  },
+  {
+   "word": "mangue",
+   "start": 3.053,
+   "end": 3.486
+  },
+  {
+   "word": "melon",
+   "start": 3.537,
+   "end": 3.893
+  },
+  {
+   "word": "pomme",
+   "start": 3.927,
+   "end": 4.198
+  },
+  {
+   "word": "verte",
+   "start": 4.226,
+   "end": 4.436
+  },
+  {
+   "word": "ou",
+   "start": 4.458,
+   "end": 4.503
+  },
+  {
+   "word": "nature",
+   "start": 4.571,
+   "end": 5.046
+  },
+  {
+   "word": "sans",
+   "start": 5.328,
+   "end": 5.356
+  },
+  {
+   "word": "additifs",
+   "start": 5.389,
+   "end": 5.695
+  },
+  {
+   "word": "sucrants",
+   "start": 5.739,
+   "end": 6.101
+  },
+  {
+   "word": "ultra",
+   "start": 6.18,
+   "end": 6.576
+  },
+  {
+   "word": "micronisée",
+   "start": 6.615,
+   "end": 7.389
+  },
+  {
+   "word": "cent",
+   "start": 7.647,
+   "end": 7.661
+  },
+  {
+   "word": "doses",
+   "start": 7.717,
+   "end": 8.0
+  },
+  {
+   "word": "pour",
+   "start": 8.027,
+   "end": 8.135
+  },
+  {
+   "word": "quatre",
+   "start": 8.164,
+   "end": 8.339
+  },
+  {
+   "word": "euros",
+   "start": 8.373,
+   "end": 8.542
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 8.561,
+   "end": 9.423
+  },
+  {
+   "word": "trois",
+   "start": 9.778,
+   "end": 9.834
+  },
+  {
+   "word": "grammes",
+   "start": 9.879,
+   "end": 10.173
+  },
+  {
+   "word": "de",
+   "start": 10.196,
+   "end": 10.241
+  },
+  {
+   "word": "créatine",
+   "start": 10.292,
+   "end": 10.648
+  },
+  {
+   "word": "par",
+   "start": 10.699,
+   "end": 10.851
+  },
+  {
+   "word": "jour",
+   "start": 10.892,
+   "end": 11.055
+  },
+  {
+   "word": "augmentent",
+   "start": 11.131,
+   "end": 11.733
+  },
+  {
+   "word": "la",
+   "start": 11.756,
+   "end": 11.8
+  },
+  {
+   "word": "performance",
+   "start": 11.84,
+   "end": 12.275
+  },
+  {
+   "word": "physique",
+   "start": 12.312,
+   "end": 12.614
+  },
+  {
+   "word": "lors",
+   "start": 12.641,
+   "end": 12.75
+  },
+  {
+   "word": "d'exercices",
+   "start": 12.784,
+   "end": 13.224
+  },
+  {
+   "word": "courts",
+   "start": 13.263,
+   "end": 13.699
+  },
+  {
+   "word": "intenses",
+   "start": 13.75,
+   "end": 14.241
+  },
+  {
+   "word": "et",
+   "start": 14.286,
+   "end": 14.377
+  },
+  {
+   "word": "répétés",
+   "start": 14.422,
+   "end": 15.258
+  },
+  {
+   "word": "choisis",
+   "start": 15.381,
+   "end": 15.597
+  },
+  {
+   "word": "ton",
+   "start": 15.631,
+   "end": 15.733
+  },
+  {
+   "word": "goût",
+   "start": 15.756,
+   "end": 16.072
+  },
+  {
+   "word": "panier",
+   "start": 16.106,
+   "end": 16.343
+  },
+  {
+   "word": "orange",
+   "start": 16.391,
+   "end": 17.089
+  },
+  {
+   "word": "FONCE",
+   "start": 17.156,
+   "end": 17.563
+  }
+ ],
+ "durationSec": 17.737,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

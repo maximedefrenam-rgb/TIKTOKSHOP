@@ -1,0 +1,256 @@
+{
+ "words": [
+  {
+   "word": "Ouatte-de-fuck",
+   "start": 0.061,
+   "end": 1.22
+  },
+  {
+   "word": "même",
+   "start": 1.261,
+   "end": 1.424
+  },
+  {
+   "word": "pas",
+   "start": 1.458,
+   "end": 1.559
+  },
+  {
+   "word": "cinq",
+   "start": 1.627,
+   "end": 1.763
+  },
+  {
+   "word": "centimes",
+   "start": 1.817,
+   "end": 2.169
+  },
+  {
+   "word": "la",
+   "start": 2.192,
+   "end": 2.237
+  },
+  {
+   "word": "dose",
+   "start": 2.278,
+   "end": 2.441
+  },
+  {
+   "word": "de",
+   "start": 2.486,
+   "end": 2.576
+  },
+  {
+   "word": "créatine",
+   "start": 2.61,
+   "end": 3.051
+  },
+  {
+   "word": "OstroVit",
+   "start": 3.362,
+   "end": 3.862
+  },
+  {
+   "word": "trois",
+   "start": 3.93,
+   "end": 4.269
+  },
+  {
+   "word": "cents",
+   "start": 4.303,
+   "end": 4.472
+  },
+  {
+   "word": "grammes",
+   "start": 4.506,
+   "end": 5.15
+  },
+  {
+   "word": "quatre",
+   "start": 5.17,
+   "end": 5.286
+  },
+  {
+   "word": "euros",
+   "start": 5.331,
+   "end": 5.557
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.577,
+   "end": 6.506
+  },
+  {
+   "word": "cent",
+   "start": 6.9,
+   "end": 6.913
+  },
+  {
+   "word": "doses",
+   "start": 6.97,
+   "end": 7.252
+  },
+  {
+   "word": "de",
+   "start": 7.275,
+   "end": 7.32
+  },
+  {
+   "word": "trois",
+   "start": 7.354,
+   "end": 7.523
+  },
+  {
+   "word": "grammes",
+   "start": 7.58,
+   "end": 8.27
+  },
+  {
+   "word": "monohydrate",
+   "start": 8.456,
+   "end": 8.88
+  },
+  {
+   "word": "ultra",
+   "start": 8.948,
+   "end": 9.287
+  },
+  {
+   "word": "micronisée",
+   "start": 9.345,
+   "end": 9.965
+  },
+  {
+   "word": "trois",
+   "start": 10.118,
+   "end": 10.155
+  },
+  {
+   "word": "grammes",
+   "start": 10.2,
+   "end": 10.494
+  },
+  {
+   "word": "de",
+   "start": 10.517,
+   "end": 10.562
+  },
+  {
+   "word": "créatine",
+   "start": 10.596,
+   "end": 10.969
+  },
+  {
+   "word": "par",
+   "start": 11.003,
+   "end": 11.105
+  },
+  {
+   "word": "jour",
+   "start": 11.172,
+   "end": 11.444
+  },
+  {
+   "word": "augmentent",
+   "start": 11.486,
+   "end": 11.85
+  },
+  {
+   "word": "la",
+   "start": 11.873,
+   "end": 11.918
+  },
+  {
+   "word": "performance",
+   "start": 11.958,
+   "end": 12.393
+  },
+  {
+   "word": "physique",
+   "start": 12.43,
+   "end": 12.732
+  },
+  {
+   "word": "lors",
+   "start": 12.759,
+   "end": 12.867
+  },
+  {
+   "word": "d'exercices",
+   "start": 12.901,
+   "end": 13.342
+  },
+  {
+   "word": "courts",
+   "start": 13.39,
+   "end": 13.884
+  },
+  {
+   "word": "intenses",
+   "start": 13.935,
+   "end": 14.359
+  },
+  {
+   "word": "et",
+   "start": 14.404,
+   "end": 14.494
+  },
+  {
+   "word": "répétés",
+   "start": 14.539,
+   "end": 15.444
+  },
+  {
+   "word": "garde",
+   "start": 15.63,
+   "end": 15.715
+  },
+  {
+   "word": "ton",
+   "start": 15.749,
+   "end": 15.85
+  },
+  {
+   "word": "fric",
+   "start": 15.918,
+   "end": 16.189
+  },
+  {
+   "word": "pour",
+   "start": 16.216,
+   "end": 16.325
+  },
+  {
+   "word": "ton",
+   "start": 16.359,
+   "end": 16.461
+  },
+  {
+   "word": "poulet-riz",
+   "start": 16.494,
+   "end": 16.935
+  },
+  {
+   "word": "panier",
+   "start": 17.165,
+   "end": 17.259
+  },
+  {
+   "word": "orange",
+   "start": 17.317,
+   "end": 17.936
+  },
+  {
+   "word": "FONCE",
+   "start": 18.004,
+   "end": 18.479
+  }
+ ],
+ "durationSec": 18.651,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

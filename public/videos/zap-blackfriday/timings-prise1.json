@@ -1,0 +1,256 @@
+{
+ "words": [
+  {
+   "word": "Black",
+   "start": 0.175,
+   "end": 0.203
+  },
+  {
+   "word": "Friday",
+   "start": 0.262,
+   "end": 0.814
+  },
+  {
+   "word": "ZAP",
+   "start": 0.881,
+   "end": 1.017
+  },
+  {
+   "word": "à",
+   "start": 1.085,
+   "end": 1.153
+  },
+  {
+   "word": "moins",
+   "start": 1.164,
+   "end": 1.22
+  },
+  {
+   "word": "trente-deux",
+   "start": 1.271,
+   "end": 1.661
+  },
+  {
+   "word": "pour",
+   "start": 1.681,
+   "end": 1.763
+  },
+  {
+   "word": "cent",
+   "start": 1.79,
+   "end": 2.034
+  },
+  {
+   "word": "faut",
+   "start": 2.075,
+   "end": 2.237
+  },
+  {
+   "word": "pas",
+   "start": 2.254,
+   "end": 2.305
+  },
+  {
+   "word": "traîner",
+   "start": 2.339,
+   "end": 2.576
+  },
+  {
+   "word": "Dix",
+   "start": 2.838,
+   "end": 2.851
+  },
+  {
+   "word": "euros",
+   "start": 2.908,
+   "end": 3.19
+  },
+  {
+   "word": "seize",
+   "start": 3.213,
+   "end": 3.325
+  },
+  {
+   "word": "au",
+   "start": 3.37,
+   "end": 3.461
+  },
+  {
+   "word": "lieu",
+   "start": 3.488,
+   "end": 3.597
+  },
+  {
+   "word": "de",
+   "start": 3.641,
+   "end": 3.732
+  },
+  {
+   "word": "quatorze",
+   "start": 3.755,
+   "end": 4.037
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 4.052,
+   "end": 4.647
+  },
+  {
+   "word": "le",
+   "start": 4.704,
+   "end": 4.817
+  },
+  {
+   "word": "duo",
+   "start": 4.885,
+   "end": 5.156
+  },
+  {
+   "word": "trente-six",
+   "start": 5.207,
+   "end": 5.563
+  },
+  {
+   "word": "sachets",
+   "start": 5.617,
+   "end": 6.241
+  },
+  {
+   "word": "prix",
+   "start": 6.354,
+   "end": 6.376
+  },
+  {
+   "word": "le",
+   "start": 6.399,
+   "end": 6.444
+  },
+  {
+   "word": "plus",
+   "start": 6.485,
+   "end": 6.647
+  },
+  {
+   "word": "bas",
+   "start": 6.715,
+   "end": 6.919
+  },
+  {
+   "word": "de",
+   "start": 6.941,
+   "end": 6.986
+  },
+  {
+   "word": "l'année",
+   "start": 7.02,
+   "end": 7.664
+  },
+  {
+   "word": "cent",
+   "start": 7.756,
+   "end": 7.81
+  },
+  {
+   "word": "milligrammes",
+   "start": 7.837,
+   "end": 8.217
+  },
+  {
+   "word": "de",
+   "start": 8.24,
+   "end": 8.285
+  },
+  {
+   "word": "caféine",
+   "start": 8.339,
+   "end": 8.624
+  },
+  {
+   "word": "par",
+   "start": 8.658,
+   "end": 8.759
+  },
+  {
+   "word": "sachet",
+   "start": 8.813,
+   "end": 9.369
+  },
+  {
+   "word": "elle-théanine",
+   "start": 9.397,
+   "end": 10.115
+  },
+  {
+   "word": "vitamines",
+   "start": 10.149,
+   "end": 10.522
+  },
+  {
+   "word": "B",
+   "start": 10.59,
+   "end": 10.725
+  },
+  {
+   "word": "cerise",
+   "start": 10.827,
+   "end": 11.2
+  },
+  {
+   "word": "noire",
+   "start": 11.245,
+   "end": 11.81
+  },
+  {
+   "word": "sous",
+   "start": 11.936,
+   "end": 11.946
+  },
+  {
+   "word": "la",
+   "start": 11.991,
+   "end": 12.081
+  },
+  {
+   "word": "lèvre",
+   "start": 12.115,
+   "end": 12.42
+  },
+  {
+   "word": "discret",
+   "start": 12.497,
+   "end": 13.505
+  },
+  {
+   "word": "livraison",
+   "start": 13.683,
+   "end": 13.912
+  },
+  {
+   "word": "gratuite",
+   "start": 13.949,
+   "end": 14.454
+  },
+  {
+   "word": "panier",
+   "start": 14.488,
+   "end": 14.725
+  },
+  {
+   "word": "orange",
+   "start": 14.774,
+   "end": 15.336
+  },
+  {
+   "word": "FONCE",
+   "start": 15.403,
+   "end": 15.742
+  }
+ ],
+ "durationSec": 15.909,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

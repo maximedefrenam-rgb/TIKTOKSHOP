@@ -1,0 +1,286 @@
+{
+ "words": [
+  {
+   "word": "Trente-six",
+   "start": 0.2,
+   "end": 0.48
+  },
+  {
+   "word": "séances",
+   "start": 0.56,
+   "end": 0.88
+  },
+  {
+   "word": "pour",
+   "start": 0.928,
+   "end": 1.12
+  },
+  {
+   "word": "dix",
+   "start": 1.2,
+   "end": 1.281
+  },
+  {
+   "word": "balles",
+   "start": 1.34,
+   "end": 1.68
+  },
+  {
+   "word": "mais",
+   "start": 1.728,
+   "end": 1.92
+  },
+  {
+   "word": "qui",
+   "start": 1.96,
+   "end": 2.08
+  },
+  {
+   "word": "a",
+   "start": 2.12,
+   "end": 2.16
+  },
+  {
+   "word": "validé",
+   "start": 2.2,
+   "end": 2.48
+  },
+  {
+   "word": "ce",
+   "start": 2.533,
+   "end": 2.64
+  },
+  {
+   "word": "prix",
+   "start": 2.672,
+   "end": 2.8
+  },
+  {
+   "word": "Un",
+   "start": 3.507,
+   "end": 3.52
+  },
+  {
+   "word": "sachet",
+   "start": 3.568,
+   "end": 3.84
+  },
+  {
+   "word": "ZAP",
+   "start": 3.96,
+   "end": 4.16
+  },
+  {
+   "word": "avant",
+   "start": 4.187,
+   "end": 4.32
+  },
+  {
+   "word": "ta",
+   "start": 4.373,
+   "end": 4.48
+  },
+  {
+   "word": "séance",
+   "start": 4.56,
+   "end": 4.96
+  },
+  {
+   "word": "et",
+   "start": 5.067,
+   "end": 5.28
+  },
+  {
+   "word": "t'en",
+   "start": 5.32,
+   "end": 5.44
+  },
+  {
+   "word": "as",
+   "start": 5.493,
+   "end": 5.6
+  },
+  {
+   "word": "trente-six",
+   "start": 5.62,
+   "end": 6.08
+  },
+  {
+   "word": "dans",
+   "start": 6.112,
+   "end": 6.24
+  },
+  {
+   "word": "le",
+   "start": 6.267,
+   "end": 6.32
+  },
+  {
+   "word": "duo",
+   "start": 6.4,
+   "end": 6.72
+  },
+  {
+   "word": "dix",
+   "start": 7.336,
+   "end": 7.36
+  },
+  {
+   "word": "euros",
+   "start": 7.427,
+   "end": 7.76
+  },
+  {
+   "word": "seize",
+   "start": 7.8,
+   "end": 8
+  },
+  {
+   "word": "au",
+   "start": 8.027,
+   "end": 8.08
+  },
+  {
+   "word": "lieu",
+   "start": 8.112,
+   "end": 8.24
+  },
+  {
+   "word": "de",
+   "start": 8.293,
+   "end": 8.4
+  },
+  {
+   "word": "quatorze",
+   "start": 8.427,
+   "end": 8.84
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 8.857,
+   "end": 9.68
+  },
+  {
+   "word": "vingt-huit",
+   "start": 9.84,
+   "end": 10.32
+  },
+  {
+   "word": "centimes",
+   "start": 10.384,
+   "end": 10.8
+  },
+  {
+   "word": "la",
+   "start": 10.827,
+   "end": 10.88
+  },
+  {
+   "word": "séance",
+   "start": 10.933,
+   "end": 11.76
+  },
+  {
+   "word": "cent",
+   "start": 11.984,
+   "end": 12.005
+  },
+  {
+   "word": "milligrammes",
+   "start": 12.037,
+   "end": 12.485
+  },
+  {
+   "word": "de",
+   "start": 12.512,
+   "end": 12.565
+  },
+  {
+   "word": "caféine",
+   "start": 12.645,
+   "end": 13.205
+  },
+  {
+   "word": "plus",
+   "start": 13.285,
+   "end": 13.605
+  },
+  {
+   "word": "qu'un",
+   "start": 13.632,
+   "end": 13.765
+  },
+  {
+   "word": "expresso",
+   "start": 13.815,
+   "end": 14.725
+  },
+  {
+   "word": "et",
+   "start": 14.988,
+   "end": 15.011
+  },
+  {
+   "word": "ça",
+   "start": 15.022,
+   "end": 15.045
+  },
+  {
+   "word": "tient",
+   "start": 15.125,
+   "end": 15.285
+  },
+  {
+   "word": "dans",
+   "start": 15.317,
+   "end": 15.445
+  },
+  {
+   "word": "ta",
+   "start": 15.498,
+   "end": 15.605
+  },
+  {
+   "word": "poche",
+   "start": 15.658,
+   "end": 15.845
+  },
+  {
+   "word": "de",
+   "start": 15.872,
+   "end": 15.925
+  },
+  {
+   "word": "jogging",
+   "start": 15.975,
+   "end": 16.405
+  },
+  {
+   "word": "livraison",
+   "start": 17.071,
+   "end": 17.451
+  },
+  {
+   "word": "gratuite",
+   "start": 17.504,
+   "end": 18.171
+  },
+  {
+   "word": "panier",
+   "start": 18.231,
+   "end": 18.491
+  },
+  {
+   "word": "orange",
+   "start": 18.56,
+   "end": 19.371
+  },
+  {
+   "word": "FONCE",
+   "start": 19.491,
+   "end": 20.091
+  }
+ ],
+ "durationSec": 20.271,
+ "model": "eleven_v3"
+}
