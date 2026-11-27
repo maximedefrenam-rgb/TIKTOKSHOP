@@ -41,7 +41,7 @@ export const PriceScene: React.FC<P<'price'>> = ({scene, cfg, offset}) => {
   const lift = React.useContext(ProductLift);
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={640} cx={productCx(cfg, scene)} cy={1320 + lift + Math.max(0, (cfg.productScale ?? 1) - 1) * 320} enterAt={s2f(scene.from)} sweeps={[rA + 2]} seed="price" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={640} cx={productCx(cfg, scene)} cy={1320 + lift + Math.max(0, (cfg.productScale ?? 1) - 1) * 700} enterAt={s2f(scene.from)} sweeps={[rA + 2]} seed="price" />
       <div style={{opacity: 1 - strike * 0.55}}>
         <BigText text={euro(count)} size={190} color={BRAND.colors.text} y={360} progress={pPrice} />
         <BigText text={`÷ ${scene.doses} ${scene.divLabel ?? 'DOSES'}`} size={110} color={BRAND.colors.text} y={540} progress={pDiv} />
