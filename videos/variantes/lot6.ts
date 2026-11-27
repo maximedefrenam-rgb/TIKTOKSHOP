@@ -189,8 +189,8 @@ export const rizCroissant = variant({
 export const rizJambes = variant({
   id: 'riz-jambes', timings: e4, ...RIZ, jacket: JACKETS[1],
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1('SÉANCE JAMBES\nCE SOIR 🦵', 0, {size: 190, stack: true}),
-      ST("ET RIEN MANGÉ\nDEPUIS MIDI ?!", r('rien'), 600, {size: 120, color: 'alert', impact: true})]},
+    {kind: 'hook', from: 0, keywords: [T1('SÉANCE JAMBES\nCE SOIR 🦵', 0, {size: 170, y: 300, stack: true}),
+      ST("ET RIEN MANGÉ\nDEPUIS MIDI ?!", r('rien'), 650, {size: 120, color: 'alert', impact: true})]},
     B(r('Une') - 0.08, [T1('1 H AVANT :\nUN SHAKER', r('heure'), {size: 180})]),
     GLU(r, r('vingt-trois') - 0.08, [{label: 'FAIBLE EN MATIÈRES GRASSES', at: r('faible')}]),
     B(r('et', 2) - 0.08, [T1('ÇA PASSE\nTOUT SEUL', r('passe'), {size: 190, impact: true}), ]),
