@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Ta",
+   "start": 0.118,
+   "end": 0.136
+  },
+  {
+   "word": "dose",
+   "start": 0.176,
+   "end": 0.339
+  },
+  {
+   "word": "de",
+   "start": 0.362,
+   "end": 0.407
+  },
+  {
+   "word": "glucides",
+   "start": 0.461,
+   "end": 0.814
+  },
+  {
+   "word": "moins",
+   "start": 0.858,
+   "end": 1.085
+  },
+  {
+   "word": "chère",
+   "start": 1.108,
+   "end": 1.288
+  },
+  {
+   "word": "qu'un",
+   "start": 1.311,
+   "end": 1.424
+  },
+  {
+   "word": "croissant",
+   "start": 1.458,
+   "end": 1.763
+  },
+  {
+   "word": "de",
+   "start": 1.786,
+   "end": 1.831
+  },
+  {
+   "word": "boulangerie",
+   "start": 1.864,
+   "end": 2.169
+  },
+  {
+   "word": "La",
+   "start": 2.387,
+   "end": 2.402
+  },
+  {
+   "word": "crème",
+   "start": 2.447,
+   "end": 2.606
+  },
+  {
+   "word": "de",
+   "start": 2.65,
+   "end": 2.741
+  },
+  {
+   "word": "riz",
+   "start": 2.775,
+   "end": 2.877
+  },
+  {
+   "word": "Nutrimea",
+   "start": 2.911,
+   "end": 3.555
+  },
+  {
+   "word": "trente",
+   "start": 3.589,
+   "end": 3.758
+  },
+  {
+   "word": "euros",
+   "start": 3.803,
+   "end": 4.029
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 4.049,
+   "end": 4.436
+  },
+  {
+   "word": "les",
+   "start": 4.487,
+   "end": 4.639
+  },
+  {
+   "word": "deux",
+   "start": 4.653,
+   "end": 4.707
+  },
+  {
+   "word": "kilos",
+   "start": 4.758,
+   "end": 5.317
+  },
+  {
+   "word": "divisé",
+   "start": 5.546,
+   "end": 5.656
+  },
+  {
+   "word": "par",
+   "start": 5.69,
+   "end": 5.792
+  },
+  {
+   "word": "soixante-six",
+   "start": 5.86,
+   "end": 6.334
+  },
+  {
+   "word": "doses",
+   "start": 6.391,
+   "end": 7.012
+  },
+  {
+   "word": "quarante-sept",
+   "start": 7.039,
+   "end": 7.487
+  },
+  {
+   "word": "centimes",
+   "start": 7.541,
+   "end": 8.368
+  },
+  {
+   "word": "vingt-trois",
+   "start": 8.489,
+   "end": 8.809
+  },
+  {
+   "word": "grammes",
+   "start": 8.826,
+   "end": 8.978
+  },
+  {
+   "word": "de",
+   "start": 9.001,
+   "end": 9.046
+  },
+  {
+   "word": "glucides",
+   "start": 9.114,
+   "end": 9.724
+  },
+  {
+   "word": "cent",
+   "start": 9.765,
+   "end": 9.928
+  },
+  {
+   "word": "six",
+   "start": 9.961,
+   "end": 10.063
+  },
+  {
+   "word": "calories",
+   "start": 10.108,
+   "end": 10.741
+  },
+  {
+   "word": "zéro",
+   "start": 10.809,
+   "end": 11.012
+  },
+  {
+   "word": "sucre",
+   "start": 11.08,
+   "end": 11.622
+  },
+  {
+   "word": "saveur",
+   "start": 11.663,
+   "end": 11.894
+  },
+  {
+   "word": "biscuit",
+   "start": 11.948,
+   "end": 12.639
+  },
+  {
+   "word": "et",
+   "start": 12.74,
+   "end": 12.785
+  },
+  {
+   "word": "tu",
+   "start": 12.83,
+   "end": 12.921
+  },
+  {
+   "word": "la",
+   "start": 12.944,
+   "end": 12.989
+  },
+  {
+   "word": "mets",
+   "start": 13.022,
+   "end": 13.124
+  },
+  {
+   "word": "dans",
+   "start": 13.138,
+   "end": 13.192
+  },
+  {
+   "word": "ton",
+   "start": 13.226,
+   "end": 13.328
+  },
+  {
+   "word": "shaker",
+   "start": 13.372,
+   "end": 13.667
+  },
+  {
+   "word": "de",
+   "start": 13.711,
+   "end": 13.802
+  },
+  {
+   "word": "whey",
+   "start": 13.836,
+   "end": 14.345
+  },
+  {
+   "word": "Black",
+   "start": 14.52,
+   "end": 14.548
+  },
+  {
+   "word": "Friday",
+   "start": 14.606,
+   "end": 14.955
+  },
+  {
+   "word": "jusqu'au",
+   "start": 15.0,
+   "end": 15.361
+  },
+  {
+   "word": "trente",
+   "start": 15.378,
+   "end": 15.497
+  },
+  {
+   "word": "novembre",
+   "start": 15.542,
+   "end": 16.107
+  },
+  {
+   "word": "livraison",
+   "start": 16.158,
+   "end": 16.514
+  },
+  {
+   "word": "gratuite",
+   "start": 16.567,
+   "end": 17.158
+  },
+  {
+   "word": "panier",
+   "start": 17.2,
+   "end": 17.463
+  },
+  {
+   "word": "orange",
+   "start": 17.522,
+   "end": 18.209
+  },
+  {
+   "word": "FONCE",
+   "start": 18.277,
+   "end": 18.616
+  }
+ ],
+ "durationSec": 18.73,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

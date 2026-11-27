@@ -1,0 +1,431 @@
+{
+ "words": [
+  {
+   "word": "Ma",
+   "start": 0.107,
+   "end": 0.16
+  },
+  {
+   "word": "routine",
+   "start": 0.22,
+   "end": 0.64
+  },
+  {
+   "word": "winter",
+   "start": 0.697,
+   "end": 1.04
+  },
+  {
+   "word": "arc",
+   "start": 1.12,
+   "end": 1.52
+  },
+  {
+   "word": "je",
+   "start": 1.573,
+   "end": 1.68
+  },
+  {
+   "word": "te",
+   "start": 1.707,
+   "end": 1.76
+  },
+  {
+   "word": "la",
+   "start": 1.813,
+   "end": 1.92
+  },
+  {
+   "word": "donne",
+   "start": 1.973,
+   "end": 2.24
+  },
+  {
+   "word": "Le",
+   "start": 3.191,
+   "end": 3.2
+  },
+  {
+   "word": "matin",
+   "start": 3.26,
+   "end": 3.76
+  },
+  {
+   "word": "au",
+   "start": 3.787,
+   "end": 3.84
+  },
+  {
+   "word": "petit-déj",
+   "start": 3.893,
+   "end": 4.8
+  },
+  {
+   "word": "une",
+   "start": 4.86,
+   "end": 5.04
+  },
+  {
+   "word": "dose",
+   "start": 5.088,
+   "end": 5.28
+  },
+  {
+   "word": "de",
+   "start": 5.333,
+   "end": 5.44
+  },
+  {
+   "word": "créatine",
+   "start": 5.48,
+   "end": 5.84
+  },
+  {
+   "word": "Creapure",
+   "start": 5.9,
+   "end": 6.48
+  },
+  {
+   "word": "dans",
+   "start": 6.512,
+   "end": 6.64
+  },
+  {
+   "word": "un",
+   "start": 6.693,
+   "end": 6.8
+  },
+  {
+   "word": "grand",
+   "start": 6.84,
+   "end": 7.04
+  },
+  {
+   "word": "verre",
+   "start": 7.08,
+   "end": 7.28
+  },
+  {
+   "word": "d'eau",
+   "start": 7.32,
+   "end": 7.52
+  },
+  {
+   "word": "et",
+   "start": 8.202,
+   "end": 8.217
+  },
+  {
+   "word": "à",
+   "start": 8.229,
+   "end": 8.24
+  },
+  {
+   "word": "côté",
+   "start": 8.304,
+   "end": 8.64
+  },
+  {
+   "word": "mes",
+   "start": 8.74,
+   "end": 9.04
+  },
+  {
+   "word": "gélules",
+   "start": 9.12,
+   "end": 9.44
+  },
+  {
+   "word": "de",
+   "start": 9.467,
+   "end": 9.52
+  },
+  {
+   "word": "collagène",
+   "start": 9.568,
+   "end": 9.92
+  },
+  {
+   "word": "marin",
+   "start": 9.973,
+   "end": 10.24
+  },
+  {
+   "word": "type",
+   "start": 10.304,
+   "end": 10.56
+  },
+  {
+   "word": "un",
+   "start": 10.64,
+   "end": 10.88
+  },
+  {
+   "word": "et",
+   "start": 11.792,
+   "end": 11.813
+  },
+  {
+   "word": "le",
+   "start": 11.824,
+   "end": 11.845
+  },
+  {
+   "word": "soir",
+   "start": 11.941,
+   "end": 12.645
+  },
+  {
+   "word": "salle",
+   "start": 12.698,
+   "end": 13.045
+  },
+  {
+   "word": "trois",
+   "start": 13.718,
+   "end": 13.851
+  },
+  {
+   "word": "grammes",
+   "start": 13.904,
+   "end": 14.251
+  },
+  {
+   "word": "de",
+   "start": 14.278,
+   "end": 14.331
+  },
+  {
+   "word": "créatine",
+   "start": 14.391,
+   "end": 14.811
+  },
+  {
+   "word": "par",
+   "start": 14.871,
+   "end": 15.051
+  },
+  {
+   "word": "jour",
+   "start": 15.115,
+   "end": 15.371
+  },
+  {
+   "word": "augmentent",
+   "start": 15.441,
+   "end": 16.011
+  },
+  {
+   "word": "la",
+   "start": 16.038,
+   "end": 16.091
+  },
+  {
+   "word": "performance",
+   "start": 16.144,
+   "end": 16.731
+  },
+  {
+   "word": "physique",
+   "start": 16.775,
+   "end": 17.131
+  },
+  {
+   "word": "lors",
+   "start": 17.195,
+   "end": 17.451
+  },
+  {
+   "word": "d'exercices",
+   "start": 17.511,
+   "end": 18.091
+  },
+  {
+   "word": "courts",
+   "start": 18.148,
+   "end": 18.651
+  },
+  {
+   "word": "intenses",
+   "start": 18.711,
+   "end": 19.291
+  },
+  {
+   "word": "et",
+   "start": 19.344,
+   "end": 19.451
+  },
+  {
+   "word": "répétés",
+   "start": 19.504,
+   "end": 20.651
+  },
+  {
+   "word": "et",
+   "start": 20.838,
+   "end": 20.859
+  },
+  {
+   "word": "les",
+   "start": 20.867,
+   "end": 20.891
+  },
+  {
+   "word": "deux",
+   "start": 20.939,
+   "end": 21.531
+  },
+  {
+   "word": "je",
+   "start": 21.558,
+   "end": 21.611
+  },
+  {
+   "word": "les",
+   "start": 21.651,
+   "end": 21.771
+  },
+  {
+   "word": "ai",
+   "start": 21.824,
+   "end": 21.931
+  },
+  {
+   "word": "dans",
+   "start": 21.947,
+   "end": 22.011
+  },
+  {
+   "word": "le",
+   "start": 22.038,
+   "end": 22.091
+  },
+  {
+   "word": "Pack",
+   "start": 22.155,
+   "end": 22.411
+  },
+  {
+   "word": "Force",
+   "start": 22.491,
+   "end": 22.891
+  },
+  {
+   "word": "Nutrimea",
+   "start": 22.971,
+   "end": 24.171
+  },
+  {
+   "word": "cent",
+   "start": 24.219,
+   "end": 24.411
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 24.459,
+   "end": 24.971
+  },
+  {
+   "word": "doses",
+   "start": 25.038,
+   "end": 25.371
+  },
+  {
+   "word": "de",
+   "start": 25.398,
+   "end": 25.451
+  },
+  {
+   "word": "créa",
+   "start": 25.531,
+   "end": 25.851
+  },
+  {
+   "word": "et",
+   "start": 26.038,
+   "end": 26.411
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 26.457,
+   "end": 27.051
+  },
+  {
+   "word": "gélules",
+   "start": 27.091,
+   "end": 27.371
+  },
+  {
+   "word": "de",
+   "start": 27.398,
+   "end": 27.451
+  },
+  {
+   "word": "collagène",
+   "start": 27.515,
+   "end": 28.731
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 28.875,
+   "end": 29.291
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 29.337,
+   "end": 29.931
+  },
+  {
+   "word": "au",
+   "start": 30.118,
+   "end": 30.491
+  },
+  {
+   "word": "lieu",
+   "start": 30.523,
+   "end": 30.651
+  },
+  {
+   "word": "de",
+   "start": 30.731,
+   "end": 30.891
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 30.911,
+   "end": 31.451
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 31.474,
+   "end": 32.331
+  },
+  {
+   "word": "livraison",
+   "start": 32.391,
+   "end": 32.811
+  },
+  {
+   "word": "gratuite",
+   "start": 32.864,
+   "end": 33.531
+  },
+  {
+   "word": "panier",
+   "start": 33.571,
+   "end": 33.851
+  },
+  {
+   "word": "orange",
+   "start": 33.908,
+   "end": 34.571
+  },
+  {
+   "word": "FONCE",
+   "start": 34.691,
+   "end": 35.131
+  }
+ ],
+ "durationSec": 35.318,
+ "model": "eleven_v3"
+}

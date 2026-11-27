@@ -1,0 +1,326 @@
+{
+ "words": [
+  {
+   "word": "Tu",
+   "start": 0.12,
+   "end": 0.136
+  },
+  {
+   "word": "galères",
+   "start": 0.169,
+   "end": 0.407
+  },
+  {
+   "word": "à",
+   "start": 0.441,
+   "end": 0.475
+  },
+  {
+   "word": "manger",
+   "start": 0.508,
+   "end": 0.746
+  },
+  {
+   "word": "assez",
+   "start": 0.78,
+   "end": 0.949
+  },
+  {
+   "word": "pour",
+   "start": 0.976,
+   "end": 1.085
+  },
+  {
+   "word": "ta",
+   "start": 1.108,
+   "end": 1.153
+  },
+  {
+   "word": "prise",
+   "start": 1.197,
+   "end": 1.424
+  },
+  {
+   "word": "de",
+   "start": 1.447,
+   "end": 1.492
+  },
+  {
+   "word": "masse",
+   "start": 1.548,
+   "end": 1.831
+  },
+  {
+   "word": "Ajoute",
+   "start": 2.047,
+   "end": 2.205
+  },
+  {
+   "word": "des",
+   "start": 2.222,
+   "end": 2.273
+  },
+  {
+   "word": "glucides",
+   "start": 2.327,
+   "end": 2.748
+  },
+  {
+   "word": "sans",
+   "start": 2.788,
+   "end": 2.951
+  },
+  {
+   "word": "te",
+   "start": 2.974,
+   "end": 3.019
+  },
+  {
+   "word": "gaver",
+   "start": 3.053,
+   "end": 3.358
+  },
+  {
+   "word": "la",
+   "start": 3.632,
+   "end": 3.659
+  },
+  {
+   "word": "crème",
+   "start": 3.673,
+   "end": 3.768
+  },
+  {
+   "word": "de",
+   "start": 3.813,
+   "end": 3.903
+  },
+  {
+   "word": "riz",
+   "start": 3.937,
+   "end": 4.039
+  },
+  {
+   "word": "Nutrimea",
+   "start": 4.073,
+   "end": 4.852
+  },
+  {
+   "word": "soixante-dix-sept",
+   "start": 4.897,
+   "end": 5.463
+  },
+  {
+   "word": "pour",
+   "start": 5.49,
+   "end": 5.598
+  },
+  {
+   "word": "cent",
+   "start": 5.625,
+   "end": 5.734
+  },
+  {
+   "word": "de",
+   "start": 5.779,
+   "end": 5.869
+  },
+  {
+   "word": "glucides",
+   "start": 5.924,
+   "end": 6.344
+  },
+  {
+   "word": "saveur",
+   "start": 6.425,
+   "end": 6.818
+  },
+  {
+   "word": "biscuit",
+   "start": 6.873,
+   "end": 7.293
+  },
+  {
+   "word": "sans",
+   "start": 7.361,
+   "end": 7.632
+  },
+  {
+   "word": "gluten",
+   "start": 7.68,
+   "end": 8.242
+  },
+  {
+   "word": "sans",
+   "start": 8.256,
+   "end": 8.31
+  },
+  {
+   "word": "lactose",
+   "start": 8.364,
+   "end": 8.852
+  },
+  {
+   "word": "une",
+   "start": 8.997,
+   "end": 9.006
+  },
+  {
+   "word": "à",
+   "start": 9.073,
+   "end": 9.141
+  },
+  {
+   "word": "deux",
+   "start": 9.155,
+   "end": 9.209
+  },
+  {
+   "word": "doses",
+   "start": 9.254,
+   "end": 9.48
+  },
+  {
+   "word": "par",
+   "start": 9.514,
+   "end": 9.616
+  },
+  {
+   "word": "jour",
+   "start": 9.656,
+   "end": 10.022
+  },
+  {
+   "word": "dans",
+   "start": 10.05,
+   "end": 10.158
+  },
+  {
+   "word": "de",
+   "start": 10.203,
+   "end": 10.294
+  },
+  {
+   "word": "l'eau",
+   "start": 10.328,
+   "end": 10.429
+  },
+  {
+   "word": "ou",
+   "start": 10.497,
+   "end": 10.633
+  },
+  {
+   "word": "avec",
+   "start": 10.673,
+   "end": 10.836
+  },
+  {
+   "word": "ta",
+   "start": 10.881,
+   "end": 10.972
+  },
+  {
+   "word": "whey",
+   "start": 11.006,
+   "end": 11.243
+  },
+  {
+   "word": "deux",
+   "start": 11.428,
+   "end": 11.441
+  },
+  {
+   "word": "kilos",
+   "start": 11.509,
+   "end": 11.984
+  },
+  {
+   "word": "soixante-six",
+   "start": 12.006,
+   "end": 12.458
+  },
+  {
+   "word": "doses",
+   "start": 12.515,
+   "end": 12.967
+  },
+  {
+   "word": "trente",
+   "start": 13.191,
+   "end": 13.272
+  },
+  {
+   "word": "euros",
+   "start": 13.317,
+   "end": 13.543
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 13.562,
+   "end": 14.266
+  },
+  {
+   "word": "moins",
+   "start": 14.292,
+   "end": 14.424
+  },
+  {
+   "word": "douze",
+   "start": 14.475,
+   "end": 14.695
+  },
+  {
+   "word": "pour",
+   "start": 14.736,
+   "end": 14.899
+  },
+  {
+   "word": "cent",
+   "start": 14.926,
+   "end": 15.102
+  },
+  {
+   "word": "Black",
+   "start": 15.193,
+   "end": 15.645
+  },
+  {
+   "word": "Friday",
+   "start": 15.693,
+   "end": 16.051
+  },
+  {
+   "word": "livraison",
+   "start": 16.153,
+   "end": 16.662
+  },
+  {
+   "word": "gratuite",
+   "start": 16.706,
+   "end": 17.136
+  },
+  {
+   "word": "panier",
+   "start": 17.221,
+   "end": 17.543
+  },
+  {
+   "word": "orange",
+   "start": 17.601,
+   "end": 18.221
+  },
+  {
+   "word": "FONCE",
+   "start": 18.289,
+   "end": 18.695
+  }
+ ],
+ "durationSec": 18.939,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 5
+ }
+}

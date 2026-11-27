@@ -1,0 +1,411 @@
+{
+ "words": [
+  {
+   "word": "Treize",
+   "start": 0.204,
+   "end": 0.32
+  },
+  {
+   "word": "balles",
+   "start": 0.36,
+   "end": 0.64
+  },
+  {
+   "word": "d'économie",
+   "start": 0.68,
+   "end": 1.2
+  },
+  {
+   "word": "sur",
+   "start": 1.24,
+   "end": 1.36
+  },
+  {
+   "word": "ton",
+   "start": 1.4,
+   "end": 1.52
+  },
+  {
+   "word": "stock",
+   "start": 1.587,
+   "end": 1.92
+  },
+  {
+   "word": "de",
+   "start": 1.947,
+   "end": 2
+  },
+  {
+   "word": "l'hiver",
+   "start": 2.04,
+   "end": 2.72
+  },
+  {
+   "word": "qui",
+   "start": 2.76,
+   "end": 2.88
+  },
+  {
+   "word": "a",
+   "start": 2.92,
+   "end": 2.96
+  },
+  {
+   "word": "validé",
+   "start": 3.013,
+   "end": 3.36
+  },
+  {
+   "word": "ça",
+   "start": 3.413,
+   "end": 3.52
+  },
+  {
+   "word": "Le",
+   "start": 4.151,
+   "end": 4.16
+  },
+  {
+   "word": "Pack",
+   "start": 4.224,
+   "end": 4.48
+  },
+  {
+   "word": "Force",
+   "start": 4.547,
+   "end": 4.88
+  },
+  {
+   "word": "Nutrimea",
+   "start": 4.94,
+   "end": 5.76
+  },
+  {
+   "word": "normalement",
+   "start": 5.808,
+   "end": 6.24
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 6.3,
+   "end": 6.8
+  },
+  {
+   "word": "euros",
+   "start": 6.853,
+   "end": 7.12
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 7.143,
+   "end": 7.92
+  },
+  {
+   "word": "là",
+   "start": 8.059,
+   "end": 8.32
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 8.368,
+   "end": 8.96
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 9.006,
+   "end": 9.72
+  },
+  {
+   "word": "pour",
+   "start": 9.744,
+   "end": 9.84
+  },
+  {
+   "word": "le",
+   "start": 9.867,
+   "end": 9.92
+  },
+  {
+   "word": "Black",
+   "start": 9.973,
+   "end": 10.24
+  },
+  {
+   "word": "Friday",
+   "start": 10.297,
+   "end": 11.2
+  },
+  {
+   "word": "et",
+   "start": 11.272,
+   "end": 11.28
+  },
+  {
+   "word": "dedans",
+   "start": 11.34,
+   "end": 11.6
+  },
+  {
+   "word": "t'as",
+   "start": 11.68,
+   "end": 12
+  },
+  {
+   "word": "DEUX",
+   "start": 12.053,
+   "end": 12.4
+  },
+  {
+   "word": "produits",
+   "start": 12.427,
+   "end": 13.12
+  },
+  {
+   "word": "la",
+   "start": 13.173,
+   "end": 13.28
+  },
+  {
+   "word": "créatine",
+   "start": 13.34,
+   "end": 13.84
+  },
+  {
+   "word": "Creapure",
+   "start": 13.9,
+   "end": 14.56
+  },
+  {
+   "word": "cent",
+   "start": 14.576,
+   "end": 14.64
+  },
+  {
+   "word": "pour",
+   "start": 14.688,
+   "end": 14.88
+  },
+  {
+   "word": "cent",
+   "start": 14.912,
+   "end": 15.04
+  },
+  {
+   "word": "pure",
+   "start": 15.104,
+   "end": 15.44
+  },
+  {
+   "word": "testée",
+   "start": 15.488,
+   "end": 15.76
+  },
+  {
+   "word": "antidopage",
+   "start": 15.827,
+   "end": 16.88
+  },
+  {
+   "word": "et",
+   "start": 16.933,
+   "end": 17.04
+  },
+  {
+   "word": "le",
+   "start": 17.067,
+   "end": 17.12
+  },
+  {
+   "word": "collagène",
+   "start": 17.184,
+   "end": 17.68
+  },
+  {
+   "word": "marin",
+   "start": 17.733,
+   "end": 18
+  },
+  {
+   "word": "type",
+   "start": 18.064,
+   "end": 18.32
+  },
+  {
+   "word": "un",
+   "start": 18.373,
+   "end": 18.88
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 18.914,
+   "end": 19.44
+  },
+  {
+   "word": "gélules",
+   "start": 19.48,
+   "end": 20.08
+  },
+  {
+   "word": "sans",
+   "start": 20.112,
+   "end": 20.24
+  },
+  {
+   "word": "lactose",
+   "start": 20.288,
+   "end": 20.64
+  },
+  {
+   "word": "ni",
+   "start": 20.693,
+   "end": 20.8
+  },
+  {
+   "word": "gluten",
+   "start": 20.857,
+   "end": 21.6
+  },
+  {
+   "word": "trois",
+   "start": 21.79,
+   "end": 21.84
+  },
+  {
+   "word": "grammes",
+   "start": 21.907,
+   "end": 22.32
+  },
+  {
+   "word": "de",
+   "start": 22.347,
+   "end": 22.4
+  },
+  {
+   "word": "créatine",
+   "start": 22.46,
+   "end": 22.96
+  },
+  {
+   "word": "par",
+   "start": 23.02,
+   "end": 23.2
+  },
+  {
+   "word": "jour",
+   "start": 23.264,
+   "end": 23.52
+  },
+  {
+   "word": "augmentent",
+   "start": 23.57,
+   "end": 24
+  },
+  {
+   "word": "la",
+   "start": 24.027,
+   "end": 24.08
+  },
+  {
+   "word": "performance",
+   "start": 24.133,
+   "end": 24.72
+  },
+  {
+   "word": "physique",
+   "start": 24.773,
+   "end": 25.2
+  },
+  {
+   "word": "lors",
+   "start": 25.232,
+   "end": 25.36
+  },
+  {
+   "word": "d'exercices",
+   "start": 25.42,
+   "end": 25.92
+  },
+  {
+   "word": "courts",
+   "start": 25.977,
+   "end": 26.64
+  },
+  {
+   "word": "intenses",
+   "start": 26.7,
+   "end": 27.2
+  },
+  {
+   "word": "et",
+   "start": 27.253,
+   "end": 27.36
+  },
+  {
+   "word": "répétés",
+   "start": 27.44,
+   "end": 28.479
+  },
+  {
+   "word": "prix",
+   "start": 28.632,
+   "end": 28.728
+  },
+  {
+   "word": "le",
+   "start": 28.755,
+   "end": 28.808
+  },
+  {
+   "word": "plus",
+   "start": 28.872,
+   "end": 29.128
+  },
+  {
+   "word": "bas",
+   "start": 29.168,
+   "end": 29.288
+  },
+  {
+   "word": "sur",
+   "start": 29.348,
+   "end": 29.528
+  },
+  {
+   "word": "trente",
+   "start": 29.568,
+   "end": 29.848
+  },
+  {
+   "word": "jours",
+   "start": 29.888,
+   "end": 30.408
+  },
+  {
+   "word": "livraison",
+   "start": 30.468,
+   "end": 30.968
+  },
+  {
+   "word": "gratuite",
+   "start": 31.03,
+   "end": 31.848
+  },
+  {
+   "word": "panier",
+   "start": 31.908,
+   "end": 32.168
+  },
+  {
+   "word": "orange",
+   "start": 32.237,
+   "end": 32.968
+  },
+  {
+   "word": "FONCE",
+   "start": 33.048,
+   "end": 33.528
+  }
+ ],
+ "durationSec": 33.646,
+ "model": "eleven_v3"
+}

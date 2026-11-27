@@ -1,0 +1,396 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.14,
+   "end": 0.16
+  },
+  {
+   "word": "placard",
+   "start": 0.208,
+   "end": 0.56
+  },
+  {
+   "word": "de",
+   "start": 0.587,
+   "end": 0.64
+  },
+  {
+   "word": "muscu",
+   "start": 0.68,
+   "end": 1.36
+  },
+  {
+   "word": "c'est",
+   "start": 1.4,
+   "end": 1.52
+  },
+  {
+   "word": "un",
+   "start": 1.547,
+   "end": 1.6
+  },
+  {
+   "word": "shaker",
+   "start": 1.653,
+   "end": 2.08
+  },
+  {
+   "word": "et",
+   "start": 2.133,
+   "end": 2.24
+  },
+  {
+   "word": "une",
+   "start": 2.26,
+   "end": 2.32
+  },
+  {
+   "word": "whey",
+   "start": 2.36,
+   "end": 2.56
+  },
+  {
+   "word": "à",
+   "start": 2.6,
+   "end": 2.64
+  },
+  {
+   "word": "moitié",
+   "start": 2.667,
+   "end": 2.96
+  },
+  {
+   "word": "vide",
+   "start": 3.008,
+   "end": 3.2
+  },
+  {
+   "word": "Il",
+   "start": 4.067,
+   "end": 4.08
+  },
+  {
+   "word": "te",
+   "start": 4.133,
+   "end": 4.24
+  },
+  {
+   "word": "manque",
+   "start": 4.3,
+   "end": 4.64
+  },
+  {
+   "word": "le",
+   "start": 4.72,
+   "end": 4.88
+  },
+  {
+   "word": "duo",
+   "start": 4.98,
+   "end": 5.36
+  },
+  {
+   "word": "la",
+   "start": 5.991,
+   "end": 6
+  },
+  {
+   "word": "créatine",
+   "start": 6.08,
+   "end": 6.64
+  },
+  {
+   "word": "monohydrate",
+   "start": 6.68,
+   "end": 7.28
+  },
+  {
+   "word": "Creapure",
+   "start": 7.36,
+   "end": 7.92
+  },
+  {
+   "word": "de",
+   "start": 7.973,
+   "end": 8.08
+  },
+  {
+   "word": "Nutrimea",
+   "start": 8.14,
+   "end": 9.12
+  },
+  {
+   "word": "cinq",
+   "start": 9.16,
+   "end": 9.28
+  },
+  {
+   "word": "cents",
+   "start": 9.307,
+   "end": 9.44
+  },
+  {
+   "word": "grammes",
+   "start": 9.493,
+   "end": 9.84
+  },
+  {
+   "word": "vegan",
+   "start": 9.96,
+   "end": 10.8
+  },
+  {
+   "word": "sans",
+   "start": 10.832,
+   "end": 10.96
+  },
+  {
+   "word": "gluten",
+   "start": 11.029,
+   "end": 11.76
+  },
+  {
+   "word": "et",
+   "start": 12.151,
+   "end": 12.16
+  },
+  {
+   "word": "le",
+   "start": 12.213,
+   "end": 12.32
+  },
+  {
+   "word": "collagène",
+   "start": 12.368,
+   "end": 12.88
+  },
+  {
+   "word": "marin",
+   "start": 12.92,
+   "end": 13.12
+  },
+  {
+   "word": "type",
+   "start": 13.168,
+   "end": 13.36
+  },
+  {
+   "word": "un",
+   "start": 13.44,
+   "end": 13.68
+  },
+  {
+   "word": "riche",
+   "start": 13.88,
+   "end": 14.24
+  },
+  {
+   "word": "en",
+   "start": 14.267,
+   "end": 14.32
+  },
+  {
+   "word": "vitamines",
+   "start": 14.38,
+   "end": 14.8
+  },
+  {
+   "word": "C",
+   "start": 14.92,
+   "end": 15.04
+  },
+  {
+   "word": "et",
+   "start": 15.12,
+   "end": 15.28
+  },
+  {
+   "word": "E",
+   "start": 15.4,
+   "end": 15.52
+  },
+  {
+   "word": "naturelles",
+   "start": 15.577,
+   "end": 16.56
+  },
+  {
+   "word": "trois",
+   "start": 16.756,
+   "end": 16.8
+  },
+  {
+   "word": "grammes",
+   "start": 16.853,
+   "end": 17.2
+  },
+  {
+   "word": "de",
+   "start": 17.227,
+   "end": 17.28
+  },
+  {
+   "word": "créatine",
+   "start": 17.34,
+   "end": 17.84
+  },
+  {
+   "word": "par",
+   "start": 17.88,
+   "end": 18
+  },
+  {
+   "word": "jour",
+   "start": 18.08,
+   "end": 18.4
+  },
+  {
+   "word": "augmentent",
+   "start": 18.46,
+   "end": 19.04
+  },
+  {
+   "word": "la",
+   "start": 19.067,
+   "end": 19.12
+  },
+  {
+   "word": "performance",
+   "start": 19.167,
+   "end": 19.68
+  },
+  {
+   "word": "physique",
+   "start": 19.733,
+   "end": 20.16
+  },
+  {
+   "word": "lors",
+   "start": 20.208,
+   "end": 20.4
+  },
+  {
+   "word": "d'exercices",
+   "start": 20.44,
+   "end": 20.96
+  },
+  {
+   "word": "courts",
+   "start": 21.017,
+   "end": 21.6
+  },
+  {
+   "word": "intenses",
+   "start": 21.66,
+   "end": 22.16
+  },
+  {
+   "word": "et",
+   "start": 22.24,
+   "end": 22.4
+  },
+  {
+   "word": "répétés",
+   "start": 22.453,
+   "end": 23.6
+  },
+  {
+   "word": "quatre",
+   "start": 23.806,
+   "end": 23.84
+  },
+  {
+   "word": "virgule",
+   "start": 23.92,
+   "end": 24.24
+  },
+  {
+   "word": "six",
+   "start": 24.3,
+   "end": 24.48
+  },
+  {
+   "word": "étoiles",
+   "start": 24.56,
+   "end": 25.36
+  },
+  {
+   "word": "presque",
+   "start": 25.408,
+   "end": 25.76
+  },
+  {
+   "word": "cinq",
+   "start": 25.88,
+   "end": 26.16
+  },
+  {
+   "word": "mille",
+   "start": 26.2,
+   "end": 26.32
+  },
+  {
+   "word": "packs",
+   "start": 26.373,
+   "end": 26.64
+  },
+  {
+   "word": "vendus",
+   "start": 26.672,
+   "end": 27.6
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 27.808,
+   "end": 28.16
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 28.206,
+   "end": 28.803
+  },
+  {
+   "word": "au",
+   "start": 28.91,
+   "end": 29.123
+  },
+  {
+   "word": "lieu",
+   "start": 29.155,
+   "end": 29.283
+  },
+  {
+   "word": "de",
+   "start": 29.336,
+   "end": 29.443
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 29.463,
+   "end": 29.843
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 29.889,
+   "end": 30.843
+  },
+  {
+   "word": "panier",
+   "start": 30.873,
+   "end": 31.043
+  },
+  {
+   "word": "orange",
+   "start": 31.1,
+   "end": 31.763
+  },
+  {
+   "word": "FONCE",
+   "start": 31.843,
+   "end": 32.323
+  }
+ ],
+ "durationSec": 32.522,
+ "model": "eleven_v3"
+}

@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Séance",
+   "start": 0.147,
+   "end": 0.4
+  },
+  {
+   "word": "jambes",
+   "start": 0.44,
+   "end": 0.72
+  },
+  {
+   "word": "ce",
+   "start": 0.747,
+   "end": 0.8
+  },
+  {
+   "word": "soir",
+   "start": 0.864,
+   "end": 1.36
+  },
+  {
+   "word": "et",
+   "start": 1.387,
+   "end": 1.44
+  },
+  {
+   "word": "t'as",
+   "start": 1.48,
+   "end": 1.68
+  },
+  {
+   "word": "rien",
+   "start": 1.696,
+   "end": 1.76
+  },
+  {
+   "word": "mangé",
+   "start": 1.808,
+   "end": 2.08
+  },
+  {
+   "word": "depuis",
+   "start": 2.114,
+   "end": 2.32
+  },
+  {
+   "word": "midi",
+   "start": 2.368,
+   "end": 2.56
+  },
+  {
+   "word": "Une",
+   "start": 3.575,
+   "end": 3.605
+  },
+  {
+   "word": "heure",
+   "start": 3.632,
+   "end": 3.765
+  },
+  {
+   "word": "avant",
+   "start": 3.818,
+   "end": 4.165
+  },
+  {
+   "word": "un",
+   "start": 4.298,
+   "end": 4.565
+  },
+  {
+   "word": "shaker",
+   "start": 4.618,
+   "end": 5.045
+  },
+  {
+   "word": "de",
+   "start": 5.072,
+   "end": 5.125
+  },
+  {
+   "word": "crème",
+   "start": 5.178,
+   "end": 5.365
+  },
+  {
+   "word": "de",
+   "start": 5.418,
+   "end": 5.525
+  },
+  {
+   "word": "riz",
+   "start": 5.565,
+   "end": 5.685
+  },
+  {
+   "word": "Nutrimea",
+   "start": 5.725,
+   "end": 6.245
+  },
+  {
+   "word": "vingt-trois",
+   "start": 6.739,
+   "end": 7.179
+  },
+  {
+   "word": "grammes",
+   "start": 7.199,
+   "end": 7.379
+  },
+  {
+   "word": "de",
+   "start": 7.406,
+   "end": 7.459
+  },
+  {
+   "word": "glucides",
+   "start": 7.523,
+   "end": 8.179
+  },
+  {
+   "word": "faible",
+   "start": 8.232,
+   "end": 8.499
+  },
+  {
+   "word": "en",
+   "start": 8.526,
+   "end": 8.579
+  },
+  {
+   "word": "matières",
+   "start": 8.619,
+   "end": 8.899
+  },
+  {
+   "word": "grasses",
+   "start": 8.952,
+   "end": 9.379
+  },
+  {
+   "word": "zéro",
+   "start": 9.459,
+   "end": 9.699
+  },
+  {
+   "word": "sucre",
+   "start": 9.779,
+   "end": 10.418
+  },
+  {
+   "word": "et",
+   "start": 10.493,
+   "end": 10.506
+  },
+  {
+   "word": "ça",
+   "start": 10.559,
+   "end": 10.666
+  },
+  {
+   "word": "passe",
+   "start": 10.706,
+   "end": 10.906
+  },
+  {
+   "word": "tout",
+   "start": 10.938,
+   "end": 11.066
+  },
+  {
+   "word": "seul",
+   "start": 11.114,
+   "end": 11.546
+  },
+  {
+   "word": "saveur",
+   "start": 11.594,
+   "end": 11.866
+  },
+  {
+   "word": "biscuit",
+   "start": 11.914,
+   "end": 12.746
+  },
+  {
+   "word": "presque",
+   "start": 12.88,
+   "end": 13.066
+  },
+  {
+   "word": "neuf",
+   "start": 13.146,
+   "end": 13.386
+  },
+  {
+   "word": "mille",
+   "start": 13.466,
+   "end": 13.626
+  },
+  {
+   "word": "vendus",
+   "start": 13.69,
+   "end": 14.426
+  },
+  {
+   "word": "quatre",
+   "start": 14.449,
+   "end": 14.586
+  },
+  {
+   "word": "virgule",
+   "start": 14.646,
+   "end": 14.906
+  },
+  {
+   "word": "cinq",
+   "start": 14.986,
+   "end": 15.146
+  },
+  {
+   "word": "étoiles",
+   "start": 15.226,
+   "end": 16.026
+  },
+  {
+   "word": "trente",
+   "start": 16.166,
+   "end": 16.266
+  },
+  {
+   "word": "euros",
+   "start": 16.319,
+   "end": 16.586
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 16.62,
+   "end": 17.146
+  },
+  {
+   "word": "au",
+   "start": 17.173,
+   "end": 17.226
+  },
+  {
+   "word": "lieu",
+   "start": 17.258,
+   "end": 17.386
+  },
+  {
+   "word": "de",
+   "start": 17.439,
+   "end": 17.546
+  },
+  {
+   "word": "trente-cinq",
+   "start": 17.566,
+   "end": 18.373
+  },
+  {
+   "word": "livraison",
+   "start": 18.426,
+   "end": 18.906
+  },
+  {
+   "word": "gratuite",
+   "start": 18.959,
+   "end": 19.466
+  },
+  {
+   "word": "panier",
+   "start": 19.526,
+   "end": 19.786
+  },
+  {
+   "word": "orange",
+   "start": 19.855,
+   "end": 20.426
+  },
+  {
+   "word": "FONCE",
+   "start": 20.506,
+   "end": 20.986
+  }
+ ],
+ "durationSec": 21.316,
+ "model": "eleven_v3"
+}

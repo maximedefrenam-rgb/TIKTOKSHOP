@@ -1,0 +1,306 @@
+{
+ "words": [
+  {
+   "word": "Un",
+   "start": 0.091,
+   "end": 0.109
+  },
+  {
+   "word": "flan",
+   "start": 0.199,
+   "end": 0.448
+  },
+  {
+   "word": "saveur",
+   "start": 0.502,
+   "end": 0.787
+  },
+  {
+   "word": "biscuit",
+   "start": 0.841,
+   "end": 1.193
+  },
+  {
+   "word": "en",
+   "start": 1.261,
+   "end": 1.397
+  },
+  {
+   "word": "une",
+   "start": 1.431,
+   "end": 1.532
+  },
+  {
+   "word": "minute",
+   "start": 1.581,
+   "end": 1.939
+  },
+  {
+   "word": "pour",
+   "start": 2.021,
+   "end": 2.346
+  },
+  {
+   "word": "ta",
+   "start": 2.391,
+   "end": 2.482
+  },
+  {
+   "word": "prise",
+   "start": 2.526,
+   "end": 2.753
+  },
+  {
+   "word": "de",
+   "start": 2.798,
+   "end": 2.888
+  },
+  {
+   "word": "masse",
+   "start": 2.922,
+   "end": 3.159
+  },
+  {
+   "word": "wesh",
+   "start": 3.193,
+   "end": 3.363
+  },
+  {
+   "word": "Une",
+   "start": 3.548,
+   "end": 3.582
+  },
+  {
+   "word": "dose",
+   "start": 3.636,
+   "end": 3.853
+  },
+  {
+   "word": "de",
+   "start": 3.876,
+   "end": 3.921
+  },
+  {
+   "word": "crème",
+   "start": 3.966,
+   "end": 4.124
+  },
+  {
+   "word": "de",
+   "start": 4.169,
+   "end": 4.26
+  },
+  {
+   "word": "riz",
+   "start": 4.277,
+   "end": 4.328
+  },
+  {
+   "word": "Nutrimea",
+   "start": 4.379,
+   "end": 5.074
+  },
+  {
+   "word": "cinquante",
+   "start": 5.107,
+   "end": 5.413
+  },
+  {
+   "word": "millilitres",
+   "start": 5.453,
+   "end": 5.887
+  },
+  {
+   "word": "de",
+   "start": 5.91,
+   "end": 5.955
+  },
+  {
+   "word": "lait",
+   "start": 6.0,
+   "end": 6.294
+  },
+  {
+   "word": "une",
+   "start": 6.311,
+   "end": 6.362
+  },
+  {
+   "word": "minute",
+   "start": 6.401,
+   "end": 6.633
+  },
+  {
+   "word": "au",
+   "start": 6.656,
+   "end": 6.701
+  },
+  {
+   "word": "micro-ondes",
+   "start": 6.746,
+   "end": 7.446
+  },
+  {
+   "word": "et",
+   "start": 7.535,
+   "end": 7.558
+  },
+  {
+   "word": "t'as",
+   "start": 7.575,
+   "end": 7.728
+  },
+  {
+   "word": "une",
+   "start": 7.745,
+   "end": 7.796
+  },
+  {
+   "word": "texture",
+   "start": 7.846,
+   "end": 8.202
+  },
+  {
+   "word": "flan",
+   "start": 8.27,
+   "end": 8.677
+  },
+  {
+   "word": "vingt-trois",
+   "start": 8.834,
+   "end": 9.156
+  },
+  {
+   "word": "grammes",
+   "start": 9.179,
+   "end": 9.359
+  },
+  {
+   "word": "de",
+   "start": 9.382,
+   "end": 9.427
+  },
+  {
+   "word": "glucides",
+   "start": 9.481,
+   "end": 10.037
+  },
+  {
+   "word": "zéro",
+   "start": 10.139,
+   "end": 10.376
+  },
+  {
+   "word": "sucre",
+   "start": 10.444,
+   "end": 11.19
+  },
+  {
+   "word": "deux",
+   "start": 11.312,
+   "end": 11.325
+  },
+  {
+   "word": "kilos",
+   "start": 11.393,
+   "end": 12.003
+  },
+  {
+   "word": "soixante-six",
+   "start": 12.048,
+   "end": 12.546
+  },
+  {
+   "word": "doses",
+   "start": 12.59,
+   "end": 13.156
+  },
+  {
+   "word": "trente",
+   "start": 13.207,
+   "end": 13.427
+  },
+  {
+   "word": "euros",
+   "start": 13.461,
+   "end": 13.63
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 13.659,
+   "end": 14.105
+  },
+  {
+   "word": "au",
+   "start": 14.128,
+   "end": 14.173
+  },
+  {
+   "word": "lieu",
+   "start": 14.186,
+   "end": 14.24
+  },
+  {
+   "word": "de",
+   "start": 14.285,
+   "end": 14.376
+  },
+  {
+   "word": "trente-cinq",
+   "start": 14.393,
+   "end": 14.986
+  },
+  {
+   "word": "Black",
+   "start": 15.381,
+   "end": 15.466
+  },
+  {
+   "word": "Friday",
+   "start": 15.514,
+   "end": 15.805
+  },
+  {
+   "word": "jusqu'au",
+   "start": 15.839,
+   "end": 16.144
+  },
+  {
+   "word": "trente",
+   "start": 16.161,
+   "end": 16.415
+  },
+  {
+   "word": "livraison",
+   "start": 16.483,
+   "end": 16.957
+  },
+  {
+   "word": "gratuite",
+   "start": 17.002,
+   "end": 17.635
+  },
+  {
+   "word": "panier",
+   "start": 17.703,
+   "end": 17.974
+  },
+  {
+   "word": "orange",
+   "start": 18.023,
+   "end": 18.585
+  },
+  {
+   "word": "FONCE",
+   "start": 18.652,
+   "end": 18.991
+  }
+ ],
+ "durationSec": 19.174,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

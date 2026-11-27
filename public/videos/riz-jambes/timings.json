@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Séance",
+   "start": 0.125,
+   "end": 0.339
+  },
+  {
+   "word": "jambes",
+   "start": 0.373,
+   "end": 0.61
+  },
+  {
+   "word": "ce",
+   "start": 0.633,
+   "end": 0.678
+  },
+  {
+   "word": "soir",
+   "start": 0.732,
+   "end": 1.153
+  },
+  {
+   "word": "et",
+   "start": 1.175,
+   "end": 1.22
+  },
+  {
+   "word": "t'as",
+   "start": 1.254,
+   "end": 1.424
+  },
+  {
+   "word": "rien",
+   "start": 1.437,
+   "end": 1.492
+  },
+  {
+   "word": "mangé",
+   "start": 1.532,
+   "end": 1.763
+  },
+  {
+   "word": "depuis",
+   "start": 1.792,
+   "end": 1.966
+  },
+  {
+   "word": "midi",
+   "start": 2.007,
+   "end": 2.169
+  },
+  {
+   "word": "Une",
+   "start": 2.357,
+   "end": 2.382
+  },
+  {
+   "word": "heure",
+   "start": 2.405,
+   "end": 2.518
+  },
+  {
+   "word": "avant",
+   "start": 2.563,
+   "end": 2.857
+  },
+  {
+   "word": "un",
+   "start": 2.928,
+   "end": 3.0
+  },
+  {
+   "word": "shaker",
+   "start": 3.045,
+   "end": 3.407
+  },
+  {
+   "word": "de",
+   "start": 3.43,
+   "end": 3.475
+  },
+  {
+   "word": "crème",
+   "start": 3.52,
+   "end": 3.678
+  },
+  {
+   "word": "de",
+   "start": 3.723,
+   "end": 3.814
+  },
+  {
+   "word": "riz",
+   "start": 3.848,
+   "end": 3.95
+  },
+  {
+   "word": "Nutrimea",
+   "start": 3.983,
+   "end": 4.424
+  },
+  {
+   "word": "vingt-trois",
+   "start": 4.563,
+   "end": 4.936
+  },
+  {
+   "word": "grammes",
+   "start": 4.953,
+   "end": 5.106
+  },
+  {
+   "word": "de",
+   "start": 5.129,
+   "end": 5.174
+  },
+  {
+   "word": "glucides",
+   "start": 5.228,
+   "end": 5.784
+  },
+  {
+   "word": "faible",
+   "start": 5.829,
+   "end": 6.055
+  },
+  {
+   "word": "en",
+   "start": 6.078,
+   "end": 6.123
+  },
+  {
+   "word": "matières",
+   "start": 6.157,
+   "end": 6.394
+  },
+  {
+   "word": "grasses",
+   "start": 6.439,
+   "end": 6.801
+  },
+  {
+   "word": "zéro",
+   "start": 6.868,
+   "end": 7.072
+  },
+  {
+   "word": "sucre",
+   "start": 7.14,
+   "end": 7.681
+  },
+  {
+   "word": "et",
+   "start": 7.745,
+   "end": 7.756
+  },
+  {
+   "word": "ça",
+   "start": 7.801,
+   "end": 7.891
+  },
+  {
+   "word": "passe",
+   "start": 7.925,
+   "end": 8.095
+  },
+  {
+   "word": "tout",
+   "start": 8.122,
+   "end": 8.23
+  },
+  {
+   "word": "seul",
+   "start": 8.271,
+   "end": 8.637
+  },
+  {
+   "word": "saveur",
+   "start": 8.678,
+   "end": 8.908
+  },
+  {
+   "word": "biscuit",
+   "start": 8.949,
+   "end": 9.654
+  },
+  {
+   "word": "presque",
+   "start": 9.768,
+   "end": 9.925
+  },
+  {
+   "word": "neuf",
+   "start": 9.993,
+   "end": 10.196
+  },
+  {
+   "word": "mille",
+   "start": 10.264,
+   "end": 10.4
+  },
+  {
+   "word": "vendus",
+   "start": 10.454,
+   "end": 11.078
+  },
+  {
+   "word": "quatre",
+   "start": 11.097,
+   "end": 11.213
+  },
+  {
+   "word": "virgule",
+   "start": 11.264,
+   "end": 11.485
+  },
+  {
+   "word": "cinq",
+   "start": 11.552,
+   "end": 11.688
+  },
+  {
+   "word": "étoiles",
+   "start": 11.756,
+   "end": 12.434
+  },
+  {
+   "word": "trente",
+   "start": 12.552,
+   "end": 12.637
+  },
+  {
+   "word": "euros",
+   "start": 12.682,
+   "end": 12.908
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 12.937,
+   "end": 13.383
+  },
+  {
+   "word": "au",
+   "start": 13.406,
+   "end": 13.451
+  },
+  {
+   "word": "lieu",
+   "start": 13.478,
+   "end": 13.586
+  },
+  {
+   "word": "de",
+   "start": 13.631,
+   "end": 13.722
+  },
+  {
+   "word": "trente-cinq",
+   "start": 13.739,
+   "end": 14.423
+  },
+  {
+   "word": "livraison",
+   "start": 14.468,
+   "end": 14.874
+  },
+  {
+   "word": "gratuite",
+   "start": 14.919,
+   "end": 15.349
+  },
+  {
+   "word": "panier",
+   "start": 15.4,
+   "end": 15.62
+  },
+  {
+   "word": "orange",
+   "start": 15.679,
+   "end": 16.163
+  },
+  {
+   "word": "FONCE",
+   "start": 16.23,
+   "end": 16.637
+  }
+ ],
+ "durationSec": 16.849,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

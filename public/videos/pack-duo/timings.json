@@ -1,0 +1,446 @@
+{
+ "words": [
+  {
+   "word": "Pourquoi",
+   "start": 0.114,
+   "end": 0.271
+  },
+  {
+   "word": "choisir",
+   "start": 0.331,
+   "end": 0.746
+  },
+  {
+   "word": "entre",
+   "start": 0.78,
+   "end": 0.949
+  },
+  {
+   "word": "la",
+   "start": 0.994,
+   "end": 1.085
+  },
+  {
+   "word": "créatine",
+   "start": 1.119,
+   "end": 1.492
+  },
+  {
+   "word": "et",
+   "start": 1.514,
+   "end": 1.559
+  },
+  {
+   "word": "le",
+   "start": 1.582,
+   "end": 1.627
+  },
+  {
+   "word": "collagène",
+   "start": 1.654,
+   "end": 2.441
+  },
+  {
+   "word": "quand",
+   "start": 2.452,
+   "end": 2.508
+  },
+  {
+   "word": "t'as",
+   "start": 2.542,
+   "end": 2.712
+  },
+  {
+   "word": "les",
+   "start": 2.78,
+   "end": 2.983
+  },
+  {
+   "word": "DEUX",
+   "start": 3.006,
+   "end": 3.119
+  },
+  {
+   "word": "dans",
+   "start": 3.186,
+   "end": 3.458
+  },
+  {
+   "word": "un",
+   "start": 3.481,
+   "end": 3.525
+  },
+  {
+   "word": "seul",
+   "start": 3.553,
+   "end": 3.661
+  },
+  {
+   "word": "pack",
+   "start": 3.729,
+   "end": 4.0
+  },
+  {
+   "word": "Le",
+   "start": 4.136,
+   "end": 4.143
+  },
+  {
+   "word": "Pack",
+   "start": 4.197,
+   "end": 4.414
+  },
+  {
+   "word": "Force",
+   "start": 4.471,
+   "end": 4.753
+  },
+  {
+   "word": "Nutrimea",
+   "start": 4.787,
+   "end": 5.499
+  },
+  {
+   "word": "d'un",
+   "start": 5.609,
+   "end": 5.643
+  },
+  {
+   "word": "côté",
+   "start": 5.697,
+   "end": 6.321
+  },
+  {
+   "word": "la",
+   "start": 6.366,
+   "end": 6.457
+  },
+  {
+   "word": "créatine",
+   "start": 6.491,
+   "end": 6.864
+  },
+  {
+   "word": "monohydrate",
+   "start": 6.897,
+   "end": 7.406
+  },
+  {
+   "word": "Creapure",
+   "start": 7.457,
+   "end": 8.152
+  },
+  {
+   "word": "cinq",
+   "start": 8.186,
+   "end": 8.287
+  },
+  {
+   "word": "cents",
+   "start": 8.31,
+   "end": 8.423
+  },
+  {
+   "word": "grammes",
+   "start": 8.457,
+   "end": 9.033
+  },
+  {
+   "word": "cent",
+   "start": 9.06,
+   "end": 9.169
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 9.196,
+   "end": 9.575
+  },
+  {
+   "word": "doses",
+   "start": 9.632,
+   "end": 9.982
+  },
+  {
+   "word": "de",
+   "start": 10.162,
+   "end": 10.176
+  },
+  {
+   "word": "l'autre",
+   "start": 10.188,
+   "end": 10.47
+  },
+  {
+   "word": "le",
+   "start": 10.539,
+   "end": 10.659
+  },
+  {
+   "word": "collagène",
+   "start": 10.699,
+   "end": 10.998
+  },
+  {
+   "word": "marin",
+   "start": 11.042,
+   "end": 11.269
+  },
+  {
+   "word": "type",
+   "start": 11.323,
+   "end": 11.54
+  },
+  {
+   "word": "un",
+   "start": 11.631,
+   "end": 12.082
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 12.111,
+   "end": 12.523
+  },
+  {
+   "word": "gélules",
+   "start": 12.54,
+   "end": 12.896
+  },
+  {
+   "word": "avec",
+   "start": 12.991,
+   "end": 13.37
+  },
+  {
+   "word": "des",
+   "start": 13.387,
+   "end": 13.438
+  },
+  {
+   "word": "vitamines",
+   "start": 13.472,
+   "end": 13.845
+  },
+  {
+   "word": "C",
+   "start": 13.947,
+   "end": 14.048
+  },
+  {
+   "word": "et",
+   "start": 14.116,
+   "end": 14.252
+  },
+  {
+   "word": "E",
+   "start": 14.353,
+   "end": 14.455
+  },
+  {
+   "word": "naturelles",
+   "start": 14.514,
+   "end": 15.336
+  },
+  {
+   "word": "et",
+   "start": 15.389,
+   "end": 15.404
+  },
+  {
+   "word": "trois",
+   "start": 15.449,
+   "end": 15.676
+  },
+  {
+   "word": "grammes",
+   "start": 15.72,
+   "end": 15.981
+  },
+  {
+   "word": "de",
+   "start": 15.981,
+   "end": 16.015
+  },
+  {
+   "word": "créatine",
+   "start": 16.037,
+   "end": 16.421
+  },
+  {
+   "word": "par",
+   "start": 16.466,
+   "end": 16.591
+  },
+  {
+   "word": "jour",
+   "start": 16.625,
+   "end": 16.828
+  },
+  {
+   "word": "augmentent",
+   "start": 16.896,
+   "end": 17.506
+  },
+  {
+   "word": "la",
+   "start": 17.529,
+   "end": 17.574
+  },
+  {
+   "word": "performance",
+   "start": 17.614,
+   "end": 18.048
+  },
+  {
+   "word": "physique",
+   "start": 18.093,
+   "end": 18.455
+  },
+  {
+   "word": "lors",
+   "start": 18.509,
+   "end": 18.726
+  },
+  {
+   "word": "d'exercices",
+   "start": 18.76,
+   "end": 19.201
+  },
+  {
+   "word": "courts",
+   "start": 19.24,
+   "end": 19.608
+  },
+  {
+   "word": "intenses",
+   "start": 19.659,
+   "end": 20.15
+  },
+  {
+   "word": "et",
+   "start": 20.173,
+   "end": 20.218
+  },
+  {
+   "word": "répétés",
+   "start": 20.263,
+   "end": 21.167
+  },
+  {
+   "word": "les",
+   "start": 21.273,
+   "end": 21.375
+  },
+  {
+   "word": "deux",
+   "start": 21.429,
+   "end": 21.714
+  },
+  {
+   "word": "pour",
+   "start": 21.781,
+   "end": 22.053
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 22.107,
+   "end": 22.595
+  },
+  {
+   "word": "euros",
+   "start": 22.64,
+   "end": 22.866
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 22.886,
+   "end": 23.273
+  },
+  {
+   "word": "au",
+   "start": 23.476,
+   "end": 23.883
+  },
+  {
+   "word": "lieu",
+   "start": 23.91,
+   "end": 24.019
+  },
+  {
+   "word": "de",
+   "start": 24.087,
+   "end": 24.222
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 24.256,
+   "end": 24.629
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 24.668,
+   "end": 25.578
+  },
+  {
+   "word": "Black",
+   "start": 25.753,
+   "end": 25.781
+  },
+  {
+   "word": "Friday",
+   "start": 25.83,
+   "end": 26.12
+  },
+  {
+   "word": "jusqu'au",
+   "start": 26.165,
+   "end": 26.493
+  },
+  {
+   "word": "trente",
+   "start": 26.519,
+   "end": 27.137
+  },
+  {
+   "word": "livraison",
+   "start": 27.171,
+   "end": 27.476
+  },
+  {
+   "word": "gratuite",
+   "start": 27.529,
+   "end": 28.222
+  },
+  {
+   "word": "panier",
+   "start": 28.256,
+   "end": 28.493
+  },
+  {
+   "word": "orange",
+   "start": 28.542,
+   "end": 28.9
+  },
+  {
+   "word": "prends",
+   "start": 28.991,
+   "end": 29.51
+  },
+  {
+   "word": "le",
+   "start": 29.533,
+   "end": 29.578
+  },
+  {
+   "word": "pack",
+   "start": 29.632,
+   "end": 29.849
+  }
+ ],
+ "durationSec": 30.119,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Ta",
+   "start": 0.139,
+   "end": 0.16
+  },
+  {
+   "word": "dose",
+   "start": 0.208,
+   "end": 0.4
+  },
+  {
+   "word": "de",
+   "start": 0.427,
+   "end": 0.48
+  },
+  {
+   "word": "glucides",
+   "start": 0.544,
+   "end": 0.96
+  },
+  {
+   "word": "moins",
+   "start": 1.013,
+   "end": 1.28
+  },
+  {
+   "word": "chère",
+   "start": 1.307,
+   "end": 1.52
+  },
+  {
+   "word": "qu'un",
+   "start": 1.547,
+   "end": 1.68
+  },
+  {
+   "word": "croissant",
+   "start": 1.72,
+   "end": 2.08
+  },
+  {
+   "word": "de",
+   "start": 2.107,
+   "end": 2.16
+  },
+  {
+   "word": "boulangerie",
+   "start": 2.2,
+   "end": 2.56
+  },
+  {
+   "word": "La",
+   "start": 3.663,
+   "end": 3.681
+  },
+  {
+   "word": "crème",
+   "start": 3.734,
+   "end": 3.921
+  },
+  {
+   "word": "de",
+   "start": 3.974,
+   "end": 4.081
+  },
+  {
+   "word": "riz",
+   "start": 4.121,
+   "end": 4.241
+  },
+  {
+   "word": "Nutrimea",
+   "start": 4.281,
+   "end": 5.041
+  },
+  {
+   "word": "trente",
+   "start": 5.081,
+   "end": 5.281
+  },
+  {
+   "word": "euros",
+   "start": 5.334,
+   "end": 5.601
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 5.624,
+   "end": 6.081
+  },
+  {
+   "word": "les",
+   "start": 6.141,
+   "end": 6.321
+  },
+  {
+   "word": "deux",
+   "start": 6.337,
+   "end": 6.401
+  },
+  {
+   "word": "kilos",
+   "start": 6.461,
+   "end": 7.121
+  },
+  {
+   "word": "divisé",
+   "start": 7.391,
+   "end": 7.521
+  },
+  {
+   "word": "par",
+   "start": 7.561,
+   "end": 7.681
+  },
+  {
+   "word": "soixante-six",
+   "start": 7.761,
+   "end": 8.321
+  },
+  {
+   "word": "doses",
+   "start": 8.388,
+   "end": 9.121
+  },
+  {
+   "word": "quarante-sept",
+   "start": 9.153,
+   "end": 9.681
+  },
+  {
+   "word": "centimes",
+   "start": 9.745,
+   "end": 10.721
+  },
+  {
+   "word": "vingt-trois",
+   "start": 10.864,
+   "end": 11.241
+  },
+  {
+   "word": "grammes",
+   "start": 11.261,
+   "end": 11.441
+  },
+  {
+   "word": "de",
+   "start": 11.468,
+   "end": 11.521
+  },
+  {
+   "word": "glucides",
+   "start": 11.601,
+   "end": 12.321
+  },
+  {
+   "word": "cent",
+   "start": 12.369,
+   "end": 12.561
+  },
+  {
+   "word": "six",
+   "start": 12.601,
+   "end": 12.721
+  },
+  {
+   "word": "calories",
+   "start": 12.774,
+   "end": 13.521
+  },
+  {
+   "word": "zéro",
+   "start": 13.601,
+   "end": 13.841
+  },
+  {
+   "word": "sucre",
+   "start": 13.921,
+   "end": 14.561
+  },
+  {
+   "word": "saveur",
+   "start": 14.609,
+   "end": 14.881
+  },
+  {
+   "word": "biscuit",
+   "start": 14.945,
+   "end": 15.761
+  },
+  {
+   "word": "et",
+   "start": 15.88,
+   "end": 15.933
+  },
+  {
+   "word": "tu",
+   "start": 15.986,
+   "end": 16.093
+  },
+  {
+   "word": "la",
+   "start": 16.12,
+   "end": 16.173
+  },
+  {
+   "word": "mets",
+   "start": 16.213,
+   "end": 16.333
+  },
+  {
+   "word": "dans",
+   "start": 16.349,
+   "end": 16.413
+  },
+  {
+   "word": "ton",
+   "start": 16.453,
+   "end": 16.573
+  },
+  {
+   "word": "shaker",
+   "start": 16.626,
+   "end": 16.973
+  },
+  {
+   "word": "de",
+   "start": 17.026,
+   "end": 17.133
+  },
+  {
+   "word": "whey",
+   "start": 17.173,
+   "end": 17.773
+  },
+  {
+   "word": "Black",
+   "start": 17.98,
+   "end": 18.013
+  },
+  {
+   "word": "Friday",
+   "start": 18.082,
+   "end": 18.493
+  },
+  {
+   "word": "jusqu'au",
+   "start": 18.546,
+   "end": 18.973
+  },
+  {
+   "word": "trente",
+   "start": 18.993,
+   "end": 19.133
+  },
+  {
+   "word": "novembre",
+   "start": 19.186,
+   "end": 19.853
+  },
+  {
+   "word": "livraison",
+   "start": 19.913,
+   "end": 20.333
+  },
+  {
+   "word": "gratuite",
+   "start": 20.395,
+   "end": 21.093
+  },
+  {
+   "word": "panier",
+   "start": 21.143,
+   "end": 21.453
+  },
+  {
+   "word": "orange",
+   "start": 21.522,
+   "end": 22.333
+  },
+  {
+   "word": "FONCE",
+   "start": 22.413,
+   "end": 22.813
+  }
+ ],
+ "durationSec": 22.909,
+ "model": "eleven_v3"
+}

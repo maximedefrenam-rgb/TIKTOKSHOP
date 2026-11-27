@@ -1,0 +1,321 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.058,
+   "end": 0.068
+  },
+  {
+   "word": "fromage",
+   "start": 0.095,
+   "end": 0.339
+  },
+  {
+   "word": "blanc",
+   "start": 0.362,
+   "end": 0.475
+  },
+  {
+   "word": "du",
+   "start": 0.497,
+   "end": 0.542
+  },
+  {
+   "word": "soir",
+   "start": 0.61,
+   "end": 0.949
+  },
+  {
+   "word": "il",
+   "start": 0.994,
+   "end": 1.085
+  },
+  {
+   "word": "est",
+   "start": 1.102,
+   "end": 1.153
+  },
+  {
+   "word": "fade",
+   "start": 1.207,
+   "end": 1.424
+  },
+  {
+   "word": "Balance",
+   "start": 1.855,
+   "end": 1.894
+  },
+  {
+   "word": "une",
+   "start": 1.928,
+   "end": 2.03
+  },
+  {
+   "word": "dose",
+   "start": 2.071,
+   "end": 2.233
+  },
+  {
+   "word": "de",
+   "start": 2.278,
+   "end": 2.369
+  },
+  {
+   "word": "crème",
+   "start": 2.414,
+   "end": 2.572
+  },
+  {
+   "word": "de",
+   "start": 2.617,
+   "end": 2.708
+  },
+  {
+   "word": "riz",
+   "start": 2.742,
+   "end": 2.844
+  },
+  {
+   "word": "Nutrimea",
+   "start": 2.894,
+   "end": 3.318
+  },
+  {
+   "word": "dedans",
+   "start": 3.369,
+   "end": 3.793
+  },
+  {
+   "word": "saveur",
+   "start": 3.847,
+   "end": 4.132
+  },
+  {
+   "word": "biscuit",
+   "start": 4.186,
+   "end": 4.606
+  },
+  {
+   "word": "deux",
+   "start": 4.796,
+   "end": 4.809
+  },
+  {
+   "word": "cent",
+   "start": 4.837,
+   "end": 4.945
+  },
+  {
+   "word": "cinquante",
+   "start": 4.979,
+   "end": 5.284
+  },
+  {
+   "word": "grammes",
+   "start": 5.307,
+   "end": 5.487
+  },
+  {
+   "word": "de",
+   "start": 5.51,
+   "end": 5.555
+  },
+  {
+   "word": "fromage",
+   "start": 5.596,
+   "end": 5.894
+  },
+  {
+   "word": "blanc",
+   "start": 5.928,
+   "end": 6.369
+  },
+  {
+   "word": "trente",
+   "start": 6.42,
+   "end": 6.64
+  },
+  {
+   "word": "grammes",
+   "start": 6.674,
+   "end": 6.911
+  },
+  {
+   "word": "de",
+   "start": 6.934,
+   "end": 6.979
+  },
+  {
+   "word": "crème",
+   "start": 7.024,
+   "end": 7.182
+  },
+  {
+   "word": "de",
+   "start": 7.227,
+   "end": 7.318
+  },
+  {
+   "word": "riz",
+   "start": 7.352,
+   "end": 7.86
+  },
+  {
+   "word": "et",
+   "start": 7.883,
+   "end": 7.928
+  },
+  {
+   "word": "c'est",
+   "start": 7.962,
+   "end": 8.131
+  },
+  {
+   "word": "un",
+   "start": 8.176,
+   "end": 8.267
+  },
+  {
+   "word": "dessert",
+   "start": 8.335,
+   "end": 8.877
+  },
+  {
+   "word": "vingt-trois",
+   "start": 9.112,
+   "end": 9.329
+  },
+  {
+   "word": "grammes",
+   "start": 9.363,
+   "end": 9.601
+  },
+  {
+   "word": "de",
+   "start": 9.624,
+   "end": 9.668
+  },
+  {
+   "word": "glucides",
+   "start": 9.723,
+   "end": 10.075
+  },
+  {
+   "word": "en",
+   "start": 10.098,
+   "end": 10.143
+  },
+  {
+   "word": "plus",
+   "start": 10.197,
+   "end": 10.482
+  },
+  {
+   "word": "zéro",
+   "start": 10.618,
+   "end": 10.889
+  },
+  {
+   "word": "sucre",
+   "start": 10.979,
+   "end": 11.499
+  },
+  {
+   "word": "vegan",
+   "start": 11.567,
+   "end": 12.313
+  },
+  {
+   "word": "quarante-sept",
+   "start": 12.489,
+   "end": 12.855
+  },
+  {
+   "word": "centimes",
+   "start": 12.909,
+   "end": 13.194
+  },
+  {
+   "word": "la",
+   "start": 13.217,
+   "end": 13.262
+  },
+  {
+   "word": "dose",
+   "start": 13.329,
+   "end": 13.872
+  },
+  {
+   "word": "moins",
+   "start": 13.917,
+   "end": 14.143
+  },
+  {
+   "word": "douze",
+   "start": 14.16,
+   "end": 14.279
+  },
+  {
+   "word": "pour",
+   "start": 14.306,
+   "end": 14.414
+  },
+  {
+   "word": "cent",
+   "start": 14.455,
+   "end": 14.618
+  },
+  {
+   "word": "pour",
+   "start": 14.645,
+   "end": 14.753
+  },
+  {
+   "word": "le",
+   "start": 14.776,
+   "end": 14.821
+  },
+  {
+   "word": "Black",
+   "start": 14.844,
+   "end": 14.957
+  },
+  {
+   "word": "Friday",
+   "start": 15.005,
+   "end": 15.635
+  },
+  {
+   "word": "livraison",
+   "start": 15.685,
+   "end": 16.041
+  },
+  {
+   "word": "gratuite",
+   "start": 16.086,
+   "end": 16.787
+  },
+  {
+   "word": "panier",
+   "start": 16.821,
+   "end": 17.058
+  },
+  {
+   "word": "orange",
+   "start": 17.107,
+   "end": 17.804
+  },
+  {
+   "word": "FONCE",
+   "start": 17.872,
+   "end": 18.279
+  }
+ ],
+ "durationSec": 18.521,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

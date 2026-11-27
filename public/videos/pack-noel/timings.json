@@ -1,0 +1,381 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.09,
+   "end": 0.108
+  },
+  {
+   "word": "cadeau",
+   "start": 0.149,
+   "end": 0.379
+  },
+  {
+   "word": "de",
+   "start": 0.402,
+   "end": 0.447
+  },
+  {
+   "word": "Noël",
+   "start": 0.492,
+   "end": 0.718
+  },
+  {
+   "word": "parfait",
+   "start": 0.76,
+   "end": 1.057
+  },
+  {
+   "word": "pour",
+   "start": 1.084,
+   "end": 1.193
+  },
+  {
+   "word": "ton",
+   "start": 1.226,
+   "end": 1.328
+  },
+  {
+   "word": "pote",
+   "start": 1.362,
+   "end": 1.464
+  },
+  {
+   "word": "de",
+   "start": 1.509,
+   "end": 1.599
+  },
+  {
+   "word": "salle",
+   "start": 1.633,
+   "end": 2.142
+  },
+  {
+   "word": "et",
+   "start": 2.165,
+   "end": 2.21
+  },
+  {
+   "word": "en",
+   "start": 2.254,
+   "end": 2.345
+  },
+  {
+   "word": "plus",
+   "start": 2.399,
+   "end": 2.616
+  },
+  {
+   "word": "livré",
+   "start": 2.684,
+   "end": 3.023
+  },
+  {
+   "word": "avant",
+   "start": 3.08,
+   "end": 3.362
+  },
+  {
+   "word": "Noël",
+   "start": 3.407,
+   "end": 3.633
+  },
+  {
+   "word": "Le",
+   "start": 3.847,
+   "end": 3.87
+  },
+  {
+   "word": "Pack",
+   "start": 3.924,
+   "end": 4.141
+  },
+  {
+   "word": "Force",
+   "start": 4.198,
+   "end": 4.48
+  },
+  {
+   "word": "Nutrimea",
+   "start": 4.514,
+   "end": 4.954
+  },
+  {
+   "word": "une",
+   "start": 5.09,
+   "end": 5.497
+  },
+  {
+   "word": "créatine",
+   "start": 5.531,
+   "end": 5.836
+  },
+  {
+   "word": "Creapure",
+   "start": 5.887,
+   "end": 6.31
+  },
+  {
+   "word": "de",
+   "start": 6.333,
+   "end": 6.378
+  },
+  {
+   "word": "cinq",
+   "start": 6.446,
+   "end": 6.582
+  },
+  {
+   "word": "cents",
+   "start": 6.593,
+   "end": 6.649
+  },
+  {
+   "word": "grammes",
+   "start": 6.694,
+   "end": 6.921
+  },
+  {
+   "word": "et",
+   "start": 7.076,
+   "end": 7.136
+  },
+  {
+   "word": "un",
+   "start": 7.159,
+   "end": 7.204
+  },
+  {
+   "word": "collagène",
+   "start": 7.245,
+   "end": 7.611
+  },
+  {
+   "word": "marin",
+   "start": 7.656,
+   "end": 7.882
+  },
+  {
+   "word": "type",
+   "start": 7.936,
+   "end": 8.153
+  },
+  {
+   "word": "un",
+   "start": 8.221,
+   "end": 8.357
+  },
+  {
+   "word": "de",
+   "start": 8.401,
+   "end": 8.492
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 8.521,
+   "end": 8.967
+  },
+  {
+   "word": "gélules",
+   "start": 9.001,
+   "end": 9.712
+  },
+  {
+   "word": "deux",
+   "start": 9.773,
+   "end": 9.786
+  },
+  {
+   "word": "produits",
+   "start": 9.831,
+   "end": 10.396
+  },
+  {
+   "word": "un",
+   "start": 10.419,
+   "end": 10.464
+  },
+  {
+   "word": "seul",
+   "start": 10.505,
+   "end": 10.668
+  },
+  {
+   "word": "colis",
+   "start": 10.718,
+   "end": 11.007
+  },
+  {
+   "word": "marque",
+   "start": 11.074,
+   "end": 11.481
+  },
+  {
+   "word": "française",
+   "start": 11.522,
+   "end": 12.362
+  },
+  {
+   "word": "trois",
+   "start": 12.47,
+   "end": 12.498
+  },
+  {
+   "word": "grammes",
+   "start": 12.532,
+   "end": 12.769
+  },
+  {
+   "word": "de",
+   "start": 12.792,
+   "end": 12.837
+  },
+  {
+   "word": "créatine",
+   "start": 12.888,
+   "end": 13.244
+  },
+  {
+   "word": "par",
+   "start": 13.278,
+   "end": 13.379
+  },
+  {
+   "word": "jour",
+   "start": 13.434,
+   "end": 13.651
+  },
+  {
+   "word": "augmentent",
+   "start": 13.735,
+   "end": 14.396
+  },
+  {
+   "word": "la",
+   "start": 14.419,
+   "end": 14.464
+  },
+  {
+   "word": "performance",
+   "start": 14.504,
+   "end": 14.939
+  },
+  {
+   "word": "physique",
+   "start": 14.976,
+   "end": 15.278
+  },
+  {
+   "word": "lors",
+   "start": 15.346,
+   "end": 15.617
+  },
+  {
+   "word": "d'exercices",
+   "start": 15.651,
+   "end": 16.091
+  },
+  {
+   "word": "courts",
+   "start": 16.14,
+   "end": 16.634
+  },
+  {
+   "word": "intenses",
+   "start": 16.685,
+   "end": 17.176
+  },
+  {
+   "word": "et",
+   "start": 17.199,
+   "end": 17.244
+  },
+  {
+   "word": "répétés",
+   "start": 17.289,
+   "end": 17.99
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 18.112,
+   "end": 18.532
+  },
+  {
+   "word": "euros",
+   "start": 18.555,
+   "end": 18.668
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 18.696,
+   "end": 19.142
+  },
+  {
+   "word": "au",
+   "start": 19.301,
+   "end": 19.617
+  },
+  {
+   "word": "lieu",
+   "start": 19.644,
+   "end": 19.752
+  },
+  {
+   "word": "de",
+   "start": 19.82,
+   "end": 19.956
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 19.973,
+   "end": 20.43
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 20.45,
+   "end": 21.176
+  },
+  {
+   "word": "livraison",
+   "start": 21.291,
+   "end": 21.588
+  },
+  {
+   "word": "gratuite",
+   "start": 21.633,
+   "end": 22.062
+  },
+  {
+   "word": "panier",
+   "start": 22.147,
+   "end": 22.537
+  },
+  {
+   "word": "orange",
+   "start": 22.585,
+   "end": 23.147
+  },
+  {
+   "word": "offre-lui",
+   "start": 23.192,
+   "end": 23.554
+  },
+  {
+   "word": "le",
+   "start": 23.577,
+   "end": 23.622
+  },
+  {
+   "word": "pack",
+   "start": 23.676,
+   "end": 23.893
+  }
+ ],
+ "durationSec": 24.085,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}
