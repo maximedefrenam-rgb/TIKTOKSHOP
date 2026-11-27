@@ -131,3 +131,13 @@
 | 2026-11-27 | Topdon ArtiDiag 600 S | Lot 4 · Prix choc (151 € coupons) + coupe zoom | Ouatte-de-fuck, 151 € la valise diag ?! | v1 (topdon-ouatte) |  |  |  |
 | 2026-11-27 | Topdon ArtiDiag 600 S | Lot 4 · Situation (contrôle technique) + photo | Contrôle technique dans une semaine ?! | v1 (topdon-ct) |  |  |  |
 | 2026-11-27 | Topdon ArtiDiag 600 S | Lot 4 · Problème (voyant airbag) + prix barré | Voyant airbag allumé ?! | v1 (topdon-airbag) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 5 · Winter arc + en coupe + promo + allégation | Winter arc activé, et t'as rien dans ton placard ?! | v1 (pack-winterarc) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 5 · Prix choc (-22 %) + prix barré + allégation | -22 % sur le pack de la salle, qui a validé ce prix ?! | v1 (pack-22) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 5 · 144 doses + en coupe + allégation + promo | 144 doses de créatine dans un seul sachet ! | v1 (pack-144) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 5 · Bulk d'hiver + avis + promo | Ton bulk d'hiver a commencé, et pas de créatine ?! | v1 (pack-bulk) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 5 · Preuve sociale (retour du pack) + allégation | Le pack qui a fait le buzz est de retour ! | v1 (pack-retour) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 5 · Prise de masse + en coupe + promo | Prise de masse, et tu galères à manger tes glucides ?! | v1 (riz-masse) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 5 · Winter arc + prix/dose + promo | Winter arc, et ton petit-déj c'est un café ?! | v1 (riz-winterarc) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 5 · Prix choc (0,47 €/dose) + calcul | 47 centimes la dose de crème de riz ! | v1 (riz-dose) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 5 · Recette prise de masse + promo | La recette du petit-déj de prise de masse ! | v1 (riz-recette) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 5 · Preuve sociale (9 000 vendus) + promo | Presque 9 000 vendus, 4,5 étoiles ! | v1 (riz-9000) |  |  |  |
