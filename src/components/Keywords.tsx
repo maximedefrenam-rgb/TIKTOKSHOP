@@ -1,5 +1,6 @@
 import React from 'react';
 import {useCurrentFrame} from 'remotion';
+import {noise2D} from '@remotion/noise';
 import {BRAND, SAFE_CX, SAFE_W} from '../brand';
 import {sp, SNAP, s2f, resolveColor} from '../lib/anim';
 import type {Keyword} from '../types';
@@ -12,14 +13,19 @@ export const fitSize = (text: string, size: number, small = false) => {
 };
 
 export const BigText: React.FC<{
-  text: string; size: number; color: string; y: number; progress: number; small?: boolean; rotate?: number;
-}> = ({text, size, color, y, progress, small, rotate = 0}) => {
+  text: string; size: number; color: string; y: number; progress: number; small?: boolean; rotate?: number; live?: number;
+}> = ({text, size, color, y, progress, small, rotate = 0, live}) => {
+  // live = images depuis l'apparition : le texte continue de bouger légèrement (pas de texte statique)
+  const lf = live ?? 0;
+  const ly = live === undefined || small ? 0 : 7 * noise2D('kw' + text.length, lf / 40, y);
+  const ls = live === undefined || small ? 1 : 1 + Math.min(0.05, lf * 0.0009);
+  const lr = live === undefined || small ? 0 : 0.9 * noise2D('kr' + text.length, lf / 55, y);
   const fs = fitSize(text, size, small);
   return (
     <div
       style={{
         position: 'absolute', left: SAFE_CX, top: y, width: SAFE_W,
-        transform: `translate(-50%, -50%) scale(${progress}) rotate(${(1 - progress) * -6 + rotate}deg)`,
+        transform: `translate(-50%, calc(-50% + ${ly}px)) scale(${progress * ls}) rotate(${(1 - progress) * -6 + rotate + lr}deg)`,
         opacity: Math.min(1, progress * 3),
         textAlign: 'center',
         fontFamily: small ? BRAND.fonts.body : BRAND.fonts.title,
@@ -64,6 +70,7 @@ export const Keywords: React.FC<{keywords: Keyword[]; sceneTo: number; offset: n
             key={i} text={k.text} size={size} small={k.small} y={y}
             color={resolveColor(k.color ?? (k.small ? 'white' : 'white'), accent)}
             progress={Math.max(0, pin * pout)}
+            live={frame - a}
           />
         );
       })}

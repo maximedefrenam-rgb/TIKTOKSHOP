@@ -149,6 +149,12 @@ scène `photo` (photos d'usage dans `public/videos/photos/`), prix total estomp�
    Découper les scènes longues (coupe, bénéfices, avis) en plusieurs plans ; entre deux plans d'une même idée, un
    « punch-in » (zoom rapide sur le produit ou le chiffre, secousse légère) plutôt qu'un plan qui reste figé.
    Viser ~8 à 12 plans pour une vidéo de 20–25 s (contre ~5–6 dans les vidéos du 26/11).
+10. **Mouvement DANS chaque plan (27/11, retour utilisateur : TikTok prenait certaines vidéos pour un diaporama)** :
+   rien n'est jamais figé, même sans changer de plan. Codé dans le modèle : caméra vivante par plan (push-in lent
+   1 → 1,07 + dérive x/y + léger roulis, `SceneWrap`), punch-in (petit zoom rapide) sur chaque mot-clé et chaque élément
+   de coupe (`PunchIn`), fond vivant (halo qui se déplace + particules lumineuses qui montent, `Background`), textes qui
+   flottent et grossissent légèrement après leur apparition (`BigText live`), produit qui dérive en x/y et « respire ».
+   Tout est en bruit (noise) ou progressif : aucune boucle visible. Ne pas désactiver ces effets.
 
 ## Sons et musique
 - Effets : `public/sfx/` (whoosh, impact, pop, tick, ding, riser) générés par `scripts/gen_sfx.py`, réutilisés partout.

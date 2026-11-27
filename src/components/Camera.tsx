@@ -19,12 +19,36 @@ export const CameraShake: React.FC<{impacts: number[]; children: React.ReactNode
   return <AbsoluteFill style={{transform: `translate(${x}px, ${y}px) rotate(${r}deg) scale(${s})`}}>{children}</AbsoluteFill>;
 };
 
+/** « Punch-in » : petit zoom rapide sur chaque mot-clé / chiffre qui tombe (rythme dans le plan, pas de nouveau plan). */
+export const PunchIn: React.FC<{beats: number[]; children: React.ReactNode}> = ({beats, children}) => {
+  const frame = useCurrentFrame();
+  let s = 1;
+  for (const b of beats) {
+    const d = frame - s2f(b);
+    if (d < 0 || d > 9) continue;
+    s += 0.045 * Math.sin((d / 9) * Math.PI) * (1 - d / 12);
+  }
+  return <AbsoluteFill style={{transform: `scale(${s})`}}>{children}</AbsoluteFill>;
+};
+
 export type TransitionKind = 'whip' | 'zoom' | 'none';
+
+/** Caméra jamais figée dans un plan : push-in lent + dérive x/y + roulis léger (bruit, non périodique). */
+const liveCamera = (frame: number, duration: number, seed: string) => {
+  const p = Math.min(1, frame / Math.max(1, duration));
+  const t = frame / 30;
+  const push = 1 + 0.07 * (1 - Math.pow(1 - p, 2));          // 1 → 1,07 sur la durée du plan
+  const dx = 22 * noise2D(seed + 'dx', t * 0.35, 0);
+  const dy = 16 * noise2D(seed + 'dy', t * 0.3, 4);
+  const rot = 0.8 * noise2D(seed + 'dr', t * 0.25, 8);
+  return {push, dx, dy, rot};
+};
 
 /** Entrée / sortie de scène : whip pan ou zoom traversant (T images, 6 à 10). */
 export const SceneWrap: React.FC<{
-  frame: number; duration: number; T: number; enter: TransitionKind; exit: TransitionKind; children: React.ReactNode;
-}> = ({frame, duration, T, enter, exit, children}) => {
+  frame: number; duration: number; T: number; enter: TransitionKind; exit: TransitionKind; children: React.ReactNode; seed?: string;
+}> = ({frame, duration, T, enter, exit, children, seed = 's'}) => {
+  const cam = liveCamera(frame, duration, seed);
   let tx = 0, sc = 1, op = 1, blur = 0;
   if (enter !== 'none' && frame < T) {
     const p = frame / T;
@@ -39,7 +63,7 @@ export const SceneWrap: React.FC<{
     else { sc *= 1 + e * 2.8; op *= 1 - e; blur += e * 12; }
   }
   return (
-    <AbsoluteFill style={{transform: `translateX(${tx}px) scale(${sc})`, opacity: op, filter: blur > 0.5 ? `blur(${blur}px)` : undefined}}>
+    <AbsoluteFill style={{transform: `translate(${tx + cam.dx}px, ${cam.dy}px) scale(${sc * cam.push}) rotate(${cam.rot}deg)`, opacity: op, filter: blur > 0.5 ? `blur(${blur}px)` : undefined}}>
       {children}
     </AbsoluteFill>
   );

@@ -2,7 +2,7 @@ import React from 'react';
 import {AbsoluteFill, Sequence, useCurrentFrame, useVideoConfig} from 'remotion';
 import {BRAND} from '../brand';
 import {Background, Grain} from '../components/Background';
-import {CameraShake, SceneWrap, type TransitionKind} from '../components/Camera';
+import {CameraShake, PunchIn, SceneWrap, type TransitionKind} from '../components/Camera';
 import {AudioLayer} from '../components/AudioLayer';
 import {Character} from '../components/Character';
 import {ProductLift} from '../components/Product';
@@ -50,6 +50,7 @@ export const ShopVideo: React.FC<{config: VideoConfig}> = ({config: cfg}) => {
     <AbsoluteFill style={{backgroundColor: BRAND.colors.bg, overflow: 'hidden'}}>
       <Background accent={cfg.accent} />
       <CameraShake impacts={impactTimes(cfg)}>
+      <PunchIn beats={punchBeats(cfg)}>
         {cfg.scenes.map((scene, i) => {
           const last = i === cfg.scenes.length - 1;
           const enter = transitionOf(cfg.scenes, i);
@@ -59,7 +60,7 @@ export const ShopVideo: React.FC<{config: VideoConfig}> = ({config: cfg}) => {
           const dur = Math.max(1, stop - start);
           return (
             <Sequence key={i} from={start} durationInFrames={dur} name={`${i + 1}. ${scene.kind}`}>
-              <SceneFrame start={start} dur={dur} T={T} enter={enter} exit={last ? 'none' : exit}>
+              <SceneFrame start={start} dur={dur} T={T} enter={enter} exit={last ? 'none' : exit} seed={'sc' + i}>
                 {renderScene(scene, cfg, start)}
               </SceneFrame>
             </Sequence>
@@ -67,6 +68,7 @@ export const ShopVideo: React.FC<{config: VideoConfig}> = ({config: cfg}) => {
         })}
         {cfg.priceTag && <PriceTag cfg={cfg} />}
         {cfg.character && <Host cfg={cfg} />}
+      </PunchIn>
       </CameraShake>
       <Grain />
       <AudioLayer cfg={cfg} durationInFrames={durationInFrames} />
@@ -75,11 +77,11 @@ export const ShopVideo: React.FC<{config: VideoConfig}> = ({config: cfg}) => {
   );
 };
 
-const SceneFrame: React.FC<{start: number; dur: number; T: number; enter: TransitionKind; exit: TransitionKind; children: React.ReactNode}> = ({
-  dur, T, enter, exit, children,
+const SceneFrame: React.FC<{start: number; dur: number; T: number; enter: TransitionKind; exit: TransitionKind; children: React.ReactNode; seed: string}> = ({
+  dur, T, enter, exit, children, seed,
 }) => {
   const frame = useCurrentFrame();
-  return <SceneWrap frame={frame} duration={dur} T={T} enter={enter} exit={exit}>{children}</SceneWrap>;
+  return <SceneWrap frame={frame} duration={dur} T={T} enter={enter} exit={exit} seed={seed}>{children}</SceneWrap>;
 };
 
 /** Pastille de prix permanente (sous le produit, hors des 250 px du bas et des 150 px de droite). */
@@ -125,6 +127,17 @@ const Host: React.FC<{cfg: VideoConfig}> = ({cfg}) => {
       <Character cues={ch.cues} words={cfg.timings.words} x={215} y={1905} scale={0.68} jacket={ch.jacket} enterAt={2} />
     </div>
   );
+};
+
+/** Temps des punch-in : chaque mot-clé (hors petites mentions) et chaque élément de coupe, espacés d'au moins 0,35 s. */
+const punchBeats = (cfg: VideoConfig) => {
+  const t: number[] = [];
+  for (const s of cfg.scenes) {
+    for (const k of s.keywords ?? []) if (!k.small && !k.instant) t.push(k.at);
+    if (s.kind === 'cutaway') for (const it of s.items) t.push(it.at);
+  }
+  t.sort((a, b) => a - b);
+  return t.filter((x, i) => i === 0 || x - t[i - 1] > 0.35);
 };
 
 export const durationFrames = (cfg: VideoConfig) =>
