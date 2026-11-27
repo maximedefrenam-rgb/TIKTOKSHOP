@@ -90,10 +90,10 @@ export const packBulk = variant({
   build: (r) => [
     {kind: 'hook', from: 0, keywords: [T1("TON BULK D'HIVER\nA COMMENCÉ", 0, {size: 160, y: 300, stack: true}),
       ST('ET PAS DE CRÉATINE ?!', r('toujours'), 600, {size: 120, color: 'alert', impact: true})]},
-    PCUT(r('Prends') - 0.08, r('créatine', 2), r('collagène')),
+    PCUT(r('Prends') - 0.08, r('Prends') + 0.15, r('collagène')),
     ALLEG(r, r('trois') - 0.08),
     {kind: 'reviews', from: r('quatre') - 0.08, rating: 4.6, reviews: 347, sold: 4835, ratingAt: r('quatre') + 0.1, soldAt: r('étoiles')},
-    PDEAL(r('moins') - 0.08, r('moins'), r('vingt-deux'), r('Black')),
+    PDEAL(r('moins') - 0.08, r('moins'), r('moins') + 0.25, r('vingt-deux') + 0.2),
     PCTA(r, r('livraison') - 0.08, [ST('LIVRAISON GRATUITE', r('livraison'), 420, {size: 90, color: 'accent'})]),
   ],
 });
