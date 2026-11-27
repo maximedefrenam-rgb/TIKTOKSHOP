@@ -141,3 +141,13 @@
 | 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 5 · Prix choc (0,47 €/dose) + calcul | 47 centimes la dose de crème de riz ! | v1 (riz-dose) |  |  |  |
 | 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 5 · Recette prise de masse + promo | La recette du petit-déj de prise de masse ! | v1 (riz-recette) |  |  |  |
 | 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 5 · Preuve sociale (9 000 vendus) + promo | Presque 9 000 vendus, 4,5 étoiles ! | v1 (riz-9000) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 6 · Les 2 produits + allégation + promo | Créatine ou collagène ? Les deux ! | v1 (pack-duo) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 6 · Routine winter arc (les 2 produits) | Ma routine winter arc, je te la donne ! | v1 (pack-routine) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 6 · Prix choc (12,90 € d'éco) + les 2 produits | Treize balles d'économie, qui a validé ça ?! | v1 (pack-economie) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 6 · Idée reçue (placard vide) + duo + avis | Ton placard de muscu, c'est un shaker et une whey ?! | v1 (pack-placard) |  |  |  |
+| 2026-11-27 | Nutrimea Pack Force (créatine + collagène) | Lot 6 · Cadeau de Noël + les 2 produits | Le cadeau de Noël pour ton pote de salle ! | v1 (pack-noel) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 6 · Recette flan 1 min + promo | Un flan saveur biscuit en une minute ! | v1 (riz-flan) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 6 · Recette fromage blanc + prix/dose | Ton fromage blanc du soir, il est fade ?! | v1 (riz-fromageblanc) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 6 · Comparatif croissant + calcul prix/dose | Ta dose de glucides moins chère qu'un croissant ! | v1 (riz-croissant) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 6 · Situation (séance jambes) + avis | Séance jambes ce soir, rien mangé depuis midi ?! | v1 (riz-jambes) |  |  |  |
+| 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 6 · Prise de masse (galère à manger) + usage | Tu galères à manger assez pour ta prise de masse ?! | v1 (riz-gainer) |  |  |  |
