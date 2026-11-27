@@ -1,0 +1,251 @@
+{
+ "words": [
+  {
+   "word": "Voyant",
+   "start": 0.275,
+   "end": 0.4
+  },
+  {
+   "word": "airbag",
+   "start": 0.46,
+   "end": 0.8
+  },
+  {
+   "word": "allumé",
+   "start": 0.84,
+   "end": 1.6
+  },
+  {
+   "word": "et",
+   "start": 1.627,
+   "end": 1.68
+  },
+  {
+   "word": "le",
+   "start": 1.707,
+   "end": 1.76
+  },
+  {
+   "word": "garage",
+   "start": 1.806,
+   "end": 2.08
+  },
+  {
+   "word": "te",
+   "start": 2.107,
+   "end": 2.16
+  },
+  {
+   "word": "dit",
+   "start": 2.2,
+   "end": 2.32
+  },
+  {
+   "word": "pas",
+   "start": 2.36,
+   "end": 2.48
+  },
+  {
+   "word": "avant",
+   "start": 2.52,
+   "end": 2.72
+  },
+  {
+   "word": "deux",
+   "start": 2.752,
+   "end": 2.88
+  },
+  {
+   "word": "semaines",
+   "start": 2.94,
+   "end": 3.28
+  },
+  {
+   "word": "Topdon",
+   "start": 4.277,
+   "end": 4.562
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 4.642,
+   "end": 5.282
+  },
+  {
+   "word": "six",
+   "start": 5.342,
+   "end": 5.522
+  },
+  {
+   "word": "cents",
+   "start": 5.562,
+   "end": 5.762
+  },
+  {
+   "word": "S",
+   "start": 5.882,
+   "end": 6.082
+  },
+  {
+   "word": "elle",
+   "start": 6.621,
+   "end": 6.642
+  },
+  {
+   "word": "lit",
+   "start": 6.702,
+   "end": 6.882
+  },
+  {
+   "word": "et",
+   "start": 6.909,
+   "end": 6.962
+  },
+  {
+   "word": "efface",
+   "start": 7.002,
+   "end": 7.282
+  },
+  {
+   "word": "les",
+   "start": 7.322,
+   "end": 7.442
+  },
+  {
+   "word": "codes",
+   "start": 7.482,
+   "end": 7.682
+  },
+  {
+   "word": "airbag",
+   "start": 7.742,
+   "end": 8.322
+  },
+  {
+   "word": "ABS",
+   "start": 8.462,
+   "end": 9.042
+  },
+  {
+   "word": "moteur",
+   "start": 9.09,
+   "end": 9.362
+  },
+  {
+   "word": "et",
+   "start": 9.389,
+   "end": 9.442
+  },
+  {
+   "word": "boîte",
+   "start": 9.495,
+   "end": 10.162
+  },
+  {
+   "word": "écran",
+   "start": 10.312,
+   "end": 10.562
+  },
+  {
+   "word": "cinq",
+   "start": 10.642,
+   "end": 10.802
+  },
+  {
+   "word": "pouces",
+   "start": 10.862,
+   "end": 11.282
+  },
+  {
+   "word": "mises",
+   "start": 11.442,
+   "end": 11.682
+  },
+  {
+   "word": "à",
+   "start": 11.762,
+   "end": 11.842
+  },
+  {
+   "word": "jour",
+   "start": 11.874,
+   "end": 12.002
+  },
+  {
+   "word": "gratuites",
+   "start": 12.05,
+   "end": 12.482
+  },
+  {
+   "word": "à",
+   "start": 12.522,
+   "end": 12.562
+  },
+  {
+   "word": "vie",
+   "start": 12.602,
+   "end": 13.202
+  },
+  {
+   "word": "cent",
+   "start": 13.421,
+   "end": 13.442
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 13.488,
+   "end": 14.082
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 14.128,
+   "end": 15.365
+  },
+  {
+   "word": "Black",
+   "start": 15.405,
+   "end": 15.605
+  },
+  {
+   "word": "Friday",
+   "start": 15.662,
+   "end": 16.005
+  },
+  {
+   "word": "jusqu'au",
+   "start": 16.045,
+   "end": 16.445
+  },
+  {
+   "word": "trente",
+   "start": 16.475,
+   "end": 17.045
+  },
+  {
+   "word": "livraison",
+   "start": 17.085,
+   "end": 17.525
+  },
+  {
+   "word": "gratuite",
+   "start": 17.587,
+   "end": 18.405
+  },
+  {
+   "word": "panier",
+   "start": 18.445,
+   "end": 18.725
+  },
+  {
+   "word": "orange",
+   "start": 18.794,
+   "end": 19.525
+  },
+  {
+   "word": "FONCE",
+   "start": 19.645,
+   "end": 20.085
+  }
+ ],
+ "durationSec": 20.271,
+ "model": "eleven_v3"
+}

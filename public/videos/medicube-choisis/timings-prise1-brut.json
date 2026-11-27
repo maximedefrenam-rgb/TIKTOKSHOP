@@ -1,0 +1,236 @@
+{
+ "words": [
+  {
+   "word": "Vitamine",
+   "start": 0.21,
+   "end": 0.4
+  },
+  {
+   "word": "C",
+   "start": 0.52,
+   "end": 0.96
+  },
+  {
+   "word": "peeling",
+   "start": 0.987,
+   "end": 1.36
+  },
+  {
+   "word": "ou",
+   "start": 1.413,
+   "end": 1.52
+  },
+  {
+   "word": "zéro",
+   "start": 1.6,
+   "end": 1.84
+  },
+  {
+   "word": "pore",
+   "start": 1.904,
+   "end": 2.4
+  },
+  {
+   "word": "c'est",
+   "start": 2.44,
+   "end": 2.56
+  },
+  {
+   "word": "toi",
+   "start": 2.6,
+   "end": 2.72
+  },
+  {
+   "word": "qui",
+   "start": 2.76,
+   "end": 2.88
+  },
+  {
+   "word": "choisis",
+   "start": 2.9,
+   "end": 3.2
+  },
+  {
+   "word": "Medicube",
+   "start": 4.201,
+   "end": 4.481
+  },
+  {
+   "word": "Mix",
+   "start": 4.561,
+   "end": 4.801
+  },
+  {
+   "word": "and",
+   "start": 4.841,
+   "end": 4.961
+  },
+  {
+   "word": "Match",
+   "start": 5.014,
+   "end": 5.601
+  },
+  {
+   "word": "tu",
+   "start": 5.628,
+   "end": 5.681
+  },
+  {
+   "word": "composes",
+   "start": 5.721,
+   "end": 6.081
+  },
+  {
+   "word": "ton",
+   "start": 6.121,
+   "end": 6.241
+  },
+  {
+   "word": "set",
+   "start": 6.321,
+   "end": 6.561
+  },
+  {
+   "word": "de",
+   "start": 6.588,
+   "end": 6.641
+  },
+  {
+   "word": "toner",
+   "start": 6.681,
+   "end": 6.961
+  },
+  {
+   "word": "pads",
+   "start": 7.025,
+   "end": 7.681
+  },
+  {
+   "word": "soixante-dix",
+   "start": 7.734,
+   "end": 8.281
+  },
+  {
+   "word": "pads",
+   "start": 8.305,
+   "end": 8.401
+  },
+  {
+   "word": "par",
+   "start": 8.441,
+   "end": 8.561
+  },
+  {
+   "word": "pot",
+   "start": 8.621,
+   "end": 8.881
+  },
+  {
+   "word": "pores",
+   "start": 9.648,
+   "end": 9.681
+  },
+  {
+   "word": "nets",
+   "start": 9.745,
+   "end": 10.081
+  },
+  {
+   "word": "moins",
+   "start": 10.148,
+   "end": 10.481
+  },
+  {
+   "word": "de",
+   "start": 10.508,
+   "end": 10.561
+  },
+  {
+   "word": "marques",
+   "start": 10.601,
+   "end": 10.881
+  },
+  {
+   "word": "post-imperfections",
+   "start": 10.945,
+   "end": 12.081
+  },
+  {
+   "word": "éclat",
+   "start": 12.161,
+   "end": 12.721
+  },
+  {
+   "word": "selon",
+   "start": 12.774,
+   "end": 13.041
+  },
+  {
+   "word": "la",
+   "start": 13.068,
+   "end": 13.121
+  },
+  {
+   "word": "marque",
+   "start": 13.167,
+   "end": 13.921
+  },
+  {
+   "word": "dès",
+   "start": 14.057,
+   "end": 14.081
+  },
+  {
+   "word": "vingt-trois",
+   "start": 14.161,
+   "end": 14.721
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 14.744,
+   "end": 15.361
+  },
+  {
+   "word": "avec",
+   "start": 15.457,
+   "end": 15.841
+  },
+  {
+   "word": "les",
+   "start": 15.881,
+   "end": 16.001
+  },
+  {
+   "word": "coupons",
+   "start": 16.041,
+   "end": 16.961
+  },
+  {
+   "word": "Black",
+   "start": 17.168,
+   "end": 17.201
+  },
+  {
+   "word": "Friday",
+   "start": 17.27,
+   "end": 17.761
+  },
+  {
+   "word": "panier",
+   "start": 17.821,
+   "end": 18.081
+  },
+  {
+   "word": "orange",
+   "start": 18.138,
+   "end": 18.721
+  },
+  {
+   "word": "FONCE",
+   "start": 18.761,
+   "end": 19.201
+  }
+ ],
+ "durationSec": 19.331,
+ "model": "eleven_v3"
+}

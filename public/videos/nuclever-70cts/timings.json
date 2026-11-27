@@ -1,0 +1,201 @@
+{
+ "words": [
+  {
+   "word": "Soixante-dix",
+   "start": 0.181,
+   "end": 0.61
+  },
+  {
+   "word": "centimes",
+   "start": 0.637,
+   "end": 0.881
+  },
+  {
+   "word": "par",
+   "start": 0.898,
+   "end": 0.949
+  },
+  {
+   "word": "jour",
+   "start": 1.017,
+   "end": 1.492
+  },
+  {
+   "word": "le",
+   "start": 1.536,
+   "end": 1.627
+  },
+  {
+   "word": "Cortisol",
+   "start": 1.681,
+   "end": 2.169
+  },
+  {
+   "word": "Manager",
+   "start": 2.22,
+   "end": 2.644
+  },
+  {
+   "word": "sérieux",
+   "start": 2.678,
+   "end": 2.915
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.24,
+   "end": 3.647
+  },
+  {
+   "word": "trente",
+   "start": 3.766,
+   "end": 4.19
+  },
+  {
+   "word": "sachets",
+   "start": 4.244,
+   "end": 4.664
+  },
+  {
+   "word": "vingt",
+   "start": 4.732,
+   "end": 4.945
+  },
+  {
+   "word": "euros",
+   "start": 5.001,
+   "end": 5.284
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 5.312,
+   "end": 6.3
+  },
+  {
+   "word": "ashwagandha",
+   "start": 6.438,
+   "end": 7.328
+  },
+  {
+   "word": "elle-théanine",
+   "start": 7.368,
+   "end": 8.345
+  },
+  {
+   "word": "magnésium",
+   "start": 8.385,
+   "end": 9.226
+  },
+  {
+   "word": "vitamine",
+   "start": 9.277,
+   "end": 9.701
+  },
+  {
+   "word": "D",
+   "start": 9.802,
+   "end": 10.582
+  },
+  {
+   "word": "le",
+   "start": 10.702,
+   "end": 10.718
+  },
+  {
+   "word": "magnésium",
+   "start": 10.758,
+   "end": 11.192
+  },
+  {
+   "word": "contribue",
+   "start": 11.234,
+   "end": 11.599
+  },
+  {
+   "word": "à",
+   "start": 11.633,
+   "end": 11.667
+  },
+  {
+   "word": "réduire",
+   "start": 11.712,
+   "end": 11.938
+  },
+  {
+   "word": "la",
+   "start": 11.983,
+   "end": 12.073
+  },
+  {
+   "word": "fatigue",
+   "start": 12.116,
+   "end": 12.48
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 12.733,
+   "end": 13.216
+  },
+  {
+   "word": "mille",
+   "start": 13.25,
+   "end": 13.352
+  },
+  {
+   "word": "vendus",
+   "start": 13.406,
+   "end": 14.098
+  },
+  {
+   "word": "quatre",
+   "start": 14.127,
+   "end": 14.301
+  },
+  {
+   "word": "virgule",
+   "start": 14.352,
+   "end": 14.572
+  },
+  {
+   "word": "cinq",
+   "start": 14.64,
+   "end": 14.776
+  },
+  {
+   "word": "étoiles",
+   "start": 14.877,
+   "end": 15.725
+  },
+  {
+   "word": "livraison",
+   "start": 15.903,
+   "end": 16.132
+  },
+  {
+   "word": "gratuite",
+   "start": 16.177,
+   "end": 16.742
+  },
+  {
+   "word": "panier",
+   "start": 16.793,
+   "end": 17.013
+  },
+  {
+   "word": "orange",
+   "start": 17.061,
+   "end": 17.555
+  },
+  {
+   "word": "FONCE",
+   "start": 17.657,
+   "end": 18.098
+  }
+ ],
+ "durationSec": 18.26,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

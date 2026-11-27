@@ -1,0 +1,211 @@
+{
+ "words": [
+  {
+   "word": "Réunion",
+   "start": 0.213,
+   "end": 0.4
+  },
+  {
+   "word": "à",
+   "start": 0.48,
+   "end": 0.56
+  },
+  {
+   "word": "quatorze",
+   "start": 0.587,
+   "end": 1.04
+  },
+  {
+   "word": "heures",
+   "start": 1.063,
+   "end": 1.44
+  },
+  {
+   "word": "et",
+   "start": 1.493,
+   "end": 1.6
+  },
+  {
+   "word": "ton",
+   "start": 1.66,
+   "end": 1.84
+  },
+  {
+   "word": "cerveau",
+   "start": 1.9,
+   "end": 2.16
+  },
+  {
+   "word": "est",
+   "start": 2.18,
+   "end": 2.24
+  },
+  {
+   "word": "resté",
+   "start": 2.272,
+   "end": 2.48
+  },
+  {
+   "word": "au",
+   "start": 2.507,
+   "end": 2.56
+  },
+  {
+   "word": "self",
+   "start": 2.656,
+   "end": 3.039
+  },
+  {
+   "word": "Glisse",
+   "start": 3.988,
+   "end": 4.161
+  },
+  {
+   "word": "un",
+   "start": 4.188,
+   "end": 4.241
+  },
+  {
+   "word": "sachet",
+   "start": 4.289,
+   "end": 4.561
+  },
+  {
+   "word": "ZAP",
+   "start": 4.641,
+   "end": 4.881
+  },
+  {
+   "word": "sous",
+   "start": 4.913,
+   "end": 5.041
+  },
+  {
+   "word": "la",
+   "start": 5.068,
+   "end": 5.121
+  },
+  {
+   "word": "lèvre",
+   "start": 5.161,
+   "end": 5.761
+  },
+  {
+   "word": "discret",
+   "start": 5.801,
+   "end": 6.161
+  },
+  {
+   "word": "cent",
+   "start": 6.865,
+   "end": 6.886
+  },
+  {
+   "word": "milligrammes",
+   "start": 6.918,
+   "end": 7.366
+  },
+  {
+   "word": "de",
+   "start": 7.393,
+   "end": 7.446
+  },
+  {
+   "word": "caféine",
+   "start": 7.526,
+   "end": 8.166
+  },
+  {
+   "word": "elle-théanine",
+   "start": 8.198,
+   "end": 8.886
+  },
+  {
+   "word": "et",
+   "start": 8.939,
+   "end": 9.046
+  },
+  {
+   "word": "vitamines",
+   "start": 9.086,
+   "end": 9.526
+  },
+  {
+   "word": "B",
+   "start": 9.606,
+   "end": 9.766
+  },
+  {
+   "word": "trente-six",
+   "start": 10.391,
+   "end": 10.726
+  },
+  {
+   "word": "sachets",
+   "start": 10.79,
+   "end": 11.606
+  },
+  {
+   "word": "dix",
+   "start": 11.646,
+   "end": 11.766
+  },
+  {
+   "word": "euros",
+   "start": 11.833,
+   "end": 12.166
+  },
+  {
+   "word": "seize",
+   "start": 12.206,
+   "end": 12.886
+  },
+  {
+   "word": "vingt-huit",
+   "start": 12.926,
+   "end": 13.366
+  },
+  {
+   "word": "centimes",
+   "start": 13.398,
+   "end": 13.686
+  },
+  {
+   "word": "le",
+   "start": 13.713,
+   "end": 13.766
+  },
+  {
+   "word": "sachet",
+   "start": 13.814,
+   "end": 14.646
+  },
+  {
+   "word": "livraison",
+   "start": 14.753,
+   "end": 15.133
+  },
+  {
+   "word": "gratuite",
+   "start": 15.186,
+   "end": 15.933
+  },
+  {
+   "word": "panier",
+   "start": 15.973,
+   "end": 16.253
+  },
+  {
+   "word": "orange",
+   "start": 16.31,
+   "end": 17.053
+  },
+  {
+   "word": "FONCE",
+   "start": 17.093,
+   "end": 17.533
+  }
+ ],
+ "durationSec": 17.711,
+ "model": "eleven_v3"
+}

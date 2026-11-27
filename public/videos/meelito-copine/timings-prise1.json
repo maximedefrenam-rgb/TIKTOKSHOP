@@ -1,0 +1,221 @@
+{
+ "words": [
+  {
+   "word": "Ta",
+   "start": 0.069,
+   "end": 0.076
+  },
+  {
+   "word": "copine",
+   "start": 0.144,
+   "end": 0.483
+  },
+  {
+   "word": "te",
+   "start": 0.528,
+   "end": 0.619
+  },
+  {
+   "word": "pique",
+   "start": 0.686,
+   "end": 0.89
+  },
+  {
+   "word": "toujours",
+   "start": 0.927,
+   "end": 1.229
+  },
+  {
+   "word": "ta",
+   "start": 1.274,
+   "end": 1.364
+  },
+  {
+   "word": "crème",
+   "start": 1.409,
+   "end": 1.636
+  },
+  {
+   "word": "Offre-lui",
+   "start": 1.98,
+   "end": 2.264
+  },
+  {
+   "word": "son",
+   "start": 2.315,
+   "end": 2.467
+  },
+  {
+   "word": "kit",
+   "start": 2.501,
+   "end": 2.603
+  },
+  {
+   "word": "au",
+   "start": 2.626,
+   "end": 2.671
+  },
+  {
+   "word": "curcuma",
+   "start": 2.722,
+   "end": 3.484
+  },
+  {
+   "word": "six",
+   "start": 3.535,
+   "end": 3.688
+  },
+  {
+   "word": "pièces",
+   "start": 3.739,
+   "end": 3.959
+  },
+  {
+   "word": "dans",
+   "start": 3.972,
+   "end": 4.027
+  },
+  {
+   "word": "la",
+   "start": 4.05,
+   "end": 4.095
+  },
+  {
+   "word": "boîte",
+   "start": 4.162,
+   "end": 4.637
+  },
+  {
+   "word": "savon",
+   "start": 4.823,
+   "end": 5.111
+  },
+  {
+   "word": "nettoyant",
+   "start": 5.162,
+   "end": 5.789
+  },
+  {
+   "word": "masque",
+   "start": 5.84,
+   "end": 6.128
+  },
+  {
+   "word": "peel-off",
+   "start": 6.169,
+   "end": 6.603
+  },
+  {
+   "word": "huile",
+   "start": 6.716,
+   "end": 7.078
+  },
+  {
+   "word": "et",
+   "start": 7.145,
+   "end": 7.281
+  },
+  {
+   "word": "crème",
+   "start": 7.349,
+   "end": 7.62
+  },
+  {
+   "word": "soixante-trois",
+   "start": 7.874,
+   "end": 8.428
+  },
+  {
+   "word": "mille",
+   "start": 8.444,
+   "end": 8.529
+  },
+  {
+   "word": "vendus",
+   "start": 8.583,
+   "end": 9.207
+  },
+  {
+   "word": "quatre",
+   "start": 9.236,
+   "end": 9.411
+  },
+  {
+   "word": "virgule",
+   "start": 9.461,
+   "end": 9.75
+  },
+  {
+   "word": "cinq",
+   "start": 9.783,
+   "end": 9.885
+  },
+  {
+   "word": "étoiles",
+   "start": 9.987,
+   "end": 10.699
+  },
+  {
+   "word": "vingt",
+   "start": 10.861,
+   "end": 10.902
+  },
+  {
+   "word": "et",
+   "start": 10.925,
+   "end": 10.97
+  },
+  {
+   "word": "un",
+   "start": 10.993,
+   "end": 11.038
+  },
+  {
+   "word": "euros",
+   "start": 11.083,
+   "end": 11.309
+  },
+  {
+   "word": "soixante-quinze",
+   "start": 11.332,
+   "end": 12.055
+  },
+  {
+   "word": "parfait",
+   "start": 12.089,
+   "end": 12.326
+  },
+  {
+   "word": "pour",
+   "start": 12.353,
+   "end": 12.461
+  },
+  {
+   "word": "Noël",
+   "start": 12.506,
+   "end": 12.8
+  },
+  {
+   "word": "panier",
+   "start": 12.902,
+   "end": 13.275
+  },
+  {
+   "word": "orange",
+   "start": 13.333,
+   "end": 14.021
+  },
+  {
+   "word": "FONCE",
+   "start": 14.122,
+   "end": 14.495
+  }
+ ],
+ "durationSec": 14.733,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

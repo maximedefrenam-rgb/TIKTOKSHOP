@@ -1,0 +1,246 @@
+{
+ "words": [
+  {
+   "word": "Ta",
+   "start": 0.058,
+   "end": 0.068
+  },
+  {
+   "word": "routine",
+   "start": 0.11,
+   "end": 0.407
+  },
+  {
+   "word": "du",
+   "start": 0.452,
+   "end": 0.542
+  },
+  {
+   "word": "matin",
+   "start": 0.576,
+   "end": 0.814
+  },
+  {
+   "word": "en",
+   "start": 0.926,
+   "end": 1.153
+  },
+  {
+   "word": "trente",
+   "start": 1.186,
+   "end": 1.356
+  },
+  {
+   "word": "secondes",
+   "start": 1.404,
+   "end": 1.898
+  },
+  {
+   "word": "chrono",
+   "start": 1.937,
+   "end": 2.169
+  },
+  {
+   "word": "Un",
+   "start": 2.498,
+   "end": 2.517
+  },
+  {
+   "word": "toner",
+   "start": 2.524,
+   "end": 2.614
+  },
+  {
+   "word": "pad",
+   "start": 2.665,
+   "end": 2.817
+  },
+  {
+   "word": "Medicube",
+   "start": 2.874,
+   "end": 3.292
+  },
+  {
+   "word": "sur",
+   "start": 3.326,
+   "end": 3.427
+  },
+  {
+   "word": "la",
+   "start": 3.45,
+   "end": 3.495
+  },
+  {
+   "word": "face",
+   "start": 3.563,
+   "end": 3.97
+  },
+  {
+   "word": "et",
+   "start": 3.993,
+   "end": 4.038
+  },
+  {
+   "word": "c'est",
+   "start": 4.071,
+   "end": 4.241
+  },
+  {
+   "word": "réglé",
+   "start": 4.286,
+   "end": 5.054
+  },
+  {
+   "word": "niacinamide",
+   "start": 5.182,
+   "end": 5.868
+  },
+  {
+   "word": "vitamine",
+   "start": 5.919,
+   "end": 6.207
+  },
+  {
+   "word": "C",
+   "start": 6.309,
+   "end": 6.478
+  },
+  {
+   "word": "acide",
+   "start": 6.614,
+   "end": 7.021
+  },
+  {
+   "word": "succinique",
+   "start": 7.075,
+   "end": 7.732
+  },
+  {
+   "word": "pores",
+   "start": 7.76,
+   "end": 7.902
+  },
+  {
+   "word": "nets",
+   "start": 7.983,
+   "end": 8.309
+  },
+  {
+   "word": "et",
+   "start": 8.332,
+   "end": 8.376
+  },
+  {
+   "word": "éclat",
+   "start": 8.478,
+   "end": 8.919
+  },
+  {
+   "word": "selon",
+   "start": 8.953,
+   "end": 9.122
+  },
+  {
+   "word": "la",
+   "start": 9.167,
+   "end": 9.258
+  },
+  {
+   "word": "marque",
+   "start": 9.287,
+   "end": 9.868
+  },
+  {
+   "word": "soixante-dix",
+   "start": 9.993,
+   "end": 10.478
+  },
+  {
+   "word": "pads",
+   "start": 10.505,
+   "end": 10.614
+  },
+  {
+   "word": "par",
+   "start": 10.648,
+   "end": 10.749
+  },
+  {
+   "word": "pot",
+   "start": 10.8,
+   "end": 11.292
+  },
+  {
+   "word": "quatre",
+   "start": 11.321,
+   "end": 11.495
+  },
+  {
+   "word": "virgule",
+   "start": 11.529,
+   "end": 11.699
+  },
+  {
+   "word": "six",
+   "start": 11.749,
+   "end": 11.902
+  },
+  {
+   "word": "étoiles",
+   "start": 11.97,
+   "end": 12.58
+  },
+  {
+   "word": "dès",
+   "start": 12.758,
+   "end": 12.783
+  },
+  {
+   "word": "vingt-trois",
+   "start": 12.851,
+   "end": 13.326
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 13.345,
+   "end": 14.038
+  },
+  {
+   "word": "avec",
+   "start": 14.071,
+   "end": 14.207
+  },
+  {
+   "word": "les",
+   "start": 14.241,
+   "end": 14.343
+  },
+  {
+   "word": "coupons",
+   "start": 14.376,
+   "end": 14.885
+  },
+  {
+   "word": "panier",
+   "start": 14.936,
+   "end": 15.156
+  },
+  {
+   "word": "orange",
+   "start": 15.204,
+   "end": 15.766
+  },
+  {
+   "word": "FONCE",
+   "start": 15.834,
+   "end": 16.173
+  }
+ ],
+ "durationSec": 16.353,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

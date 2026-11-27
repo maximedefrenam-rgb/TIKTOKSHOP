@@ -1,0 +1,246 @@
+{
+ "words": [
+  {
+   "word": "La",
+   "start": 0.118,
+   "end": 0.136
+  },
+  {
+   "word": "créatine",
+   "start": 0.186,
+   "end": 0.61
+  },
+  {
+   "word": "OstroVit",
+   "start": 0.644,
+   "end": 1.153
+  },
+  {
+   "word": "boutique",
+   "start": 1.213,
+   "end": 1.695
+  },
+  {
+   "word": "officielle",
+   "start": 1.763,
+   "end": 2.508
+  },
+  {
+   "word": "vérifiée",
+   "start": 2.542,
+   "end": 2.915
+  },
+  {
+   "word": "par",
+   "start": 2.949,
+   "end": 3.051
+  },
+  {
+   "word": "TikTok",
+   "start": 3.119,
+   "end": 3.864
+  },
+  {
+   "word": "et",
+   "start": 3.923,
+   "end": 3.932
+  },
+  {
+   "word": "elle",
+   "start": 3.959,
+   "end": 4.068
+  },
+  {
+   "word": "est",
+   "start": 4.085,
+   "end": 4.136
+  },
+  {
+   "word": "à",
+   "start": 4.203,
+   "end": 4.271
+  },
+  {
+   "word": "quatre",
+   "start": 4.3,
+   "end": 4.475
+  },
+  {
+   "word": "euros",
+   "start": 4.519,
+   "end": 4.746
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 4.765,
+   "end": 5.358
+  },
+  {
+   "word": "trois",
+   "start": 5.742,
+   "end": 5.76
+  },
+  {
+   "word": "cents",
+   "start": 5.794,
+   "end": 5.964
+  },
+  {
+   "word": "grammes",
+   "start": 6.009,
+   "end": 6.642
+  },
+  {
+   "word": "cent",
+   "start": 6.669,
+   "end": 6.777
+  },
+  {
+   "word": "doses",
+   "start": 6.834,
+   "end": 7.387
+  },
+  {
+   "word": "même",
+   "start": 7.428,
+   "end": 7.591
+  },
+  {
+   "word": "pas",
+   "start": 7.625,
+   "end": 7.726
+  },
+  {
+   "word": "cinq",
+   "start": 7.828,
+   "end": 7.998
+  },
+  {
+   "word": "centimes",
+   "start": 8.065,
+   "end": 8.472
+  },
+  {
+   "word": "la",
+   "start": 8.495,
+   "end": 8.54
+  },
+  {
+   "word": "dose",
+   "start": 8.594,
+   "end": 9.15
+  },
+  {
+   "word": "ultra",
+   "start": 9.207,
+   "end": 9.489
+  },
+  {
+   "word": "micronisée",
+   "start": 9.537,
+   "end": 10.438
+  },
+  {
+   "word": "trois",
+   "start": 10.604,
+   "end": 10.642
+  },
+  {
+   "word": "grammes",
+   "start": 10.687,
+   "end": 10.981
+  },
+  {
+   "word": "de",
+   "start": 11.026,
+   "end": 11.116
+  },
+  {
+   "word": "créatine",
+   "start": 11.167,
+   "end": 11.523
+  },
+  {
+   "word": "par",
+   "start": 11.574,
+   "end": 11.726
+  },
+  {
+   "word": "jour",
+   "start": 11.781,
+   "end": 11.998
+  },
+  {
+   "word": "augmentent",
+   "start": 12.082,
+   "end": 12.743
+  },
+  {
+   "word": "la",
+   "start": 12.766,
+   "end": 12.811
+  },
+  {
+   "word": "performance",
+   "start": 12.851,
+   "end": 13.286
+  },
+  {
+   "word": "physique",
+   "start": 13.323,
+   "end": 13.625
+  },
+  {
+   "word": "lors",
+   "start": 13.665,
+   "end": 13.828
+  },
+  {
+   "word": "d'exercices",
+   "start": 13.862,
+   "end": 14.303
+  },
+  {
+   "word": "courts",
+   "start": 14.342,
+   "end": 14.845
+  },
+  {
+   "word": "intenses",
+   "start": 14.896,
+   "end": 15.32
+  },
+  {
+   "word": "et",
+   "start": 15.365,
+   "end": 15.455
+  },
+  {
+   "word": "répétés",
+   "start": 15.5,
+   "end": 16.404
+  },
+  {
+   "word": "panier",
+   "start": 16.52,
+   "end": 16.676
+  },
+  {
+   "word": "orange",
+   "start": 16.734,
+   "end": 17.354
+  },
+  {
+   "word": "FONCE",
+   "start": 17.421,
+   "end": 17.828
+  }
+ ],
+ "durationSec": 18.024,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

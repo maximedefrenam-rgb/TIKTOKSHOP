@@ -1,0 +1,251 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.248,
+   "end": 0.285
+  },
+  {
+   "word": "collagène",
+   "start": 0.296,
+   "end": 0.61
+  },
+  {
+   "word": "à",
+   "start": 0.712,
+   "end": 0.814
+  },
+  {
+   "word": "moins",
+   "start": 0.847,
+   "end": 1.017
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 1.051,
+   "end": 1.458
+  },
+  {
+   "word": "pour",
+   "start": 1.478,
+   "end": 1.559
+  },
+  {
+   "word": "cent",
+   "start": 1.586,
+   "end": 1.966
+  },
+  {
+   "word": "c'est",
+   "start": 2.0,
+   "end": 2.102
+  },
+  {
+   "word": "bientôt",
+   "start": 2.153,
+   "end": 2.373
+  },
+  {
+   "word": "fini",
+   "start": 2.407,
+   "end": 2.644
+  },
+  {
+   "word": "Novoma",
+   "start": 2.99,
+   "end": 3.218
+  },
+  {
+   "word": "Collagène",
+   "start": 3.259,
+   "end": 3.625
+  },
+  {
+   "word": "Marin",
+   "start": 3.682,
+   "end": 4.1
+  },
+  {
+   "word": "quatre",
+   "start": 4.129,
+   "end": 4.303
+  },
+  {
+   "word": "euros",
+   "start": 4.348,
+   "end": 4.574
+  },
+  {
+   "word": "quatre-vingt-dix-huit",
+   "start": 4.594,
+   "end": 5.286
+  },
+  {
+   "word": "au",
+   "start": 5.343,
+   "end": 5.456
+  },
+  {
+   "word": "lieu",
+   "start": 5.483,
+   "end": 5.591
+  },
+  {
+   "word": "de",
+   "start": 5.636,
+   "end": 5.727
+  },
+  {
+   "word": "onze",
+   "start": 5.754,
+   "end": 5.863
+  },
+  {
+   "word": "soixante-dix-sept",
+   "start": 5.93,
+   "end": 6.879
+  },
+  {
+   "word": "jusqu'au",
+   "start": 7.108,
+   "end": 7.218
+  },
+  {
+   "word": "trente",
+   "start": 7.269,
+   "end": 7.489
+  },
+  {
+   "word": "novembre",
+   "start": 7.526,
+   "end": 7.828
+  },
+  {
+   "word": "seulement",
+   "start": 7.862,
+   "end": 8.641
+  },
+  {
+   "word": "collagène",
+   "start": 8.827,
+   "end": 9.048
+  },
+  {
+   "word": "Naticol",
+   "start": 9.116,
+   "end": 9.658
+  },
+  {
+   "word": "acide",
+   "start": 9.749,
+   "end": 10.065
+  },
+  {
+   "word": "hyaluronique",
+   "start": 10.088,
+   "end": 10.743
+  },
+  {
+   "word": "vitamine",
+   "start": 10.794,
+   "end": 11.15
+  },
+  {
+   "word": "C",
+   "start": 11.252,
+   "end": 11.76
+  },
+  {
+   "word": "la",
+   "start": 11.88,
+   "end": 11.896
+  },
+  {
+   "word": "vitamine",
+   "start": 11.93,
+   "end": 12.235
+  },
+  {
+   "word": "C",
+   "start": 12.336,
+   "end": 12.438
+  },
+  {
+   "word": "contribue",
+   "start": 12.48,
+   "end": 12.845
+  },
+  {
+   "word": "à",
+   "start": 12.879,
+   "end": 12.913
+  },
+  {
+   "word": "la",
+   "start": 12.936,
+   "end": 12.98
+  },
+  {
+   "word": "formation",
+   "start": 13.021,
+   "end": 13.387
+  },
+  {
+   "word": "normale",
+   "start": 13.441,
+   "end": 13.726
+  },
+  {
+   "word": "de",
+   "start": 13.771,
+   "end": 13.862
+  },
+  {
+   "word": "collagène",
+   "start": 13.902,
+   "end": 14.743
+  },
+  {
+   "word": "après",
+   "start": 14.972,
+   "end": 15.165
+  },
+  {
+   "word": "c'est",
+   "start": 15.198,
+   "end": 15.3
+  },
+  {
+   "word": "trop",
+   "start": 15.327,
+   "end": 15.436
+  },
+  {
+   "word": "tard",
+   "start": 15.504,
+   "end": 15.91
+  },
+  {
+   "word": "panier",
+   "start": 15.961,
+   "end": 16.181
+  },
+  {
+   "word": "orange",
+   "start": 16.249,
+   "end": 16.859
+  },
+  {
+   "word": "FONCE",
+   "start": 16.927,
+   "end": 17.334
+  }
+ ],
+ "durationSec": 17.528,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

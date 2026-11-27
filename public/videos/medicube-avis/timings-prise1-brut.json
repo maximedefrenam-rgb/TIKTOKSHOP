@@ -1,0 +1,231 @@
+{
+ "words": [
+  {
+   "word": "Deux",
+   "start": 0.147,
+   "end": 0.28
+  },
+  {
+   "word": "mille",
+   "start": 0.34,
+   "end": 0.48
+  },
+  {
+   "word": "cinq",
+   "start": 0.6,
+   "end": 0.84
+  },
+  {
+   "word": "cents",
+   "start": 0.86,
+   "end": 0.96
+  },
+  {
+   "word": "vendus",
+   "start": 1.04,
+   "end": 2
+  },
+  {
+   "word": "quatre",
+   "start": 2.034,
+   "end": 2.24
+  },
+  {
+   "word": "virgule",
+   "start": 2.32,
+   "end": 2.64
+  },
+  {
+   "word": "six",
+   "start": 2.72,
+   "end": 2.96
+  },
+  {
+   "word": "étoiles",
+   "start": 3.08,
+   "end": 3.52
+  },
+  {
+   "word": "wesh",
+   "start": 3.56,
+   "end": 3.76
+  },
+  {
+   "word": "Les",
+   "start": 4.705,
+   "end": 4.72
+  },
+  {
+   "word": "toner",
+   "start": 4.78,
+   "end": 5.12
+  },
+  {
+   "word": "pads",
+   "start": 5.184,
+   "end": 5.44
+  },
+  {
+   "word": "Medicube",
+   "start": 5.52,
+   "end": 6.56
+  },
+  {
+   "word": "le",
+   "start": 6.587,
+   "end": 6.64
+  },
+  {
+   "word": "pad",
+   "start": 6.72,
+   "end": 6.96
+  },
+  {
+   "word": "coréen",
+   "start": 7.04,
+   "end": 7.44
+  },
+  {
+   "word": "que",
+   "start": 7.48,
+   "end": 7.6
+  },
+  {
+   "word": "tout",
+   "start": 7.648,
+   "end": 7.84
+  },
+  {
+   "word": "le",
+   "start": 7.867,
+   "end": 7.92
+  },
+  {
+   "word": "monde",
+   "start": 7.947,
+   "end": 8.08
+  },
+  {
+   "word": "s'arrache",
+   "start": 8.12,
+   "end": 8.64
+  },
+  {
+   "word": "niacinamide",
+   "start": 9.111,
+   "end": 9.6
+  },
+  {
+   "word": "deux",
+   "start": 9.632,
+   "end": 9.76
+  },
+  {
+   "word": "pour",
+   "start": 9.792,
+   "end": 9.92
+  },
+  {
+   "word": "cent",
+   "start": 9.968,
+   "end": 10.56
+  },
+  {
+   "word": "vitamine",
+   "start": 10.6,
+   "end": 10.96
+  },
+  {
+   "word": "C",
+   "start": 11.12,
+   "end": 11.52
+  },
+  {
+   "word": "acide",
+   "start": 11.6,
+   "end": 11.92
+  },
+  {
+   "word": "succinique",
+   "start": 11.968,
+   "end": 12.64
+  },
+  {
+   "word": "l'effet",
+   "start": 13.176,
+   "end": 13.726
+  },
+  {
+   "word": "glass",
+   "start": 13.773,
+   "end": 14.006
+  },
+  {
+   "word": "skin",
+   "start": 14.07,
+   "end": 14.406
+  },
+  {
+   "word": "selon",
+   "start": 14.446,
+   "end": 14.646
+  },
+  {
+   "word": "la",
+   "start": 14.699,
+   "end": 14.806
+  },
+  {
+   "word": "marque",
+   "start": 14.852,
+   "end": 15.526
+  },
+  {
+   "word": "dès",
+   "start": 15.736,
+   "end": 15.766
+  },
+  {
+   "word": "vingt-trois",
+   "start": 15.846,
+   "end": 16.486
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 16.509,
+   "end": 17.246
+  },
+  {
+   "word": "avec",
+   "start": 17.27,
+   "end": 17.366
+  },
+  {
+   "word": "les",
+   "start": 17.406,
+   "end": 17.526
+  },
+  {
+   "word": "coupons",
+   "start": 17.576,
+   "end": 18.246
+  },
+  {
+   "word": "panier",
+   "start": 18.306,
+   "end": 18.566
+  },
+  {
+   "word": "orange",
+   "start": 18.623,
+   "end": 19.366
+  },
+  {
+   "word": "FONCE",
+   "start": 19.486,
+   "end": 20.006
+  }
+ ],
+ "durationSec": 20.271,
+ "model": "eleven_v3"
+}

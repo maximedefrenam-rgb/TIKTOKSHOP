@@ -1,0 +1,236 @@
+{
+ "words": [
+  {
+   "word": "Ouatte-de-fuck",
+   "start": 0.067,
+   "end": 0.956
+  },
+  {
+   "word": "quatre",
+   "start": 0.976,
+   "end": 1.092
+  },
+  {
+   "word": "euros",
+   "start": 1.137,
+   "end": 1.363
+  },
+  {
+   "word": "trente-cinq",
+   "start": 1.38,
+   "end": 1.736
+  },
+  {
+   "word": "la",
+   "start": 1.77,
+   "end": 1.838
+  },
+  {
+   "word": "pièce",
+   "start": 1.889,
+   "end": 2.109
+  },
+  {
+   "word": "de",
+   "start": 2.154,
+   "end": 2.245
+  },
+  {
+   "word": "skincare",
+   "start": 2.297,
+   "end": 2.719
+  },
+  {
+   "word": "Le",
+   "start": 2.95,
+   "end": 2.965
+  },
+  {
+   "word": "kit",
+   "start": 3.016,
+   "end": 3.168
+  },
+  {
+   "word": "au",
+   "start": 3.191,
+   "end": 3.236
+  },
+  {
+   "word": "curcuma",
+   "start": 3.287,
+   "end": 3.846
+  },
+  {
+   "word": "savon",
+   "start": 3.914,
+   "end": 4.253
+  },
+  {
+   "word": "nettoyant",
+   "start": 4.304,
+   "end": 4.795
+  },
+  {
+   "word": "huile",
+   "start": 4.84,
+   "end": 5.134
+  },
+  {
+   "word": "crème",
+   "start": 5.202,
+   "end": 5.406
+  },
+  {
+   "word": "et",
+   "start": 5.428,
+   "end": 5.473
+  },
+  {
+   "word": "masque",
+   "start": 5.524,
+   "end": 5.812
+  },
+  {
+   "word": "peel-off",
+   "start": 5.853,
+   "end": 6.287
+  },
+  {
+   "word": "vingt",
+   "start": 6.55,
+   "end": 6.762
+  },
+  {
+   "word": "et",
+   "start": 6.784,
+   "end": 6.829
+  },
+  {
+   "word": "un",
+   "start": 6.874,
+   "end": 6.965
+  },
+  {
+   "word": "euros",
+   "start": 7.022,
+   "end": 7.304
+  },
+  {
+   "word": "soixante-quinze",
+   "start": 7.327,
+   "end": 7.88
+  },
+  {
+   "word": "le",
+   "start": 7.914,
+   "end": 7.982
+  },
+  {
+   "word": "kit",
+   "start": 8.067,
+   "end": 8.389
+  },
+  {
+   "word": "acide",
+   "start": 8.601,
+   "end": 8.684
+  },
+  {
+   "word": "kojique",
+   "start": 8.729,
+   "end": 9.023
+  },
+  {
+   "word": "et",
+   "start": 9.046,
+   "end": 9.091
+  },
+  {
+   "word": "vitamine",
+   "start": 9.125,
+   "end": 9.362
+  },
+  {
+   "word": "C",
+   "start": 9.498,
+   "end": 9.735
+  },
+  {
+   "word": "teint",
+   "start": 9.769,
+   "end": 9.905
+  },
+  {
+   "word": "plus",
+   "start": 9.945,
+   "end": 10.108
+  },
+  {
+   "word": "uniforme",
+   "start": 10.15,
+   "end": 10.549
+  },
+  {
+   "word": "selon",
+   "start": 10.566,
+   "end": 10.65
+  },
+  {
+   "word": "la",
+   "start": 10.673,
+   "end": 10.718
+  },
+  {
+   "word": "marque",
+   "start": 10.767,
+   "end": 11.125
+  },
+  {
+   "word": "soixante-trois",
+   "start": 11.346,
+   "end": 11.968
+  },
+  {
+   "word": "mille",
+   "start": 12.035,
+   "end": 12.171
+  },
+  {
+   "word": "vendus",
+   "start": 12.239,
+   "end": 13.188
+  },
+  {
+   "word": "Black",
+   "start": 13.363,
+   "end": 13.391
+  },
+  {
+   "word": "Friday",
+   "start": 13.45,
+   "end": 13.866
+  },
+  {
+   "word": "panier",
+   "start": 13.9,
+   "end": 14.137
+  },
+  {
+   "word": "orange",
+   "start": 14.185,
+   "end": 14.747
+  },
+  {
+   "word": "FONCE",
+   "start": 14.849,
+   "end": 15.29
+  }
+ ],
+ "durationSec": 15.412,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 5
+ }
+}

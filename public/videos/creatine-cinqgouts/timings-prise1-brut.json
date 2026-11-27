@@ -1,0 +1,286 @@
+{
+ "words": [
+  {
+   "word": "Les",
+   "start": 0.21,
+   "end": 0.24
+  },
+  {
+   "word": "cinq",
+   "start": 0.32,
+   "end": 0.56
+  },
+  {
+   "word": "goûts",
+   "start": 0.613,
+   "end": 0.88
+  },
+  {
+   "word": "de",
+   "start": 0.907,
+   "end": 0.96
+  },
+  {
+   "word": "créatine",
+   "start": 1.04,
+   "end": 1.6
+  },
+  {
+   "word": "pour",
+   "start": 1.664,
+   "end": 1.92
+  },
+  {
+   "word": "moins",
+   "start": 1.973,
+   "end": 2.24
+  },
+  {
+   "word": "de",
+   "start": 2.293,
+   "end": 2.4
+  },
+  {
+   "word": "vingt",
+   "start": 2.44,
+   "end": 2.56
+  },
+  {
+   "word": "balles",
+   "start": 2.62,
+   "end": 2.88
+  },
+  {
+   "word": "OstroVit",
+   "start": 3.81,
+   "end": 4.32
+  },
+  {
+   "word": "cinq",
+   "start": 4.56,
+   "end": 4.88
+  },
+  {
+   "word": "sachets",
+   "start": 4.944,
+   "end": 5.36
+  },
+  {
+   "word": "à",
+   "start": 5.52,
+   "end": 5.68
+  },
+  {
+   "word": "quatre",
+   "start": 5.714,
+   "end": 5.92
+  },
+  {
+   "word": "euros",
+   "start": 5.96,
+   "end": 6.16
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 6.183,
+   "end": 7.36
+  },
+  {
+   "word": "et",
+   "start": 7.429,
+   "end": 7.44
+  },
+  {
+   "word": "avec",
+   "start": 7.488,
+   "end": 7.68
+  },
+  {
+   "word": "l'offre",
+   "start": 7.72,
+   "end": 8.08
+  },
+  {
+   "word": "moins",
+   "start": 8.133,
+   "end": 8.4
+  },
+  {
+   "word": "cinq",
+   "start": 8.48,
+   "end": 8.72
+  },
+  {
+   "word": "euros",
+   "start": 8.76,
+   "end": 8.96
+  },
+  {
+   "word": "au-delà",
+   "start": 9.04,
+   "end": 9.52
+  },
+  {
+   "word": "de",
+   "start": 9.547,
+   "end": 9.6
+  },
+  {
+   "word": "vingt",
+   "start": 9.64,
+   "end": 9.76
+  },
+  {
+   "word": "euros",
+   "start": 9.813,
+   "end": 10.16
+  },
+  {
+   "word": "ça",
+   "start": 10.347,
+   "end": 10.72
+  },
+  {
+   "word": "fait",
+   "start": 10.752,
+   "end": 10.88
+  },
+  {
+   "word": "dix-neuf",
+   "start": 11,
+   "end": 11.44
+  },
+  {
+   "word": "quatre-vingt-quinze",
+   "start": 11.486,
+   "end": 12.161
+  },
+  {
+   "word": "citron",
+   "start": 13.02,
+   "end": 13.6
+  },
+  {
+   "word": "mangue",
+   "start": 13.68,
+   "end": 14.48
+  },
+  {
+   "word": "melon",
+   "start": 14.54,
+   "end": 15.12
+  },
+  {
+   "word": "pomme",
+   "start": 15.18,
+   "end": 15.44
+  },
+  {
+   "word": "verte",
+   "start": 15.493,
+   "end": 15.84
+  },
+  {
+   "word": "nature",
+   "start": 15.943,
+   "end": 16.88
+  },
+  {
+   "word": "trois",
+   "start": 17.326,
+   "end": 17.526
+  },
+  {
+   "word": "grammes",
+   "start": 17.566,
+   "end": 17.846
+  },
+  {
+   "word": "de",
+   "start": 17.873,
+   "end": 17.926
+  },
+  {
+   "word": "créatine",
+   "start": 17.986,
+   "end": 18.406
+  },
+  {
+   "word": "par",
+   "start": 18.466,
+   "end": 18.646
+  },
+  {
+   "word": "jour",
+   "start": 18.71,
+   "end": 18.966
+  },
+  {
+   "word": "augmentent",
+   "start": 19.056,
+   "end": 19.766
+  },
+  {
+   "word": "la",
+   "start": 19.793,
+   "end": 19.846
+  },
+  {
+   "word": "performance",
+   "start": 19.893,
+   "end": 20.406
+  },
+  {
+   "word": "physique",
+   "start": 20.45,
+   "end": 20.806
+  },
+  {
+   "word": "lors",
+   "start": 20.87,
+   "end": 21.126
+  },
+  {
+   "word": "d'exercices",
+   "start": 21.186,
+   "end": 21.686
+  },
+  {
+   "word": "courts",
+   "start": 21.743,
+   "end": 22.406
+  },
+  {
+   "word": "intenses",
+   "start": 22.466,
+   "end": 22.966
+  },
+  {
+   "word": "et",
+   "start": 23.046,
+   "end": 23.206
+  },
+  {
+   "word": "répétés",
+   "start": 23.259,
+   "end": 24.406
+  },
+  {
+   "word": "panier",
+   "start": 24.542,
+   "end": 24.726
+  },
+  {
+   "word": "orange",
+   "start": 24.783,
+   "end": 25.446
+  },
+  {
+   "word": "FONCE",
+   "start": 25.526,
+   "end": 25.926
+  }
+ ],
+ "durationSec": 26.279,
+ "model": "eleven_v3"
+}

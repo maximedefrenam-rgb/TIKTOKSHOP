@@ -1,0 +1,231 @@
+{
+ "words": [
+  {
+   "word": "Prix",
+   "start": 0.084,
+   "end": 0.112
+  },
+  {
+   "word": "le",
+   "start": 0.156,
+   "end": 0.247
+  },
+  {
+   "word": "plus",
+   "start": 0.274,
+   "end": 0.383
+  },
+  {
+   "word": "bas",
+   "start": 0.434,
+   "end": 0.586
+  },
+  {
+   "word": "de",
+   "start": 0.609,
+   "end": 0.654
+  },
+  {
+   "word": "l'année",
+   "start": 0.688,
+   "end": 0.925
+  },
+  {
+   "word": "sur",
+   "start": 0.959,
+   "end": 1.061
+  },
+  {
+   "word": "le",
+   "start": 1.084,
+   "end": 1.129
+  },
+  {
+   "word": "Cortisol",
+   "start": 1.169,
+   "end": 1.603
+  },
+  {
+   "word": "Manager",
+   "start": 1.654,
+   "end": 2.01
+  },
+  {
+   "word": "Nuclever",
+   "start": 2.234,
+   "end": 2.715
+  },
+  {
+   "word": "pour",
+   "start": 2.729,
+   "end": 2.783
+  },
+  {
+   "word": "le",
+   "start": 2.806,
+   "end": 2.851
+  },
+  {
+   "word": "Black",
+   "start": 2.884,
+   "end": 3.054
+  },
+  {
+   "word": "Friday",
+   "start": 3.102,
+   "end": 3.8
+  },
+  {
+   "word": "vingt",
+   "start": 3.868,
+   "end": 4.003
+  },
+  {
+   "word": "euros",
+   "start": 4.048,
+   "end": 4.274
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 4.303,
+   "end": 4.851
+  },
+  {
+   "word": "le",
+   "start": 4.884,
+   "end": 4.952
+  },
+  {
+   "word": "mois",
+   "start": 4.993,
+   "end": 5.562
+  },
+  {
+   "word": "soixante-dix",
+   "start": 5.726,
+   "end": 6.11
+  },
+  {
+   "word": "centimes",
+   "start": 6.164,
+   "end": 6.517
+  },
+  {
+   "word": "par",
+   "start": 6.551,
+   "end": 6.652
+  },
+  {
+   "word": "jour",
+   "start": 6.706,
+   "end": 7.33
+  },
+  {
+   "word": "ashwagandha",
+   "start": 7.514,
+   "end": 8.009
+  },
+  {
+   "word": "elle-théanine",
+   "start": 8.077,
+   "end": 8.958
+  },
+  {
+   "word": "magnésium",
+   "start": 8.999,
+   "end": 9.636
+  },
+  {
+   "word": "vitamine",
+   "start": 9.687,
+   "end": 10.043
+  },
+  {
+   "word": "D",
+   "start": 10.145,
+   "end": 10.856
+  },
+  {
+   "word": "la",
+   "start": 10.977,
+   "end": 10.992
+  },
+  {
+   "word": "vitamine",
+   "start": 11.043,
+   "end": 11.331
+  },
+  {
+   "word": "D",
+   "start": 11.399,
+   "end": 11.467
+  },
+  {
+   "word": "contribue",
+   "start": 11.509,
+   "end": 11.941
+  },
+  {
+   "word": "au",
+   "start": 11.975,
+   "end": 12.043
+  },
+  {
+   "word": "maintien",
+   "start": 12.06,
+   "end": 12.279
+  },
+  {
+   "word": "d'une",
+   "start": 12.28,
+   "end": 12.416
+  },
+  {
+   "word": "fonction",
+   "start": 12.446,
+   "end": 12.687
+  },
+  {
+   "word": "musculaire",
+   "start": 12.721,
+   "end": 13.094
+  },
+  {
+   "word": "normale",
+   "start": 13.134,
+   "end": 14.111
+  },
+  {
+   "word": "livraison",
+   "start": 14.218,
+   "end": 14.523
+  },
+  {
+   "word": "gratuite",
+   "start": 14.576,
+   "end": 15.201
+  },
+  {
+   "word": "panier",
+   "start": 15.235,
+   "end": 15.405
+  },
+  {
+   "word": "orange",
+   "start": 15.463,
+   "end": 16.015
+  },
+  {
+   "word": "FONCE",
+   "start": 16.117,
+   "end": 16.49
+  }
+ ],
+ "durationSec": 16.666,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

@@ -1,0 +1,261 @@
+{
+ "words": [
+  {
+   "word": "Deux",
+   "start": 0.147,
+   "end": 0.28
+  },
+  {
+   "word": "boîtes",
+   "start": 0.32,
+   "end": 0.64
+  },
+  {
+   "word": "pour",
+   "start": 0.688,
+   "end": 0.88
+  },
+  {
+   "word": "dix",
+   "start": 0.92,
+   "end": 1.04
+  },
+  {
+   "word": "balles",
+   "start": 1.08,
+   "end": 1.76
+  },
+  {
+   "word": "mais",
+   "start": 1.776,
+   "end": 1.84
+  },
+  {
+   "word": "qui",
+   "start": 1.9,
+   "end": 2.08
+  },
+  {
+   "word": "a",
+   "start": 2.16,
+   "end": 2.24
+  },
+  {
+   "word": "validé",
+   "start": 2.28,
+   "end": 2.56
+  },
+  {
+   "word": "ce",
+   "start": 2.587,
+   "end": 2.64
+  },
+  {
+   "word": "prix",
+   "start": 2.688,
+   "end": 2.88
+  },
+  {
+   "word": "Le",
+   "start": 3.743,
+   "end": 3.761
+  },
+  {
+   "word": "duo",
+   "start": 3.841,
+   "end": 4.081
+  },
+  {
+   "word": "ZAP",
+   "start": 4.161,
+   "end": 4.401
+  },
+  {
+   "word": "cerise",
+   "start": 4.441,
+   "end": 4.721
+  },
+  {
+   "word": "noire",
+   "start": 4.774,
+   "end": 5.281
+  },
+  {
+   "word": "deux",
+   "start": 5.313,
+   "end": 5.441
+  },
+  {
+   "word": "fois",
+   "start": 5.489,
+   "end": 5.681
+  },
+  {
+   "word": "dix-huit",
+   "start": 5.721,
+   "end": 5.921
+  },
+  {
+   "word": "sachets",
+   "start": 5.969,
+   "end": 6.801
+  },
+  {
+   "word": "dix",
+   "start": 6.873,
+   "end": 6.961
+  },
+  {
+   "word": "euros",
+   "start": 7.041,
+   "end": 7.441
+  },
+  {
+   "word": "seize",
+   "start": 7.481,
+   "end": 7.681
+  },
+  {
+   "word": "au",
+   "start": 7.761,
+   "end": 7.921
+  },
+  {
+   "word": "lieu",
+   "start": 7.953,
+   "end": 8.081
+  },
+  {
+   "word": "de",
+   "start": 8.161,
+   "end": 8.321
+  },
+  {
+   "word": "quatorze",
+   "start": 8.348,
+   "end": 8.881
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 8.904,
+   "end": 10.081
+  },
+  {
+   "word": "cent",
+   "start": 10.23,
+   "end": 10.241
+  },
+  {
+   "word": "milligrammes",
+   "start": 10.273,
+   "end": 10.721
+  },
+  {
+   "word": "de",
+   "start": 10.748,
+   "end": 10.801
+  },
+  {
+   "word": "caféine",
+   "start": 10.865,
+   "end": 11.201
+  },
+  {
+   "word": "par",
+   "start": 11.241,
+   "end": 11.361
+  },
+  {
+   "word": "sachet",
+   "start": 11.425,
+   "end": 12.081
+  },
+  {
+   "word": "plus",
+   "start": 12.129,
+   "end": 12.321
+  },
+  {
+   "word": "qu'un",
+   "start": 12.348,
+   "end": 12.481
+  },
+  {
+   "word": "expresso",
+   "start": 12.531,
+   "end": 13.121
+  },
+  {
+   "word": "une",
+   "start": 13.751,
+   "end": 13.761
+  },
+  {
+   "word": "boîte",
+   "start": 13.814,
+   "end": 14.001
+  },
+  {
+   "word": "pour",
+   "start": 14.033,
+   "end": 14.161
+  },
+  {
+   "word": "la",
+   "start": 14.188,
+   "end": 14.241
+  },
+  {
+   "word": "salle",
+   "start": 14.308,
+   "end": 14.801
+  },
+  {
+   "word": "une",
+   "start": 14.841,
+   "end": 14.961
+  },
+  {
+   "word": "pour",
+   "start": 14.993,
+   "end": 15.121
+  },
+  {
+   "word": "le",
+   "start": 15.148,
+   "end": 15.201
+  },
+  {
+   "word": "taf",
+   "start": 15.281,
+   "end": 16.081
+  },
+  {
+   "word": "livraison",
+   "start": 16.291,
+   "end": 16.561
+  },
+  {
+   "word": "gratuite",
+   "start": 16.614,
+   "end": 17.121
+  },
+  {
+   "word": "panier",
+   "start": 17.241,
+   "end": 17.681
+  },
+  {
+   "word": "orange",
+   "start": 17.75,
+   "end": 18.561
+  },
+  {
+   "word": "FONCE",
+   "start": 18.601,
+   "end": 19.041
+  }
+ ],
+ "durationSec": 19.409,
+ "model": "eleven_v3"
+}

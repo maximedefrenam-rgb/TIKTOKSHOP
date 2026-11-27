@@ -1,0 +1,221 @@
+{
+ "words": [
+  {
+   "word": "Deuxième",
+   "start": 0.147,
+   "end": 0.64
+  },
+  {
+   "word": "au",
+   "start": 0.667,
+   "end": 0.72
+  },
+  {
+   "word": "classement",
+   "start": 0.766,
+   "end": 1.2
+  },
+  {
+   "word": "des",
+   "start": 1.24,
+   "end": 1.36
+  },
+  {
+   "word": "ventes",
+   "start": 1.408,
+   "end": 1.76
+  },
+  {
+   "word": "wesh",
+   "start": 1.8,
+   "end": 2.08
+  },
+  {
+   "word": "tu",
+   "start": 2.107,
+   "end": 2.16
+  },
+  {
+   "word": "le",
+   "start": 2.187,
+   "end": 2.24
+  },
+  {
+   "word": "connais",
+   "start": 2.272,
+   "end": 2.48
+  },
+  {
+   "word": "pas",
+   "start": 2.52,
+   "end": 2.64
+  },
+  {
+   "word": "encore",
+   "start": 2.686,
+   "end": 2.96
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.904,
+   "end": 4.16
+  },
+  {
+   "word": "Cortisol",
+   "start": 4.224,
+   "end": 4.72
+  },
+  {
+   "word": "Manager",
+   "start": 4.79,
+   "end": 5.36
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 5.5,
+   "end": 6.4
+  },
+  {
+   "word": "mille",
+   "start": 6.48,
+   "end": 6.64
+  },
+  {
+   "word": "vendus",
+   "start": 6.688,
+   "end": 7.44
+  },
+  {
+   "word": "quatre",
+   "start": 7.474,
+   "end": 7.68
+  },
+  {
+   "word": "virgule",
+   "start": 7.74,
+   "end": 8
+  },
+  {
+   "word": "cinq",
+   "start": 8.08,
+   "end": 8.24
+  },
+  {
+   "word": "étoiles",
+   "start": 8.32,
+   "end": 9.12
+  },
+  {
+   "word": "trois",
+   "start": 9.244,
+   "end": 9.288
+  },
+  {
+   "word": "cents",
+   "start": 9.328,
+   "end": 9.528
+  },
+  {
+   "word": "milligrammes",
+   "start": 9.576,
+   "end": 10.088
+  },
+  {
+   "word": "d'ashwagandha",
+   "start": 10.128,
+   "end": 11.208
+  },
+  {
+   "word": "magnésium",
+   "start": 11.256,
+   "end": 12.088
+  },
+  {
+   "word": "vitamine",
+   "start": 12.148,
+   "end": 12.568
+  },
+  {
+   "word": "D",
+   "start": 12.688,
+   "end": 13.368
+  },
+  {
+   "word": "le",
+   "start": 13.588,
+   "end": 13.628
+  },
+  {
+   "word": "magnésium",
+   "start": 13.64,
+   "end": 13.928
+  },
+  {
+   "word": "contribue",
+   "start": 13.978,
+   "end": 14.408
+  },
+  {
+   "word": "à",
+   "start": 14.448,
+   "end": 14.488
+  },
+  {
+   "word": "réduire",
+   "start": 14.541,
+   "end": 14.808
+  },
+  {
+   "word": "la",
+   "start": 14.835,
+   "end": 14.888
+  },
+  {
+   "word": "fatigue",
+   "start": 14.938,
+   "end": 15.768
+  },
+  {
+   "word": "vingt",
+   "start": 15.984,
+   "end": 16.008
+  },
+  {
+   "word": "euros",
+   "start": 16.061,
+   "end": 16.328
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 16.351,
+   "end": 17.208
+  },
+  {
+   "word": "livraison",
+   "start": 17.248,
+   "end": 17.608
+  },
+  {
+   "word": "gratuite",
+   "start": 17.652,
+   "end": 18.408
+  },
+  {
+   "word": "panier",
+   "start": 18.448,
+   "end": 18.728
+  },
+  {
+   "word": "orange",
+   "start": 18.785,
+   "end": 19.528
+  },
+  {
+   "word": "FONCE",
+   "start": 19.608,
+   "end": 20.088
+  }
+ ],
+ "durationSec": 20.271,
+ "model": "eleven_v3"
+}

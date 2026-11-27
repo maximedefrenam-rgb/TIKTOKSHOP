@@ -1,0 +1,271 @@
+{
+ "words": [
+  {
+   "word": "Contrôle",
+   "start": 0.175,
+   "end": 0.271
+  },
+  {
+   "word": "technique",
+   "start": 0.305,
+   "end": 0.61
+  },
+  {
+   "word": "dans",
+   "start": 0.651,
+   "end": 0.814
+  },
+  {
+   "word": "une",
+   "start": 0.847,
+   "end": 0.949
+  },
+  {
+   "word": "semaine",
+   "start": 1.008,
+   "end": 1.627
+  },
+  {
+   "word": "et",
+   "start": 1.65,
+   "end": 1.695
+  },
+  {
+   "word": "t'as",
+   "start": 1.729,
+   "end": 1.966
+  },
+  {
+   "word": "aucune",
+   "start": 2.034,
+   "end": 2.305
+  },
+  {
+   "word": "idée",
+   "start": 2.35,
+   "end": 2.508
+  },
+  {
+   "word": "de",
+   "start": 2.531,
+   "end": 2.576
+  },
+  {
+   "word": "ce",
+   "start": 2.599,
+   "end": 2.644
+  },
+  {
+   "word": "qui",
+   "start": 2.678,
+   "end": 2.78
+  },
+  {
+   "word": "cloche",
+   "start": 2.831,
+   "end": 3.119
+  },
+  {
+   "word": "Branche",
+   "start": 3.296,
+   "end": 3.51
+  },
+  {
+   "word": "la",
+   "start": 3.533,
+   "end": 3.578
+  },
+  {
+   "word": "Topdon",
+   "start": 3.629,
+   "end": 3.917
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 3.968,
+   "end": 4.392
+  },
+  {
+   "word": "six",
+   "start": 4.443,
+   "end": 4.595
+  },
+  {
+   "word": "cents",
+   "start": 4.618,
+   "end": 4.731
+  },
+  {
+   "word": "S",
+   "start": 4.866,
+   "end": 5.07
+  },
+  {
+   "word": "tu",
+   "start": 5.189,
+   "end": 5.196
+  },
+  {
+   "word": "lis",
+   "start": 5.213,
+   "end": 5.264
+  },
+  {
+   "word": "les",
+   "start": 5.298,
+   "end": 5.4
+  },
+  {
+   "word": "codes",
+   "start": 5.423,
+   "end": 5.535
+  },
+  {
+   "word": "défaut",
+   "start": 5.586,
+   "end": 5.942
+  },
+  {
+   "word": "moteur",
+   "start": 6.051,
+   "end": 6.688
+  },
+  {
+   "word": "boîte",
+   "start": 6.733,
+   "end": 7.163
+  },
+  {
+   "word": "airbag",
+   "start": 7.213,
+   "end": 7.637
+  },
+  {
+   "word": "ABS",
+   "start": 7.756,
+   "end": 8.18
+  },
+  {
+   "word": "et",
+   "start": 8.284,
+   "end": 8.291
+  },
+  {
+   "word": "tu",
+   "start": 8.336,
+   "end": 8.427
+  },
+  {
+   "word": "sais",
+   "start": 8.481,
+   "end": 8.698
+  },
+  {
+   "word": "où",
+   "start": 8.721,
+   "end": 8.766
+  },
+  {
+   "word": "t'en",
+   "start": 8.8,
+   "end": 8.969
+  },
+  {
+   "word": "es",
+   "start": 9.014,
+   "end": 9.105
+  },
+  {
+   "word": "AVANT",
+   "start": 9.285,
+   "end": 9.783
+  },
+  {
+   "word": "d'y",
+   "start": 9.817,
+   "end": 9.918
+  },
+  {
+   "word": "aller",
+   "start": 9.952,
+   "end": 10.243
+  },
+  {
+   "word": "cent",
+   "start": 10.347,
+   "end": 10.375
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 10.403,
+   "end": 10.917
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 10.936,
+   "end": 11.459
+  },
+  {
+   "word": "au",
+   "start": 11.55,
+   "end": 11.731
+  },
+  {
+   "word": "lieu",
+   "start": 11.771,
+   "end": 11.934
+  },
+  {
+   "word": "de",
+   "start": 12.002,
+   "end": 12.137
+  },
+  {
+   "word": "deux",
+   "start": 12.151,
+   "end": 12.205
+  },
+  {
+   "word": "cent",
+   "start": 12.232,
+   "end": 12.341
+  },
+  {
+   "word": "neuf",
+   "start": 12.386,
+   "end": 12.815
+  },
+  {
+   "word": "livraison",
+   "start": 12.962,
+   "end": 13.199
+  },
+  {
+   "word": "gratuite",
+   "start": 13.244,
+   "end": 13.81
+  },
+  {
+   "word": "panier",
+   "start": 13.844,
+   "end": 14.081
+  },
+  {
+   "word": "orange",
+   "start": 14.129,
+   "end": 14.759
+  },
+  {
+   "word": "FONCE",
+   "start": 14.827,
+   "end": 15.233
+  }
+ ],
+ "durationSec": 15.412,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 5
+ }
+}

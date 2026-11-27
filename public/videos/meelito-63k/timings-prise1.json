@@ -1,0 +1,231 @@
+{
+ "words": [
+  {
+   "word": "Soixante-trois",
+   "start": 0.118,
+   "end": 0.746
+  },
+  {
+   "word": "mille",
+   "start": 0.78,
+   "end": 0.881
+  },
+  {
+   "word": "personnes",
+   "start": 0.936,
+   "end": 1.424
+  },
+  {
+   "word": "peuvent",
+   "start": 1.458,
+   "end": 1.695
+  },
+  {
+   "word": "pas",
+   "start": 1.746,
+   "end": 1.898
+  },
+  {
+   "word": "toutes",
+   "start": 1.927,
+   "end": 2.102
+  },
+  {
+   "word": "avoir",
+   "start": 2.158,
+   "end": 2.441
+  },
+  {
+   "word": "tort",
+   "start": 2.508,
+   "end": 2.78
+  },
+  {
+   "word": "Ce",
+   "start": 2.998,
+   "end": 3.009
+  },
+  {
+   "word": "kit",
+   "start": 3.06,
+   "end": 3.213
+  },
+  {
+   "word": "skincare",
+   "start": 3.265,
+   "end": 3.687
+  },
+  {
+   "word": "au",
+   "start": 3.71,
+   "end": 3.755
+  },
+  {
+   "word": "curcuma",
+   "start": 3.806,
+   "end": 4.501
+  },
+  {
+   "word": "quatre",
+   "start": 4.52,
+   "end": 4.637
+  },
+  {
+   "word": "virgule",
+   "start": 4.687,
+   "end": 4.908
+  },
+  {
+   "word": "cinq",
+   "start": 4.976,
+   "end": 5.111
+  },
+  {
+   "word": "étoiles",
+   "start": 5.179,
+   "end": 5.857
+  },
+  {
+   "word": "savon",
+   "start": 6.043,
+   "end": 6.331
+  },
+  {
+   "word": "nettoyant",
+   "start": 6.382,
+   "end": 7.009
+  },
+  {
+   "word": "masque",
+   "start": 7.06,
+   "end": 7.348
+  },
+  {
+   "word": "peel-off",
+   "start": 7.389,
+   "end": 7.823
+  },
+  {
+   "word": "huile",
+   "start": 7.868,
+   "end": 8.026
+  },
+  {
+   "word": "et",
+   "start": 8.049,
+   "end": 8.094
+  },
+  {
+   "word": "crème",
+   "start": 8.162,
+   "end": 8.637
+  },
+  {
+   "word": "acide",
+   "start": 8.825,
+   "end": 8.976
+  },
+  {
+   "word": "kojique",
+   "start": 9.02,
+   "end": 9.315
+  },
+  {
+   "word": "et",
+   "start": 9.337,
+   "end": 9.382
+  },
+  {
+   "word": "vitamine",
+   "start": 9.416,
+   "end": 9.721
+  },
+  {
+   "word": "C",
+   "start": 9.857,
+   "end": 10.06
+  },
+  {
+   "word": "selon",
+   "start": 10.094,
+   "end": 10.264
+  },
+  {
+   "word": "la",
+   "start": 10.287,
+   "end": 10.331
+  },
+  {
+   "word": "marque",
+   "start": 10.37,
+   "end": 11.009
+  },
+  {
+   "word": "vingt",
+   "start": 11.22,
+   "end": 11.281
+  },
+  {
+   "word": "et",
+   "start": 11.326,
+   "end": 11.416
+  },
+  {
+   "word": "un",
+   "start": 11.473,
+   "end": 11.586
+  },
+  {
+   "word": "euros",
+   "start": 11.614,
+   "end": 11.755
+  },
+  {
+   "word": "soixante-quinze",
+   "start": 11.778,
+   "end": 12.298
+  },
+  {
+   "word": "le",
+   "start": 12.32,
+   "end": 12.365
+  },
+  {
+   "word": "kit",
+   "start": 12.45,
+   "end": 12.772
+  },
+  {
+   "word": "Black",
+   "start": 12.84,
+   "end": 13.179
+  },
+  {
+   "word": "Friday",
+   "start": 13.237,
+   "end": 13.654
+  },
+  {
+   "word": "panier",
+   "start": 13.738,
+   "end": 14.06
+  },
+  {
+   "word": "orange",
+   "start": 14.128,
+   "end": 14.738
+  },
+  {
+   "word": "FONCE",
+   "start": 14.84,
+   "end": 15.281
+  }
+ ],
+ "durationSec": 15.464,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

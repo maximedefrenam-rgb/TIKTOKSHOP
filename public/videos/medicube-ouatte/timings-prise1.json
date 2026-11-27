@@ -1,0 +1,241 @@
+{
+ "words": [
+  {
+   "word": "Ouatte-de-fuck",
+   "start": 0.082,
+   "end": 1.039
+  },
+  {
+   "word": "les",
+   "start": 1.056,
+   "end": 1.107
+  },
+  {
+   "word": "toner",
+   "start": 1.158,
+   "end": 1.446
+  },
+  {
+   "word": "pads",
+   "start": 1.487,
+   "end": 1.65
+  },
+  {
+   "word": "coréens",
+   "start": 1.701,
+   "end": 2.056
+  },
+  {
+   "word": "dès",
+   "start": 2.107,
+   "end": 2.26
+  },
+  {
+   "word": "vingt-trois",
+   "start": 2.294,
+   "end": 2.599
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 2.638,
+   "end": 3.582
+  },
+  {
+   "word": "Medicube",
+   "start": 4.204,
+   "end": 4.501
+  },
+  {
+   "word": "le",
+   "start": 4.569,
+   "end": 4.705
+  },
+  {
+   "word": "set",
+   "start": 4.756,
+   "end": 4.908
+  },
+  {
+   "word": "Mix",
+   "start": 4.959,
+   "end": 5.112
+  },
+  {
+   "word": "and",
+   "start": 5.145,
+   "end": 5.247
+  },
+  {
+   "word": "Match",
+   "start": 5.292,
+   "end": 5.586
+  },
+  {
+   "word": "avec",
+   "start": 5.627,
+   "end": 5.789
+  },
+  {
+   "word": "les",
+   "start": 5.806,
+   "end": 5.857
+  },
+  {
+   "word": "coupons",
+   "start": 5.891,
+   "end": 6.128
+  },
+  {
+   "word": "du",
+   "start": 6.151,
+   "end": 6.196
+  },
+  {
+   "word": "Black",
+   "start": 6.23,
+   "end": 6.4
+  },
+  {
+   "word": "Friday",
+   "start": 6.439,
+   "end": 6.739
+  },
+  {
+   "word": "niacinamide",
+   "start": 6.907,
+   "end": 7.63
+  },
+  {
+   "word": "vitamine",
+   "start": 7.68,
+   "end": 7.969
+  },
+  {
+   "word": "C",
+   "start": 8.07,
+   "end": 8.24
+  },
+  {
+   "word": "acide",
+   "start": 8.398,
+   "end": 8.782
+  },
+  {
+   "word": "succinique",
+   "start": 8.836,
+   "end": 9.325
+  },
+  {
+   "word": "pour",
+   "start": 9.447,
+   "end": 9.456
+  },
+  {
+   "word": "des",
+   "start": 9.507,
+   "end": 9.66
+  },
+  {
+   "word": "pores",
+   "start": 9.693,
+   "end": 9.863
+  },
+  {
+   "word": "nets",
+   "start": 9.944,
+   "end": 10.27
+  },
+  {
+   "word": "et",
+   "start": 10.293,
+   "end": 10.338
+  },
+  {
+   "word": "l'effet",
+   "start": 10.371,
+   "end": 10.71
+  },
+  {
+   "word": "glass",
+   "start": 10.738,
+   "end": 10.88
+  },
+  {
+   "word": "skin",
+   "start": 10.934,
+   "end": 11.219
+  },
+  {
+   "word": "selon",
+   "start": 11.253,
+   "end": 11.422
+  },
+  {
+   "word": "la",
+   "start": 11.445,
+   "end": 11.49
+  },
+  {
+   "word": "marque",
+   "start": 11.529,
+   "end": 11.829
+  },
+  {
+   "word": "quatre",
+   "start": 11.999,
+   "end": 12.028
+  },
+  {
+   "word": "virgule",
+   "start": 12.079,
+   "end": 12.367
+  },
+  {
+   "word": "six",
+   "start": 12.418,
+   "end": 12.571
+  },
+  {
+   "word": "étoiles",
+   "start": 12.638,
+   "end": 13.316
+  },
+  {
+   "word": "jusqu'au",
+   "start": 13.545,
+   "end": 13.723
+  },
+  {
+   "word": "trente",
+   "start": 13.74,
+   "end": 13.927
+  },
+  {
+   "word": "novembre",
+   "start": 13.972,
+   "end": 14.605
+  },
+  {
+   "word": "panier",
+   "start": 14.655,
+   "end": 14.876
+  },
+  {
+   "word": "orange",
+   "start": 14.924,
+   "end": 15.486
+  },
+  {
+   "word": "FONCE",
+   "start": 15.554,
+   "end": 15.961
+  }
+ ],
+ "durationSec": 16.118,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

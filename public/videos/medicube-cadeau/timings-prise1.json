@@ -1,0 +1,266 @@
+{
+ "words": [
+  {
+   "word": "Black",
+   "start": 0.175,
+   "end": 0.203
+  },
+  {
+   "word": "Friday",
+   "start": 0.262,
+   "end": 0.61
+  },
+  {
+   "word": "sur",
+   "start": 0.627,
+   "end": 0.678
+  },
+  {
+   "word": "Medicube",
+   "start": 0.735,
+   "end": 1.424
+  },
+  {
+   "word": "et",
+   "start": 1.447,
+   "end": 1.492
+  },
+  {
+   "word": "y",
+   "start": 1.525,
+   "end": 1.559
+  },
+  {
+   "word": "a",
+   "start": 1.627,
+   "end": 1.695
+  },
+  {
+   "word": "même",
+   "start": 1.736,
+   "end": 1.898
+  },
+  {
+   "word": "un",
+   "start": 1.921,
+   "end": 1.966
+  },
+  {
+   "word": "cadeau",
+   "start": 2.007,
+   "end": 2.271
+  },
+  {
+   "word": "offert",
+   "start": 2.297,
+   "end": 2.508
+  },
+  {
+   "word": "Les",
+   "start": 2.709,
+   "end": 2.76
+  },
+  {
+   "word": "toner",
+   "start": 2.811,
+   "end": 3.099
+  },
+  {
+   "word": "pads",
+   "start": 3.153,
+   "end": 3.37
+  },
+  {
+   "word": "coréens",
+   "start": 3.404,
+   "end": 3.913
+  },
+  {
+   "word": "le",
+   "start": 3.935,
+   "end": 3.98
+  },
+  {
+   "word": "set",
+   "start": 4.031,
+   "end": 4.184
+  },
+  {
+   "word": "Mix",
+   "start": 4.252,
+   "end": 4.455
+  },
+  {
+   "word": "and",
+   "start": 4.489,
+   "end": 4.59
+  },
+  {
+   "word": "Match",
+   "start": 4.624,
+   "end": 5.201
+  },
+  {
+   "word": "dès",
+   "start": 5.316,
+   "end": 5.336
+  },
+  {
+   "word": "vingt-trois",
+   "start": 5.438,
+   "end": 5.879
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.918,
+   "end": 6.624
+  },
+  {
+   "word": "avec",
+   "start": 6.706,
+   "end": 7.031
+  },
+  {
+   "word": "les",
+   "start": 7.065,
+   "end": 7.167
+  },
+  {
+   "word": "coupons",
+   "start": 7.201,
+   "end": 7.845
+  },
+  {
+   "word": "prix",
+   "start": 7.885,
+   "end": 8.048
+  },
+  {
+   "word": "le",
+   "start": 8.071,
+   "end": 8.116
+  },
+  {
+   "word": "plus",
+   "start": 8.157,
+   "end": 8.319
+  },
+  {
+   "word": "bas",
+   "start": 8.353,
+   "end": 8.455
+  },
+  {
+   "word": "sur",
+   "start": 8.506,
+   "end": 8.658
+  },
+  {
+   "word": "trente",
+   "start": 8.726,
+   "end": 8.997
+  },
+  {
+   "word": "jours",
+   "start": 9.042,
+   "end": 9.743
+  },
+  {
+   "word": "niacinamide",
+   "start": 9.871,
+   "end": 10.56
+  },
+  {
+   "word": "vitamine",
+   "start": 10.611,
+   "end": 10.899
+  },
+  {
+   "word": "C",
+   "start": 11.035,
+   "end": 11.374
+  },
+  {
+   "word": "acide",
+   "start": 11.441,
+   "end": 11.713
+  },
+  {
+   "word": "succinique",
+   "start": 11.767,
+   "end": 12.323
+  },
+  {
+   "word": "pour",
+   "start": 12.54,
+   "end": 12.549
+  },
+  {
+   "word": "une",
+   "start": 12.583,
+   "end": 12.685
+  },
+  {
+   "word": "peau",
+   "start": 12.708,
+   "end": 12.821
+  },
+  {
+   "word": "nette",
+   "start": 12.872,
+   "end": 13.227
+  },
+  {
+   "word": "selon",
+   "start": 13.272,
+   "end": 13.499
+  },
+  {
+   "word": "la",
+   "start": 13.522,
+   "end": 13.566
+  },
+  {
+   "word": "marque",
+   "start": 13.615,
+   "end": 14.177
+  },
+  {
+   "word": "jusqu'au",
+   "start": 14.508,
+   "end": 14.651
+  },
+  {
+   "word": "trente",
+   "start": 14.719,
+   "end": 14.99
+  },
+  {
+   "word": "novembre",
+   "start": 15.035,
+   "end": 15.668
+  },
+  {
+   "word": "panier",
+   "start": 15.702,
+   "end": 15.939
+  },
+  {
+   "word": "orange",
+   "start": 15.988,
+   "end": 16.549
+  },
+  {
+   "word": "FONCE",
+   "start": 16.617,
+   "end": 17.024
+  }
+ ],
+ "durationSec": 17.136,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

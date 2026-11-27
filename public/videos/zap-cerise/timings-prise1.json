@@ -1,0 +1,256 @@
+{
+ "words": [
+  {
+   "word": "De",
+   "start": 0.058,
+   "end": 0.068
+  },
+  {
+   "word": "la",
+   "start": 0.113,
+   "end": 0.203
+  },
+  {
+   "word": "caféine",
+   "start": 0.271,
+   "end": 0.678
+  },
+  {
+   "word": "au",
+   "start": 0.701,
+   "end": 0.746
+  },
+  {
+   "word": "goût",
+   "start": 0.769,
+   "end": 0.881
+  },
+  {
+   "word": "cerise",
+   "start": 0.949,
+   "end": 1.288
+  },
+  {
+   "word": "noire",
+   "start": 1.333,
+   "end": 1.763
+  },
+  {
+   "word": "wesh",
+   "start": 1.797,
+   "end": 2.102
+  },
+  {
+   "word": "t'as",
+   "start": 2.136,
+   "end": 2.237
+  },
+  {
+   "word": "déjà",
+   "start": 2.278,
+   "end": 2.441
+  },
+  {
+   "word": "testé",
+   "start": 2.481,
+   "end": 2.712
+  },
+  {
+   "word": "ZAP",
+   "start": 2.936,
+   "end": 3.148
+  },
+  {
+   "word": "le",
+   "start": 3.239,
+   "end": 3.419
+  },
+  {
+   "word": "sachet",
+   "start": 3.46,
+   "end": 3.758
+  },
+  {
+   "word": "sous",
+   "start": 3.772,
+   "end": 3.826
+  },
+  {
+   "word": "la",
+   "start": 3.849,
+   "end": 3.894
+  },
+  {
+   "word": "lèvre",
+   "start": 3.962,
+   "end": 4.368
+  },
+  {
+   "word": "cent",
+   "start": 4.395,
+   "end": 4.504
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.545,
+   "end": 4.911
+  },
+  {
+   "word": "de",
+   "start": 4.934,
+   "end": 4.979
+  },
+  {
+   "word": "caféine",
+   "start": 5.046,
+   "end": 5.521
+  },
+  {
+   "word": "avec",
+   "start": 5.726,
+   "end": 5.744
+  },
+  {
+   "word": "elle-théanine",
+   "start": 5.798,
+   "end": 6.422
+  },
+  {
+   "word": "et",
+   "start": 6.467,
+   "end": 6.557
+  },
+  {
+   "word": "vitamines",
+   "start": 6.608,
+   "end": 6.964
+  },
+  {
+   "word": "B",
+   "start": 7.032,
+   "end": 7.371
+  },
+  {
+   "word": "fabriqué",
+   "start": 7.405,
+   "end": 7.71
+  },
+  {
+   "word": "en",
+   "start": 7.733,
+   "end": 7.778
+  },
+  {
+   "word": "Suède",
+   "start": 7.845,
+   "end": 8.455
+  },
+  {
+   "word": "trente-six",
+   "start": 8.505,
+   "end": 8.801
+  },
+  {
+   "word": "sachets",
+   "start": 8.856,
+   "end": 9.14
+  },
+  {
+   "word": "à",
+   "start": 9.208,
+   "end": 9.276
+  },
+  {
+   "word": "dix",
+   "start": 9.344,
+   "end": 9.479
+  },
+  {
+   "word": "euros",
+   "start": 9.536,
+   "end": 9.818
+  },
+  {
+   "word": "seize",
+   "start": 9.852,
+   "end": 10.022
+  },
+  {
+   "word": "au",
+   "start": 10.089,
+   "end": 10.225
+  },
+  {
+   "word": "lieu",
+   "start": 10.252,
+   "end": 10.361
+  },
+  {
+   "word": "de",
+   "start": 10.428,
+   "end": 10.564
+  },
+  {
+   "word": "quatorze",
+   "start": 10.587,
+   "end": 10.835
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 10.864,
+   "end": 11.615
+  },
+  {
+   "word": "vingt-huit",
+   "start": 11.767,
+   "end": 12.191
+  },
+  {
+   "word": "centimes",
+   "start": 12.245,
+   "end": 12.598
+  },
+  {
+   "word": "le",
+   "start": 12.621,
+   "end": 12.666
+  },
+  {
+   "word": "sachet",
+   "start": 12.706,
+   "end": 13.276
+  },
+  {
+   "word": "livraison",
+   "start": 13.31,
+   "end": 13.683
+  },
+  {
+   "word": "gratuite",
+   "start": 13.728,
+   "end": 14.428
+  },
+  {
+   "word": "panier",
+   "start": 14.462,
+   "end": 14.7
+  },
+  {
+   "word": "orange",
+   "start": 14.748,
+   "end": 15.378
+  },
+  {
+   "word": "FONCE",
+   "start": 15.445,
+   "end": 15.852
+  }
+ ],
+ "durationSec": 16.039,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

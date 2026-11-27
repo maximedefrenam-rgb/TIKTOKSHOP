@@ -1,0 +1,251 @@
+{
+ "words": [
+  {
+   "word": "Huit",
+   "start": 0.144,
+   "end": 0.32
+  },
+  {
+   "word": "heures",
+   "start": 0.366,
+   "end": 0.64
+  },
+  {
+   "word": "de",
+   "start": 0.667,
+   "end": 0.72
+  },
+  {
+   "word": "cours",
+   "start": 0.773,
+   "end": 1.28
+  },
+  {
+   "word": "et",
+   "start": 1.307,
+   "end": 1.36
+  },
+  {
+   "word": "t'as",
+   "start": 1.4,
+   "end": 1.52
+  },
+  {
+   "word": "encore",
+   "start": 1.543,
+   "end": 1.68
+  },
+  {
+   "word": "la",
+   "start": 1.733,
+   "end": 1.84
+  },
+  {
+   "word": "salle",
+   "start": 1.88,
+   "end": 2.08
+  },
+  {
+   "word": "ce",
+   "start": 2.107,
+   "end": 2.16
+  },
+  {
+   "word": "soir",
+   "start": 2.224,
+   "end": 2.48
+  },
+  {
+   "word": "Un",
+   "start": 3.351,
+   "end": 3.364
+  },
+  {
+   "word": "sachet",
+   "start": 3.412,
+   "end": 3.764
+  },
+  {
+   "word": "ZAP",
+   "start": 3.844,
+   "end": 4.004
+  },
+  {
+   "word": "sous",
+   "start": 4.036,
+   "end": 4.164
+  },
+  {
+   "word": "la",
+   "start": 4.191,
+   "end": 4.244
+  },
+  {
+   "word": "lèvre",
+   "start": 4.284,
+   "end": 4.884
+  },
+  {
+   "word": "cent",
+   "start": 4.916,
+   "end": 5.044
+  },
+  {
+   "word": "milligrammes",
+   "start": 5.076,
+   "end": 5.524
+  },
+  {
+   "word": "de",
+   "start": 5.551,
+   "end": 5.604
+  },
+  {
+   "word": "caféine",
+   "start": 5.668,
+   "end": 6.404
+  },
+  {
+   "word": "et",
+   "start": 6.457,
+   "end": 6.564
+  },
+  {
+   "word": "t'es",
+   "start": 6.604,
+   "end": 6.724
+  },
+  {
+   "word": "dans",
+   "start": 6.74,
+   "end": 6.804
+  },
+  {
+   "word": "ta",
+   "start": 6.857,
+   "end": 6.964
+  },
+  {
+   "word": "zone",
+   "start": 7.028,
+   "end": 7.764
+  },
+  {
+   "word": "vingt-huit",
+   "start": 7.914,
+   "end": 8.244
+  },
+  {
+   "word": "centimes",
+   "start": 8.308,
+   "end": 8.644
+  },
+  {
+   "word": "le",
+   "start": 8.697,
+   "end": 8.804
+  },
+  {
+   "word": "sachet",
+   "start": 8.852,
+   "end": 9.764
+  },
+  {
+   "word": "dix",
+   "start": 9.804,
+   "end": 9.924
+  },
+  {
+   "word": "euros",
+   "start": 9.991,
+   "end": 10.324
+  },
+  {
+   "word": "seize",
+   "start": 10.351,
+   "end": 10.484
+  },
+  {
+   "word": "les",
+   "start": 10.544,
+   "end": 10.724
+  },
+  {
+   "word": "trente-six",
+   "start": 10.744,
+   "end": 11.684
+  },
+  {
+   "word": "ça",
+   "start": 11.835,
+   "end": 11.844
+  },
+  {
+   "word": "tient",
+   "start": 11.884,
+   "end": 12.084
+  },
+  {
+   "word": "dans",
+   "start": 12.1,
+   "end": 12.164
+  },
+  {
+   "word": "ta",
+   "start": 12.217,
+   "end": 12.324
+  },
+  {
+   "word": "trousse",
+   "start": 12.351,
+   "end": 13.124
+  },
+  {
+   "word": "moins",
+   "start": 13.267,
+   "end": 13.284
+  },
+  {
+   "word": "trente-deux",
+   "start": 13.344,
+   "end": 13.804
+  },
+  {
+   "word": "pour",
+   "start": 13.828,
+   "end": 13.924
+  },
+  {
+   "word": "cent",
+   "start": 13.972,
+   "end": 14.404
+  },
+  {
+   "word": "livraison",
+   "start": 14.464,
+   "end": 14.884
+  },
+  {
+   "word": "gratuite",
+   "start": 14.937,
+   "end": 15.604
+  },
+  {
+   "word": "panier",
+   "start": 15.664,
+   "end": 15.924
+  },
+  {
+   "word": "orange",
+   "start": 15.993,
+   "end": 16.644
+  },
+  {
+   "word": "FONCE",
+   "start": 16.764,
+   "end": 17.204
+  }
+ ],
+ "durationSec": 17.398,
+ "model": "eleven_v3"
+}

@@ -1,0 +1,226 @@
+{
+ "words": [
+  {
+   "word": "Lundi",
+   "start": 0.271,
+   "end": 0.407
+  },
+  {
+   "word": "six",
+   "start": 0.441,
+   "end": 0.542
+  },
+  {
+   "word": "heures",
+   "start": 0.571,
+   "end": 0.746
+  },
+  {
+   "word": "du",
+   "start": 0.769,
+   "end": 0.814
+  },
+  {
+   "word": "mat'",
+   "start": 0.864,
+   "end": 1.085
+  },
+  {
+   "word": "et",
+   "start": 1.153,
+   "end": 1.288
+  },
+  {
+   "word": "t'es",
+   "start": 1.322,
+   "end": 1.424
+  },
+  {
+   "word": "déjà",
+   "start": 1.478,
+   "end": 1.695
+  },
+  {
+   "word": "sous",
+   "start": 1.722,
+   "end": 1.831
+  },
+  {
+   "word": "pression",
+   "start": 1.864,
+   "end": 2.169
+  },
+  {
+   "word": "Nuclever",
+   "start": 2.35,
+   "end": 2.7
+  },
+  {
+   "word": "Cortisol",
+   "start": 2.74,
+   "end": 3.106
+  },
+  {
+   "word": "Manager",
+   "start": 3.157,
+   "end": 3.852
+  },
+  {
+   "word": "un",
+   "start": 3.875,
+   "end": 3.92
+  },
+  {
+   "word": "sachet",
+   "start": 3.961,
+   "end": 4.191
+  },
+  {
+   "word": "par",
+   "start": 4.225,
+   "end": 4.327
+  },
+  {
+   "word": "jour",
+   "start": 4.354,
+   "end": 4.462
+  },
+  {
+   "word": "dans",
+   "start": 4.489,
+   "end": 4.598
+  },
+  {
+   "word": "ton",
+   "start": 4.632,
+   "end": 4.733
+  },
+  {
+   "word": "eau",
+   "start": 4.767,
+   "end": 5.207
+  },
+  {
+   "word": "ashwagandha",
+   "start": 5.303,
+   "end": 5.896
+  },
+  {
+   "word": "elle-théanine",
+   "start": 5.937,
+   "end": 6.642
+  },
+  {
+   "word": "magnésium",
+   "start": 6.683,
+   "end": 7.252
+  },
+  {
+   "word": "vitamine",
+   "start": 7.286,
+   "end": 7.591
+  },
+  {
+   "word": "D",
+   "start": 7.693,
+   "end": 8.201
+  },
+  {
+   "word": "le",
+   "start": 8.322,
+   "end": 8.337
+  },
+  {
+   "word": "magnésium",
+   "start": 8.378,
+   "end": 8.811
+  },
+  {
+   "word": "contribue",
+   "start": 8.854,
+   "end": 9.218
+  },
+  {
+   "word": "à",
+   "start": 9.252,
+   "end": 9.286
+  },
+  {
+   "word": "des",
+   "start": 9.303,
+   "end": 9.354
+  },
+  {
+   "word": "fonctions",
+   "start": 9.388,
+   "end": 9.693
+  },
+  {
+   "word": "psychologiques",
+   "start": 9.727,
+   "end": 10.235
+  },
+  {
+   "word": "normales",
+   "start": 10.289,
+   "end": 10.642
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 10.877,
+   "end": 11.229
+  },
+  {
+   "word": "mille",
+   "start": 11.263,
+   "end": 11.365
+  },
+  {
+   "word": "vendus",
+   "start": 11.405,
+   "end": 11.975
+  },
+  {
+   "word": "soixante-dix",
+   "start": 12.15,
+   "end": 12.517
+  },
+  {
+   "word": "centimes",
+   "start": 12.544,
+   "end": 12.72
+  },
+  {
+   "word": "par",
+   "start": 12.754,
+   "end": 12.856
+  },
+  {
+   "word": "jour",
+   "start": 12.91,
+   "end": 13.398
+  },
+  {
+   "word": "panier",
+   "start": 13.432,
+   "end": 13.67
+  },
+  {
+   "word": "orange",
+   "start": 13.728,
+   "end": 14.348
+  },
+  {
+   "word": "FONCE",
+   "start": 14.381,
+   "end": 14.754
+  }
+ ],
+ "durationSec": 14.864,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}
