@@ -1,0 +1,251 @@
+{
+ "words": [
+  {
+   "word": "Presque",
+   "start": 0.228,
+   "end": 0.475
+  },
+  {
+   "word": "neuf",
+   "start": 0.542,
+   "end": 0.814
+  },
+  {
+   "word": "mille",
+   "start": 0.915,
+   "end": 1.085
+  },
+  {
+   "word": "vendus",
+   "start": 1.153,
+   "end": 1.966
+  },
+  {
+   "word": "quatre",
+   "start": 1.995,
+   "end": 2.169
+  },
+  {
+   "word": "virgule",
+   "start": 2.22,
+   "end": 2.441
+  },
+  {
+   "word": "cinq",
+   "start": 2.508,
+   "end": 2.644
+  },
+  {
+   "word": "étoiles",
+   "start": 2.712,
+   "end": 3.085
+  },
+  {
+   "word": "wesh",
+   "start": 3.102,
+   "end": 3.389
+  },
+  {
+   "word": "La",
+   "start": 3.569,
+   "end": 3.58
+  },
+  {
+   "word": "crème",
+   "start": 3.625,
+   "end": 3.852
+  },
+  {
+   "word": "de",
+   "start": 3.875,
+   "end": 3.919
+  },
+  {
+   "word": "riz",
+   "start": 3.953,
+   "end": 4.055
+  },
+  {
+   "word": "Nutrimea",
+   "start": 4.106,
+   "end": 4.665
+  },
+  {
+   "word": "saveur",
+   "start": 4.706,
+   "end": 4.936
+  },
+  {
+   "word": "biscuit",
+   "start": 4.991,
+   "end": 5.682
+  },
+  {
+   "word": "vingt-trois",
+   "start": 5.861,
+   "end": 6.166
+  },
+  {
+   "word": "grammes",
+   "start": 6.211,
+   "end": 6.505
+  },
+  {
+   "word": "de",
+   "start": 6.528,
+   "end": 6.573
+  },
+  {
+   "word": "glucides",
+   "start": 6.627,
+   "end": 6.98
+  },
+  {
+   "word": "par",
+   "start": 7.013,
+   "end": 7.115
+  },
+  {
+   "word": "dose",
+   "start": 7.169,
+   "end": 7.658
+  },
+  {
+   "word": "zéro",
+   "start": 7.725,
+   "end": 7.929
+  },
+  {
+   "word": "sucre",
+   "start": 7.997,
+   "end": 8.539
+  },
+  {
+   "word": "faible",
+   "start": 8.584,
+   "end": 8.81
+  },
+  {
+   "word": "en",
+   "start": 8.833,
+   "end": 8.878
+  },
+  {
+   "word": "matières",
+   "start": 8.912,
+   "end": 9.149
+  },
+  {
+   "word": "grasses",
+   "start": 9.194,
+   "end": 9.556
+  },
+  {
+   "word": "parfaite",
+   "start": 9.844,
+   "end": 10.072
+  },
+  {
+   "word": "dans",
+   "start": 10.113,
+   "end": 10.276
+  },
+  {
+   "word": "ton",
+   "start": 10.31,
+   "end": 10.411
+  },
+  {
+   "word": "shaker",
+   "start": 10.434,
+   "end": 10.75
+  },
+  {
+   "word": "de",
+   "start": 10.795,
+   "end": 10.886
+  },
+  {
+   "word": "whey",
+   "start": 10.92,
+   "end": 11.157
+  },
+  {
+   "word": "trente",
+   "start": 11.263,
+   "end": 11.412
+  },
+  {
+   "word": "euros",
+   "start": 11.456,
+   "end": 11.683
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 11.702,
+   "end": 12.157
+  },
+  {
+   "word": "au",
+   "start": 12.18,
+   "end": 12.225
+  },
+  {
+   "word": "lieu",
+   "start": 12.252,
+   "end": 12.361
+  },
+  {
+   "word": "de",
+   "start": 12.384,
+   "end": 12.428
+  },
+  {
+   "word": "trente-cinq",
+   "start": 12.445,
+   "end": 13.106
+  },
+  {
+   "word": "Black",
+   "start": 13.151,
+   "end": 13.378
+  },
+  {
+   "word": "Friday",
+   "start": 13.445,
+   "end": 13.92
+  },
+  {
+   "word": "livraison",
+   "start": 14.022,
+   "end": 14.53
+  },
+  {
+   "word": "gratuite",
+   "start": 14.583,
+   "end": 15.208
+  },
+  {
+   "word": "panier",
+   "start": 15.259,
+   "end": 15.547
+  },
+  {
+   "word": "orange",
+   "start": 15.595,
+   "end": 16.225
+  },
+  {
+   "word": "FONCE",
+   "start": 16.293,
+   "end": 16.7
+  }
+ ],
+ "durationSec": 16.875,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

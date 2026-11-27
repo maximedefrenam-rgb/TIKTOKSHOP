@@ -1,0 +1,281 @@
+{
+ "words": [
+  {
+   "word": "La",
+   "start": 0.208,
+   "end": 0.24
+  },
+  {
+   "word": "recette",
+   "start": 0.32,
+   "end": 0.72
+  },
+  {
+   "word": "du",
+   "start": 0.8,
+   "end": 0.96
+  },
+  {
+   "word": "petit-déj",
+   "start": 1.013,
+   "end": 1.52
+  },
+  {
+   "word": "de",
+   "start": 1.547,
+   "end": 1.6
+  },
+  {
+   "word": "prise",
+   "start": 1.653,
+   "end": 1.92
+  },
+  {
+   "word": "de",
+   "start": 1.973,
+   "end": 2.08
+  },
+  {
+   "word": "masse",
+   "start": 2.133,
+   "end": 2.64
+  },
+  {
+   "word": "note",
+   "start": 2.704,
+   "end": 2.96
+  },
+  {
+   "word": "bien",
+   "start": 2.992,
+   "end": 3.12
+  },
+  {
+   "word": "Cinquante",
+   "start": 4.051,
+   "end": 4.331
+  },
+  {
+   "word": "grammes",
+   "start": 4.371,
+   "end": 4.651
+  },
+  {
+   "word": "de",
+   "start": 4.704,
+   "end": 4.811
+  },
+  {
+   "word": "crème",
+   "start": 4.864,
+   "end": 5.051
+  },
+  {
+   "word": "de",
+   "start": 5.104,
+   "end": 5.211
+  },
+  {
+   "word": "riz",
+   "start": 5.251,
+   "end": 5.931
+  },
+  {
+   "word": "trente",
+   "start": 5.971,
+   "end": 6.171
+  },
+  {
+   "word": "grammes",
+   "start": 6.224,
+   "end": 6.571
+  },
+  {
+   "word": "de",
+   "start": 6.598,
+   "end": 6.651
+  },
+  {
+   "word": "whey",
+   "start": 6.691,
+   "end": 7.531
+  },
+  {
+   "word": "deux",
+   "start": 7.547,
+   "end": 7.611
+  },
+  {
+   "word": "cents",
+   "start": 7.651,
+   "end": 7.851
+  },
+  {
+   "word": "millilitres",
+   "start": 7.883,
+   "end": 8.411
+  },
+  {
+   "word": "de",
+   "start": 8.438,
+   "end": 8.491
+  },
+  {
+   "word": "lait",
+   "start": 8.544,
+   "end": 9.211
+  },
+  {
+   "word": "tu",
+   "start": 9.362,
+   "end": 9.371
+  },
+  {
+   "word": "chauffes",
+   "start": 9.428,
+   "end": 10.251
+  },
+  {
+   "word": "tu",
+   "start": 10.278,
+   "end": 10.331
+  },
+  {
+   "word": "mélanges",
+   "start": 10.384,
+   "end": 11.211
+  },
+  {
+   "word": "ça",
+   "start": 11.291,
+   "end": 11.451
+  },
+  {
+   "word": "épaissit",
+   "start": 11.531,
+   "end": 12.011
+  },
+  {
+   "word": "et",
+   "start": 12.171,
+   "end": 12.491
+  },
+  {
+   "word": "t'as",
+   "start": 12.531,
+   "end": 12.731
+  },
+  {
+   "word": "un",
+   "start": 12.758,
+   "end": 12.811
+  },
+  {
+   "word": "bol",
+   "start": 12.911,
+   "end": 13.211
+  },
+  {
+   "word": "de",
+   "start": 13.291,
+   "end": 13.451
+  },
+  {
+   "word": "malade",
+   "start": 13.551,
+   "end": 14.171
+  },
+  {
+   "word": "la",
+   "start": 14.558,
+   "end": 14.571
+  },
+  {
+   "word": "crème",
+   "start": 14.678,
+   "end": 15.051
+  },
+  {
+   "word": "de",
+   "start": 15.104,
+   "end": 15.211
+  },
+  {
+   "word": "riz",
+   "start": 15.251,
+   "end": 15.451
+  },
+  {
+   "word": "Nutrimea",
+   "start": 15.511,
+   "end": 16.091
+  },
+  {
+   "word": "saveur",
+   "start": 16.219,
+   "end": 16.811
+  },
+  {
+   "word": "biscuit",
+   "start": 16.875,
+   "end": 17.931
+  },
+  {
+   "word": "deux",
+   "start": 17.963,
+   "end": 18.091
+  },
+  {
+   "word": "kilos",
+   "start": 18.171,
+   "end": 18.491
+  },
+  {
+   "word": "à",
+   "start": 18.651,
+   "end": 18.811
+  },
+  {
+   "word": "trente",
+   "start": 18.851,
+   "end": 19.051
+  },
+  {
+   "word": "euros",
+   "start": 19.091,
+   "end": 19.291
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 19.325,
+   "end": 20.331
+  },
+  {
+   "word": "livraison",
+   "start": 20.476,
+   "end": 20.731
+  },
+  {
+   "word": "gratuite",
+   "start": 20.784,
+   "end": 21.451
+  },
+  {
+   "word": "panier",
+   "start": 21.491,
+   "end": 21.691
+  },
+  {
+   "word": "orange",
+   "start": 21.771,
+   "end": 22.491
+  },
+  {
+   "word": "FONCE",
+   "start": 22.571,
+   "end": 23.051
+  }
+ ],
+ "durationSec": 23.249,
+ "model": "eleven_v3"
+}

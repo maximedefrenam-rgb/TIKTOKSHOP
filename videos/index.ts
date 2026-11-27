@@ -113,10 +113,21 @@ import {config as l4_meelito_copine} from './meelito-copine/config';
 import {config as l4_topdon_ouatte} from './topdon-ouatte/config';
 import {config as l4_topdon_ct} from './topdon-ct/config';
 import {config as l4_topdon_airbag} from './topdon-airbag/config';
+import {config as l5_pack_winterarc} from './pack-winterarc/config';
+import {config as l5_pack_22} from './pack-22/config';
+import {config as l5_pack_144} from './pack-144/config';
+import {config as l5_pack_bulk} from './pack-bulk/config';
+import {config as l5_pack_retour} from './pack-retour/config';
+import {config as l5_riz_masse} from './riz-masse/config';
+import {config as l5_riz_winterarc} from './riz-winterarc/config';
+import {config as l5_riz_dose} from './riz-dose/config';
+import {config as l5_riz_recette} from './riz-recette/config';
+import {config as l5_riz_9000} from './riz-9000/config';
 
 export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil,
   v_creatine_coach, v_creatine_kebab, v_creatine_serie, v_zap_poubelle, v_zap_cardio, v_zap_poche, v_vitavea_fantome, v_vitavea_dubai, v_vitavea_uv, v_novoma_genoux, v_novoma_28000, v_novoma_3en1, v_lashile_casse, v_lashile_meuf, v_lashile_bonbons, v_medicube_ton_nez, v_medicube_coreenne, v_medicube_miroir, v_karacare_salaire, v_karacare_paille, v_karacare_elu, v_nuclever_oreiller, v_nuclever_stress, v_nuclever_55000,
   v_windboss_resine, v_windboss_centimes, v_topdon_voyant, v_topdon_coupons, v_granions_shaker, v_granions_athletes, v_granions_shampoing, v_granions_80cts, v_meelito_prix, v_meelito_rein,
   l2_zap_stagiaire, l2_zap_preworkout, l2_zap_sac, l2_nuclever_dimanche, l2_nuclever_gouts, l2_nuclever_55k, l2_meelito_noel, l2_meelito_masque, l2_meelito_etapes, l2_novoma_trente, l2_novoma_duo, l2_novoma_17cts, l2_topdon_occasion, l2_topdon_garagiste, l2_topdon_daron,
   l3_zap_ouatte, l3_zap_cafe_bar, l3_zap_calcul, l3_zap_seances, l3_zap_blackfriday, l3_novoma_ouatte, l3_novoma_mois, l3_novoma_58, l3_novoma_kebab, l3_novoma_28k, l3_creatine_ouatte, l3_creatine_moyenne, l3_creatine_gouts2, l3_creatine_566, l3_creatine_centdoses,
-  l4_zap_poches, l4_zap_cours, l4_zap_reunion, l4_zap_deuxboites, l4_zap_cerise, l4_novoma_gelule, l4_novoma_onze, l4_novoma_deux, l4_novoma_derniers, l4_novoma_etoiles, l4_creatine_troismois, l4_creatine_officielle, l4_creatine_series, l4_creatine_cinqgouts, l4_creatine_pote, l4_medicube_ouatte, l4_medicube_choisis, l4_medicube_avis, l4_medicube_cadeau, l4_medicube_matin, l4_nuclever_70cts, l4_nuclever_prixbas, l4_nuclever_lundi, l4_nuclever_deuxieme, l4_meelito_ouatte, l4_meelito_63k, l4_meelito_copine, l4_topdon_ouatte, l4_topdon_ct, l4_topdon_airbag];
+  l4_zap_poches, l4_zap_cours, l4_zap_reunion, l4_zap_deuxboites, l4_zap_cerise, l4_novoma_gelule, l4_novoma_onze, l4_novoma_deux, l4_novoma_derniers, l4_novoma_etoiles, l4_creatine_troismois, l4_creatine_officielle, l4_creatine_series, l4_creatine_cinqgouts, l4_creatine_pote, l4_medicube_ouatte, l4_medicube_choisis, l4_medicube_avis, l4_medicube_cadeau, l4_medicube_matin, l4_nuclever_70cts, l4_nuclever_prixbas, l4_nuclever_lundi, l4_nuclever_deuxieme, l4_meelito_ouatte, l4_meelito_63k, l4_meelito_copine, l4_topdon_ouatte, l4_topdon_ct, l4_topdon_airbag,
+  l5_pack_winterarc, l5_pack_22, l5_pack_144, l5_pack_bulk, l5_pack_retour, l5_riz_masse, l5_riz_winterarc, l5_riz_dose, l5_riz_recette, l5_riz_9000];

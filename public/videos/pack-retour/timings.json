@@ -1,0 +1,321 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.118,
+   "end": 0.136
+  },
+  {
+   "word": "pack",
+   "start": 0.203,
+   "end": 0.475
+  },
+  {
+   "word": "qui",
+   "start": 0.492,
+   "end": 0.542
+  },
+  {
+   "word": "a",
+   "start": 0.576,
+   "end": 0.61
+  },
+  {
+   "word": "fait",
+   "start": 0.651,
+   "end": 0.814
+  },
+  {
+   "word": "le",
+   "start": 0.836,
+   "end": 0.881
+  },
+  {
+   "word": "buzz",
+   "start": 0.936,
+   "end": 1.153
+  },
+  {
+   "word": "est",
+   "start": 1.22,
+   "end": 1.424
+  },
+  {
+   "word": "de",
+   "start": 1.447,
+   "end": 1.492
+  },
+  {
+   "word": "retour",
+   "start": 1.559,
+   "end": 2.034
+  },
+  {
+   "word": "selon",
+   "start": 2.068,
+   "end": 2.237
+  },
+  {
+   "word": "la",
+   "start": 2.26,
+   "end": 2.305
+  },
+  {
+   "word": "marque",
+   "start": 2.353,
+   "end": 2.644
+  },
+  {
+   "word": "Plus",
+   "start": 2.866,
+   "end": 2.921
+  },
+  {
+   "word": "de",
+   "start": 2.966,
+   "end": 3.056
+  },
+  {
+   "word": "quatre",
+   "start": 3.095,
+   "end": 3.327
+  },
+  {
+   "word": "mille",
+   "start": 3.395,
+   "end": 3.531
+  },
+  {
+   "word": "huit",
+   "start": 3.599,
+   "end": 3.768
+  },
+  {
+   "word": "cents",
+   "start": 3.785,
+   "end": 3.87
+  },
+  {
+   "word": "vendus",
+   "start": 3.924,
+   "end": 4.616
+  },
+  {
+   "word": "quatre",
+   "start": 4.635,
+   "end": 4.751
+  },
+  {
+   "word": "virgule",
+   "start": 4.802,
+   "end": 5.022
+  },
+  {
+   "word": "six",
+   "start": 5.09,
+   "end": 5.294
+  },
+  {
+   "word": "étoiles",
+   "start": 5.361,
+   "end": 6.106
+  },
+  {
+   "word": "créatine",
+   "start": 6.226,
+   "end": 6.514
+  },
+  {
+   "word": "Creapure",
+   "start": 6.565,
+   "end": 7.056
+  },
+  {
+   "word": "cinq",
+   "start": 7.09,
+   "end": 7.192
+  },
+  {
+   "word": "cents",
+   "start": 7.215,
+   "end": 7.327
+  },
+  {
+   "word": "grammes",
+   "start": 7.361,
+   "end": 7.666
+  },
+  {
+   "word": "et",
+   "start": 7.711,
+   "end": 7.802
+  },
+  {
+   "word": "collagène",
+   "start": 7.843,
+   "end": 8.209
+  },
+  {
+   "word": "marin",
+   "start": 8.254,
+   "end": 8.48
+  },
+  {
+   "word": "type",
+   "start": 8.521,
+   "end": 8.683
+  },
+  {
+   "word": "un",
+   "start": 8.751,
+   "end": 9.158
+  },
+  {
+   "word": "fabriqué",
+   "start": 9.192,
+   "end": 9.497
+  },
+  {
+   "word": "par",
+   "start": 9.531,
+   "end": 9.633
+  },
+  {
+   "word": "une",
+   "start": 9.65,
+   "end": 9.7
+  },
+  {
+   "word": "marque",
+   "start": 9.729,
+   "end": 9.904
+  },
+  {
+   "word": "française",
+   "start": 9.951,
+   "end": 10.921
+  },
+  {
+   "word": "trois",
+   "start": 11.087,
+   "end": 11.124
+  },
+  {
+   "word": "grammes",
+   "start": 11.169,
+   "end": 11.429
+  },
+  {
+   "word": "de",
+   "start": 11.44,
+   "end": 11.463
+  },
+  {
+   "word": "créatine",
+   "start": 11.531,
+   "end": 11.938
+  },
+  {
+   "word": "par",
+   "start": 11.972,
+   "end": 12.073
+  },
+  {
+   "word": "jour",
+   "start": 12.141,
+   "end": 12.412
+  },
+  {
+   "word": "augmentent",
+   "start": 12.489,
+   "end": 13.09
+  },
+  {
+   "word": "la",
+   "start": 13.135,
+   "end": 13.226
+  },
+  {
+   "word": "performance",
+   "start": 13.26,
+   "end": 13.633
+  },
+  {
+   "word": "physique",
+   "start": 13.677,
+   "end": 14.039
+  },
+  {
+   "word": "lors",
+   "start": 14.08,
+   "end": 14.243
+  },
+  {
+   "word": "d'exercices",
+   "start": 14.277,
+   "end": 14.717
+  },
+  {
+   "word": "courts",
+   "start": 14.766,
+   "end": 15.327
+  },
+  {
+   "word": "intenses",
+   "start": 15.378,
+   "end": 15.802
+  },
+  {
+   "word": "et",
+   "start": 15.893,
+   "end": 15.976
+  },
+  {
+   "word": "répétés",
+   "start": 16.044,
+   "end": 17.264
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 17.382,
+   "end": 17.739
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 17.778,
+   "end": 18.62
+  },
+  {
+   "word": "livraison",
+   "start": 18.688,
+   "end": 19.095
+  },
+  {
+   "word": "gratuite",
+   "start": 19.148,
+   "end": 19.841
+  },
+  {
+   "word": "panier",
+   "start": 19.892,
+   "end": 20.112
+  },
+  {
+   "word": "orange",
+   "start": 20.17,
+   "end": 20.858
+  },
+  {
+   "word": "FONCE",
+   "start": 20.926,
+   "end": 21.264
+  }
+ ],
+ "durationSec": 21.499,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

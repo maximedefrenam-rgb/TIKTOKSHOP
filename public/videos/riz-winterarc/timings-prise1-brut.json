@@ -1,0 +1,236 @@
+{
+ "words": [
+  {
+   "word": "Winter",
+   "start": 0.411,
+   "end": 0.48
+  },
+  {
+   "word": "arc",
+   "start": 0.56,
+   "end": 0.96
+  },
+  {
+   "word": "et",
+   "start": 1.013,
+   "end": 1.12
+  },
+  {
+   "word": "ton",
+   "start": 1.16,
+   "end": 1.28
+  },
+  {
+   "word": "petit-déj",
+   "start": 1.307,
+   "end": 1.68
+  },
+  {
+   "word": "c'est",
+   "start": 1.72,
+   "end": 1.92
+  },
+  {
+   "word": "juste",
+   "start": 1.96,
+   "end": 2.16
+  },
+  {
+   "word": "un",
+   "start": 2.213,
+   "end": 2.32
+  },
+  {
+   "word": "café",
+   "start": 2.384,
+   "end": 2.64
+  },
+  {
+   "word": "Sérieux",
+   "start": 3.32,
+   "end": 3.92
+  },
+  {
+   "word": "arrête",
+   "start": 4,
+   "end": 4.4
+  },
+  {
+   "word": "Crème",
+   "start": 5.189,
+   "end": 5.36
+  },
+  {
+   "word": "de",
+   "start": 5.387,
+   "end": 5.44
+  },
+  {
+   "word": "riz",
+   "start": 5.48,
+   "end": 5.6
+  },
+  {
+   "word": "Nutrimea",
+   "start": 5.66,
+   "end": 6.32
+  },
+  {
+   "word": "saveur",
+   "start": 6.352,
+   "end": 6.56
+  },
+  {
+   "word": "biscuit",
+   "start": 6.624,
+   "end": 7.359
+  },
+  {
+   "word": "soixante-dix-sept",
+   "start": 7.431,
+   "end": 7.921
+  },
+  {
+   "word": "pour",
+   "start": 7.968,
+   "end": 8.16
+  },
+  {
+   "word": "cent",
+   "start": 8.176,
+   "end": 8.24
+  },
+  {
+   "word": "de",
+   "start": 8.293,
+   "end": 8.4
+  },
+  {
+   "word": "glucides",
+   "start": 8.464,
+   "end": 9.12
+  },
+  {
+   "word": "zéro",
+   "start": 9.2,
+   "end": 9.44
+  },
+  {
+   "word": "sucre",
+   "start": 9.52,
+   "end": 10
+  },
+  {
+   "word": "vegan",
+   "start": 10.08,
+   "end": 10.64
+  },
+  {
+   "word": "sans",
+   "start": 10.672,
+   "end": 10.8
+  },
+  {
+   "word": "gluten",
+   "start": 10.857,
+   "end": 11.76
+  },
+  {
+   "word": "soixante-six",
+   "start": 11.907,
+   "end": 12.48
+  },
+  {
+   "word": "doses",
+   "start": 12.533,
+   "end": 12.8
+  },
+  {
+   "word": "pour",
+   "start": 12.848,
+   "end": 13.04
+  },
+  {
+   "word": "trente",
+   "start": 13.12,
+   "end": 13.44
+  },
+  {
+   "word": "euros",
+   "start": 13.493,
+   "end": 13.76
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 13.783,
+   "end": 14.242
+  },
+  {
+   "word": "moins",
+   "start": 14.929,
+   "end": 14.962
+  },
+  {
+   "word": "douze",
+   "start": 15.022,
+   "end": 15.282
+  },
+  {
+   "word": "pour",
+   "start": 15.314,
+   "end": 15.442
+  },
+  {
+   "word": "cent",
+   "start": 15.474,
+   "end": 15.602
+  },
+  {
+   "word": "pour",
+   "start": 15.634,
+   "end": 15.762
+  },
+  {
+   "word": "le",
+   "start": 15.789,
+   "end": 15.842
+  },
+  {
+   "word": "Black",
+   "start": 15.882,
+   "end": 16.082
+  },
+  {
+   "word": "Friday",
+   "start": 16.128,
+   "end": 16.642
+  },
+  {
+   "word": "livraison",
+   "start": 16.702,
+   "end": 17.122
+  },
+  {
+   "word": "gratuite",
+   "start": 17.175,
+   "end": 17.682
+  },
+  {
+   "word": "panier",
+   "start": 17.762,
+   "end": 18.162
+  },
+  {
+   "word": "orange",
+   "start": 18.219,
+   "end": 18.962
+  },
+  {
+   "word": "FONCE",
+   "start": 19.082,
+   "end": 19.602
+  }
+ ],
+ "durationSec": 19.801,
+ "model": "eleven_v3"
+}

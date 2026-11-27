@@ -1,0 +1,286 @@
+{
+ "words": [
+  {
+   "word": "Cent",
+   "start": 0.235,
+   "end": 0.289
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 0.344,
+   "end": 0.9
+  },
+  {
+   "word": "doses",
+   "start": 0.956,
+   "end": 1.239
+  },
+  {
+   "word": "de",
+   "start": 1.283,
+   "end": 1.374
+  },
+  {
+   "word": "créatine",
+   "start": 1.425,
+   "end": 1.849
+  },
+  {
+   "word": "dans",
+   "start": 1.903,
+   "end": 2.12
+  },
+  {
+   "word": "un",
+   "start": 2.211,
+   "end": 2.391
+  },
+  {
+   "word": "seul",
+   "start": 2.432,
+   "end": 2.594
+  },
+  {
+   "word": "sachet",
+   "start": 2.649,
+   "end": 3.035
+  },
+  {
+   "word": "wesh",
+   "start": 3.052,
+   "end": 3.272
+  },
+  {
+   "word": "Le",
+   "start": 3.447,
+   "end": 3.458
+  },
+  {
+   "word": "Pack",
+   "start": 3.499,
+   "end": 3.662
+  },
+  {
+   "word": "Force",
+   "start": 3.707,
+   "end": 3.933
+  },
+  {
+   "word": "Nutrimea",
+   "start": 3.984,
+   "end": 4.543
+  },
+  {
+   "word": "cinq",
+   "start": 4.78,
+   "end": 5.085
+  },
+  {
+   "word": "cents",
+   "start": 5.119,
+   "end": 5.289
+  },
+  {
+   "word": "grammes",
+   "start": 5.334,
+   "end": 5.628
+  },
+  {
+   "word": "de",
+   "start": 5.651,
+   "end": 5.696
+  },
+  {
+   "word": "Creapure",
+   "start": 5.763,
+   "end": 6.306
+  },
+  {
+   "word": "testée",
+   "start": 6.401,
+   "end": 6.848
+  },
+  {
+   "word": "antidopage",
+   "start": 6.893,
+   "end": 7.797
+  },
+  {
+   "word": "et",
+   "start": 7.858,
+   "end": 7.865
+  },
+  {
+   "word": "en",
+   "start": 7.91,
+   "end": 8.001
+  },
+  {
+   "word": "plus",
+   "start": 8.055,
+   "end": 8.611
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 8.659,
+   "end": 9.289
+  },
+  {
+   "word": "gélules",
+   "start": 9.323,
+   "end": 9.56
+  },
+  {
+   "word": "de",
+   "start": 9.583,
+   "end": 9.628
+  },
+  {
+   "word": "collagène",
+   "start": 9.682,
+   "end": 10.102
+  },
+  {
+   "word": "marin",
+   "start": 10.147,
+   "end": 10.712
+  },
+  {
+   "word": "trois",
+   "start": 10.879,
+   "end": 10.916
+  },
+  {
+   "word": "grammes",
+   "start": 10.961,
+   "end": 11.255
+  },
+  {
+   "word": "de",
+   "start": 11.278,
+   "end": 11.323
+  },
+  {
+   "word": "créatine",
+   "start": 11.373,
+   "end": 11.729
+  },
+  {
+   "word": "par",
+   "start": 11.78,
+   "end": 11.933
+  },
+  {
+   "word": "jour",
+   "start": 11.973,
+   "end": 12.136
+  },
+  {
+   "word": "augmentent",
+   "start": 12.204,
+   "end": 12.746
+  },
+  {
+   "word": "la",
+   "start": 12.769,
+   "end": 12.814
+  },
+  {
+   "word": "performance",
+   "start": 12.854,
+   "end": 13.289
+  },
+  {
+   "word": "physique",
+   "start": 13.326,
+   "end": 13.628
+  },
+  {
+   "word": "lors",
+   "start": 13.655,
+   "end": 13.763
+  },
+  {
+   "word": "d'exercices",
+   "start": 13.797,
+   "end": 14.238
+  },
+  {
+   "word": "courts",
+   "start": 14.277,
+   "end": 14.78
+  },
+  {
+   "word": "intenses",
+   "start": 14.831,
+   "end": 15.255
+  },
+  {
+   "word": "et",
+   "start": 15.346,
+   "end": 15.526
+  },
+  {
+   "word": "répétés",
+   "start": 15.571,
+   "end": 16.611
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 16.787,
+   "end": 17.085
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 17.124,
+   "end": 17.63
+  },
+  {
+   "word": "au",
+   "start": 17.698,
+   "end": 17.834
+  },
+  {
+   "word": "lieu",
+   "start": 17.847,
+   "end": 17.901
+  },
+  {
+   "word": "de",
+   "start": 17.946,
+   "end": 18.037
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 18.071,
+   "end": 18.512
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 18.531,
+   "end": 19.19
+  },
+  {
+   "word": "panier",
+   "start": 19.207,
+   "end": 19.393
+  },
+  {
+   "word": "orange",
+   "start": 19.441,
+   "end": 20.003
+  },
+  {
+   "word": "FONCE",
+   "start": 20.071,
+   "end": 20.478
+  }
+ ],
+ "durationSec": 20.715,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}
