@@ -441,7 +441,7 @@ const KIT = (r: R, from: number, n = 1) => CUT(from, [{label: 'SAVON', at: r('sa
 export const meeOuatte = variant({
   id: 'meelito-ouatte', timings: eOu, ...MEE, jacket: JACKETS[0],
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1('4,35 € LA PIÈCE\nDE SKINCARE ?!', 0, {size: 150}),
+    {kind: 'hook', from: 0, keywords: [T1('4,35 € LA PIÈCE\nDE SKINCARE ?!', 0, {size: 150, stack: true}),
       kw('prix unitaire affiché sur la fiche produit', 0.1, {y: 470, size: 36, small: true, stack: true})]},
     KIT(r, r('Le') - 0.08),
     B(r('vingt') - 0.08, [T1('21,75 €\nLE KIT', r('vingt'), {size: 190, impact: true})]),
@@ -486,7 +486,7 @@ const TPHOTO = 'videos/photos/topdon.jpg';
 export const topOuatte = variant({
   id: 'topdon-ouatte', timings: tOu, ...TOP, jacket: JACKETS[0],
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1('151 € LA VALISE DIAG\nAVEC LES COUPONS ?!', 0, {size: 120}),
+    {kind: 'hook', from: 0, keywords: [T1('151 € LA VALISE DIAG\nAVEC LES COUPONS ?!', 0, {size: 120, stack: true}),
       kw('selon les coupons disponibles', 0.1, {y: 470, size: 36, small: true, stack: true})]},
     TDEAL(r('Topdon') - 0.08, r('Topdon'), r('deux'), r('euros', 2), [kw('151,99 € AVEC LES COUPONS', r('euros', 2) + 0.3, {y: 840, size: 80, color: 'accent', stack: true})]),
     CUT(r('moteur') - 0.08, [{label: 'MOTEUR · BOÎTE', at: r('moteur')}, {label: 'AIRBAG · ABS', at: r('airbag')}, {label: "9 SERVICES D'ENTRETIEN", at: r('neuf', 2)}], 'zoom'),
