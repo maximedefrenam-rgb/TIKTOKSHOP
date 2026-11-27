@@ -160,7 +160,7 @@ export const rizDose = variant({
       keywords: [kw('CRÈME DE RIZ · 2 KG', r('Nutrimea'), {y: 380, size: 120, color: 'accent', until: r('trente') - 0.05})]},
     NUTRI(r('vingt-trois') - 0.08, [{label: '23 G DE GLUCIDES', at: r('vingt-trois')}, {label: '106 KCAL', sub: 'par dose', at: r('cent')},
       {label: '0 SUCRE', at: r('zéro')}, {label: 'SAVEUR BISCUIT', at: r('saveur')}]),
-    RDEAL(r('Black') - 0.08, r('Black'), r('jusqu'+"'"+'au'), r('trente', 2), [kw("JUSQU'AU 30/11", r('novembre'), {y: 840, size: 90, stack: true})]),
+    RDEAL(r('Black') - 0.08, r('Black'), r('Black') + 0.25, r('Friday') + 0.3, [kw("JUSQU'AU 30/11", r('novembre'), {y: 840, size: 90, stack: true})]),
     RCTA(r, r('livraison') - 0.08, [ST('LIVRAISON GRATUITE', r('livraison'), 520, {size: 100, color: 'accent'})]),
   ],
 });
