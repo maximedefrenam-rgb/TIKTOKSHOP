@@ -101,3 +101,33 @@
 | 2026-11-27 | Créatine OstroVit 300 g | Lot 3 · Idée reçue (goût de plâtre) + goûts + allégation | Ta créatine a encore un goût de plâtre ?! | v1 (creatine-gouts2) |  |  |  |
 | 2026-11-27 | Créatine OstroVit 300 g | Lot 3 · Preuve sociale (566 vendus) + prix/dose | 566 vendus, 4,5★, et tu connais pas ?! | v1 (creatine-566) |  |  |  |
 | 2026-11-27 | Créatine OstroVit 300 g | Lot 3 · Calculatrice 100 doses + allégation | 100 doses dans un seul sachet à moins de 5 balles ?! | v1 (creatine-centdoses) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 4 · Prix choc (0,28 € en poche) | Vingt-huit centimes, t'as ça au fond de tes poches ! | v1 (zap-poches) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 4 · Situation étudiant + prix/sachet | Huit heures de cours, et la salle ce soir ?! | v1 (zap-cours) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 4 · Situation taf + calcul prix | Réunion à 14 h, ton cerveau est resté au self ?! | v1 (zap-reunion) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 4 · Prix choc (2 boîtes) + comparatif expresso | Deux boîtes pour dix balles, qui a validé ce prix ?! | v1 (zap-deuxboites) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 4 · Curiosité goût + en coupe + promo | De la caféine au goût cerise noire ?! | v1 (zap-cerise) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 4 · Prix choc (< 9 cts la gélule) + promo | Même pas neuf centimes la gélule ?! | v1 (novoma-gelule) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 4 · Idée reçue (11 €) + -58 % | Tu paies encore ton collagène onze balles ?! | v1 (novoma-onze) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 4 · Simplicité (2 gélules) + prix/jour | Deux gélules par jour, et c'est tout ! | v1 (novoma-deux) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 4 · Urgence réelle (30/11) | Le collagène à -58 %, c'est bientôt fini ! | v1 (novoma-derniers) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 4 · Preuve sociale + duo livraison offerte | 4,7 étoiles, 28 000 vendus, et c'est 4,98 € ?! | v1 (novoma-etoiles) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 4 · Prix choc (3 mois) + calculatrice | Plus de trois mois de créatine pour moins de 5 balles ?! | v1 (creatine-troismois) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 4 · Confiance (boutique officielle) + prix | Boutique officielle, vérifiée par TikTok | v1 (creatine-officielle) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 4 · Allégation d'abord + prix | Courts, intenses, répétés, ça te rappelle tes séances ?! | v1 (creatine-series) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 4 · Offre -5 € dès 20 € + goûts | Les cinq goûts pour moins de vingt balles ?! | v1 (creatine-cinqgouts) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 4 · Comparatif (pote) + moyenne marché | Ton pote paie sa créatine vingt balles ?! | v1 (creatine-pote) |  |  |  |
+| 2026-11-27 | medicube Toner Pads | Lot 4 · Prix choc (dès 23,99 €) + en coupe | Ouatte-de-fuck, les toner pads coréens dès 23,99 € ?! | v1 (medicube-ouatte) |  |  |  |
+| 2026-11-27 | medicube Toner Pads | Lot 4 · Mix & Match + bénéfices fiche | Vitamine C, peeling ou zéro pore, c'est toi qui choisis ! | v1 (medicube-choisis) |  |  |  |
+| 2026-11-27 | medicube Toner Pads | Lot 4 · Preuve sociale + en coupe | Deux mille cinq cents vendus, 4,6 étoiles ! | v1 (medicube-avis) |  |  |  |
+| 2026-11-27 | medicube Toner Pads | Lot 4 · Black Friday + cadeau offert | Black Friday sur Medicube, et y a même un cadeau ! | v1 (medicube-cadeau) |  |  |  |
+| 2026-11-27 | medicube Toner Pads | Lot 4 · Routine 30 s + avis | Ta routine du matin en trente secondes ! | v1 (medicube-matin) |  |  |  |
+| 2026-11-27 | Nuclever Cortisol Manager | Lot 4 · Prix choc (0,70 €/jour) + en coupe | Soixante-dix centimes par jour, le Cortisol Manager ?! | v1 (nuclever-70cts) |  |  |  |
+| 2026-11-27 | Nuclever Cortisol Manager | Lot 4 · Prix le plus bas 2026 + calcul | Prix le plus bas de l'année sur le Cortisol Manager ! | v1 (nuclever-prixbas) |  |  |  |
+| 2026-11-27 | Nuclever Cortisol Manager | Lot 4 · Situation (lundi 6 h) + allégation | Lundi, six heures du mat', déjà sous pression ?! | v1 (nuclever-lundi) |  |  |  |
+| 2026-11-27 | Nuclever Cortisol Manager | Lot 4 · Classement + preuve sociale | Deuxième au classement des ventes, tu connais pas ?! | v1 (nuclever-deuxieme) |  |  |  |
+| 2026-11-27 | Meelito kit curcuma | Lot 4 · Prix choc (4,35 €/pièce) + kit zoom | Ouatte-de-fuck, 4,35 € la pièce de skincare ?! | v1 (meelito-ouatte) |  |  |  |
+| 2026-11-27 | Meelito kit curcuma | Lot 4 · Preuve sociale (63 000) | 63 000 personnes peuvent pas toutes avoir tort ! | v1 (meelito-63k) |  |  |  |
+| 2026-11-27 | Meelito kit curcuma | Lot 4 · Cadeau (copine) + avis | Ta copine te pique toujours ta crème ?! | v1 (meelito-copine) |  |  |  |
+| 2026-11-27 | Topdon ArtiDiag 600 S | Lot 4 · Prix choc (151 € coupons) + coupe zoom | Ouatte-de-fuck, 151 € la valise diag ?! | v1 (topdon-ouatte) |  |  |  |
+| 2026-11-27 | Topdon ArtiDiag 600 S | Lot 4 · Situation (contrôle technique) + photo | Contrôle technique dans une semaine ?! | v1 (topdon-ct) |  |  |  |
+| 2026-11-27 | Topdon ArtiDiag 600 S | Lot 4 · Problème (voyant airbag) + prix barré | Voyant airbag allumé ?! | v1 (topdon-airbag) |  |  |  |
