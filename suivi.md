@@ -3,7 +3,7 @@
 | Date | Produit | Format | Accroche | Version | Vues | Ventes | Remarques |
 |------|---------|--------|----------|---------|------|--------|-----------|
 | 2026-11-24 | Créatine OstroVit 300 g citron | Prix choc + idée reçue + en coupe | Même pas 5 centimes la dose de créatine | v1 |  |  |  |
-| 2026-11-24 | ZAP sachets énergétiques cerise noire DUO | Prix choc + comparatif café + promo | WTF 28 centimes ?! Qui a validé ce prix ?! | v1 | 10,5K | 4 (50,34 €) | meilleure vidéo ; publiée le 24/11 |
+| 2026-11-24 | ZAP sachets énergétiques cerise noire DUO | Prix choc + comparatif café + promo | WTF 28 centimes ?! Qui a validé ce prix ?! | v1 | 10,5K | 4 (50,34 €) | meilleure vidéo (chiffres au 27/11, publications depuis le mer. 25/11) |
 | 2026-11-24 | Vitavea autobronzant bêta-carotène 60 gélules | Problème trash + promo + en coupe | Arrête de te balader blanc comme un cul | v1 |  |  |  |
 | 2026-11-24 | Créatine OstroVit 300 g citron | Comparatif prix vs moyenne du marché | Si tu paies ta créatine plus de 5 centimes la dose, tu t'es fait braquer | v1 (braquage) | 2,0K | 1 (1,99 €) | vendue 1,99 € (prix fiche à revérifier) |
 | 2026-11-24 | ZAP sachets énergétiques cerise noire DUO | Idée reçue (snus) + prix + en coupe | Mais wsh, tu prends du snus maintenant ?! | v1 (pas du snus) ; v2 = « wesh » corrigé |  |  |  |
