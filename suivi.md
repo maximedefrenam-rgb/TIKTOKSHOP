@@ -86,3 +86,18 @@
 | 2026-11-26 | Topdon ArtiDiag 600 S | Lot 2 · Situation (voiture d'occasion) + photo + coupe zoom | Tu achètes une voiture d'occasion sans la scanner ?! | v1 (topdon-occasion) |  |  |  |
 | 2026-11-26 | Topdon ArtiDiag 600 S | Lot 2 · Interpellation (garagiste) + coupons | Le garagiste branche sa valise 2 minutes et il te facture ?! | v1 (topdon-garagiste) |  |  |  |
 | 2026-11-26 | Topdon ArtiDiag 600 S | Lot 2 · Cadeau de Noël (daron) + photo + prix barré | Le cadeau de Noël parfait pour ton daron ! | v1 (topdon-daron) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 3 · Prix choc (WTF 0,28 €) + promo + en coupe | Ouatte-de-fuck, 28 centimes le sachet ?! | v1 (zap-ouatte) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 3 · Idée reçue (café du coin) + prix/sachet | Tu claques encore ton fric au café du coin ?! | v1 (zap-cafe-bar) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 3 · Calcul prix ÷ sachets + en coupe + promo | Attends, on fait le calcul ensemble ! | v1 (zap-calcul) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 3 · Prix choc salle (0,28 €/séance) | 36 séances pour 10 balles, qui a validé ce prix ?! | v1 (zap-seances) |  |  |  |
+| 2026-11-27 | ZAP cerise noire DUO | Lot 3 · Black Friday -32 % + en coupe | Black Friday, ZAP à -32 %, faut pas traîner ! | v1 (zap-blackfriday) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 3 · Prix choc (WTF 4,98 €) + en coupe + urgence | Ouatte-de-fuck, le collagène marin à 4,98 € ?! | v1 (novoma-ouatte) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 3 · Prix/jour (0,17 €) + en coupe + urgence | Un mois de collagène pour moins de 5 balles ?! | v1 (novoma-mois) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 3 · -58 % prix barré + prix le plus bas 30 j | -58 % sur le collagène, t'as bien entendu ! | v1 (novoma-58) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 3 · Comparaison kebab + prix barré + en coupe | Ton kebab coûte plus cher que ton collagène du mois ! | v1 (novoma-kebab) |  |  |  |
+| 2026-11-27 | Novoma collagène marin | Lot 3 · Preuve sociale + prix barré + duo livraison offerte | 28 000 personnes ont déjà craqué ! | v1 (novoma-28k) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 3 · Prix choc (WTF < 5 cts) + en coupe + allégation | Ouatte-de-fuck, même pas 5 centimes la dose ?! | v1 (creatine-ouatte) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 3 · Comparatif moyenne du marché + allégation | 22 balles le pot de créatine en moyenne ?! | v1 (creatine-moyenne) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 3 · Idée reçue (goût de plâtre) + goûts + allégation | Ta créatine a encore un goût de plâtre ?! | v1 (creatine-gouts2) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 3 · Preuve sociale (566 vendus) + prix/dose | 566 vendus, 4,5★, et tu connais pas ?! | v1 (creatine-566) |  |  |  |
+| 2026-11-27 | Créatine OstroVit 300 g | Lot 3 · Calculatrice 100 doses + allégation | 100 doses dans un seul sachet à moins de 5 balles ?! | v1 (creatine-centdoses) |  |  |  |
