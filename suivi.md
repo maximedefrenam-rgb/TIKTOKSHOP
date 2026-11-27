@@ -3,12 +3,12 @@
 | Date | Produit | Format | Accroche | Version | Vues | Ventes | Remarques |
 |------|---------|--------|----------|---------|------|--------|-----------|
 | 2026-11-24 | Créatine OstroVit 300 g citron | Prix choc + idée reçue + en coupe | Même pas 5 centimes la dose de créatine | v1 |  |  |  |
-| 2026-11-24 | ZAP sachets énergétiques cerise noire DUO | Prix choc + comparatif café + promo | WTF 28 centimes ?! Qui a validé ce prix ?! | v1 |  |  |  |
+| 2026-11-24 | ZAP sachets énergétiques cerise noire DUO | Prix choc + comparatif café + promo | WTF 28 centimes ?! Qui a validé ce prix ?! | v1 | 10,5K | 4 (50,34 €) | meilleure vidéo ; publiée le 24/11 |
 | 2026-11-24 | Vitavea autobronzant bêta-carotène 60 gélules | Problème trash + promo + en coupe | Arrête de te balader blanc comme un cul | v1 |  |  |  |
-| 2026-11-24 | Créatine OstroVit 300 g citron | Comparatif prix vs moyenne du marché | Si tu paies ta créatine plus de 5 centimes la dose, tu t'es fait braquer | v1 (braquage) |  |  |  |
+| 2026-11-24 | Créatine OstroVit 300 g citron | Comparatif prix vs moyenne du marché | Si tu paies ta créatine plus de 5 centimes la dose, tu t'es fait braquer | v1 (braquage) | 2,0K | 1 (1,99 €) | vendue 1,99 € (prix fiche à revérifier) |
 | 2026-11-24 | ZAP sachets énergétiques cerise noire DUO | Idée reçue (snus) + prix + en coupe | Mais wsh, tu prends du snus maintenant ?! | v1 (pas du snus) ; v2 = « wesh » corrigé |  |  |  |
 | 2026-11-25 | Vitavea autobronzant bêta-carotène 60 gélules | Promo d'abord + problème + en coupe + urgence Black Friday | Promo de malade ! 6,40 € au lieu de 13,89 € | v1 (promo) |  |  |  |
-| 2026-11-25 | Novoma collagène marin 60 gélules | Prix choc + en coupe + promo + urgence | Wsh, 4,98 € ?! C'est donné | v1 (donné) ; v2 = « wesh » corrigé |  |  |  |
+| 2026-11-25 | Novoma collagène marin 60 gélules | Prix choc + en coupe + promo + urgence | Wsh, 4,98 € ?! C'est donné | v1 (donné) ; v2 = « wesh » corrigé | 496 | 1 (20,47 €) | meilleure conversion (1 vente / 500 vues) |
 | 2026-11-25 | Novoma collagène marin 60 gélules | Interpellation salle + promo + en coupe + urgence | Arrête de craquer comme un vieux parquet à chaque squat | v1 (squat) |  |  |  |
 | 2026-11-25 | ZAP sachets énergétiques cerise noire DUO | Interpellation + comparatif expresso + énergie + promo | Bordel, arrête d'être tout le temps crevé | v1 (crevé) |  |  |  |
 | 2026-11-25 | Lashilé Good Hair gummies 60 | Idée reçue (fleurs) + cadeau Noël + étude + en coupe | Arrête d'acheter des fleurs à ta meuf | v1 (fleurs) |  |  |  |
@@ -57,7 +57,7 @@
 | 2026-11-25 | Karacare Hair Boost | 3D · Elu | Élu produit de l'année 2026 et t'en as jamais entendu parler | v1 3D (Karacare-Elu-3D) |  |  |  |
 | 2026-11-25 | Créatine OstroVit 300 g | 3D · Serie | Tu lâches à la dernière série | v1 3D (Creatine-Serie-3D) |  |  |  |
 | 2026-11-25 | Créatine OstroVit 300 g | 3D · 5cts | Même pas 5 centimes la dose de créatine 😱 OstroVit 300 g micronisée à  | v1 3D (Creatine-5cts-3D) |  |  |  |
-| 2026-11-25 | Créatine OstroVit 300 g | 3D · Gouts | Ta créatine a un goût de plâtre | v1 3D (Creatine-Gouts-3D) |  |  |  |
+| 2026-11-25 | Créatine OstroVit 300 g | 3D · Gouts | Ta créatine a un goût de plâtre | v1 3D (Creatine-Gouts-3D) | 2,9K | 1 (1,99 €) | format 3D ; vendue 1,99 € (prix fiche à revérifier) |
 | 2026-11-25 | Nuclever Cortisol Manager | 3D · 3h | 3 h du mat' et tu fixes le plafond | v1 3D (Nuclever-3h-3D) |  |  |  |
 | 2026-11-25 | Nuclever Cortisol Manager | 3D · Fatigue | Crevé avant même la salle | v1 3D (Nuclever-Fatigue-3D) |  |  |  |
 | 2026-11-25 | Nuclever Cortisol Manager | 3D · Stress | Stress au taf, stress à la maison, ça suffit 😤 Cortisol Manager, 3 goû | v1 3D (Nuclever-Stress-3D) |  |  |  |
@@ -71,7 +71,7 @@
 | 2026-11-26 | Granions Gummies Cheveux 4-en-1 | Prix choc (prix/jour) + en coupe + allégations | Wesh, 80 centimes par jour pour tes cheveux ?! | v1 (granions-80cts) |  |  |  |
 | 2026-11-26 | Meelito kit curcuma 6 pièces | Prix choc (stagiaire) + en coupe + avis | 6 pièces de skincare pour 21 €, qui a validé ce prix ?! | v1 (meelito-prix) |  |  |  |
 | 2026-11-26 | Meelito kit curcuma 6 pièces | Interpellation (un rein) + prix/pièce + en coupe | Ta routine skincare te coûte un rein ?! | v1 (meelito-rein) |  |  |  |
-| 2026-11-26 | ZAP cerise noire DUO | Lot 2 · Prix choc (stagiaire) + prix/sachet + comparatif expresso | 36 sachets pour 10 balles, qui a validé ce prix ?! | v1 (zap-stagiaire) |  |  |  |
+| 2026-11-26 | ZAP cerise noire DUO | Lot 2 · Prix choc (stagiaire) + prix/sachet + comparatif expresso | 36 sachets pour 10 balles, qui a validé ce prix ?! | v1 (zap-stagiaire) | 3,5K | 1 (14,90 €) | 1er jour |
 | 2026-11-26 | ZAP cerise noire DUO | Lot 2 · Idée reçue (pré-workout) + expresso + prix/séance | Ton pré-workout, faut le doser, le shaker… | v1 (zap-preworkout) |  |  |  |
 | 2026-11-26 | ZAP cerise noire DUO | Lot 2 · Situation salle (sac) + en coupe + promo | Regarde ce qu'il y a dans mon sac de salle ! | v1 (zap-sac) |  |  |  |
 | 2026-11-26 | Nuclever Cortisol Manager | Lot 2 · Situation (dimanche soir) + en coupe + allégations | Dimanche soir, la boule au ventre pour lundi ?! | v1 (nuclever-dimanche) |  |  |  |
