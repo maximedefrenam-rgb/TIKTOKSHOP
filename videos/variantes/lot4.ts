@@ -296,7 +296,7 @@ const MED = {accent: '#FF6B5A', productImage: 'videos/medicube-points-noirs/prod
   priceTag: {text: 'DÈS 23,99 €', sub: 'AVEC COUPONS · BLACK FRIDAY'}};
 const MDEAL = (from: number, badgeAt: number, strikeAt: number, newAt: number) => ({kind: 'deal' as const, from, badge: 'BLACK FRIDAY',
   oldPrice: 29.99, newPrice: 23.99, discount: 'COUPONS', badgeAt, strikeAt, newAt,
-  keywords: [kw('dès 23,99 € avec les coupons (selon le set)', newAt, {y: 775, size: 36, small: true, stack: true})]});
+  keywords: [kw('dès 23,99 € avec les coupons (selon le set)', newAt, {y: 830, size: 36, small: true, stack: true})]});
 const MCUT = (r: R, from: number) => CUT(from, [{label: 'NIACINAMIDE', sub: '2 %', at: r('niacinamide')}, {label: 'VITAMINE C', at: r('vitamine')},
   {label: 'ACIDE SUCCINIQUE', at: r('acide')}]);
 const MAVIS = (from: number, ratingAt: number, soldAt: number) => ({kind: 'reviews' as const, from, rating: 4.6, reviews: 169, sold: 2565, ratingAt, soldAt});
