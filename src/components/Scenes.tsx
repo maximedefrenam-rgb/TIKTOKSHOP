@@ -37,9 +37,11 @@ export const PriceScene: React.FC<P<'price'>> = ({scene, cfg, offset}) => {
   const pRes = f >= rA ? sp(f, rA) : 0;
   // le prix total se barre et s'efface quand le résultat tombe
   const strike = lin(f, rA, rA + 6);
+  // pas de pastille pendant le calcul : on annule la remontée du produit (sinon il touche « LE SACHET »)
+  const lift = React.useContext(ProductLift);
   return (
     <AbsoluteFill>
-      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={640} cx={productCx(cfg, scene)} cy={1320} enterAt={s2f(scene.from)} sweeps={[rA + 2]} seed="price" />
+      <Product offset={offset} src={cfg.productImage} scale={cfg.productScale ?? 1} height={640} cx={productCx(cfg, scene)} cy={1320 + lift} enterAt={s2f(scene.from)} sweeps={[rA + 2]} seed="price" />
       <div style={{opacity: 1 - strike * 0.55}}>
         <BigText text={euro(count)} size={190} color={BRAND.colors.text} y={360} progress={pPrice} />
         <BigText text={`÷ ${scene.doses} ${scene.divLabel ?? 'DOSES'}`} size={110} color={BRAND.colors.text} y={540} progress={pDiv} />
