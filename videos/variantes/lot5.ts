@@ -175,7 +175,7 @@ export const rizRecette = variant({
       ST('ÇA ÉPAISSIT', r('épaissit'), 610, {size: 140, color: 'accent'})]),
     B(r('et') - 0.08, [T1('UN BOL\nDE MALADE 🔥', r('bol'), {size: 190, impact: true})]),
     B(r('la', 2) - 0.08, [T1('CRÈME DE RIZ\nSAVEUR BISCUIT', r('crème', 2), {size: 170})]),
-    RDEAL(r('deux', 2) - 0.08, r('deux', 2), r('trente', 2), r('trente', 2) + 0.3, [kw('2 KG · 66 DOSES', r('deux', 2), {y: 840, size: 90, stack: true})]),
+    RDEAL(r('deux', 2) - 0.08, r('deux', 2), r('deux', 2) + 0.25, r('deux', 2) + 0.6, [kw('2 KG · 66 DOSES', r('deux', 2), {y: 840, size: 90, stack: true})]),
     RCTA(r, r('livraison') - 0.08, [ST('LIVRAISON GRATUITE', r('livraison'), 520, {size: 100, color: 'accent'})]),
   ],
 });
@@ -189,7 +189,7 @@ export const riz9000 = variant({
     NUTRI(r('vingt-trois') - 0.08, [{label: '23 G DE GLUCIDES', sub: 'par dose', at: r('vingt-trois')}, {label: '0 SUCRE', at: r('zéro')},
       {label: 'FAIBLE EN MATIÈRES GRASSES', at: r('faible')}]),
     B(r('parfaite') - 0.08, [T1('DANS TON SHAKER\nDE WHEY', r('shaker'), {size: 170})]),
-    RDEAL(r('trente') - 0.08, r('trente'), r('trente-cinq'), r('trente') + 0.3),
+    RDEAL(r('trente') - 0.08, r('trente'), r('trente') + 0.25, r('trente') + 0.55),
     RCTA(r, r('Black') - 0.08, [ST('BLACK FRIDAY', r('Black'), 500, {size: 130, color: 'accent'}), ST('LIVRAISON GRATUITE', r('livraison'), 640, {size: 90})]),
   ],
 });
