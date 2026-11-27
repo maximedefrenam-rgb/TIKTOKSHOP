@@ -50,8 +50,8 @@ const PCTA = (r: R, from: number, keywords: K[] = []) => CTA(r, from, [...keywor
 export const packWinterArc = variant({
   id: 'pack-winterarc', timings: p1, ...PACK, jacket: JACKETS[0],
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1('WINTER ARC\nACTIVÉ ❄️', 0, {size: 200, stack: true}),
-      ST('ET TON PLACARD\nEST VIDE ?!', r('rien'), 600, {size: 120, color: 'alert', impact: true})]},
+    {kind: 'hook', from: 0, keywords: [T1('WINTER ARC\nACTIVÉ ❄️', 0, {size: 180, y: 290, stack: true}),
+      ST('ET TON PLACARD\nEST VIDE ?!', r('rien'), 640, {size: 120, color: 'alert', impact: true})]},
     B(r('Le') - 0.08, [T1('PACK FORCE\nNUTRIMEA', r('Pack'), {size: 180})]),
     PCUT(r('créatine') - 0.08, r('créatine'), r('collagène')),
     PDEAL(r('quarante-cinq') - 0.08, r('quarante-cinq'), r('cinquante-huit'), r('quarante-cinq') + 0.3),
@@ -88,7 +88,7 @@ export const pack144 = variant({
 export const packBulk = variant({
   id: 'pack-bulk', timings: p4, ...PACK, jacket: JACKETS[0], format: 'idee-recue',
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1("TON BULK D'HIVER\nA COMMENCÉ", 0, {size: 160, stack: true}),
+    {kind: 'hook', from: 0, keywords: [T1("TON BULK D'HIVER\nA COMMENCÉ", 0, {size: 160, y: 300, stack: true}),
       ST('ET PAS DE CRÉATINE ?!', r('toujours'), 600, {size: 120, color: 'alert', impact: true})]},
     PCUT(r('Prends') - 0.08, r('créatine', 2), r('collagène')),
     ALLEG(r, r('trois') - 0.08),
