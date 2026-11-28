@@ -182,7 +182,7 @@ export const trioPlusBas = variant({
     TDEAL(r('Trois') - 0.08, r('Trois'), r('barré'), r('quarante-quatre'), [COUP(r('trente-cinq'))]),
     T3(r('vitamine') - 0.08, r('vitamine'), r('AHA'), r('acide')),
     B(r('pour') - 0.08, [T1('PEAU NETTE', r('peau'), {size: 200, stack: true}), SELON(r('selon'), 440)]),
-    TAVIS(r('quatre') - 0.08, r('quatre') + 0.1, r('étoiles')),
+    TAVIS(r('quatre') - 0.08, r('quatre') + 0.1, r('quatre') - 0.05),
     CTA(r, r("jusqu'au") - 0.08, [["JUSQU'AU 30/11", r("jusqu'au")], ['LIVRAISON GRATUITE', r('livraison')]]),
   ],
 });
