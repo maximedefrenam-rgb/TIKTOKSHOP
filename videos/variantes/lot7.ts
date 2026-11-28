@@ -202,7 +202,7 @@ export const duoOuatte = variant({
   id: 'duo-ouatte', timings: d1, ...DUO, jacket: JACKETS[1],
   build: (r) => [
     {kind: 'hook', from: 0, keywords: [T1('LE DUO MEDICUBE\nÀ 23,99 € ?!', 0, {size: 160, stack: true}), SM('avec les coupons', 0.1, 480)]},
-    D2(r('Le') - 0.08, r('bleu'), r('rouge')),
+    D2(r('le', 2) - 0.08, r('bleu'), r('rouge')),
     B(r('pores') - 0.08, [ST('PORES NETS', r('pores'), 290, {size: 160, color: 'accent'}), ST('MOINS DE MARQUES\nPOST-IMPERFECTIONS', r('marques'), 480, {size: 85}),
       SELON(r('selon'), 590)]),
     DDEAL(r('vingt-neuf') - 0.08, r('vingt-neuf'), r('trente-sept'), r('vingt-neuf') + 0.3, [DCOUP(r('vingt-trois', 2))]),
