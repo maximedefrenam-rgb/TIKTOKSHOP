@@ -9,7 +9,12 @@ import type {Anchor, Block, SceneFn} from '../../src/lib/blocks';
 
 type K = ReturnType<typeof kw>;
 type O = Record<string, unknown>;
-const T1 = (text: string, at: number, o: O = {}) => kw(text, at, {y: text.includes('\n') ? 340 : 300, size: 140, color: 'accent', ...o});
+const T1 = (text: string, at: number, o: O = {}) => {
+  const size = (o.size as number | undefined) ?? 140;
+  // gros textes sur 2 lignes : un peu plus bas pour que le punch-in / la caméra ne les coupent pas en haut
+  const y = text.includes('\n') ? (size >= 190 ? 395 : size >= 170 ? 365 : 340) : 300;
+  return kw(text, at, {y, size: 140, color: 'accent', ...o});
+};
 const ST = (text: string, at: number, y: number, o: O = {}) => kw(text, at, {y, size: 110, stack: true, ...o});
 const SM = (text: string, at: number, y: number) => kw(text, at, {y, size: 34, small: true, stack: true});
 const B = (say: string, scene?: SceneFn): Block => ({say, scene});
