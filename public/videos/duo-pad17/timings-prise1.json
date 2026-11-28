@@ -1,0 +1,211 @@
+{
+ "words": [
+  {
+   "word": "Dix-sept",
+   "start": 0.178,
+   "end": 0.407
+  },
+  {
+   "word": "centimes",
+   "start": 0.461,
+   "end": 0.814
+  },
+  {
+   "word": "le",
+   "start": 0.836,
+   "end": 0.881
+  },
+  {
+   "word": "pad",
+   "start": 0.949,
+   "end": 1.153
+  },
+  {
+   "word": "coréen",
+   "start": 1.203,
+   "end": 1.763
+  },
+  {
+   "word": "c'est",
+   "start": 1.797,
+   "end": 1.966
+  },
+  {
+   "word": "pas",
+   "start": 2.0,
+   "end": 2.102
+  },
+  {
+   "word": "une",
+   "start": 2.119,
+   "end": 2.169
+  },
+  {
+   "word": "blague",
+   "start": 2.214,
+   "end": 2.441
+  },
+  {
+   "word": "le",
+   "start": 2.805,
+   "end": 2.85
+  },
+  {
+   "word": "duo",
+   "start": 2.867,
+   "end": 2.918
+  },
+  {
+   "word": "Medicube",
+   "start": 2.975,
+   "end": 3.799
+  },
+  {
+   "word": "cent",
+   "start": 3.827,
+   "end": 3.935
+  },
+  {
+   "word": "quarante",
+   "start": 3.976,
+   "end": 4.206
+  },
+  {
+   "word": "pads",
+   "start": 4.274,
+   "end": 4.952
+  },
+  {
+   "word": "vingt-trois",
+   "start": 5.067,
+   "end": 5.427
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.446,
+   "end": 6.038
+  },
+  {
+   "word": "avec",
+   "start": 6.066,
+   "end": 6.174
+  },
+  {
+   "word": "les",
+   "start": 6.191,
+   "end": 6.242
+  },
+  {
+   "word": "coupons",
+   "start": 6.284,
+   "end": 6.988
+  },
+  {
+   "word": "divisé",
+   "start": 7.033,
+   "end": 7.327
+  },
+  {
+   "word": "par",
+   "start": 7.36,
+   "end": 7.462
+  },
+  {
+   "word": "cent",
+   "start": 7.489,
+   "end": 7.598
+  },
+  {
+   "word": "quarante",
+   "start": 7.638,
+   "end": 8.208
+  },
+  {
+   "word": "ça",
+   "start": 8.253,
+   "end": 8.344
+  },
+  {
+   "word": "fait",
+   "start": 8.371,
+   "end": 8.479
+  },
+  {
+   "word": "dix-sept",
+   "start": 8.547,
+   "end": 8.988
+  },
+  {
+   "word": "centimes",
+   "start": 9.022,
+   "end": 9.767
+  },
+  {
+   "word": "Zero",
+   "start": 10.021,
+   "end": 10.038
+  },
+  {
+   "word": "Pore",
+   "start": 10.14,
+   "end": 10.31
+  },
+  {
+   "word": "et",
+   "start": 10.333,
+   "end": 10.377
+  },
+  {
+   "word": "Red",
+   "start": 10.428,
+   "end": 10.581
+  },
+  {
+   "word": "Peeling",
+   "start": 10.604,
+   "end": 10.988
+  },
+  {
+   "word": "Black",
+   "start": 11.255,
+   "end": 11.298
+  },
+  {
+   "word": "Friday",
+   "start": 11.346,
+   "end": 11.637
+  },
+  {
+   "word": "jusqu'à",
+   "start": 11.67,
+   "end": 11.908
+  },
+  {
+   "word": "dimanche",
+   "start": 11.959,
+   "end": 12.382
+  },
+  {
+   "word": "panier",
+   "start": 12.467,
+   "end": 12.789
+  },
+  {
+   "word": "orange",
+   "start": 12.848,
+   "end": 13.467
+  },
+  {
+   "word": "FONCE",
+   "start": 13.535,
+   "end": 13.874
+  }
+ ],
+ "durationSec": 14.054,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

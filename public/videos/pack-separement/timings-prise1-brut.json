@@ -1,0 +1,186 @@
+{
+ "words": [
+  {
+   "word": "Pourquoi",
+   "start": 0.208,
+   "end": 0.4
+  },
+  {
+   "word": "payer",
+   "start": 0.453,
+   "end": 0.72
+  },
+  {
+   "word": "la",
+   "start": 0.747,
+   "end": 0.8
+  },
+  {
+   "word": "créatine",
+   "start": 0.86,
+   "end": 1.44
+  },
+  {
+   "word": "et",
+   "start": 1.493,
+   "end": 1.6
+  },
+  {
+   "word": "le",
+   "start": 1.627,
+   "end": 1.68
+  },
+  {
+   "word": "collagène",
+   "start": 1.744,
+   "end": 2.24
+  },
+  {
+   "word": "séparément",
+   "start": 2.347,
+   "end": 2.88
+  },
+  {
+   "word": "le",
+   "start": 3.903,
+   "end": 3.921
+  },
+  {
+   "word": "Pack",
+   "start": 3.985,
+   "end": 4.241
+  },
+  {
+   "word": "Force",
+   "start": 4.321,
+   "end": 5.201
+  },
+  {
+   "word": "les",
+   "start": 5.241,
+   "end": 5.361
+  },
+  {
+   "word": "deux",
+   "start": 5.409,
+   "end": 5.601
+  },
+  {
+   "word": "pour",
+   "start": 5.681,
+   "end": 6.001
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 6.049,
+   "end": 6.561
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 6.595,
+   "end": 7.561
+  },
+  {
+   "word": "créatine",
+   "start": 8.126,
+   "end": 8.406
+  },
+  {
+   "word": "Creapure",
+   "start": 8.466,
+   "end": 9.126
+  },
+  {
+   "word": "vegan",
+   "start": 9.246,
+   "end": 10.046
+  },
+  {
+   "word": "sans",
+   "start": 10.086,
+   "end": 10.246
+  },
+  {
+   "word": "gluten",
+   "start": 10.315,
+   "end": 10.806
+  },
+  {
+   "word": "collagène",
+   "start": 11.505,
+   "end": 11.766
+  },
+  {
+   "word": "marin",
+   "start": 11.806,
+   "end": 12.006
+  },
+  {
+   "word": "type",
+   "start": 12.054,
+   "end": 12.246
+  },
+  {
+   "word": "un",
+   "start": 12.326,
+   "end": 12.686
+  },
+  {
+   "word": "sans",
+   "start": 12.726,
+   "end": 12.886
+  },
+  {
+   "word": "lactose",
+   "start": 12.934,
+   "end": 13.446
+  },
+  {
+   "word": "moins",
+   "start": 13.973,
+   "end": 14.006
+  },
+  {
+   "word": "vingt-deux",
+   "start": 14.086,
+   "end": 14.526
+  },
+  {
+   "word": "pour",
+   "start": 14.55,
+   "end": 14.646
+  },
+  {
+   "word": "cent",
+   "start": 14.694,
+   "end": 15.126
+  },
+  {
+   "word": "livraison",
+   "start": 15.166,
+   "end": 15.526
+  },
+  {
+   "word": "gratuite",
+   "start": 15.588,
+   "end": 16.326
+  },
+  {
+   "word": "panier",
+   "start": 16.366,
+   "end": 16.566
+  },
+  {
+   "word": "orange",
+   "start": 16.635,
+   "end": 17.286
+  },
+  {
+   "word": "FONCE",
+   "start": 17.366,
+   "end": 17.846
+  }
+ ],
+ "durationSec": 18.051,
+ "model": "eleven_v3"
+}

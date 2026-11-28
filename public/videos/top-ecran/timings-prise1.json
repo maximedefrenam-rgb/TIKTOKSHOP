@@ -1,0 +1,196 @@
+{
+ "words": [
+  {
+   "word": "Regarde",
+   "start": 0.173,
+   "end": 0.339
+  },
+  {
+   "word": "ce",
+   "start": 0.362,
+   "end": 0.407
+  },
+  {
+   "word": "que",
+   "start": 0.424,
+   "end": 0.475
+  },
+  {
+   "word": "t'as",
+   "start": 0.508,
+   "end": 0.61
+  },
+  {
+   "word": "sur",
+   "start": 0.644,
+   "end": 0.746
+  },
+  {
+   "word": "l'écran",
+   "start": 0.78,
+   "end": 1.085
+  },
+  {
+   "word": "wesh",
+   "start": 1.119,
+   "end": 1.356
+  },
+  {
+   "word": "codes",
+   "start": 1.555,
+   "end": 1.574
+  },
+  {
+   "word": "défaut",
+   "start": 1.625,
+   "end": 2.32
+  },
+  {
+   "word": "données",
+   "start": 2.354,
+   "end": 2.591
+  },
+  {
+   "word": "en",
+   "start": 2.625,
+   "end": 2.693
+  },
+  {
+   "word": "temps",
+   "start": 2.71,
+   "end": 2.794
+  },
+  {
+   "word": "réel",
+   "start": 2.839,
+   "end": 3.133
+  },
+  {
+   "word": "test",
+   "start": 3.255,
+   "end": 3.744
+  },
+  {
+   "word": "du",
+   "start": 3.766,
+   "end": 3.811
+  },
+  {
+   "word": "capteur",
+   "start": 3.862,
+   "end": 4.15
+  },
+  {
+   "word": "oxygène",
+   "start": 4.218,
+   "end": 5.032
+  },
+  {
+   "word": "Android",
+   "start": 5.364,
+   "end": 5.438
+  },
+  {
+   "word": "onze",
+   "start": 5.493,
+   "end": 6.184
+  },
+  {
+   "word": "écran",
+   "start": 6.218,
+   "end": 6.455
+  },
+  {
+   "word": "cinq",
+   "start": 6.523,
+   "end": 6.659
+  },
+  {
+   "word": "pouces",
+   "start": 6.71,
+   "end": 7.472
+  },
+  {
+   "word": "cent",
+   "start": 7.594,
+   "end": 7.608
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 7.647,
+   "end": 8.218
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 8.238,
+   "end": 9.099
+  },
+  {
+   "word": "moins",
+   "start": 9.133,
+   "end": 9.303
+  },
+  {
+   "word": "neuf",
+   "start": 9.371,
+   "end": 9.574
+  },
+  {
+   "word": "pour",
+   "start": 9.615,
+   "end": 9.777
+  },
+  {
+   "word": "cent",
+   "start": 9.805,
+   "end": 10.388
+  },
+  {
+   "word": "livraison",
+   "start": 10.503,
+   "end": 10.794
+  },
+  {
+   "word": "gratuite",
+   "start": 10.847,
+   "end": 11.54
+  },
+  {
+   "word": "jusqu'au",
+   "start": 11.574,
+   "end": 11.811
+  },
+  {
+   "word": "trente",
+   "start": 11.845,
+   "end": 12.015
+  },
+  {
+   "word": "novembre",
+   "start": 12.06,
+   "end": 12.693
+  },
+  {
+   "word": "panier",
+   "start": 12.744,
+   "end": 12.964
+  },
+  {
+   "word": "orange",
+   "start": 13.012,
+   "end": 13.642
+  },
+  {
+   "word": "FONCE",
+   "start": 13.777,
+   "end": 14.252
+  }
+ ],
+ "durationSec": 14.498,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

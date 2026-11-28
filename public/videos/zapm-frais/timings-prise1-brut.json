@@ -1,0 +1,176 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.147,
+   "end": 0.16
+  },
+  {
+   "word": "goût",
+   "start": 0.24,
+   "end": 0.48
+  },
+  {
+   "word": "menthe",
+   "start": 0.528,
+   "end": 0.8
+  },
+  {
+   "word": "verte",
+   "start": 0.867,
+   "end": 1.28
+  },
+  {
+   "word": "et",
+   "start": 1.467,
+   "end": 1.84
+  },
+  {
+   "word": "cent",
+   "start": 1.904,
+   "end": 2.16
+  },
+  {
+   "word": "cinquante",
+   "start": 2.22,
+   "end": 2.64
+  },
+  {
+   "word": "milligrammes",
+   "start": 2.688,
+   "end": 3.2
+  },
+  {
+   "word": "de",
+   "start": 3.227,
+   "end": 3.28
+  },
+  {
+   "word": "caféine",
+   "start": 3.36,
+   "end": 3.92
+  },
+  {
+   "word": "ZAP",
+   "start": 4.989,
+   "end": 5.12
+  },
+  {
+   "word": "fabriqué",
+   "start": 5.24,
+   "end": 5.84
+  },
+  {
+   "word": "en",
+   "start": 5.893,
+   "end": 6
+  },
+  {
+   "word": "Suède",
+   "start": 6.053,
+   "end": 6.4
+  },
+  {
+   "word": "avec",
+   "start": 6.496,
+   "end": 6.88
+  },
+  {
+   "word": "elle-théanine",
+   "start": 6.944,
+   "end": 7.68
+  },
+  {
+   "word": "et",
+   "start": 7.707,
+   "end": 7.76
+  },
+  {
+   "word": "vitamines",
+   "start": 7.82,
+   "end": 8.24
+  },
+  {
+   "word": "B",
+   "start": 8.32,
+   "end": 8.96
+  },
+  {
+   "word": "presque",
+   "start": 9.162,
+   "end": 9.36
+  },
+  {
+   "word": "deux",
+   "start": 9.424,
+   "end": 9.68
+  },
+  {
+   "word": "expressos",
+   "start": 9.75,
+   "end": 10.32
+  },
+  {
+   "word": "dans",
+   "start": 10.352,
+   "end": 10.48
+  },
+  {
+   "word": "un",
+   "start": 10.507,
+   "end": 10.56
+  },
+  {
+   "word": "sachet",
+   "start": 10.608,
+   "end": 11.04
+  },
+  {
+   "word": "quarante",
+   "start": 11.648,
+   "end": 11.84
+  },
+  {
+   "word": "centimes",
+   "start": 11.904,
+   "end": 12.24
+  },
+  {
+   "word": "le",
+   "start": 12.293,
+   "end": 12.4
+  },
+  {
+   "word": "sachet",
+   "start": 12.448,
+   "end": 13.04
+  },
+  {
+   "word": "livraison",
+   "start": 13.08,
+   "end": 13.44
+  },
+  {
+   "word": "gratuite",
+   "start": 13.502,
+   "end": 14.16
+  },
+  {
+   "word": "panier",
+   "start": 14.22,
+   "end": 14.48
+  },
+  {
+   "word": "orange",
+   "start": 14.549,
+   "end": 15.28
+  },
+  {
+   "word": "FONCE",
+   "start": 15.4,
+   "end": 15.92
+  }
+ ],
+ "durationSec": 16.118,
+ "model": "eleven_v3"
+}

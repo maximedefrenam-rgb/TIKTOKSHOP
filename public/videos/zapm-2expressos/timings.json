@@ -1,0 +1,191 @@
+{
+ "words": [
+  {
+   "word": "Deux",
+   "start": 0.175,
+   "end": 0.203
+  },
+  {
+   "word": "expressos",
+   "start": 0.271,
+   "end": 0.814
+  },
+  {
+   "word": "dans",
+   "start": 0.868,
+   "end": 1.085
+  },
+  {
+   "word": "un",
+   "start": 1.13,
+   "end": 1.22
+  },
+  {
+   "word": "seul",
+   "start": 1.275,
+   "end": 1.492
+  },
+  {
+   "word": "sachet",
+   "start": 1.546,
+   "end": 1.898
+  },
+  {
+   "word": "wesh",
+   "start": 1.932,
+   "end": 2.169
+  },
+  {
+   "word": "Le",
+   "start": 2.511,
+   "end": 2.538
+  },
+  {
+   "word": "ZAP",
+   "start": 2.559,
+   "end": 2.715
+  },
+  {
+   "word": "menthe",
+   "start": 2.755,
+   "end": 2.986
+  },
+  {
+   "word": "verte",
+   "start": 3.031,
+   "end": 3.596
+  },
+  {
+   "word": "cent",
+   "start": 3.623,
+   "end": 3.732
+  },
+  {
+   "word": "cinquante",
+   "start": 3.765,
+   "end": 4.071
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.098,
+   "end": 4.477
+  },
+  {
+   "word": "de",
+   "start": 4.5,
+   "end": 4.545
+  },
+  {
+   "word": "caféine",
+   "start": 4.613,
+   "end": 5.088
+  },
+  {
+   "word": "elle-théanine",
+   "start": 5.269,
+   "end": 5.965
+  },
+  {
+   "word": "vitamines",
+   "start": 6.016,
+   "end": 6.372
+  },
+  {
+   "word": "B",
+   "start": 6.473,
+   "end": 6.914
+  },
+  {
+   "word": "tu",
+   "start": 6.959,
+   "end": 7.05
+  },
+  {
+   "word": "le",
+   "start": 7.072,
+   "end": 7.117
+  },
+  {
+   "word": "cales",
+   "start": 7.185,
+   "end": 7.389
+  },
+  {
+   "word": "sous",
+   "start": 7.416,
+   "end": 7.524
+  },
+  {
+   "word": "la",
+   "start": 7.547,
+   "end": 7.592
+  },
+  {
+   "word": "lèvre",
+   "start": 7.626,
+   "end": 8.202
+  },
+  {
+   "word": "quarante",
+   "start": 8.316,
+   "end": 8.473
+  },
+  {
+   "word": "centimes",
+   "start": 8.528,
+   "end": 8.88
+  },
+  {
+   "word": "le",
+   "start": 8.903,
+   "end": 8.948
+  },
+  {
+   "word": "sachet",
+   "start": 8.989,
+   "end": 9.355
+  },
+  {
+   "word": "Black",
+   "start": 9.576,
+   "end": 9.619
+  },
+  {
+   "word": "Friday",
+   "start": 9.667,
+   "end": 9.958
+  },
+  {
+   "word": "jusqu'à",
+   "start": 10.003,
+   "end": 10.331
+  },
+  {
+   "word": "dimanche",
+   "start": 10.356,
+   "end": 10.975
+  },
+  {
+   "word": "panier",
+   "start": 11.008,
+   "end": 11.246
+  },
+  {
+   "word": "orange",
+   "start": 11.294,
+   "end": 11.992
+  },
+  {
+   "word": "FONCE",
+   "start": 12.025,
+   "end": 12.466
+  }
+ ],
+ "durationSec": 12.591,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

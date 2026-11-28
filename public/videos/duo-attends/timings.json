@@ -1,0 +1,186 @@
+{
+ "words": [
+  {
+   "word": "Trente-sept",
+   "start": 0.135,
+   "end": 0.463
+  },
+  {
+   "word": "cinquante",
+   "start": 0.488,
+   "end": 0.836
+  },
+  {
+   "word": "le",
+   "start": 0.881,
+   "end": 0.971
+  },
+  {
+   "word": "duo",
+   "start": 1.039,
+   "end": 1.242
+  },
+  {
+   "word": "Non",
+   "start": 1.362,
+   "end": 1.599
+  },
+  {
+   "word": "attends",
+   "start": 1.616,
+   "end": 1.735
+  },
+  {
+   "word": "moins",
+   "start": 1.94,
+   "end": 1.963
+  },
+  {
+   "word": "vingt",
+   "start": 2.031,
+   "end": 2.167
+  },
+  {
+   "word": "pour",
+   "start": 2.194,
+   "end": 2.302
+  },
+  {
+   "word": "cent",
+   "start": 2.343,
+   "end": 2.98
+  },
+  {
+   "word": "vingt-neuf",
+   "start": 3.014,
+   "end": 3.489
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 3.513,
+   "end": 4.268
+  },
+  {
+   "word": "et",
+   "start": 4.395,
+   "end": 4.406
+  },
+  {
+   "word": "vingt-trois",
+   "start": 4.508,
+   "end": 5.017
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.064,
+   "end": 5.83
+  },
+  {
+   "word": "avec",
+   "start": 5.884,
+   "end": 6.101
+  },
+  {
+   "word": "les",
+   "start": 6.135,
+   "end": 6.236
+  },
+  {
+   "word": "coupons",
+   "start": 6.27,
+   "end": 7.118
+  },
+  {
+   "word": "Zero",
+   "start": 7.43,
+   "end": 7.457
+  },
+  {
+   "word": "Pore",
+   "start": 7.524,
+   "end": 7.796
+  },
+  {
+   "word": "et",
+   "start": 7.841,
+   "end": 7.931
+  },
+  {
+   "word": "Red",
+   "start": 7.982,
+   "end": 8.135
+  },
+  {
+   "word": "Peeling",
+   "start": 8.18,
+   "end": 8.813
+  },
+  {
+   "word": "cent",
+   "start": 8.853,
+   "end": 9.016
+  },
+  {
+   "word": "quarante",
+   "start": 9.057,
+   "end": 9.287
+  },
+  {
+   "word": "pads",
+   "start": 9.355,
+   "end": 9.694
+  },
+  {
+   "word": "le",
+   "start": 9.916,
+   "end": 9.939
+  },
+  {
+   "word": "plus",
+   "start": 9.98,
+   "end": 10.142
+  },
+  {
+   "word": "bas",
+   "start": 10.21,
+   "end": 10.414
+  },
+  {
+   "word": "sur",
+   "start": 10.464,
+   "end": 10.617
+  },
+  {
+   "word": "trente",
+   "start": 10.651,
+   "end": 10.82
+  },
+  {
+   "word": "jours",
+   "start": 10.877,
+   "end": 11.43
+  },
+  {
+   "word": "panier",
+   "start": 11.481,
+   "end": 11.702
+  },
+  {
+   "word": "orange",
+   "start": 11.75,
+   "end": 12.38
+  },
+  {
+   "word": "FONCE",
+   "start": 12.447,
+   "end": 12.854
+  }
+ ],
+ "durationSec": 12.983,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 5
+ }
+}

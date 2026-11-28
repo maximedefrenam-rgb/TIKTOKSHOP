@@ -1,0 +1,211 @@
+{
+ "words": [
+  {
+   "word": "Tes",
+   "start": 0.14,
+   "end": 0.16
+  },
+  {
+   "word": "partiels",
+   "start": 0.2,
+   "end": 0.56
+  },
+  {
+   "word": "arrivent",
+   "start": 0.587,
+   "end": 0.88
+  },
+  {
+   "word": "et",
+   "start": 1.04,
+   "end": 1.36
+  },
+  {
+   "word": "t'es",
+   "start": 1.4,
+   "end": 1.6
+  },
+  {
+   "word": "à",
+   "start": 1.64,
+   "end": 1.68
+  },
+  {
+   "word": "plat",
+   "start": 1.744,
+   "end": 2
+  },
+  {
+   "word": "dès",
+   "start": 2.06,
+   "end": 2.24
+  },
+  {
+   "word": "dix",
+   "start": 2.28,
+   "end": 2.4
+  },
+  {
+   "word": "heures",
+   "start": 2.446,
+   "end": 2.72
+  },
+  {
+   "word": "Glisse",
+   "start": 3.498,
+   "end": 3.765
+  },
+  {
+   "word": "un",
+   "start": 3.792,
+   "end": 3.845
+  },
+  {
+   "word": "ZAP",
+   "start": 3.885,
+   "end": 4.085
+  },
+  {
+   "word": "menthe",
+   "start": 4.133,
+   "end": 4.405
+  },
+  {
+   "word": "sous",
+   "start": 4.437,
+   "end": 4.565
+  },
+  {
+   "word": "la",
+   "start": 4.592,
+   "end": 4.645
+  },
+  {
+   "word": "lèvre",
+   "start": 4.685,
+   "end": 5.205
+  },
+  {
+   "word": "discret",
+   "start": 5.265,
+   "end": 6.165
+  },
+  {
+   "word": "cent",
+   "start": 6.469,
+   "end": 6.485
+  },
+  {
+   "word": "cinquante",
+   "start": 6.545,
+   "end": 7.045
+  },
+  {
+   "word": "milligrammes",
+   "start": 7.093,
+   "end": 7.685
+  },
+  {
+   "word": "de",
+   "start": 7.712,
+   "end": 7.765
+  },
+  {
+   "word": "caféine",
+   "start": 7.829,
+   "end": 8.245
+  },
+  {
+   "word": "par",
+   "start": 8.285,
+   "end": 8.405
+  },
+  {
+   "word": "sachet",
+   "start": 8.469,
+   "end": 9.285
+  },
+  {
+   "word": "quatorze",
+   "start": 9.435,
+   "end": 9.806
+  },
+  {
+   "word": "trente-sept",
+   "start": 9.836,
+   "end": 10.246
+  },
+  {
+   "word": "les",
+   "start": 10.306,
+   "end": 10.486
+  },
+  {
+   "word": "trente-six",
+   "start": 10.506,
+   "end": 10.806
+  },
+  {
+   "word": "sachets",
+   "start": 10.854,
+   "end": 11.446
+  },
+  {
+   "word": "ça",
+   "start": 11.499,
+   "end": 11.606
+  },
+  {
+   "word": "fait",
+   "start": 11.654,
+   "end": 11.846
+  },
+  {
+   "word": "quarante",
+   "start": 11.894,
+   "end": 12.246
+  },
+  {
+   "word": "centimes",
+   "start": 12.31,
+   "end": 13.206
+  },
+  {
+   "word": "livraison",
+   "start": 13.342,
+   "end": 13.606
+  },
+  {
+   "word": "gratuite",
+   "start": 13.659,
+   "end": 14.166
+  },
+  {
+   "word": "jusqu'à",
+   "start": 14.259,
+   "end": 14.806
+  },
+  {
+   "word": "dimanche",
+   "start": 14.866,
+   "end": 15.366
+  },
+  {
+   "word": "panier",
+   "start": 15.466,
+   "end": 15.846
+  },
+  {
+   "word": "orange",
+   "start": 15.903,
+   "end": 16.566
+  },
+  {
+   "word": "FONCE",
+   "start": 16.646,
+   "end": 17.126
+  }
+ ],
+ "durationSec": 17.319,
+ "model": "eleven_v3"
+}

@@ -1,0 +1,176 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.125,
+   "end": 0.136
+  },
+  {
+   "word": "duo",
+   "start": 0.203,
+   "end": 0.407
+  },
+  {
+   "word": "Medicube",
+   "start": 0.464,
+   "end": 0.949
+  },
+  {
+   "word": "à",
+   "start": 1.017,
+   "end": 1.085
+  },
+  {
+   "word": "vingt-trois",
+   "start": 1.119,
+   "end": 1.425
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 1.453,
+   "end": 2.306
+  },
+  {
+   "word": "ça",
+   "start": 2.351,
+   "end": 2.442
+  },
+  {
+   "word": "s'arrête",
+   "start": 2.475,
+   "end": 2.781
+  },
+  {
+   "word": "dimanche",
+   "start": 2.814,
+   "end": 3.255
+  },
+  {
+   "word": "le",
+   "start": 3.498,
+   "end": 3.509
+  },
+  {
+   "word": "Zero",
+   "start": 3.563,
+   "end": 3.78
+  },
+  {
+   "word": "Pore",
+   "start": 3.882,
+   "end": 4.119
+  },
+  {
+   "word": "et",
+   "start": 4.164,
+   "end": 4.255
+  },
+  {
+   "word": "le",
+   "start": 4.3,
+   "end": 4.39
+  },
+  {
+   "word": "Red",
+   "start": 4.424,
+   "end": 4.526
+  },
+  {
+   "word": "Peeling",
+   "start": 4.571,
+   "end": 5.001
+  },
+  {
+   "word": "vingt-neuf",
+   "start": 5.302,
+   "end": 5.546
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.585,
+   "end": 6.359
+  },
+  {
+   "word": "au",
+   "start": 6.404,
+   "end": 6.495
+  },
+  {
+   "word": "lieu",
+   "start": 6.522,
+   "end": 6.63
+  },
+  {
+   "word": "de",
+   "start": 6.675,
+   "end": 6.766
+  },
+  {
+   "word": "trente-sept",
+   "start": 6.8,
+   "end": 7.207
+  },
+  {
+   "word": "cinquante",
+   "start": 7.232,
+   "end": 7.885
+  },
+  {
+   "word": "pores",
+   "start": 8.21,
+   "end": 8.267
+  },
+  {
+   "word": "nets",
+   "start": 8.321,
+   "end": 8.64
+  },
+  {
+   "word": "selon",
+   "start": 8.657,
+   "end": 8.742
+  },
+  {
+   "word": "la",
+   "start": 8.764,
+   "end": 8.809
+  },
+  {
+   "word": "marque",
+   "start": 8.848,
+   "end": 9.148
+  },
+  {
+   "word": "cadeau",
+   "start": 9.315,
+   "end": 9.409
+  },
+  {
+   "word": "offert",
+   "start": 9.477,
+   "end": 9.884
+  },
+  {
+   "word": "panier",
+   "start": 9.918,
+   "end": 10.155
+  },
+  {
+   "word": "orange",
+   "start": 10.204,
+   "end": 10.765
+  },
+  {
+   "word": "FONCE",
+   "start": 10.833,
+   "end": 11.24
+  }
+ ],
+ "durationSec": 11.416,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

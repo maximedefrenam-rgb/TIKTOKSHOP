@@ -148,6 +148,54 @@ import {config as l7_duo_bleurouge} from './duo-bleurouge/config';
 import {config as l7_duo_17cts} from './duo-17cts/config';
 import {config as l7_duo_pores} from './duo-pores/config';
 import {config as l7_duo_20} from './duo-20/config';
+import {config as l8_zapm_dimanche} from './zapm-dimanche/config';
+import {config as l8_zapm_2expressos} from './zapm-2expressos/config';
+import {config as l8_zapm_terrasse} from './zapm-terrasse/config';
+import {config as l8_zapm_legday} from './zapm-legday/config';
+import {config as l8_zapm_partiels} from './zapm-partiels/config';
+import {config as l8_zapm_trajet} from './zapm-trajet/config';
+import {config as l8_zapm_72} from './zapm-72/config';
+import {config as l8_zapm_frais} from './zapm-frais/config';
+import {config as l8_zapm_valide} from './zapm-valide/config';
+import {config as l8_zapm_jogging} from './zapm-jogging/config';
+import {config as l8_zapc_gout} from './zapc-gout/config';
+import {config as l8_zapc_camp} from './zapc-camp/config';
+import {config as l8_zapc_reveil} from './zapc-reveil/config';
+import {config as l8_zapc_shaker} from './zapc-shaker/config';
+import {config as l8_zapc_bureau} from './zapc-bureau/config';
+import {config as l8_zapc_ouatte} from './zapc-ouatte/config';
+import {config as l8_nuc_plusbas} from './nuc-plusbas/config';
+import {config as l8_nuc_gourde} from './nuc-gourde/config';
+import {config as l8_nuc_taf} from './nuc-taf/config';
+import {config as l8_nuc_routine} from './nuc-routine/config';
+import {config as l8_nuc_etoi} from './nuc-etoi/config';
+import {config as l8_nuc_valide} from './nuc-valide/config';
+import {config as l8_nuc_rince} from './nuc-rince/config';
+import {config as l8_nuc_enchaine} from './nuc-enchaine/config';
+import {config as l8_trio_dimanche} from './trio-dimanche/config';
+import {config as l8_trio_coreens} from './trio-coreens/config';
+import {config as l8_trio_coupons} from './trio-coupons/config';
+import {config as l8_trio_cadeau} from './trio-cadeau/config';
+import {config as l8_trio_2700} from './trio-2700/config';
+import {config as l8_duo_dimanche} from './duo-dimanche/config';
+import {config as l8_duo_pots} from './duo-pots/config';
+import {config as l8_duo_attends} from './duo-attends/config';
+import {config as l8_duo_glass} from './duo-glass/config';
+import {config as l8_duo_pad17} from './duo-pad17/config';
+import {config as l8_top_dimanche} from './top-dimanche/config';
+import {config as l8_top_efface} from './top-efface/config';
+import {config as l8_top_mainsvides} from './top-mainsvides/config';
+import {config as l8_top_hiver} from './top-hiver/config';
+import {config as l8_top_daron} from './top-daron/config';
+import {config as l8_top_valide} from './top-valide/config';
+import {config as l8_top_ecran} from './top-ecran/config';
+import {config as l8_pack_findimanche} from './pack-findimanche/config';
+import {config as l8_pack_colis} from './pack-colis/config';
+import {config as l8_pack_5880} from './pack-5880/config';
+import {config as l8_pack_stock} from './pack-stock/config';
+import {config as l8_pack_salle} from './pack-salle/config';
+import {config as l8_pack_potesalle} from './pack-potesalle/config';
+import {config as l8_pack_separement} from './pack-separement/config';
 
 export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil,
   v_creatine_coach, v_creatine_kebab, v_creatine_serie, v_zap_poubelle, v_zap_cardio, v_zap_poche, v_vitavea_fantome, v_vitavea_dubai, v_vitavea_uv, v_novoma_genoux, v_novoma_28000, v_novoma_3en1, v_lashile_casse, v_lashile_meuf, v_lashile_bonbons, v_medicube_ton_nez, v_medicube_coreenne, v_medicube_miroir, v_karacare_salaire, v_karacare_paille, v_karacare_elu, v_nuclever_oreiller, v_nuclever_stress, v_nuclever_55000,
@@ -157,4 +205,5 @@ export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAu
   l4_zap_poches, l4_zap_cours, l4_zap_reunion, l4_zap_deuxboites, l4_zap_cerise, l4_novoma_gelule, l4_novoma_onze, l4_novoma_deux, l4_novoma_derniers, l4_novoma_etoiles, l4_creatine_troismois, l4_creatine_officielle, l4_creatine_series, l4_creatine_cinqgouts, l4_creatine_pote, l4_medicube_ouatte, l4_medicube_choisis, l4_medicube_avis, l4_medicube_cadeau, l4_medicube_matin, l4_nuclever_70cts, l4_nuclever_prixbas, l4_nuclever_lundi, l4_nuclever_deuxieme, l4_meelito_ouatte, l4_meelito_63k, l4_meelito_copine, l4_topdon_ouatte, l4_topdon_ct, l4_topdon_airbag,
   l5_pack_winterarc, l5_pack_22, l5_pack_144, l5_pack_bulk, l5_pack_retour, l5_riz_masse, l5_riz_winterarc, l5_riz_dose, l5_riz_recette, l5_riz_9000,
   l6_pack_duo, l6_pack_routine, l6_pack_economie, l6_pack_placard, l6_pack_noel, l6_riz_flan, l6_riz_fromageblanc, l6_riz_croissant, l6_riz_jambes, l6_riz_gainer,
-  l7_zapm_150, l7_zapm_40cts, l7_zapm_cerise, l7_zapm_seance, l7_zapm_deux, l7_trio_ouatte, l7_trio_complete, l7_trio_210, l7_trio_noel, l7_trio_plusbas, l7_duo_ouatte, l7_duo_bleurouge, l7_duo_17cts, l7_duo_pores, l7_duo_20];
+  l7_zapm_150, l7_zapm_40cts, l7_zapm_cerise, l7_zapm_seance, l7_zapm_deux, l7_trio_ouatte, l7_trio_complete, l7_trio_210, l7_trio_noel, l7_trio_plusbas, l7_duo_ouatte, l7_duo_bleurouge, l7_duo_17cts, l7_duo_pores, l7_duo_20,
+  l8_zapm_dimanche, l8_zapm_2expressos, l8_zapm_terrasse, l8_zapm_legday, l8_zapm_partiels, l8_zapm_trajet, l8_zapm_72, l8_zapm_frais, l8_zapm_valide, l8_zapm_jogging, l8_zapc_gout, l8_zapc_camp, l8_zapc_reveil, l8_zapc_shaker, l8_zapc_bureau, l8_zapc_ouatte, l8_nuc_plusbas, l8_nuc_gourde, l8_nuc_taf, l8_nuc_routine, l8_nuc_etoi, l8_nuc_valide, l8_nuc_rince, l8_nuc_enchaine, l8_trio_dimanche, l8_trio_coreens, l8_trio_coupons, l8_trio_cadeau, l8_trio_2700, l8_duo_dimanche, l8_duo_pots, l8_duo_attends, l8_duo_glass, l8_duo_pad17, l8_top_dimanche, l8_top_efface, l8_top_mainsvides, l8_top_hiver, l8_top_daron, l8_top_valide, l8_top_ecran, l8_pack_findimanche, l8_pack_colis, l8_pack_5880, l8_pack_stock, l8_pack_salle, l8_pack_potesalle, l8_pack_separement];

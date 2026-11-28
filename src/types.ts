@@ -134,6 +134,8 @@ export type VideoConfig = {
   autoSfx?: boolean;
   /** échelle du produit (ex. 0.72 pour une boîte ronde, plus large qu'un sachet) */
   productScale?: number;
+  /** intensité du mouvement dans les plans (1 = normal ; 1,6–2 pour les objets larges qui « font diaporama ») */
+  motion?: number;
   /** pastille de prix permanente près du produit (prix de la fiche uniquement) */
   priceTag?: {text: string; sub?: string; hideIn?: Scene['kind'][]};
   /** le présentateur (absent = vidéo sans personnage) */

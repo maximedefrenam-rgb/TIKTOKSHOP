@@ -1,0 +1,171 @@
+{
+ "words": [
+  {
+   "word": "Ouatte-de-fuck",
+   "start": 0.144,
+   "end": 1.36
+  },
+  {
+   "word": "cent",
+   "start": 1.392,
+   "end": 1.52
+  },
+  {
+   "word": "milligrammes",
+   "start": 1.552,
+   "end": 2
+  },
+  {
+   "word": "de",
+   "start": 2.027,
+   "end": 2.08
+  },
+  {
+   "word": "caféine",
+   "start": 2.144,
+   "end": 2.56
+  },
+  {
+   "word": "au",
+   "start": 2.587,
+   "end": 2.64
+  },
+  {
+   "word": "goût",
+   "start": 2.667,
+   "end": 2.8
+  },
+  {
+   "word": "cerise",
+   "start": 2.88,
+   "end": 3.44
+  },
+  {
+   "word": "ZAP",
+   "start": 4.305,
+   "end": 4.645
+  },
+  {
+   "word": "le",
+   "start": 4.725,
+   "end": 4.885
+  },
+  {
+   "word": "duo",
+   "start": 4.985,
+   "end": 5.605
+  },
+  {
+   "word": "deux",
+   "start": 5.669,
+   "end": 5.925
+  },
+  {
+   "word": "boîtes",
+   "start": 5.978,
+   "end": 6.405
+  },
+  {
+   "word": "de",
+   "start": 6.432,
+   "end": 6.485
+  },
+  {
+   "word": "dix-huit",
+   "start": 6.565,
+   "end": 6.885
+  },
+  {
+   "word": "sachets",
+   "start": 6.949,
+   "end": 7.445
+  },
+  {
+   "word": "plus",
+   "start": 8.117,
+   "end": 8.165
+  },
+  {
+   "word": "qu'un",
+   "start": 8.192,
+   "end": 8.325
+  },
+  {
+   "word": "expresso",
+   "start": 8.385,
+   "end": 8.965
+  },
+  {
+   "word": "dans",
+   "start": 8.997,
+   "end": 9.125
+  },
+  {
+   "word": "chaque",
+   "start": 9.171,
+   "end": 9.445
+  },
+  {
+   "word": "sachet",
+   "start": 9.493,
+   "end": 10.325
+  },
+  {
+   "word": "fabriqué",
+   "start": 10.475,
+   "end": 10.725
+  },
+  {
+   "word": "en",
+   "start": 10.778,
+   "end": 10.885
+  },
+  {
+   "word": "Suède",
+   "start": 10.938,
+   "end": 11.685
+  },
+  {
+   "word": "elle-théanine",
+   "start": 11.717,
+   "end": 12.645
+  },
+  {
+   "word": "vitamines",
+   "start": 12.685,
+   "end": 13.125
+  },
+  {
+   "word": "B",
+   "start": 13.245,
+   "end": 13.445
+  },
+  {
+   "word": "cerise",
+   "start": 14.135,
+   "end": 14.325
+  },
+  {
+   "word": "noire",
+   "start": 14.378,
+   "end": 14.805
+  },
+  {
+   "word": "panier",
+   "start": 14.865,
+   "end": 15.125
+  },
+  {
+   "word": "orange",
+   "start": 15.205,
+   "end": 16.085
+  },
+  {
+   "word": "FONCE",
+   "start": 16.165,
+   "end": 16.725
+  }
+ ],
+ "durationSec": 16.849,
+ "model": "eleven_v3"
+}

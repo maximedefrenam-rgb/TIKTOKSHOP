@@ -1,0 +1,176 @@
+{
+ "words": [
+  {
+   "word": "Ta",
+   "start": 0.058,
+   "end": 0.068
+  },
+  {
+   "word": "pré-séance",
+   "start": 0.119,
+   "end": 0.746
+  },
+  {
+   "word": "tient",
+   "start": 0.881,
+   "end": 1.153
+  },
+  {
+   "word": "dans",
+   "start": 1.18,
+   "end": 1.288
+  },
+  {
+   "word": "ta",
+   "start": 1.356,
+   "end": 1.492
+  },
+  {
+   "word": "poche",
+   "start": 1.536,
+   "end": 1.695
+  },
+  {
+   "word": "de",
+   "start": 1.718,
+   "end": 1.763
+  },
+  {
+   "word": "jogging",
+   "start": 1.814,
+   "end": 2.169
+  },
+  {
+   "word": "un",
+   "start": 2.412,
+   "end": 2.418
+  },
+  {
+   "word": "sachet",
+   "start": 2.459,
+   "end": 2.757
+  },
+  {
+   "word": "ZAP",
+   "start": 2.791,
+   "end": 2.961
+  },
+  {
+   "word": "menthe",
+   "start": 2.988,
+   "end": 3.503
+  },
+  {
+   "word": "cent",
+   "start": 3.544,
+   "end": 3.707
+  },
+  {
+   "word": "cinquante",
+   "start": 3.723,
+   "end": 3.91
+  },
+  {
+   "word": "milligrammes",
+   "start": 3.937,
+   "end": 4.317
+  },
+  {
+   "word": "de",
+   "start": 4.34,
+   "end": 4.384
+  },
+  {
+   "word": "caféine",
+   "start": 4.439,
+   "end": 5.13
+  },
+  {
+   "word": "zéro",
+   "start": 5.373,
+   "end": 5.401
+  },
+  {
+   "word": "shaker",
+   "start": 5.446,
+   "end": 6.079
+  },
+  {
+   "word": "zéro",
+   "start": 6.147,
+   "end": 6.283
+  },
+  {
+   "word": "poudre",
+   "start": 6.351,
+   "end": 6.622
+  },
+  {
+   "word": "partout",
+   "start": 6.69,
+   "end": 7.096
+  },
+  {
+   "word": "quarante",
+   "start": 7.227,
+   "end": 7.416
+  },
+  {
+   "word": "centimes",
+   "start": 7.471,
+   "end": 7.823
+  },
+  {
+   "word": "la",
+   "start": 7.846,
+   "end": 7.891
+  },
+  {
+   "word": "séance",
+   "start": 7.959,
+   "end": 8.637
+  },
+  {
+   "word": "livraison",
+   "start": 8.744,
+   "end": 9.117
+  },
+  {
+   "word": "gratuite",
+   "start": 9.177,
+   "end": 9.863
+  },
+  {
+   "word": "jusqu'à",
+   "start": 9.897,
+   "end": 10.134
+  },
+  {
+   "word": "dimanche",
+   "start": 10.168,
+   "end": 10.541
+  },
+  {
+   "word": "panier",
+   "start": 10.643,
+   "end": 11.083
+  },
+  {
+   "word": "orange",
+   "start": 11.132,
+   "end": 11.761
+  },
+  {
+   "word": "FONCE",
+   "start": 11.829,
+   "end": 12.304
+  }
+ ],
+ "durationSec": 12.408,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

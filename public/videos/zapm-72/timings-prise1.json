@@ -1,0 +1,181 @@
+{
+ "words": [
+  {
+   "word": "Astuce",
+   "start": 0.199,
+   "end": 0.699
+  },
+  {
+   "word": "prends",
+   "start": 0.732,
+   "end": 1.038
+  },
+  {
+   "word": "deux",
+   "start": 1.051,
+   "end": 1.105
+  },
+  {
+   "word": "duos",
+   "start": 1.196,
+   "end": 1.444
+  },
+  {
+   "word": "ZAP",
+   "start": 1.512,
+   "end": 1.716
+  },
+  {
+   "word": "menthe",
+   "start": 1.756,
+   "end": 2.055
+  },
+  {
+   "word": "au-delà",
+   "start": 2.166,
+   "end": 2.446
+  },
+  {
+   "word": "de",
+   "start": 2.469,
+   "end": 2.514
+  },
+  {
+   "word": "vingt-cinq",
+   "start": 2.548,
+   "end": 2.853
+  },
+  {
+   "word": "euros",
+   "start": 2.898,
+   "end": 3.395
+  },
+  {
+   "word": "c'est",
+   "start": 3.429,
+   "end": 3.599
+  },
+  {
+   "word": "moins",
+   "start": 3.633,
+   "end": 3.802
+  },
+  {
+   "word": "vingt",
+   "start": 3.836,
+   "end": 3.938
+  },
+  {
+   "word": "pour",
+   "start": 3.965,
+   "end": 4.073
+  },
+  {
+   "word": "cent",
+   "start": 4.114,
+   "end": 4.683
+  },
+  {
+   "word": "soixante-douze",
+   "start": 4.808,
+   "end": 5.294
+  },
+  {
+   "word": "sachets",
+   "start": 5.348,
+   "end": 5.7
+  },
+  {
+   "word": "pour",
+   "start": 5.727,
+   "end": 5.836
+  },
+  {
+   "word": "environ",
+   "start": 5.878,
+   "end": 6.175
+  },
+  {
+   "word": "vingt-trois",
+   "start": 6.243,
+   "end": 6.582
+  },
+  {
+   "word": "euros",
+   "start": 6.639,
+   "end": 7.26
+  },
+  {
+   "word": "cent",
+   "start": 7.454,
+   "end": 7.463
+  },
+  {
+   "word": "cinquante",
+   "start": 7.497,
+   "end": 7.802
+  },
+  {
+   "word": "milligrammes",
+   "start": 7.843,
+   "end": 8.277
+  },
+  {
+   "word": "de",
+   "start": 8.3,
+   "end": 8.344
+  },
+  {
+   "word": "caféine",
+   "start": 8.399,
+   "end": 8.683
+  },
+  {
+   "word": "chacun",
+   "start": 8.738,
+   "end": 9.361
+  },
+  {
+   "word": "jusqu'à",
+   "start": 9.553,
+   "end": 9.739
+  },
+  {
+   "word": "dimanche",
+   "start": 9.765,
+   "end": 9.977
+  },
+  {
+   "word": "trente",
+   "start": 10.011,
+   "end": 10.18
+  },
+  {
+   "word": "novembre",
+   "start": 10.225,
+   "end": 10.926
+  },
+  {
+   "word": "panier",
+   "start": 10.96,
+   "end": 11.129
+  },
+  {
+   "word": "orange",
+   "start": 11.177,
+   "end": 11.739
+  },
+  {
+   "word": "FONCE",
+   "start": 11.807,
+   "end": 12.146
+  }
+ ],
+ "durationSec": 12.33,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

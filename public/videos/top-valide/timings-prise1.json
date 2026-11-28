@@ -1,0 +1,226 @@
+{
+ "words": [
+  {
+   "word": "Cent",
+   "start": 0.167,
+   "end": 0.203
+  },
+  {
+   "word": "cinquante",
+   "start": 0.254,
+   "end": 0.746
+  },
+  {
+   "word": "et",
+   "start": 0.769,
+   "end": 0.814
+  },
+  {
+   "word": "un",
+   "start": 0.858,
+   "end": 0.949
+  },
+  {
+   "word": "euros",
+   "start": 1.006,
+   "end": 1.288
+  },
+  {
+   "word": "la",
+   "start": 1.333,
+   "end": 1.424
+  },
+  {
+   "word": "valise",
+   "start": 1.458,
+   "end": 1.695
+  },
+  {
+   "word": "diag",
+   "start": 1.763,
+   "end": 2.237
+  },
+  {
+   "word": "mais",
+   "start": 2.278,
+   "end": 2.441
+  },
+  {
+   "word": "qui",
+   "start": 2.475,
+   "end": 2.576
+  },
+  {
+   "word": "a",
+   "start": 2.644,
+   "end": 2.712
+  },
+  {
+   "word": "validé",
+   "start": 2.757,
+   "end": 3.051
+  },
+  {
+   "word": "Topdon",
+   "start": 3.308,
+   "end": 3.482
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 3.532,
+   "end": 3.956
+  },
+  {
+   "word": "six",
+   "start": 4.007,
+   "end": 4.16
+  },
+  {
+   "word": "cents",
+   "start": 4.193,
+   "end": 4.363
+  },
+  {
+   "word": "S",
+   "start": 4.499,
+   "end": 4.702
+  },
+  {
+   "word": "normalement",
+   "start": 4.797,
+   "end": 5.38
+  },
+  {
+   "word": "deux",
+   "start": 5.407,
+   "end": 5.515
+  },
+  {
+   "word": "cent",
+   "start": 5.543,
+   "end": 5.651
+  },
+  {
+   "word": "neuf",
+   "start": 5.696,
+   "end": 6.126
+  },
+  {
+   "word": "et",
+   "start": 6.446,
+   "end": 6.537
+  },
+  {
+   "word": "avec",
+   "start": 6.564,
+   "end": 6.672
+  },
+  {
+   "word": "les",
+   "start": 6.689,
+   "end": 6.74
+  },
+  {
+   "word": "coupons",
+   "start": 6.774,
+   "end": 7.35
+  },
+  {
+   "word": "cent",
+   "start": 7.404,
+   "end": 7.621
+  },
+  {
+   "word": "cinquante",
+   "start": 7.689,
+   "end": 8.164
+  },
+  {
+   "word": "et",
+   "start": 8.209,
+   "end": 8.299
+  },
+  {
+   "word": "un",
+   "start": 8.322,
+   "end": 8.367
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 8.406,
+   "end": 9.35
+  },
+  {
+   "word": "mises",
+   "start": 9.649,
+   "end": 9.728
+  },
+  {
+   "word": "à",
+   "start": 9.762,
+   "end": 9.796
+  },
+  {
+   "word": "jour",
+   "start": 9.837,
+   "end": 9.999
+  },
+  {
+   "word": "gratuites",
+   "start": 10.04,
+   "end": 10.406
+  },
+  {
+   "word": "à",
+   "start": 10.44,
+   "end": 10.474
+  },
+  {
+   "word": "vie",
+   "start": 10.508,
+   "end": 10.677
+  },
+  {
+   "word": "Black",
+   "start": 10.863,
+   "end": 10.901
+  },
+  {
+   "word": "Friday",
+   "start": 10.949,
+   "end": 11.24
+  },
+  {
+   "word": "jusqu'au",
+   "start": 11.274,
+   "end": 11.613
+  },
+  {
+   "word": "trente",
+   "start": 11.638,
+   "end": 12.189
+  },
+  {
+   "word": "panier",
+   "start": 12.223,
+   "end": 12.46
+  },
+  {
+   "word": "orange",
+   "start": 12.518,
+   "end": 13.138
+  },
+  {
+   "word": "FONCE",
+   "start": 13.172,
+   "end": 13.545
+  }
+ ],
+ "durationSec": 13.662,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

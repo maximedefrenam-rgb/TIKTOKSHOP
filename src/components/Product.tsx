@@ -2,6 +2,7 @@ import React from 'react';
 import {Img, staticFile, useCurrentFrame} from 'remotion';
 import {noise2D} from '@remotion/noise';
 import {sp, lin, easeOut} from '../lib/anim';
+import {MotionBoost} from './Camera';
 
 type Props = {
   src: string;
@@ -37,15 +38,16 @@ export const Product: React.FC<Props> = ({
 }) => {
   const frame = useCurrentFrame() + offset;
   const lift = React.useContext(ProductLift);
+  const m = React.useContext(MotionBoost);
   const t = frame / 30;
   const n1 = noise2D(seed + 'ry', t * 0.35, 0);
   const n2 = noise2D(seed + 'y', t * 0.45, 3);
   const n3 = noise2D(seed + 'rz', t * 0.3, 7);
   const rotY = Math.max(-12, Math.min(12, n1 * 13));
-  const floatY = n2 * 22;
-  const floatX = 16 * noise2D(seed + 'x', t * 0.32, 11);
-  const breathe = 1 + 0.025 * noise2D(seed + 'b', t * 0.4, 13);
-  const rotZ = n3 * 2.2;
+  const floatY = n2 * 22 * m;
+  const floatX = 16 * m * noise2D(seed + 'x', t * 0.32 * m, 11);
+  const breathe = 1 + 0.025 * m * noise2D(seed + 'b', t * 0.4 * m, 13);
+  const rotZ = n3 * 2.2 * m;
 
   const e = enter === 'none' ? 1 : sp(frame, enterAt);
   const enterScale = enter === 'slam' ? 1.9 - 0.9 * e : 0.55 + 0.45 * e;

@@ -2,7 +2,7 @@ import React from 'react';
 import {AbsoluteFill, Sequence, useCurrentFrame, useVideoConfig} from 'remotion';
 import {BRAND} from '../brand';
 import {Background, Grain} from '../components/Background';
-import {CameraShake, PunchIn, SceneWrap, type TransitionKind} from '../components/Camera';
+import {CameraShake, MotionBoost, PunchIn, SceneWrap, type TransitionKind} from '../components/Camera';
 import {AudioLayer} from '../components/AudioLayer';
 import {Character} from '../components/Character';
 import {ProductLift} from '../components/Product';
@@ -46,6 +46,7 @@ export const ShopVideo: React.FC<{config: VideoConfig}> = ({config: cfg}) => {
   const T = BRAND.transitionFrames;
   const half = Math.floor(T / 2);
   return (
+    <MotionBoost.Provider value={cfg.motion ?? 1}>
     <ProductLift.Provider value={cfg.priceTag ? 75 : 0}>
     <AbsoluteFill style={{backgroundColor: BRAND.colors.bg, overflow: 'hidden'}}>
       <Background accent={cfg.accent} />
@@ -74,6 +75,7 @@ export const ShopVideo: React.FC<{config: VideoConfig}> = ({config: cfg}) => {
       <AudioLayer cfg={cfg} durationInFrames={durationInFrames} />
     </AbsoluteFill>
     </ProductLift.Provider>
+    </MotionBoost.Provider>
   );
 };
 

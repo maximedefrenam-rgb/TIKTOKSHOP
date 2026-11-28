@@ -1,0 +1,176 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.14,
+   "end": 0.16
+  },
+  {
+   "word": "réveil",
+   "start": 0.213,
+   "end": 0.48
+  },
+  {
+   "word": "sonne",
+   "start": 0.56,
+   "end": 1.04
+  },
+  {
+   "word": "et",
+   "start": 1.173,
+   "end": 1.44
+  },
+  {
+   "word": "t'as",
+   "start": 1.48,
+   "end": 1.76
+  },
+  {
+   "word": "déjà",
+   "start": 1.824,
+   "end": 2.08
+  },
+  {
+   "word": "envie",
+   "start": 2.12,
+   "end": 2.32
+  },
+  {
+   "word": "de",
+   "start": 2.347,
+   "end": 2.4
+  },
+  {
+   "word": "te",
+   "start": 2.453,
+   "end": 2.56
+  },
+  {
+   "word": "recoucher",
+   "start": 2.6,
+   "end": 2.96
+  },
+  {
+   "word": "Un",
+   "start": 3.907,
+   "end": 3.92
+  },
+  {
+   "word": "ZAP",
+   "start": 4.04,
+   "end": 4.32
+  },
+  {
+   "word": "cerise",
+   "start": 4.38,
+   "end": 4.72
+  },
+  {
+   "word": "noire",
+   "start": 4.773,
+   "end": 5.04
+  },
+  {
+   "word": "sous",
+   "start": 5.088,
+   "end": 5.28
+  },
+  {
+   "word": "la",
+   "start": 5.307,
+   "end": 5.36
+  },
+  {
+   "word": "lèvre",
+   "start": 5.4,
+   "end": 5.76
+  },
+  {
+   "word": "cent",
+   "start": 6.368,
+   "end": 6.4
+  },
+  {
+   "word": "milligrammes",
+   "start": 6.432,
+   "end": 6.88
+  },
+  {
+   "word": "de",
+   "start": 6.907,
+   "end": 6.96
+  },
+  {
+   "word": "caféine",
+   "start": 7.04,
+   "end": 7.6
+  },
+  {
+   "word": "plus",
+   "start": 7.68,
+   "end": 8
+  },
+  {
+   "word": "qu'un",
+   "start": 8.027,
+   "end": 8.16
+  },
+  {
+   "word": "expresso",
+   "start": 8.21,
+   "end": 8.72
+  },
+  {
+   "word": "et",
+   "start": 9.423,
+   "end": 9.45
+  },
+  {
+   "word": "zéro",
+   "start": 9.61,
+   "end": 9.93
+  },
+  {
+   "word": "café",
+   "start": 9.994,
+   "end": 10.25
+  },
+  {
+   "word": "à",
+   "start": 10.29,
+   "end": 10.33
+  },
+  {
+   "word": "préparer",
+   "start": 10.39,
+   "end": 10.89
+  },
+  {
+   "word": "trente-six",
+   "start": 11.557,
+   "end": 11.857
+  },
+  {
+   "word": "sachets",
+   "start": 11.905,
+   "end": 12.337
+  },
+  {
+   "word": "panier",
+   "start": 12.417,
+   "end": 12.737
+  },
+  {
+   "word": "orange",
+   "start": 12.794,
+   "end": 13.537
+  },
+  {
+   "word": "FONCE",
+   "start": 13.577,
+   "end": 14.017
+  }
+ ],
+ "durationSec": 14.106,
+ "model": "eleven_v3"
+}

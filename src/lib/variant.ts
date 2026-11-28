@@ -24,6 +24,7 @@ export const variant = (o: {
   jacket?: string;
   format?: VideoConfig['format'];
   priceTag?: VideoConfig['priceTag'];
+  motion?: number;
   /** mot sur lequel le présentateur s'évanouit de bonheur (optionnel) */
   faint?: (r: R) => number;
   build: (r: R) => SceneSpec[];
@@ -69,6 +70,7 @@ export const variant = (o: {
     productImage: o.productImage,
     productScale: o.productScale,
     priceTag: o.priceTag,
+    motion: o.motion,
     voice: `videos/${o.id}/voice.mp3`,
     music: `videos/${o.id}/music.wav`,
     timings: o.timings,

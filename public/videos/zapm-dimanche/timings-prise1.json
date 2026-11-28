@@ -1,0 +1,196 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.092,
+   "end": 0.103
+  },
+  {
+   "word": "Black",
+   "start": 0.136,
+   "end": 0.306
+  },
+  {
+   "word": "Friday",
+   "start": 0.354,
+   "end": 0.645
+  },
+  {
+   "word": "chez",
+   "start": 0.672,
+   "end": 0.781
+  },
+  {
+   "word": "ZAP",
+   "start": 0.848,
+   "end": 1.052
+  },
+  {
+   "word": "se",
+   "start": 1.097,
+   "end": 1.187
+  },
+  {
+   "word": "termine",
+   "start": 1.214,
+   "end": 1.458
+  },
+  {
+   "word": "dimanche",
+   "start": 1.492,
+   "end": 1.933
+  },
+  {
+   "word": "attention",
+   "start": 1.981,
+   "end": 2.408
+  },
+  {
+   "word": "ZAP",
+   "start": 2.619,
+   "end": 2.695
+  },
+  {
+   "word": "menthe",
+   "start": 2.722,
+   "end": 2.898
+  },
+  {
+   "word": "verte",
+   "start": 2.943,
+   "end": 3.373
+  },
+  {
+   "word": "cent",
+   "start": 3.414,
+   "end": 3.576
+  },
+  {
+   "word": "cinquante",
+   "start": 3.61,
+   "end": 3.847
+  },
+  {
+   "word": "milligrammes",
+   "start": 3.875,
+   "end": 4.254
+  },
+  {
+   "word": "de",
+   "start": 4.277,
+   "end": 4.322
+  },
+  {
+   "word": "caféine",
+   "start": 4.376,
+   "end": 4.729
+  },
+  {
+   "word": "par",
+   "start": 4.763,
+   "end": 4.864
+  },
+  {
+   "word": "sachet",
+   "start": 4.905,
+   "end": 5.475
+  },
+  {
+   "word": "presque",
+   "start": 5.651,
+   "end": 5.814
+  },
+  {
+   "word": "deux",
+   "start": 5.854,
+   "end": 6.017
+  },
+  {
+   "word": "expressos",
+   "start": 6.068,
+   "end": 7.034
+  },
+  {
+   "word": "quatorze",
+   "start": 7.092,
+   "end": 7.441
+  },
+  {
+   "word": "euros",
+   "start": 7.464,
+   "end": 7.576
+  },
+  {
+   "word": "trente-sept",
+   "start": 7.593,
+   "end": 7.983
+  },
+  {
+   "word": "au",
+   "start": 8.006,
+   "end": 8.051
+  },
+  {
+   "word": "lieu",
+   "start": 8.078,
+   "end": 8.186
+  },
+  {
+   "word": "de",
+   "start": 8.231,
+   "end": 8.322
+  },
+  {
+   "word": "quinze",
+   "start": 8.345,
+   "end": 8.593
+  },
+  {
+   "word": "treize",
+   "start": 8.627,
+   "end": 9.136
+  },
+  {
+   "word": "trente-six",
+   "start": 9.196,
+   "end": 9.475
+  },
+  {
+   "word": "sachets",
+   "start": 9.515,
+   "end": 10.017
+  },
+  {
+   "word": "livraison",
+   "start": 10.051,
+   "end": 10.356
+  },
+  {
+   "word": "gratuite",
+   "start": 10.401,
+   "end": 11.034
+  },
+  {
+   "word": "panier",
+   "start": 11.068,
+   "end": 11.305
+  },
+  {
+   "word": "orange",
+   "start": 11.353,
+   "end": 11.847
+  },
+  {
+   "word": "FONCE",
+   "start": 11.881,
+   "end": 12.254
+  }
+ ],
+ "durationSec": 12.434,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "words": [
+  {
+   "word": "Quinze",
+   "start": 0.06,
+   "end": 0.136
+  },
+  {
+   "word": "heures",
+   "start": 0.164,
+   "end": 0.339
+  },
+  {
+   "word": "au",
+   "start": 0.362,
+   "end": 0.407
+  },
+  {
+   "word": "bureau",
+   "start": 0.446,
+   "end": 0.746
+  },
+  {
+   "word": "et",
+   "start": 0.814,
+   "end": 0.885
+  },
+  {
+   "word": "ton",
+   "start": 0.936,
+   "end": 1.088
+  },
+  {
+   "word": "cerveau",
+   "start": 1.139,
+   "end": 1.36
+  },
+  {
+   "word": "est",
+   "start": 1.377,
+   "end": 1.427
+  },
+  {
+   "word": "en",
+   "start": 1.472,
+   "end": 1.563
+  },
+  {
+   "word": "pause",
+   "start": 1.597,
+   "end": 1.766
+  },
+  {
+   "word": "Un",
+   "start": 2.003,
+   "end": 2.018
+  },
+  {
+   "word": "ZAP",
+   "start": 2.12,
+   "end": 2.357
+  },
+  {
+   "word": "cerise",
+   "start": 2.425,
+   "end": 2.764
+  },
+  {
+   "word": "noire",
+   "start": 2.809,
+   "end": 3.171
+  },
+  {
+   "word": "discret",
+   "start": 3.23,
+   "end": 3.781
+  },
+  {
+   "word": "sous",
+   "start": 3.808,
+   "end": 3.916
+  },
+  {
+   "word": "la",
+   "start": 3.939,
+   "end": 3.984
+  },
+  {
+   "word": "lèvre",
+   "start": 4.052,
+   "end": 4.323
+  },
+  {
+   "word": "cent",
+   "start": 4.553,
+   "end": 4.567
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.608,
+   "end": 5.041
+  },
+  {
+   "word": "de",
+   "start": 5.064,
+   "end": 5.109
+  },
+  {
+   "word": "caféine",
+   "start": 5.163,
+   "end": 5.753
+  },
+  {
+   "word": "plus",
+   "start": 5.787,
+   "end": 5.923
+  },
+  {
+   "word": "qu'un",
+   "start": 5.946,
+   "end": 6.058
+  },
+  {
+   "word": "expresso",
+   "start": 6.101,
+   "end": 6.601
+  },
+  {
+   "word": "et",
+   "start": 6.716,
+   "end": 6.727
+  },
+  {
+   "word": "ça",
+   "start": 6.772,
+   "end": 6.863
+  },
+  {
+   "word": "tient",
+   "start": 6.931,
+   "end": 7.134
+  },
+  {
+   "word": "dans",
+   "start": 7.148,
+   "end": 7.202
+  },
+  {
+   "word": "ta",
+   "start": 7.247,
+   "end": 7.338
+  },
+  {
+   "word": "poche",
+   "start": 7.383,
+   "end": 8.016
+  },
+  {
+   "word": "trente-six",
+   "start": 8.138,
+   "end": 8.422
+  },
+  {
+   "word": "sachets",
+   "start": 8.477,
+   "end": 9.033
+  },
+  {
+   "word": "panier",
+   "start": 9.083,
+   "end": 9.304
+  },
+  {
+   "word": "orange",
+   "start": 9.362,
+   "end": 10.049
+  },
+  {
+   "word": "FONCE",
+   "start": 10.117,
+   "end": 10.456
+  }
+ ],
+ "durationSec": 10.632,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

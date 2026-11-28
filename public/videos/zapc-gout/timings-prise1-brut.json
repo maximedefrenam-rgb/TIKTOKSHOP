@@ -1,0 +1,191 @@
+{
+ "words": [
+  {
+   "word": "De",
+   "start": 0.147,
+   "end": 0.16
+  },
+  {
+   "word": "la",
+   "start": 0.187,
+   "end": 0.24
+  },
+  {
+   "word": "caféine",
+   "start": 0.336,
+   "end": 0.88
+  },
+  {
+   "word": "au",
+   "start": 0.907,
+   "end": 0.96
+  },
+  {
+   "word": "goût",
+   "start": 0.987,
+   "end": 1.12
+  },
+  {
+   "word": "cerise",
+   "start": 1.2,
+   "end": 1.6
+  },
+  {
+   "word": "noire",
+   "start": 1.653,
+   "end": 2.32
+  },
+  {
+   "word": "t’as",
+   "start": 2.36,
+   "end": 2.48
+  },
+  {
+   "word": "déjà",
+   "start": 2.528,
+   "end": 2.72
+  },
+  {
+   "word": "testé",
+   "start": 2.768,
+   "end": 3.04
+  },
+  {
+   "word": "ZAP",
+   "start": 3.966,
+   "end": 4.246
+  },
+  {
+   "word": "un",
+   "start": 4.406,
+   "end": 4.726
+  },
+  {
+   "word": "sachet",
+   "start": 4.774,
+   "end": 5.046
+  },
+  {
+   "word": "sous",
+   "start": 5.078,
+   "end": 5.206
+  },
+  {
+   "word": "la",
+   "start": 5.233,
+   "end": 5.286
+  },
+  {
+   "word": "lèvre",
+   "start": 5.326,
+   "end": 5.926
+  },
+  {
+   "word": "cent",
+   "start": 6.154,
+   "end": 6.167
+  },
+  {
+   "word": "milligrammes",
+   "start": 6.199,
+   "end": 6.647
+  },
+  {
+   "word": "de",
+   "start": 6.674,
+   "end": 6.727
+  },
+  {
+   "word": "caféine",
+   "start": 6.791,
+   "end": 7.607
+  },
+  {
+   "word": "plus",
+   "start": 7.671,
+   "end": 7.927
+  },
+  {
+   "word": "qu'un",
+   "start": 7.954,
+   "end": 8.087
+  },
+  {
+   "word": "expresso",
+   "start": 8.137,
+   "end": 9.127
+  },
+  {
+   "word": "elle-théanine",
+   "start": 9.346,
+   "end": 10.007
+  },
+  {
+   "word": "vitamines",
+   "start": 10.127,
+   "end": 10.727
+  },
+  {
+   "word": "B",
+   "start": 10.847,
+   "end": 11.047
+  },
+  {
+   "word": "fabriqué",
+   "start": 11.187,
+   "end": 11.847
+  },
+  {
+   "word": "en",
+   "start": 11.874,
+   "end": 11.927
+  },
+  {
+   "word": "Suède",
+   "start": 12.007,
+   "end": 12.886
+  },
+  {
+   "word": "trente-six",
+   "start": 12.952,
+   "end": 13.287
+  },
+  {
+   "word": "sachets",
+   "start": 13.335,
+   "end": 13.687
+  },
+  {
+   "word": "dans",
+   "start": 13.703,
+   "end": 13.767
+  },
+  {
+   "word": "le",
+   "start": 13.794,
+   "end": 13.847
+  },
+  {
+   "word": "duo",
+   "start": 13.927,
+   "end": 14.247
+  },
+  {
+   "word": "panier",
+   "start": 14.347,
+   "end": 14.807
+  },
+  {
+   "word": "orange",
+   "start": 14.864,
+   "end": 15.607
+  },
+  {
+   "word": "FONCE",
+   "start": 15.687,
+   "end": 16.167
+  }
+ ],
+ "durationSec": 16.353,
+ "model": "eleven_v3"
+}

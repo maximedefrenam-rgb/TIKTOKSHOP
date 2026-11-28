@@ -1,0 +1,206 @@
+{
+ "words": [
+  {
+   "word": "Un",
+   "start": 0.069,
+   "end": 0.08
+  },
+  {
+   "word": "sachet",
+   "start": 0.128,
+   "end": 0.4
+  },
+  {
+   "word": "dans",
+   "start": 0.432,
+   "end": 0.56
+  },
+  {
+   "word": "ta",
+   "start": 0.587,
+   "end": 0.64
+  },
+  {
+   "word": "gourde",
+   "start": 0.72,
+   "end": 1.2
+  },
+  {
+   "word": "et",
+   "start": 1.253,
+   "end": 1.36
+  },
+  {
+   "word": "c'est",
+   "start": 1.4,
+   "end": 1.52
+  },
+  {
+   "word": "réglé",
+   "start": 1.573,
+   "end": 1.84
+  },
+  {
+   "word": "le",
+   "start": 2.593,
+   "end": 2.646
+  },
+  {
+   "word": "Cortisol",
+   "start": 2.662,
+   "end": 3.046
+  },
+  {
+   "word": "Manager",
+   "start": 3.106,
+   "end": 3.526
+  },
+  {
+   "word": "de",
+   "start": 3.579,
+   "end": 3.686
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.726,
+   "end": 4.406
+  },
+  {
+   "word": "trois",
+   "start": 4.446,
+   "end": 4.646
+  },
+  {
+   "word": "goûts",
+   "start": 4.673,
+   "end": 5.206
+  },
+  {
+   "word": "trois",
+   "start": 5.349,
+   "end": 5.366
+  },
+  {
+   "word": "cents",
+   "start": 5.406,
+   "end": 5.606
+  },
+  {
+   "word": "milligrammes",
+   "start": 5.638,
+   "end": 6.086
+  },
+  {
+   "word": "d'ashwagandha",
+   "start": 6.126,
+   "end": 7.206
+  },
+  {
+   "word": "quatre",
+   "start": 7.229,
+   "end": 7.366
+  },
+  {
+   "word": "cents",
+   "start": 7.419,
+   "end": 7.686
+  },
+  {
+   "word": "de",
+   "start": 7.713,
+   "end": 7.766
+  },
+  {
+   "word": "elle-théanine",
+   "start": 7.814,
+   "end": 9.046
+  },
+  {
+   "word": "la",
+   "start": 9.113,
+   "end": 9.126
+  },
+  {
+   "word": "vitamine",
+   "start": 9.186,
+   "end": 9.606
+  },
+  {
+   "word": "D",
+   "start": 9.726,
+   "end": 9.846
+  },
+  {
+   "word": "contribue",
+   "start": 9.896,
+   "end": 10.326
+  },
+  {
+   "word": "au",
+   "start": 10.353,
+   "end": 10.406
+  },
+  {
+   "word": "maintien",
+   "start": 10.446,
+   "end": 10.806
+  },
+  {
+   "word": "d'une",
+   "start": 10.846,
+   "end": 10.966
+  },
+  {
+   "word": "fonction",
+   "start": 11.002,
+   "end": 11.286
+  },
+  {
+   "word": "musculaire",
+   "start": 11.346,
+   "end": 11.766
+  },
+  {
+   "word": "normale",
+   "start": 11.846,
+   "end": 12.326
+  },
+  {
+   "word": "soixante-dix",
+   "start": 13.139,
+   "end": 13.606
+  },
+  {
+   "word": "centimes",
+   "start": 13.638,
+   "end": 13.926
+  },
+  {
+   "word": "par",
+   "start": 13.946,
+   "end": 14.006
+  },
+  {
+   "word": "jour",
+   "start": 14.07,
+   "end": 14.646
+  },
+  {
+   "word": "panier",
+   "start": 14.686,
+   "end": 14.886
+  },
+  {
+   "word": "orange",
+   "start": 14.955,
+   "end": 15.686
+  },
+  {
+   "word": "FONCE",
+   "start": 15.726,
+   "end": 16.166
+  }
+ ],
+ "durationSec": 16.274,
+ "model": "eleven_v3"
+}

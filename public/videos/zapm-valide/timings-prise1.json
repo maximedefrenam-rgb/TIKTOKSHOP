@@ -1,0 +1,206 @@
+{
+ "words": [
+  {
+   "word": "Quarante",
+   "start": 0.114,
+   "end": 0.203
+  },
+  {
+   "word": "centimes",
+   "start": 0.258,
+   "end": 0.61
+  },
+  {
+   "word": "le",
+   "start": 0.633,
+   "end": 0.678
+  },
+  {
+   "word": "sachet",
+   "start": 0.705,
+   "end": 0.881
+  },
+  {
+   "word": "de",
+   "start": 0.904,
+   "end": 0.949
+  },
+  {
+   "word": "caféine",
+   "start": 1.003,
+   "end": 1.424
+  },
+  {
+   "word": "mais",
+   "start": 1.464,
+   "end": 1.627
+  },
+  {
+   "word": "qui",
+   "start": 1.678,
+   "end": 1.831
+  },
+  {
+   "word": "a",
+   "start": 1.898,
+   "end": 1.966
+  },
+  {
+   "word": "validé",
+   "start": 2.0,
+   "end": 2.237
+  },
+  {
+   "word": "ZAP",
+   "start": 2.534,
+   "end": 2.681
+  },
+  {
+   "word": "menthe",
+   "start": 2.721,
+   "end": 2.952
+  },
+  {
+   "word": "verte",
+   "start": 3.009,
+   "end": 3.494
+  },
+  {
+   "word": "le",
+   "start": 3.539,
+   "end": 3.63
+  },
+  {
+   "word": "duo",
+   "start": 3.698,
+   "end": 3.969
+  },
+  {
+   "word": "trente-six",
+   "start": 4.087,
+   "end": 4.647
+  },
+  {
+   "word": "sachets",
+   "start": 4.687,
+   "end": 5.528
+  },
+  {
+   "word": "quatorze",
+   "start": 5.626,
+   "end": 5.842
+  },
+  {
+   "word": "trente-sept",
+   "start": 5.892,
+   "end": 6.383
+  },
+  {
+   "word": "au",
+   "start": 6.406,
+   "end": 6.451
+  },
+  {
+   "word": "lieu",
+   "start": 6.464,
+   "end": 6.519
+  },
+  {
+   "word": "de",
+   "start": 6.586,
+   "end": 6.722
+  },
+  {
+   "word": "quinze",
+   "start": 6.745,
+   "end": 6.993
+  },
+  {
+   "word": "treize",
+   "start": 7.027,
+   "end": 7.603
+  },
+  {
+   "word": "le",
+   "start": 7.664,
+   "end": 7.671
+  },
+  {
+   "word": "prix",
+   "start": 7.712,
+   "end": 7.875
+  },
+  {
+   "word": "le",
+   "start": 7.897,
+   "end": 7.942
+  },
+  {
+   "word": "plus",
+   "start": 7.983,
+   "end": 8.146
+  },
+  {
+   "word": "bas",
+   "start": 8.197,
+   "end": 8.349
+  },
+  {
+   "word": "sur",
+   "start": 8.383,
+   "end": 8.485
+  },
+  {
+   "word": "trente",
+   "start": 8.536,
+   "end": 8.756
+  },
+  {
+   "word": "jours",
+   "start": 8.801,
+   "end": 9.569
+  },
+  {
+   "word": "Black",
+   "start": 9.745,
+   "end": 9.773
+  },
+  {
+   "word": "Friday",
+   "start": 9.821,
+   "end": 10.112
+  },
+  {
+   "word": "jusqu'à",
+   "start": 10.146,
+   "end": 10.417
+  },
+  {
+   "word": "dimanche",
+   "start": 10.442,
+   "end": 10.925
+  },
+  {
+   "word": "panier",
+   "start": 10.959,
+   "end": 11.129
+  },
+  {
+   "word": "orange",
+   "start": 11.187,
+   "end": 11.739
+  },
+  {
+   "word": "FONCE",
+   "start": 11.807,
+   "end": 12.214
+  }
+ ],
+ "durationSec": 12.408,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

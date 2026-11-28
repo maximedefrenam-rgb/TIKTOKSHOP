@@ -1,0 +1,211 @@
+{
+ "words": [
+  {
+   "word": "Une",
+   "start": 0.136,
+   "end": 0.16
+  },
+  {
+   "word": "heure",
+   "start": 0.2,
+   "end": 0.4
+  },
+  {
+   "word": "de",
+   "start": 0.427,
+   "end": 0.48
+  },
+  {
+   "word": "trajet",
+   "start": 0.544,
+   "end": 0.88
+  },
+  {
+   "word": "avant",
+   "start": 0.907,
+   "end": 1.04
+  },
+  {
+   "word": "la",
+   "start": 1.067,
+   "end": 1.12
+  },
+  {
+   "word": "salle",
+   "start": 1.173,
+   "end": 1.68
+  },
+  {
+   "word": "et",
+   "start": 1.733,
+   "end": 1.84
+  },
+  {
+   "word": "t'as",
+   "start": 1.88,
+   "end": 2.08
+  },
+  {
+   "word": "zéro",
+   "start": 2.16,
+   "end": 2.4
+  },
+  {
+   "word": "énergie",
+   "start": 2.48,
+   "end": 2.8
+  },
+  {
+   "word": "ZAP",
+   "start": 3.754,
+   "end": 3.924
+  },
+  {
+   "word": "menthe",
+   "start": 3.956,
+   "end": 4.164
+  },
+  {
+   "word": "verte",
+   "start": 4.217,
+   "end": 4.644
+  },
+  {
+   "word": "ça",
+   "start": 4.697,
+   "end": 4.804
+  },
+  {
+   "word": "tient",
+   "start": 4.884,
+   "end": 5.044
+  },
+  {
+   "word": "dans",
+   "start": 5.06,
+   "end": 5.124
+  },
+  {
+   "word": "ta",
+   "start": 5.177,
+   "end": 5.284
+  },
+  {
+   "word": "poche",
+   "start": 5.364,
+   "end": 6.084
+  },
+  {
+   "word": "un",
+   "start": 6.231,
+   "end": 6.244
+  },
+  {
+   "word": "sachet",
+   "start": 6.308,
+   "end": 7.044
+  },
+  {
+   "word": "cent",
+   "start": 7.076,
+   "end": 7.204
+  },
+  {
+   "word": "cinquante",
+   "start": 7.264,
+   "end": 7.524
+  },
+  {
+   "word": "milligrammes",
+   "start": 7.572,
+   "end": 8.004
+  },
+  {
+   "word": "de",
+   "start": 8.031,
+   "end": 8.084
+  },
+  {
+   "word": "caféine",
+   "start": 8.164,
+   "end": 8.964
+  },
+  {
+   "word": "quatorze",
+   "start": 9.103,
+   "end": 9.37
+  },
+  {
+   "word": "euros",
+   "start": 9.423,
+   "end": 9.69
+  },
+  {
+   "word": "trente-sept",
+   "start": 9.71,
+   "end": 10.09
+  },
+  {
+   "word": "au",
+   "start": 10.117,
+   "end": 10.17
+  },
+  {
+   "word": "lieu",
+   "start": 10.202,
+   "end": 10.33
+  },
+  {
+   "word": "de",
+   "start": 10.383,
+   "end": 10.49
+  },
+  {
+   "word": "quinze",
+   "start": 10.517,
+   "end": 10.73
+  },
+  {
+   "word": "treize",
+   "start": 10.79,
+   "end": 11.53
+  },
+  {
+   "word": "livraison",
+   "start": 11.675,
+   "end": 12.01
+  },
+  {
+   "word": "gratuite",
+   "start": 12.063,
+   "end": 12.73
+  },
+  {
+   "word": "jusqu'à",
+   "start": 12.783,
+   "end": 13.13
+  },
+  {
+   "word": "dimanche",
+   "start": 13.17,
+   "end": 14.01
+  },
+  {
+   "word": "panier",
+   "start": 14.05,
+   "end": 14.33
+  },
+  {
+   "word": "orange",
+   "start": 14.387,
+   "end": 15.21
+  },
+  {
+   "word": "FONCE",
+   "start": 15.33,
+   "end": 15.85
+  }
+ ],
+ "durationSec": 16.039,
+ "model": "eleven_v3"
+}

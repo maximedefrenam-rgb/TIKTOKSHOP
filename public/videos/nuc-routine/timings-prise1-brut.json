@@ -1,0 +1,206 @@
+{
+ "words": [
+  {
+   "word": "Ma",
+   "start": 0.147,
+   "end": 0.16
+  },
+  {
+   "word": "routine",
+   "start": 0.21,
+   "end": 0.56
+  },
+  {
+   "word": "du",
+   "start": 0.587,
+   "end": 0.64
+  },
+  {
+   "word": "soir",
+   "start": 0.704,
+   "end": 1.2
+  },
+  {
+   "word": "je",
+   "start": 1.227,
+   "end": 1.28
+  },
+  {
+   "word": "te",
+   "start": 1.307,
+   "end": 1.36
+  },
+  {
+   "word": "la",
+   "start": 1.413,
+   "end": 1.52
+  },
+  {
+   "word": "montre",
+   "start": 1.552,
+   "end": 1.76
+  },
+  {
+   "word": "un",
+   "start": 2.472,
+   "end": 2.48
+  },
+  {
+   "word": "sachet",
+   "start": 2.544,
+   "end": 2.96
+  },
+  {
+   "word": "de",
+   "start": 2.987,
+   "end": 3.04
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.104,
+   "end": 3.6
+  },
+  {
+   "word": "Manager",
+   "start": 3.66,
+   "end": 4.08
+  },
+  {
+   "word": "dans",
+   "start": 4.112,
+   "end": 4.24
+  },
+  {
+   "word": "un",
+   "start": 4.267,
+   "end": 4.32
+  },
+  {
+   "word": "verre",
+   "start": 4.36,
+   "end": 4.52
+  },
+  {
+   "word": "d'eau",
+   "start": 4.54,
+   "end": 4.72
+  },
+  {
+   "word": "goût",
+   "start": 5.333,
+   "end": 5.44
+  },
+  {
+   "word": "litchi-fraise",
+   "start": 5.48,
+   "end": 6.32
+  },
+  {
+   "word": "framboise-citron",
+   "start": 6.368,
+   "end": 7.2
+  },
+  {
+   "word": "ou",
+   "start": 7.307,
+   "end": 7.52
+  },
+  {
+   "word": "pêche",
+   "start": 7.56,
+   "end": 7.76
+  },
+  {
+   "word": "blanche",
+   "start": 7.787,
+   "end": 8.88
+  },
+  {
+   "word": "le",
+   "start": 9.022,
+   "end": 9.04
+  },
+  {
+   "word": "magnésium",
+   "start": 9.088,
+   "end": 9.68
+  },
+  {
+   "word": "contribue",
+   "start": 9.72,
+   "end": 10.08
+  },
+  {
+   "word": "à",
+   "start": 10.12,
+   "end": 10.16
+  },
+  {
+   "word": "des",
+   "start": 10.2,
+   "end": 10.32
+  },
+  {
+   "word": "fonctions",
+   "start": 10.36,
+   "end": 10.72
+  },
+  {
+   "word": "psychologiques",
+   "start": 10.76,
+   "end": 11.44
+  },
+  {
+   "word": "normales",
+   "start": 11.504,
+   "end": 12.48
+  },
+  {
+   "word": "soixante-dix",
+   "start": 12.647,
+   "end": 13.208
+  },
+  {
+   "word": "centimes",
+   "start": 13.24,
+   "end": 13.448
+  },
+  {
+   "word": "par",
+   "start": 13.488,
+   "end": 13.608
+  },
+  {
+   "word": "jour",
+   "start": 13.656,
+   "end": 14.248
+  },
+  {
+   "word": "livraison",
+   "start": 14.288,
+   "end": 14.728
+  },
+  {
+   "word": "gratuite",
+   "start": 14.781,
+   "end": 15.448
+  },
+  {
+   "word": "panier",
+   "start": 15.488,
+   "end": 15.768
+  },
+  {
+   "word": "orange",
+   "start": 15.825,
+   "end": 16.568
+  },
+  {
+   "word": "FONCE",
+   "start": 16.608,
+   "end": 16.968
+  }
+ ],
+ "durationSec": 17.162,
+ "model": "eleven_v3"
+}

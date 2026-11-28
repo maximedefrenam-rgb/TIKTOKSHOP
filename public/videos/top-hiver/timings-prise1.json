@@ -1,0 +1,206 @@
+{
+ "words": [
+  {
+   "word": "L'hiver",
+   "start": 0.084,
+   "end": 0.296
+  },
+  {
+   "word": "arrive",
+   "start": 0.344,
+   "end": 0.838
+  },
+  {
+   "word": "fais",
+   "start": 0.865,
+   "end": 0.974
+  },
+  {
+   "word": "le",
+   "start": 0.997,
+   "end": 1.041
+  },
+  {
+   "word": "check",
+   "start": 1.086,
+   "end": 1.313
+  },
+  {
+   "word": "de",
+   "start": 1.335,
+   "end": 1.38
+  },
+  {
+   "word": "ta",
+   "start": 1.425,
+   "end": 1.516
+  },
+  {
+   "word": "caisse",
+   "start": 1.539,
+   "end": 1.719
+  },
+  {
+   "word": "toi-même",
+   "start": 1.753,
+   "end": 2.126
+  },
+  {
+   "word": "la",
+   "start": 2.357,
+   "end": 2.379
+  },
+  {
+   "word": "Topdon",
+   "start": 2.447,
+   "end": 2.786
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 2.837,
+   "end": 3.396
+  },
+  {
+   "word": "six",
+   "start": 3.43,
+   "end": 3.532
+  },
+  {
+   "word": "cents",
+   "start": 3.566,
+   "end": 3.735
+  },
+  {
+   "word": "S",
+   "start": 3.871,
+   "end": 4.074
+  },
+  {
+   "word": "lecture",
+   "start": 4.418,
+   "end": 4.478
+  },
+  {
+   "word": "et",
+   "start": 4.5,
+   "end": 4.545
+  },
+  {
+   "word": "effacement",
+   "start": 4.596,
+   "end": 4.952
+  },
+  {
+   "word": "des",
+   "start": 4.969,
+   "end": 5.02
+  },
+  {
+   "word": "codes",
+   "start": 5.065,
+   "end": 5.562
+  },
+  {
+   "word": "neuf",
+   "start": 5.607,
+   "end": 5.766
+  },
+  {
+   "word": "services",
+   "start": 5.803,
+   "end": 6.105
+  },
+  {
+   "word": "d'entretien",
+   "start": 6.122,
+   "end": 6.85
+  },
+  {
+   "word": "cent",
+   "start": 6.938,
+   "end": 6.992
+  },
+  {
+   "word": "cinquante",
+   "start": 7.043,
+   "end": 7.331
+  },
+  {
+   "word": "et",
+   "start": 7.354,
+   "end": 7.399
+  },
+  {
+   "word": "un",
+   "start": 7.444,
+   "end": 7.534
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 7.554,
+   "end": 8.145
+  },
+  {
+   "word": "avec",
+   "start": 8.199,
+   "end": 8.416
+  },
+  {
+   "word": "les",
+   "start": 8.45,
+   "end": 8.551
+  },
+  {
+   "word": "coupons",
+   "start": 8.585,
+   "end": 9.094
+  },
+  {
+   "word": "jusqu'au",
+   "start": 9.263,
+   "end": 9.365
+  },
+  {
+   "word": "trente",
+   "start": 9.399,
+   "end": 9.568
+  },
+  {
+   "word": "novembre",
+   "start": 9.613,
+   "end": 10.314
+  },
+  {
+   "word": "livraison",
+   "start": 10.348,
+   "end": 10.721
+  },
+  {
+   "word": "gratuite",
+   "start": 10.766,
+   "end": 11.467
+  },
+  {
+   "word": "panier",
+   "start": 11.5,
+   "end": 11.738
+  },
+  {
+   "word": "orange",
+   "start": 11.786,
+   "end": 12.484
+  },
+  {
+   "word": "FONCE",
+   "start": 12.551,
+   "end": 13.026
+  }
+ ],
+ "durationSec": 13.192,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

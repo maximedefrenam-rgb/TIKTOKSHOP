@@ -1,0 +1,186 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.068,
+   "end": 0.08
+  },
+  {
+   "word": "pote",
+   "start": 0.16,
+   "end": 0.32
+  },
+  {
+   "word": "vit",
+   "start": 0.36,
+   "end": 0.48
+  },
+  {
+   "word": "à",
+   "start": 0.52,
+   "end": 0.56
+  },
+  {
+   "word": "la",
+   "start": 0.587,
+   "end": 0.64
+  },
+  {
+   "word": "salle",
+   "start": 0.693,
+   "end": 0.96
+  },
+  {
+   "word": "Voilà",
+   "start": 1.227,
+   "end": 1.76
+  },
+  {
+   "word": "son",
+   "start": 1.82,
+   "end": 2
+  },
+  {
+   "word": "cadeau",
+   "start": 2.032,
+   "end": 2.2
+  },
+  {
+   "word": "de",
+   "start": 2.213,
+   "end": 2.24
+  },
+  {
+   "word": "Noël",
+   "start": 2.293,
+   "end": 2.56
+  },
+  {
+   "word": "le",
+   "start": 3.393,
+   "end": 3.446
+  },
+  {
+   "word": "Pack",
+   "start": 3.462,
+   "end": 3.526
+  },
+  {
+   "word": "Force",
+   "start": 3.593,
+   "end": 3.926
+  },
+  {
+   "word": "Nutrimea",
+   "start": 3.986,
+   "end": 4.566
+  },
+  {
+   "word": "créatine",
+   "start": 4.706,
+   "end": 5.446
+  },
+  {
+   "word": "Creapure",
+   "start": 5.506,
+   "end": 6.166
+  },
+  {
+   "word": "et",
+   "start": 6.49,
+   "end": 6.52
+  },
+  {
+   "word": "collagène",
+   "start": 6.529,
+   "end": 6.806
+  },
+  {
+   "word": "marin",
+   "start": 6.859,
+   "end": 7.446
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 7.48,
+   "end": 8.006
+  },
+  {
+   "word": "gélules",
+   "start": 8.046,
+   "end": 8.726
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 8.87,
+   "end": 9.286
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 9.332,
+   "end": 10.006
+  },
+  {
+   "word": "au",
+   "start": 10.113,
+   "end": 10.326
+  },
+  {
+   "word": "lieu",
+   "start": 10.358,
+   "end": 10.486
+  },
+  {
+   "word": "de",
+   "start": 10.566,
+   "end": 10.726
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 10.746,
+   "end": 11.286
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 11.309,
+   "end": 12.246
+  },
+  {
+   "word": "livraison",
+   "start": 12.382,
+   "end": 12.646
+  },
+  {
+   "word": "gratuite",
+   "start": 12.708,
+   "end": 13.446
+  },
+  {
+   "word": "panier",
+   "start": 13.486,
+   "end": 13.766
+  },
+  {
+   "word": "orange",
+   "start": 13.823,
+   "end": 14.566
+  },
+  {
+   "word": "offre-lui",
+   "start": 14.619,
+   "end": 15.046
+  },
+  {
+   "word": "le",
+   "start": 15.073,
+   "end": 15.126
+  },
+  {
+   "word": "pack",
+   "start": 15.19,
+   "end": 15.446
+  }
+ ],
+ "durationSec": 15.804,
+ "model": "eleven_v3"
+}

@@ -1,0 +1,201 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.069,
+   "end": 0.08
+  },
+  {
+   "word": "set",
+   "start": 0.14,
+   "end": 0.32
+  },
+  {
+   "word": "Medicube",
+   "start": 0.387,
+   "end": 0.88
+  },
+  {
+   "word": "à",
+   "start": 0.92,
+   "end": 0.96
+  },
+  {
+   "word": "trente-cinq",
+   "start": 1,
+   "end": 1.36
+  },
+  {
+   "word": "vingt",
+   "start": 1.48,
+   "end": 1.76
+  },
+  {
+   "word": "c'est",
+   "start": 1.8,
+   "end": 1.92
+  },
+  {
+   "word": "fini",
+   "start": 1.98,
+   "end": 2.24
+  },
+  {
+   "word": "dimanche",
+   "start": 2.3,
+   "end": 2.8
+  },
+  {
+   "word": "trois",
+   "start": 3.663,
+   "end": 3.68
+  },
+  {
+   "word": "pots",
+   "start": 3.744,
+   "end": 4.08
+  },
+  {
+   "word": "Deep",
+   "start": 4.192,
+   "end": 4.64
+  },
+  {
+   "word": "Vita",
+   "start": 4.704,
+   "end": 4.96
+  },
+  {
+   "word": "C",
+   "start": 5.12,
+   "end": 5.36
+  },
+  {
+   "word": "Zero",
+   "start": 5.44,
+   "end": 5.76
+  },
+  {
+   "word": "Pore",
+   "start": 5.88,
+   "end": 6.16
+  },
+  {
+   "word": "et",
+   "start": 6.213,
+   "end": 6.32
+  },
+  {
+   "word": "Red",
+   "start": 6.38,
+   "end": 6.56
+  },
+  {
+   "word": "Peeling",
+   "start": 6.587,
+   "end": 7.04
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 7.808,
+   "end": 8.24
+  },
+  {
+   "word": "euros",
+   "start": 8.307,
+   "end": 8.64
+  },
+  {
+   "word": "au",
+   "start": 8.693,
+   "end": 8.8
+  },
+  {
+   "word": "lieu",
+   "start": 8.832,
+   "end": 8.96
+  },
+  {
+   "word": "de",
+   "start": 9.04,
+   "end": 9.2
+  },
+  {
+   "word": "quarante-neuf",
+   "start": 9.232,
+   "end": 9.84
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 9.863,
+   "end": 10.88
+  },
+  {
+   "word": "pores",
+   "start": 11.35,
+   "end": 11.45
+  },
+  {
+   "word": "nets",
+   "start": 11.514,
+   "end": 11.85
+  },
+  {
+   "word": "éclat",
+   "start": 12.01,
+   "end": 12.57
+  },
+  {
+   "word": "selon",
+   "start": 12.597,
+   "end": 12.73
+  },
+  {
+   "word": "la",
+   "start": 12.757,
+   "end": 12.81
+  },
+  {
+   "word": "marque",
+   "start": 12.867,
+   "end": 13.29
+  },
+  {
+   "word": "cadeau",
+   "start": 13.978,
+   "end": 14.09
+  },
+  {
+   "word": "offert",
+   "start": 14.17,
+   "end": 14.73
+  },
+  {
+   "word": "livraison",
+   "start": 14.79,
+   "end": 15.21
+  },
+  {
+   "word": "gratuite",
+   "start": 15.272,
+   "end": 15.85
+  },
+  {
+   "word": "panier",
+   "start": 15.99,
+   "end": 16.57
+  },
+  {
+   "word": "orange",
+   "start": 16.627,
+   "end": 17.05
+  },
+  {
+   "word": "FONCE",
+   "start": 17.33,
+   "end": 18.01
+  }
+ ],
+ "durationSec": 18.207,
+ "model": "eleven_v3"
+}

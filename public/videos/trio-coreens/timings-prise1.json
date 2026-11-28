@@ -1,0 +1,226 @@
+{
+ "words": [
+  {
+   "word": "Trois",
+   "start": 0.115,
+   "end": 0.203
+  },
+  {
+   "word": "toner",
+   "start": 0.271,
+   "end": 0.542
+  },
+  {
+   "word": "pads",
+   "start": 0.597,
+   "end": 0.814
+  },
+  {
+   "word": "coréens",
+   "start": 0.864,
+   "end": 1.22
+  },
+  {
+   "word": "dans",
+   "start": 1.261,
+   "end": 1.424
+  },
+  {
+   "word": "un",
+   "start": 1.469,
+   "end": 1.559
+  },
+  {
+   "word": "seul",
+   "start": 1.6,
+   "end": 1.763
+  },
+  {
+   "word": "set",
+   "start": 1.831,
+   "end": 2.034
+  },
+  {
+   "word": "la",
+   "start": 2.265,
+   "end": 2.271
+  },
+  {
+   "word": "vitamine",
+   "start": 2.322,
+   "end": 2.61
+  },
+  {
+   "word": "C",
+   "start": 2.712,
+   "end": 3.085
+  },
+  {
+   "word": "le",
+   "start": 3.108,
+   "end": 3.153
+  },
+  {
+   "word": "Zero",
+   "start": 3.207,
+   "end": 3.424
+  },
+  {
+   "word": "Pore",
+   "start": 3.492,
+   "end": 3.695
+  },
+  {
+   "word": "aux",
+   "start": 3.729,
+   "end": 3.831
+  },
+  {
+   "word": "AHA",
+   "start": 3.899,
+   "end": 4.17
+  },
+  {
+   "word": "et",
+   "start": 4.193,
+   "end": 4.238
+  },
+  {
+   "word": "BHA",
+   "start": 4.373,
+   "end": 5.051
+  },
+  {
+   "word": "et",
+   "start": 5.074,
+   "end": 5.119
+  },
+  {
+   "word": "le",
+   "start": 5.142,
+   "end": 5.187
+  },
+  {
+   "word": "peeling",
+   "start": 5.232,
+   "end": 5.593
+  },
+  {
+   "word": "à",
+   "start": 5.627,
+   "end": 5.661
+  },
+  {
+   "word": "l'acide",
+   "start": 5.695,
+   "end": 5.932
+  },
+  {
+   "word": "succinique",
+   "start": 5.987,
+   "end": 6.543
+  },
+  {
+   "word": "deux",
+   "start": 6.775,
+   "end": 6.788
+  },
+  {
+   "word": "cent",
+   "start": 6.829,
+   "end": 6.992
+  },
+  {
+   "word": "dix",
+   "start": 7.06,
+   "end": 7.128
+  },
+  {
+   "word": "pads",
+   "start": 7.182,
+   "end": 7.399
+  },
+  {
+   "word": "au",
+   "start": 7.421,
+   "end": 7.466
+  },
+  {
+   "word": "total",
+   "start": 7.523,
+   "end": 8.144
+  },
+  {
+   "word": "trente-cinq",
+   "start": 8.267,
+   "end": 8.551
+  },
+  {
+   "word": "vingt",
+   "start": 8.619,
+   "end": 8.754
+  },
+  {
+   "word": "avec",
+   "start": 8.795,
+   "end": 8.958
+  },
+  {
+   "word": "les",
+   "start": 8.975,
+   "end": 9.026
+  },
+  {
+   "word": "coupons",
+   "start": 9.06,
+   "end": 9.568
+  },
+  {
+   "word": "livraison",
+   "start": 9.746,
+   "end": 9.975
+  },
+  {
+   "word": "gratuite",
+   "start": 10.012,
+   "end": 10.382
+  },
+  {
+   "word": "jusqu'au",
+   "start": 10.46,
+   "end": 10.947
+  },
+  {
+   "word": "trente",
+   "start": 10.958,
+   "end": 11.127
+  },
+  {
+   "word": "novembre",
+   "start": 11.165,
+   "end": 11.738
+  },
+  {
+   "word": "panier",
+   "start": 11.771,
+   "end": 12.009
+  },
+  {
+   "word": "orange",
+   "start": 12.048,
+   "end": 12.551
+  },
+  {
+   "word": "FONCE",
+   "start": 12.619,
+   "end": 12.958
+  }
+ ],
+ "durationSec": 13.166,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "words": [
+  {
+   "word": "Tu",
+   "start": 0.071,
+   "end": 0.08
+  },
+  {
+   "word": "vas",
+   "start": 0.12,
+   "end": 0.24
+  },
+  {
+   "word": "voir",
+   "start": 0.288,
+   "end": 0.48
+  },
+  {
+   "word": "une",
+   "start": 0.52,
+   "end": 0.64
+  },
+  {
+   "word": "voiture",
+   "start": 0.68,
+   "end": 0.96
+  },
+  {
+   "word": "d'occasion",
+   "start": 1,
+   "end": 1.44
+  },
+  {
+   "word": "les",
+   "start": 1.48,
+   "end": 1.6
+  },
+  {
+   "word": "mains",
+   "start": 1.627,
+   "end": 1.76
+  },
+  {
+   "word": "vides",
+   "start": 1.8,
+   "end": 2
+  },
+  {
+   "word": "Prends",
+   "start": 2.79,
+   "end": 2.88
+  },
+  {
+   "word": "la",
+   "start": 2.907,
+   "end": 2.96
+  },
+  {
+   "word": "Topdon",
+   "start": 3.02,
+   "end": 3.84
+  },
+  {
+   "word": "tu",
+   "start": 3.893,
+   "end": 4
+  },
+  {
+   "word": "lis",
+   "start": 4.04,
+   "end": 4.16
+  },
+  {
+   "word": "les",
+   "start": 4.2,
+   "end": 4.32
+  },
+  {
+   "word": "codes",
+   "start": 4.347,
+   "end": 4.48
+  },
+  {
+   "word": "défaut",
+   "start": 4.56,
+   "end": 4.96
+  },
+  {
+   "word": "moteur",
+   "start": 5.54,
+   "end": 5.964
+  },
+  {
+   "word": "boîte",
+   "start": 6.004,
+   "end": 6.484
+  },
+  {
+   "word": "airbag",
+   "start": 6.544,
+   "end": 7.124
+  },
+  {
+   "word": "ABS",
+   "start": 7.264,
+   "end": 7.764
+  },
+  {
+   "word": "données",
+   "start": 7.804,
+   "end": 8.084
+  },
+  {
+   "word": "en",
+   "start": 8.111,
+   "end": 8.164
+  },
+  {
+   "word": "temps",
+   "start": 8.191,
+   "end": 8.324
+  },
+  {
+   "word": "réel",
+   "start": 8.377,
+   "end": 8.724
+  },
+  {
+   "word": "quatre",
+   "start": 9.41,
+   "end": 9.444
+  },
+  {
+   "word": "virgule",
+   "start": 9.524,
+   "end": 9.844
+  },
+  {
+   "word": "quatre",
+   "start": 9.901,
+   "end": 10.244
+  },
+  {
+   "word": "étoiles",
+   "start": 10.324,
+   "end": 11.044
+  },
+  {
+   "word": "cent",
+   "start": 11.268,
+   "end": 11.284
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 11.33,
+   "end": 11.924
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 11.97,
+   "end": 13.097
+  },
+  {
+   "word": "livraison",
+   "start": 13.144,
+   "end": 13.524
+  },
+  {
+   "word": "gratuite",
+   "start": 13.568,
+   "end": 14.324
+  },
+  {
+   "word": "jusqu'au",
+   "start": 14.364,
+   "end": 14.764
+  },
+  {
+   "word": "trente",
+   "start": 14.794,
+   "end": 15.284
+  },
+  {
+   "word": "panier",
+   "start": 15.344,
+   "end": 15.604
+  },
+  {
+   "word": "orange",
+   "start": 15.661,
+   "end": 16.484
+  },
+  {
+   "word": "FONCE",
+   "start": 16.564,
+   "end": 17.044
+  }
+ ],
+ "durationSec": 17.241,
+ "model": "eleven_v3"
+}

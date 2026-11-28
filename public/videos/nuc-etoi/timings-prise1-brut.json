@@ -1,0 +1,191 @@
+{
+ "words": [
+  {
+   "word": "Cinquante-cinq",
+   "start": 0.176,
+   "end": 0.773
+  },
+  {
+   "word": "mille",
+   "start": 0.827,
+   "end": 1.04
+  },
+  {
+   "word": "personnes",
+   "start": 1.08,
+   "end": 1.6
+  },
+  {
+   "word": "l'ont",
+   "start": 1.64,
+   "end": 1.84
+  },
+  {
+   "word": "pris",
+   "start": 1.888,
+   "end": 2.48
+  },
+  {
+   "word": "et",
+   "start": 2.533,
+   "end": 2.64
+  },
+  {
+   "word": "toi",
+   "start": 2.7,
+   "end": 2.88
+  },
+  {
+   "word": "le",
+   "start": 3.747,
+   "end": 3.76
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.84,
+   "end": 4.48
+  },
+  {
+   "word": "Manager",
+   "start": 4.55,
+   "end": 5.04
+  },
+  {
+   "word": "de",
+   "start": 5.093,
+   "end": 5.2
+  },
+  {
+   "word": "Nuclever",
+   "start": 5.24,
+   "end": 5.84
+  },
+  {
+   "word": "quatre",
+   "start": 5.92,
+   "end": 6.4
+  },
+  {
+   "word": "virgule",
+   "start": 6.46,
+   "end": 6.72
+  },
+  {
+   "word": "cinq",
+   "start": 6.76,
+   "end": 6.88
+  },
+  {
+   "word": "étoiles",
+   "start": 7,
+   "end": 7.44
+  },
+  {
+   "word": "ashwagandha",
+   "start": 7.98,
+   "end": 8.8
+  },
+  {
+   "word": "elle-théanine",
+   "start": 8.832,
+   "end": 9.68
+  },
+  {
+   "word": "magnésium",
+   "start": 9.728,
+   "end": 10.56
+  },
+  {
+   "word": "vitamine",
+   "start": 10.62,
+   "end": 11.04
+  },
+  {
+   "word": "D",
+   "start": 11.16,
+   "end": 12
+  },
+  {
+   "word": "le",
+   "start": 12.142,
+   "end": 12.16
+  },
+  {
+   "word": "magnésium",
+   "start": 12.208,
+   "end": 12.72
+  },
+  {
+   "word": "contribue",
+   "start": 12.77,
+   "end": 13.2
+  },
+  {
+   "word": "à",
+   "start": 13.24,
+   "end": 13.28
+  },
+  {
+   "word": "réduire",
+   "start": 13.333,
+   "end": 13.6
+  },
+  {
+   "word": "la",
+   "start": 13.627,
+   "end": 13.68
+  },
+  {
+   "word": "fatigue",
+   "start": 13.73,
+   "end": 14.24
+  },
+  {
+   "word": "prix",
+   "start": 15.008,
+   "end": 15.04
+  },
+  {
+   "word": "le",
+   "start": 15.067,
+   "end": 15.12
+  },
+  {
+   "word": "plus",
+   "start": 15.168,
+   "end": 15.36
+  },
+  {
+   "word": "bas",
+   "start": 15.42,
+   "end": 15.6
+  },
+  {
+   "word": "de",
+   "start": 15.653,
+   "end": 15.76
+  },
+  {
+   "word": "l'année",
+   "start": 15.8,
+   "end": 16.16
+  },
+  {
+   "word": "panier",
+   "start": 16.28,
+   "end": 16.72
+  },
+  {
+   "word": "orange",
+   "start": 16.789,
+   "end": 17.52
+  },
+  {
+   "word": "FONCE",
+   "start": 17.64,
+   "end": 18.16
+  }
+ ],
+ "durationSec": 18.364,
+ "model": "eleven_v3"
+}

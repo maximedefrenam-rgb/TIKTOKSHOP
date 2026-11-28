@@ -1,0 +1,206 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.139,
+   "end": 0.16
+  },
+  {
+   "word": "cadeau",
+   "start": 0.24,
+   "end": 0.64
+  },
+  {
+   "word": "de",
+   "start": 0.693,
+   "end": 0.8
+  },
+  {
+   "word": "Noël",
+   "start": 0.88,
+   "end": 1.68
+  },
+  {
+   "word": "avec",
+   "start": 1.728,
+   "end": 1.92
+  },
+  {
+   "word": "un",
+   "start": 1.973,
+   "end": 2.08
+  },
+  {
+   "word": "cadeau",
+   "start": 2.144,
+   "end": 2.52
+  },
+  {
+   "word": "offert",
+   "start": 2.55,
+   "end": 2.8
+  },
+  {
+   "word": "dedans",
+   "start": 2.84,
+   "end": 3.12
+  },
+  {
+   "word": "le",
+   "start": 3.878,
+   "end": 3.931
+  },
+  {
+   "word": "set",
+   "start": 4.011,
+   "end": 4.251
+  },
+  {
+   "word": "Medicube",
+   "start": 4.331,
+   "end": 5.371
+  },
+  {
+   "word": "trois",
+   "start": 5.411,
+   "end": 5.611
+  },
+  {
+   "word": "pots",
+   "start": 5.659,
+   "end": 5.851
+  },
+  {
+   "word": "de",
+   "start": 5.904,
+   "end": 6.011
+  },
+  {
+   "word": "soixante-dix",
+   "start": 6.064,
+   "end": 6.571
+  },
+  {
+   "word": "pads",
+   "start": 6.635,
+   "end": 7.371
+  },
+  {
+   "word": "Deep",
+   "start": 7.573,
+   "end": 7.611
+  },
+  {
+   "word": "Vita",
+   "start": 7.675,
+   "end": 7.931
+  },
+  {
+   "word": "C",
+   "start": 8.051,
+   "end": 8.251
+  },
+  {
+   "word": "Zero",
+   "start": 8.347,
+   "end": 8.731
+  },
+  {
+   "word": "Pore",
+   "start": 8.811,
+   "end": 9.211
+  },
+  {
+   "word": "Red",
+   "start": 9.311,
+   "end": 9.611
+  },
+  {
+   "word": "Peeling",
+   "start": 9.664,
+   "end": 10.171
+  },
+  {
+   "word": "trente-cinq",
+   "start": 10.716,
+   "end": 11.051
+  },
+  {
+   "word": "vingt",
+   "start": 11.131,
+   "end": 11.291
+  },
+  {
+   "word": "avec",
+   "start": 11.339,
+   "end": 11.531
+  },
+  {
+   "word": "les",
+   "start": 11.571,
+   "end": 11.691
+  },
+  {
+   "word": "coupons",
+   "start": 11.731,
+   "end": 12.091
+  },
+  {
+   "word": "au",
+   "start": 12.198,
+   "end": 12.411
+  },
+  {
+   "word": "lieu",
+   "start": 12.443,
+   "end": 12.571
+  },
+  {
+   "word": "de",
+   "start": 12.651,
+   "end": 12.811
+  },
+  {
+   "word": "quarante-neuf",
+   "start": 12.843,
+   "end": 13.292
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 13.337,
+   "end": 14.464
+  },
+  {
+   "word": "jusqu'au",
+   "start": 14.698,
+   "end": 15.058
+  },
+  {
+   "word": "trente",
+   "start": 15.078,
+   "end": 15.218
+  },
+  {
+   "word": "novembre",
+   "start": 15.271,
+   "end": 16.098
+  },
+  {
+   "word": "panier",
+   "start": 16.138,
+   "end": 16.418
+  },
+  {
+   "word": "orange",
+   "start": 16.475,
+   "end": 17.298
+  },
+  {
+   "word": "FONCE",
+   "start": 17.378,
+   "end": 17.778
+  }
+ ],
+ "durationSec": 17.868,
+ "model": "eleven_v3"
+}

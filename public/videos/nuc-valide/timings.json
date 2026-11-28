@@ -1,0 +1,181 @@
+{
+ "words": [
+  {
+   "word": "Soixante-dix",
+   "start": 0.125,
+   "end": 0.712
+  },
+  {
+   "word": "centimes",
+   "start": 0.746,
+   "end": 1.017
+  },
+  {
+   "word": "par",
+   "start": 1.051,
+   "end": 1.153
+  },
+  {
+   "word": "jour",
+   "start": 1.207,
+   "end": 1.492
+  },
+  {
+   "word": "qui",
+   "start": 1.593,
+   "end": 1.898
+  },
+  {
+   "word": "a",
+   "start": 2.034,
+   "end": 2.169
+  },
+  {
+   "word": "validé",
+   "start": 2.214,
+   "end": 2.508
+  },
+  {
+   "word": "ce",
+   "start": 2.553,
+   "end": 2.644
+  },
+  {
+   "word": "prix",
+   "start": 2.698,
+   "end": 2.915
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.099,
+   "end": 3.652
+  },
+  {
+   "word": "trente",
+   "start": 3.737,
+   "end": 4.059
+  },
+  {
+   "word": "sachets",
+   "start": 4.113,
+   "end": 4.737
+  },
+  {
+   "word": "vingt",
+   "start": 4.805,
+   "end": 4.941
+  },
+  {
+   "word": "euros",
+   "start": 4.985,
+   "end": 5.212
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 5.241,
+   "end": 5.957
+  },
+  {
+   "word": "magnésium",
+   "start": 6.265,
+   "end": 6.568
+  },
+  {
+   "word": "et",
+   "start": 6.636,
+   "end": 6.772
+  },
+  {
+   "word": "vitamine",
+   "start": 6.823,
+   "end": 7.246
+  },
+  {
+   "word": "D",
+   "start": 7.314,
+   "end": 7.789
+  },
+  {
+   "word": "la",
+   "start": 7.975,
+   "end": 8.009
+  },
+  {
+   "word": "vitamine",
+   "start": 8.022,
+   "end": 8.263
+  },
+  {
+   "word": "D",
+   "start": 8.331,
+   "end": 8.399
+  },
+  {
+   "word": "contribue",
+   "start": 8.441,
+   "end": 8.806
+  },
+  {
+   "word": "au",
+   "start": 8.829,
+   "end": 8.874
+  },
+  {
+   "word": "maintien",
+   "start": 8.907,
+   "end": 9.145
+  },
+  {
+   "word": "d'une",
+   "start": 9.179,
+   "end": 9.28
+  },
+  {
+   "word": "fonction",
+   "start": 9.318,
+   "end": 9.619
+  },
+  {
+   "word": "musculaire",
+   "start": 9.653,
+   "end": 10.026
+  },
+  {
+   "word": "normale",
+   "start": 10.094,
+   "end": 10.501
+  },
+  {
+   "word": "livraison",
+   "start": 10.683,
+   "end": 10.937
+  },
+  {
+   "word": "gratuite",
+   "start": 10.99,
+   "end": 11.479
+  },
+  {
+   "word": "panier",
+   "start": 11.564,
+   "end": 11.954
+  },
+  {
+   "word": "orange",
+   "start": 12.002,
+   "end": 12.361
+  },
+  {
+   "word": "FONCE",
+   "start": 12.438,
+   "end": 12.912
+  }
+ ],
+ "durationSec": 13.166,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

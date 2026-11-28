@@ -1,0 +1,196 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.097,
+   "end": 0.108
+  },
+  {
+   "word": "pot",
+   "start": 0.159,
+   "end": 0.312
+  },
+  {
+   "word": "bleu",
+   "start": 0.346,
+   "end": 0.786
+  },
+  {
+   "word": "c'est",
+   "start": 0.803,
+   "end": 0.854
+  },
+  {
+   "word": "le",
+   "start": 0.899,
+   "end": 0.99
+  },
+  {
+   "word": "Zero",
+   "start": 1.044,
+   "end": 1.261
+  },
+  {
+   "word": "Pore",
+   "start": 1.329,
+   "end": 1.6
+  },
+  {
+   "word": "AHA",
+   "start": 1.812,
+   "end": 2.224
+  },
+  {
+   "word": "BHA",
+   "start": 2.359,
+   "end": 2.766
+  },
+  {
+   "word": "panthénol",
+   "start": 2.817,
+   "end": 3.376
+  },
+  {
+   "word": "et",
+   "start": 3.421,
+   "end": 3.512
+  },
+  {
+   "word": "allantoïne",
+   "start": 3.546,
+   "end": 4.393
+  },
+  {
+   "word": "et",
+   "start": 4.488,
+   "end": 4.533
+  },
+  {
+   "word": "le",
+   "start": 4.556,
+   "end": 4.601
+  },
+  {
+   "word": "pot",
+   "start": 4.635,
+   "end": 4.736
+  },
+  {
+   "word": "rouge",
+   "start": 4.781,
+   "end": 5.211
+  },
+  {
+   "word": "le",
+   "start": 5.234,
+   "end": 5.279
+  },
+  {
+   "word": "Red",
+   "start": 5.346,
+   "end": 5.55
+  },
+  {
+   "word": "Peeling",
+   "start": 5.573,
+   "end": 5.957
+  },
+  {
+   "word": "à",
+   "start": 6.049,
+   "end": 6.119
+  },
+  {
+   "word": "l'acide",
+   "start": 6.153,
+   "end": 6.458
+  },
+  {
+   "word": "succinique",
+   "start": 6.512,
+   "end": 7.068
+  },
+  {
+   "word": "le",
+   "start": 7.222,
+   "end": 7.233
+  },
+  {
+   "word": "duo",
+   "start": 7.317,
+   "end": 7.572
+  },
+  {
+   "word": "à",
+   "start": 7.707,
+   "end": 7.843
+  },
+  {
+   "word": "vingt-trois",
+   "start": 7.911,
+   "end": 8.25
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 8.289,
+   "end": 8.995
+  },
+  {
+   "word": "avec",
+   "start": 9.023,
+   "end": 9.131
+  },
+  {
+   "word": "les",
+   "start": 9.148,
+   "end": 9.199
+  },
+  {
+   "word": "coupons",
+   "start": 9.241,
+   "end": 9.877
+  },
+  {
+   "word": "Black",
+   "start": 10.052,
+   "end": 10.08
+  },
+  {
+   "word": "Friday",
+   "start": 10.129,
+   "end": 10.419
+  },
+  {
+   "word": "jusqu'au",
+   "start": 10.464,
+   "end": 10.758
+  },
+  {
+   "word": "trente",
+   "start": 10.792,
+   "end": 11.097
+  },
+  {
+   "word": "panier",
+   "start": 11.182,
+   "end": 11.504
+  },
+  {
+   "word": "orange",
+   "start": 11.562,
+   "end": 12.114
+  },
+  {
+   "word": "FONCE",
+   "start": 12.148,
+   "end": 12.453
+  }
+ ],
+ "durationSec": 12.643,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

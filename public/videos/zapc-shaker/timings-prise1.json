@@ -1,0 +1,181 @@
+{
+ "words": [
+  {
+   "word": "Avant",
+   "start": 0.118,
+   "end": 0.203
+  },
+  {
+   "word": "ta",
+   "start": 0.248,
+   "end": 0.339
+  },
+  {
+   "word": "séance",
+   "start": 0.384,
+   "end": 0.814
+  },
+  {
+   "word": "oublie",
+   "start": 0.881,
+   "end": 1.153
+  },
+  {
+   "word": "le",
+   "start": 1.197,
+   "end": 1.288
+  },
+  {
+   "word": "shaker",
+   "start": 1.311,
+   "end": 1.695
+  },
+  {
+   "word": "Un",
+   "start": 1.821,
+   "end": 1.83
+  },
+  {
+   "word": "sachet",
+   "start": 1.885,
+   "end": 2.169
+  },
+  {
+   "word": "ZAP",
+   "start": 2.237,
+   "end": 2.441
+  },
+  {
+   "word": "cerise",
+   "start": 2.491,
+   "end": 2.78
+  },
+  {
+   "word": "noire",
+   "start": 2.824,
+   "end": 3.119
+  },
+  {
+   "word": "et",
+   "start": 3.209,
+   "end": 3.39
+  },
+  {
+   "word": "t'es",
+   "start": 3.424,
+   "end": 3.525
+  },
+  {
+   "word": "dans",
+   "start": 3.552,
+   "end": 3.661
+  },
+  {
+   "word": "ta",
+   "start": 3.684,
+   "end": 3.729
+  },
+  {
+   "word": "zone",
+   "start": 3.81,
+   "end": 4.542
+  },
+  {
+   "word": "cent",
+   "start": 4.732,
+   "end": 4.746
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.773,
+   "end": 5.152
+  },
+  {
+   "word": "de",
+   "start": 5.197,
+   "end": 5.288
+  },
+  {
+   "word": "caféine",
+   "start": 5.329,
+   "end": 5.627
+  },
+  {
+   "word": "par",
+   "start": 5.661,
+   "end": 5.763
+  },
+  {
+   "word": "sachet",
+   "start": 5.817,
+   "end": 6.508
+  },
+  {
+   "word": "elle-théanine",
+   "start": 6.629,
+   "end": 7.119
+  },
+  {
+   "word": "et",
+   "start": 7.163,
+   "end": 7.254
+  },
+  {
+   "word": "vitamines",
+   "start": 7.288,
+   "end": 7.593
+  },
+  {
+   "word": "B",
+   "start": 7.695,
+   "end": 8.271
+  },
+  {
+   "word": "trente-six",
+   "start": 8.394,
+   "end": 8.678
+  },
+  {
+   "word": "sachets",
+   "start": 8.719,
+   "end": 8.949
+  },
+  {
+   "word": "dans",
+   "start": 8.963,
+   "end": 9.017
+  },
+  {
+   "word": "ta",
+   "start": 9.04,
+   "end": 9.085
+  },
+  {
+   "word": "poche",
+   "start": 9.152,
+   "end": 9.627
+  },
+  {
+   "word": "panier",
+   "start": 9.661,
+   "end": 9.83
+  },
+  {
+   "word": "orange",
+   "start": 9.879,
+   "end": 10.441
+  },
+  {
+   "word": "FONCE",
+   "start": 10.508,
+   "end": 10.847
+  }
+ ],
+ "durationSec": 11.024,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

@@ -1,0 +1,196 @@
+{
+ "words": [
+  {
+   "word": "De",
+   "start": 0.125,
+   "end": 0.136
+  },
+  {
+   "word": "la",
+   "start": 0.158,
+   "end": 0.203
+  },
+  {
+   "word": "caféine",
+   "start": 0.285,
+   "end": 0.746
+  },
+  {
+   "word": "au",
+   "start": 0.769,
+   "end": 0.814
+  },
+  {
+   "word": "goût",
+   "start": 0.836,
+   "end": 0.949
+  },
+  {
+   "word": "cerise",
+   "start": 1.017,
+   "end": 1.356
+  },
+  {
+   "word": "noire",
+   "start": 1.401,
+   "end": 1.966
+  },
+  {
+   "word": "t’as",
+   "start": 2.0,
+   "end": 2.102
+  },
+  {
+   "word": "déjà",
+   "start": 2.142,
+   "end": 2.305
+  },
+  {
+   "word": "testé",
+   "start": 2.346,
+   "end": 2.576
+  },
+  {
+   "word": "ZAP",
+   "start": 2.799,
+   "end": 3.036
+  },
+  {
+   "word": "un",
+   "start": 3.115,
+   "end": 3.164
+  },
+  {
+   "word": "sachet",
+   "start": 3.204,
+   "end": 3.435
+  },
+  {
+   "word": "sous",
+   "start": 3.462,
+   "end": 3.57
+  },
+  {
+   "word": "la",
+   "start": 3.593,
+   "end": 3.638
+  },
+  {
+   "word": "lèvre",
+   "start": 3.672,
+   "end": 4.18
+  },
+  {
+   "word": "cent",
+   "start": 4.374,
+   "end": 4.385
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.412,
+   "end": 4.792
+  },
+  {
+   "word": "de",
+   "start": 4.814,
+   "end": 4.859
+  },
+  {
+   "word": "caféine",
+   "start": 4.914,
+   "end": 5.605
+  },
+  {
+   "word": "plus",
+   "start": 5.659,
+   "end": 5.876
+  },
+  {
+   "word": "qu'un",
+   "start": 5.899,
+   "end": 6.012
+  },
+  {
+   "word": "expresso",
+   "start": 6.054,
+   "end": 6.893
+  },
+  {
+   "word": "elle-théanine",
+   "start": 7.079,
+   "end": 7.639
+  },
+  {
+   "word": "vitamines",
+   "start": 7.741,
+   "end": 8.249
+  },
+  {
+   "word": "B",
+   "start": 8.351,
+   "end": 8.52
+  },
+  {
+   "word": "fabriqué",
+   "start": 8.639,
+   "end": 9.198
+  },
+  {
+   "word": "en",
+   "start": 9.221,
+   "end": 9.266
+  },
+  {
+   "word": "Suède",
+   "start": 9.334,
+   "end": 10.079
+  },
+  {
+   "word": "trente-six",
+   "start": 10.135,
+   "end": 10.419
+  },
+  {
+   "word": "sachets",
+   "start": 10.459,
+   "end": 10.758
+  },
+  {
+   "word": "dans",
+   "start": 10.771,
+   "end": 10.825
+  },
+  {
+   "word": "le",
+   "start": 10.848,
+   "end": 10.893
+  },
+  {
+   "word": "duo",
+   "start": 10.961,
+   "end": 11.232
+  },
+  {
+   "word": "panier",
+   "start": 11.317,
+   "end": 11.707
+  },
+  {
+   "word": "orange",
+   "start": 11.755,
+   "end": 12.385
+  },
+  {
+   "word": "FONCE",
+   "start": 12.453,
+   "end": 12.859
+  }
+ ],
+ "durationSec": 13.035,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

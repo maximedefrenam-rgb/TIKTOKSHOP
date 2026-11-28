@@ -1,0 +1,171 @@
+{
+ "words": [
+  {
+   "word": "Cerise",
+   "start": 0.173,
+   "end": 0.271
+  },
+  {
+   "word": "noire",
+   "start": 0.316,
+   "end": 0.542
+  },
+  {
+   "word": "ou",
+   "start": 0.565,
+   "end": 0.61
+  },
+  {
+   "word": "menthe",
+   "start": 0.624,
+   "end": 0.746
+  },
+  {
+   "word": "verte",
+   "start": 0.803,
+   "end": 1.288
+  },
+  {
+   "word": "c'est",
+   "start": 1.322,
+   "end": 1.424
+  },
+  {
+   "word": "quoi",
+   "start": 1.451,
+   "end": 1.559
+  },
+  {
+   "word": "ton",
+   "start": 1.61,
+   "end": 1.763
+  },
+  {
+   "word": "camp",
+   "start": 1.79,
+   "end": 1.898
+  },
+  {
+   "word": "la",
+   "start": 2.096,
+   "end": 2.111
+  },
+  {
+   "word": "cerise",
+   "start": 2.162,
+   "end": 2.586
+  },
+  {
+   "word": "cent",
+   "start": 2.64,
+   "end": 2.857
+  },
+  {
+   "word": "milligrammes",
+   "start": 2.884,
+   "end": 3.263
+  },
+  {
+   "word": "par",
+   "start": 3.28,
+   "end": 3.331
+  },
+  {
+   "word": "sachet",
+   "start": 3.386,
+   "end": 3.738
+  },
+  {
+   "word": "la",
+   "start": 3.874,
+   "end": 3.885
+  },
+  {
+   "word": "menthe",
+   "start": 3.925,
+   "end": 4.291
+  },
+  {
+   "word": "cent",
+   "start": 4.359,
+   "end": 4.63
+  },
+  {
+   "word": "cinquante",
+   "start": 4.664,
+   "end": 4.969
+  },
+  {
+   "word": "milligrammes",
+   "start": 5.01,
+   "end": 5.986
+  },
+  {
+   "word": "dis-moi",
+   "start": 6.081,
+   "end": 6.268
+  },
+  {
+   "word": "ton",
+   "start": 6.302,
+   "end": 6.403
+  },
+  {
+   "word": "camp",
+   "start": 6.444,
+   "end": 6.607
+  },
+  {
+   "word": "en",
+   "start": 6.63,
+   "end": 6.674
+  },
+  {
+   "word": "commentaire",
+   "start": 6.714,
+   "end": 7.217
+  },
+  {
+   "word": "la",
+   "start": 7.37,
+   "end": 7.415
+  },
+  {
+   "word": "cerise",
+   "start": 7.466,
+   "end": 7.889
+  },
+  {
+   "word": "trente-six",
+   "start": 7.974,
+   "end": 8.432
+  },
+  {
+   "word": "sachets",
+   "start": 8.486,
+   "end": 8.974
+  },
+  {
+   "word": "panier",
+   "start": 9.008,
+   "end": 9.245
+  },
+  {
+   "word": "orange",
+   "start": 9.294,
+   "end": 9.923
+  },
+  {
+   "word": "FONCE",
+   "start": 9.991,
+   "end": 10.398
+  }
+ ],
+ "durationSec": 10.553,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "words": [
+  {
+   "word": "Lundi",
+   "start": 0.324,
+   "end": 0.493
+  },
+  {
+   "word": "mardi",
+   "start": 0.765,
+   "end": 1.443
+  },
+  {
+   "word": "mercredi",
+   "start": 1.612,
+   "end": 2.527
+  },
+  {
+   "word": "et",
+   "start": 2.606,
+   "end": 2.625
+  },
+  {
+   "word": "t'es",
+   "start": 2.659,
+   "end": 2.828
+  },
+  {
+   "word": "déjà",
+   "start": 2.869,
+   "end": 3.031
+  },
+  {
+   "word": "rincé",
+   "start": 3.065,
+   "end": 3.303
+  },
+  {
+   "word": "un",
+   "start": 3.458,
+   "end": 3.473
+  },
+  {
+   "word": "sachet",
+   "start": 3.527,
+   "end": 3.812
+  },
+  {
+   "word": "de",
+   "start": 3.857,
+   "end": 3.947
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.988,
+   "end": 4.354
+  },
+  {
+   "word": "Manager",
+   "start": 4.397,
+   "end": 4.693
+  },
+  {
+   "word": "par",
+   "start": 4.744,
+   "end": 4.897
+  },
+  {
+   "word": "jour",
+   "start": 4.951,
+   "end": 5.574
+  },
+  {
+   "word": "le",
+   "start": 5.695,
+   "end": 5.71
+  },
+  {
+   "word": "magnésium",
+   "start": 5.751,
+   "end": 6.185
+  },
+  {
+   "word": "contribue",
+   "start": 6.227,
+   "end": 6.591
+  },
+  {
+   "word": "à",
+   "start": 6.659,
+   "end": 6.727
+  },
+  {
+   "word": "réduire",
+   "start": 6.772,
+   "end": 6.998
+  },
+  {
+   "word": "la",
+   "start": 7.021,
+   "end": 7.066
+  },
+  {
+   "word": "fatigue",
+   "start": 7.108,
+   "end": 7.812
+  },
+  {
+   "word": "trois",
+   "start": 7.987,
+   "end": 8.015
+  },
+  {
+   "word": "goûts",
+   "start": 8.06,
+   "end": 8.286
+  },
+  {
+   "word": "et",
+   "start": 8.31,
+   "end": 8.353
+  },
+  {
+   "word": "soixante-dix",
+   "start": 8.421,
+   "end": 8.963
+  },
+  {
+   "word": "centimes",
+   "start": 9.004,
+   "end": 9.302
+  },
+  {
+   "word": "par",
+   "start": 9.336,
+   "end": 9.438
+  },
+  {
+   "word": "jour",
+   "start": 9.478,
+   "end": 10.047
+  },
+  {
+   "word": "livraison",
+   "start": 10.089,
+   "end": 10.395
+  },
+  {
+   "word": "gratuite",
+   "start": 10.447,
+   "end": 11.005
+  },
+  {
+   "word": "panier",
+   "start": 11.039,
+   "end": 11.276
+  },
+  {
+   "word": "orange",
+   "start": 11.324,
+   "end": 11.886
+  },
+  {
+   "word": "FONCE",
+   "start": 11.92,
+   "end": 12.225
+  }
+ ],
+ "durationSec": 12.408,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

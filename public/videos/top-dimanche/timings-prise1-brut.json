@@ -1,0 +1,206 @@
+{
+ "words": [
+  {
+   "word": "La",
+   "start": 0.139,
+   "end": 0.16
+  },
+  {
+   "word": "valise",
+   "start": 0.2,
+   "end": 0.48
+  },
+  {
+   "word": "diag",
+   "start": 0.544,
+   "end": 0.8
+  },
+  {
+   "word": "Topdon",
+   "start": 0.86,
+   "end": 1.2
+  },
+  {
+   "word": "en",
+   "start": 1.227,
+   "end": 1.28
+  },
+  {
+   "word": "promo",
+   "start": 1.333,
+   "end": 1.84
+  },
+  {
+   "word": "c'est",
+   "start": 1.92,
+   "end": 2.08
+  },
+  {
+   "word": "fini",
+   "start": 2.14,
+   "end": 2.4
+  },
+  {
+   "word": "dimanche",
+   "start": 2.44,
+   "end": 2.88
+  },
+  {
+   "word": "la",
+   "start": 3.747,
+   "end": 3.76
+  },
+  {
+   "word": "ArtiDiag",
+   "start": 3.84,
+   "end": 4.48
+  },
+  {
+   "word": "six",
+   "start": 4.54,
+   "end": 4.72
+  },
+  {
+   "word": "cents",
+   "start": 4.733,
+   "end": 4.8
+  },
+  {
+   "word": "S",
+   "start": 5,
+   "end": 5.28
+  },
+  {
+   "word": "moteur",
+   "start": 5.755,
+   "end": 6.251
+  },
+  {
+   "word": "boîte",
+   "start": 6.304,
+   "end": 6.651
+  },
+  {
+   "word": "airbag",
+   "start": 6.711,
+   "end": 7.211
+  },
+  {
+   "word": "ABS",
+   "start": 7.351,
+   "end": 8.251
+  },
+  {
+   "word": "cent",
+   "start": 8.395,
+   "end": 8.411
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 8.457,
+   "end": 9.051
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 9.085,
+   "end": 9.971
+  },
+  {
+   "word": "au",
+   "start": 10.038,
+   "end": 10.171
+  },
+  {
+   "word": "lieu",
+   "start": 10.219,
+   "end": 10.411
+  },
+  {
+   "word": "de",
+   "start": 10.464,
+   "end": 10.571
+  },
+  {
+   "word": "deux",
+   "start": 10.603,
+   "end": 10.731
+  },
+  {
+   "word": "cent",
+   "start": 10.763,
+   "end": 10.891
+  },
+  {
+   "word": "neuf",
+   "start": 10.944,
+   "end": 11.132
+  },
+  {
+   "word": "et",
+   "start": 11.984,
+   "end": 12.027
+  },
+  {
+   "word": "cent",
+   "start": 12.04,
+   "end": 12.091
+  },
+  {
+   "word": "cinquante",
+   "start": 12.131,
+   "end": 12.491
+  },
+  {
+   "word": "et",
+   "start": 12.518,
+   "end": 12.571
+  },
+  {
+   "word": "un",
+   "start": 12.598,
+   "end": 12.651
+  },
+  {
+   "word": "avec",
+   "start": 12.699,
+   "end": 12.891
+  },
+  {
+   "word": "les",
+   "start": 12.911,
+   "end": 12.971
+  },
+  {
+   "word": "coupons",
+   "start": 13.021,
+   "end": 13.931
+  },
+  {
+   "word": "livraison",
+   "start": 14.141,
+   "end": 14.411
+  },
+  {
+   "word": "gratuite",
+   "start": 14.464,
+   "end": 14.971
+  },
+  {
+   "word": "panier",
+   "start": 15.031,
+   "end": 15.291
+  },
+  {
+   "word": "orange",
+   "start": 15.348,
+   "end": 16.091
+  },
+  {
+   "word": "FONCE",
+   "start": 16.131,
+   "end": 16.571
+  }
+ ],
+ "durationSec": 16.771,
+ "model": "eleven_v3"
+}

@@ -1,0 +1,196 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.176,
+   "end": 0.203
+  },
+  {
+   "word": "pack",
+   "start": 0.258,
+   "end": 0.475
+  },
+  {
+   "word": "créatine",
+   "start": 0.525,
+   "end": 0.881
+  },
+  {
+   "word": "et",
+   "start": 0.926,
+   "end": 1.017
+  },
+  {
+   "word": "collagène",
+   "start": 1.044,
+   "end": 1.424
+  },
+  {
+   "word": "à",
+   "start": 1.492,
+   "end": 1.559
+  },
+  {
+   "word": "ce",
+   "start": 1.604,
+   "end": 1.695
+  },
+  {
+   "word": "prix",
+   "start": 1.736,
+   "end": 2.102
+  },
+  {
+   "word": "c'est",
+   "start": 2.136,
+   "end": 2.237
+  },
+  {
+   "word": "jusqu'à",
+   "start": 2.271,
+   "end": 2.508
+  },
+  {
+   "word": "dimanche",
+   "start": 2.559,
+   "end": 2.983
+  },
+  {
+   "word": "la",
+   "start": 3.141,
+   "end": 3.151
+  },
+  {
+   "word": "créatine",
+   "start": 3.218,
+   "end": 3.625
+  },
+  {
+   "word": "Creapure",
+   "start": 3.693,
+   "end": 4.303
+  },
+  {
+   "word": "cinq",
+   "start": 4.337,
+   "end": 4.439
+  },
+  {
+   "word": "cents",
+   "start": 4.462,
+   "end": 4.574
+  },
+  {
+   "word": "grammes",
+   "start": 4.608,
+   "end": 5.184
+  },
+  {
+   "word": "et",
+   "start": 5.343,
+   "end": 5.361
+  },
+  {
+   "word": "le",
+   "start": 5.37,
+   "end": 5.388
+  },
+  {
+   "word": "collagène",
+   "start": 5.442,
+   "end": 5.862
+  },
+  {
+   "word": "marin",
+   "start": 5.907,
+   "end": 6.269
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 6.298,
+   "end": 6.744
+  },
+  {
+   "word": "gélules",
+   "start": 6.778,
+   "end": 7.422
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 7.598,
+   "end": 7.964
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 8.012,
+   "end": 8.71
+  },
+  {
+   "word": "au",
+   "start": 8.755,
+   "end": 8.845
+  },
+  {
+   "word": "lieu",
+   "start": 8.859,
+   "end": 8.913
+  },
+  {
+   "word": "de",
+   "start": 8.981,
+   "end": 9.117
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 9.151,
+   "end": 9.523
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 9.562,
+   "end": 10.337
+  },
+  {
+   "word": "livraison",
+   "start": 10.515,
+   "end": 10.744
+  },
+  {
+   "word": "gratuite",
+   "start": 10.789,
+   "end": 11.218
+  },
+  {
+   "word": "panier",
+   "start": 11.252,
+   "end": 11.49
+  },
+  {
+   "word": "orange",
+   "start": 11.538,
+   "end": 12.032
+  },
+  {
+   "word": "prends",
+   "start": 12.055,
+   "end": 12.235
+  },
+  {
+   "word": "le",
+   "start": 12.258,
+   "end": 12.303
+  },
+  {
+   "word": "pack",
+   "start": 12.344,
+   "end": 12.506
+  }
+ ],
+ "durationSec": 12.696,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

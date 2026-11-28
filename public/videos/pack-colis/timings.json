@@ -1,0 +1,276 @@
+{
+ "words": [
+  {
+   "word": "Deux",
+   "start": 0.058,
+   "end": 0.271
+  },
+  {
+   "word": "produits",
+   "start": 0.294,
+   "end": 0.814
+  },
+  {
+   "word": "un",
+   "start": 0.858,
+   "end": 0.949
+  },
+  {
+   "word": "seul",
+   "start": 0.976,
+   "end": 1.085
+  },
+  {
+   "word": "colis",
+   "start": 1.136,
+   "end": 1.763
+  },
+  {
+   "word": "et",
+   "start": 1.786,
+   "end": 1.831
+  },
+  {
+   "word": "moins",
+   "start": 1.864,
+   "end": 2.034
+  },
+  {
+   "word": "vingt-deux",
+   "start": 2.102,
+   "end": 2.407
+  },
+  {
+   "word": "pour",
+   "start": 2.427,
+   "end": 2.508
+  },
+  {
+   "word": "cent",
+   "start": 2.536,
+   "end": 2.644
+  },
+  {
+   "word": "la",
+   "start": 2.884,
+   "end": 2.893
+  },
+  {
+   "word": "créatine",
+   "start": 2.944,
+   "end": 3.3
+  },
+  {
+   "word": "monohydrate",
+   "start": 3.334,
+   "end": 3.843
+  },
+  {
+   "word": "Creapure",
+   "start": 3.893,
+   "end": 4.52
+  },
+  {
+   "word": "cent",
+   "start": 4.534,
+   "end": 4.588
+  },
+  {
+   "word": "pour",
+   "start": 4.629,
+   "end": 4.792
+  },
+  {
+   "word": "cent",
+   "start": 4.819,
+   "end": 4.927
+  },
+  {
+   "word": "pure",
+   "start": 4.981,
+   "end": 5.266
+  },
+  {
+   "word": "le",
+   "start": 5.387,
+   "end": 5.396
+  },
+  {
+   "word": "collagène",
+   "start": 5.437,
+   "end": 5.803
+  },
+  {
+   "word": "marin",
+   "start": 5.848,
+   "end": 6.074
+  },
+  {
+   "word": "type",
+   "start": 6.115,
+   "end": 6.277
+  },
+  {
+   "word": "un",
+   "start": 6.345,
+   "end": 6.482
+  },
+  {
+   "word": "riche",
+   "start": 6.65,
+   "end": 6.955
+  },
+  {
+   "word": "en",
+   "start": 6.978,
+   "end": 7.023
+  },
+  {
+   "word": "vitamines",
+   "start": 7.074,
+   "end": 7.43
+  },
+  {
+   "word": "C",
+   "start": 7.566,
+   "end": 7.701
+  },
+  {
+   "word": "et",
+   "start": 7.769,
+   "end": 7.905
+  },
+  {
+   "word": "E",
+   "start": 7.972,
+   "end": 8.04
+  },
+  {
+   "word": "naturelles",
+   "start": 8.089,
+   "end": 8.854
+  },
+  {
+   "word": "trois",
+   "start": 9.02,
+   "end": 9.057
+  },
+  {
+   "word": "grammes",
+   "start": 9.102,
+   "end": 9.396
+  },
+  {
+   "word": "de",
+   "start": 9.419,
+   "end": 9.464
+  },
+  {
+   "word": "créatine",
+   "start": 9.498,
+   "end": 9.803
+  },
+  {
+   "word": "par",
+   "start": 9.854,
+   "end": 10.006
+  },
+  {
+   "word": "jour",
+   "start": 10.061,
+   "end": 10.277
+  },
+  {
+   "word": "augmentent",
+   "start": 10.337,
+   "end": 10.786
+  },
+  {
+   "word": "la",
+   "start": 10.797,
+   "end": 10.82
+  },
+  {
+   "word": "performance",
+   "start": 10.865,
+   "end": 11.362
+  },
+  {
+   "word": "physique",
+   "start": 11.4,
+   "end": 11.701
+  },
+  {
+   "word": "lors",
+   "start": 11.755,
+   "end": 11.972
+  },
+  {
+   "word": "d'exercices",
+   "start": 12.006,
+   "end": 12.447
+  },
+  {
+   "word": "courts",
+   "start": 12.486,
+   "end": 13.057
+  },
+  {
+   "word": "intenses",
+   "start": 13.108,
+   "end": 13.532
+  },
+  {
+   "word": "et",
+   "start": 13.644,
+   "end": 13.871
+  },
+  {
+   "word": "répétés",
+   "start": 13.916,
+   "end": 14.82
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 14.907,
+   "end": 15.368
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 15.388,
+   "end": 15.843
+  },
+  {
+   "word": "les",
+   "start": 15.877,
+   "end": 15.978
+  },
+  {
+   "word": "deux",
+   "start": 15.992,
+   "end": 16.453
+  },
+  {
+   "word": "panier",
+   "start": 16.487,
+   "end": 16.656
+  },
+  {
+   "word": "orange",
+   "start": 16.705,
+   "end": 17.266
+  },
+  {
+   "word": "FONCE",
+   "start": 17.334,
+   "end": 17.673
+  }
+ ],
+ "durationSec": 17.842,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

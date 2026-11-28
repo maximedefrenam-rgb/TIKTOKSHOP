@@ -1,0 +1,221 @@
+{
+ "words": [
+  {
+   "word": "Leg",
+   "start": 0.233,
+   "end": 0.271
+  },
+  {
+   "word": "day",
+   "start": 0.322,
+   "end": 0.475
+  },
+  {
+   "word": "à",
+   "start": 0.542,
+   "end": 0.61
+  },
+  {
+   "word": "sept",
+   "start": 0.637,
+   "end": 0.746
+  },
+  {
+   "word": "heures",
+   "start": 0.775,
+   "end": 0.949
+  },
+  {
+   "word": "du",
+   "start": 0.972,
+   "end": 1.017
+  },
+  {
+   "word": "mat'",
+   "start": 1.051,
+   "end": 1.492
+  },
+  {
+   "word": "et",
+   "start": 1.514,
+   "end": 1.559
+  },
+  {
+   "word": "t'es",
+   "start": 1.593,
+   "end": 1.695
+  },
+  {
+   "word": "encore",
+   "start": 1.734,
+   "end": 1.966
+  },
+  {
+   "word": "au",
+   "start": 1.989,
+   "end": 2.034
+  },
+  {
+   "word": "lit",
+   "start": 2.068,
+   "end": 2.169
+  },
+  {
+   "word": "Un",
+   "start": 2.346,
+   "end": 2.391
+  },
+  {
+   "word": "sachet",
+   "start": 2.432,
+   "end": 2.73
+  },
+  {
+   "word": "ZAP",
+   "start": 2.798,
+   "end": 3.001
+  },
+  {
+   "word": "menthe",
+   "start": 3.042,
+   "end": 3.272
+  },
+  {
+   "word": "sous",
+   "start": 3.299,
+   "end": 3.408
+  },
+  {
+   "word": "la",
+   "start": 3.431,
+   "end": 3.476
+  },
+  {
+   "word": "lèvre",
+   "start": 3.509,
+   "end": 4.154
+  },
+  {
+   "word": "cent",
+   "start": 4.276,
+   "end": 4.289
+  },
+  {
+   "word": "cinquante",
+   "start": 4.34,
+   "end": 4.696
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.723,
+   "end": 5.103
+  },
+  {
+   "word": "de",
+   "start": 5.126,
+   "end": 5.17
+  },
+  {
+   "word": "caféine",
+   "start": 5.225,
+   "end": 5.916
+  },
+  {
+   "word": "presque",
+   "start": 5.957,
+   "end": 6.255
+  },
+  {
+   "word": "deux",
+   "start": 6.296,
+   "end": 6.459
+  },
+  {
+   "word": "expressos",
+   "start": 6.518,
+   "end": 7.476
+  },
+  {
+   "word": "elle-théanine",
+   "start": 7.6,
+   "end": 8.018
+  },
+  {
+   "word": "et",
+   "start": 8.063,
+   "end": 8.154
+  },
+  {
+   "word": "vitamines",
+   "start": 8.204,
+   "end": 8.56
+  },
+  {
+   "word": "B",
+   "start": 8.628,
+   "end": 8.764
+  },
+  {
+   "word": "quarante",
+   "start": 8.92,
+   "end": 9.083
+  },
+  {
+   "word": "centimes",
+   "start": 9.137,
+   "end": 9.422
+  },
+  {
+   "word": "le",
+   "start": 9.444,
+   "end": 9.489
+  },
+  {
+   "word": "sachet",
+   "start": 9.544,
+   "end": 9.896
+  },
+  {
+   "word": "Black",
+   "start": 9.975,
+   "end": 10.371
+  },
+  {
+   "word": "Friday",
+   "start": 10.419,
+   "end": 10.71
+  },
+  {
+   "word": "jusqu'à",
+   "start": 10.744,
+   "end": 10.981
+  },
+  {
+   "word": "dimanche",
+   "start": 11.015,
+   "end": 11.456
+  },
+  {
+   "word": "panier",
+   "start": 11.557,
+   "end": 11.93
+  },
+  {
+   "word": "orange",
+   "start": 11.978,
+   "end": 12.337
+  },
+  {
+   "word": "FONCE",
+   "start": 12.506,
+   "end": 13.015
+  }
+ ],
+ "durationSec": 13.192,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

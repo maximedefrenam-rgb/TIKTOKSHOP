@@ -1,0 +1,176 @@
+{
+ "words": [
+  {
+   "word": "Ton",
+   "start": 0.061,
+   "end": 0.081
+  },
+  {
+   "word": "daron",
+   "start": 0.115,
+   "end": 0.352
+  },
+  {
+   "word": "bricole",
+   "start": 0.375,
+   "end": 0.624
+  },
+  {
+   "word": "sa",
+   "start": 0.668,
+   "end": 0.759
+  },
+  {
+   "word": "caisse",
+   "start": 0.804,
+   "end": 1.098
+  },
+  {
+   "word": "Voilà",
+   "start": 1.254,
+   "end": 1.435
+  },
+  {
+   "word": "son",
+   "start": 1.469,
+   "end": 1.57
+  },
+  {
+   "word": "cadeau",
+   "start": 1.611,
+   "end": 1.842
+  },
+  {
+   "word": "la",
+   "start": 2.06,
+   "end": 2.083
+  },
+  {
+   "word": "valise",
+   "start": 2.133,
+   "end": 2.489
+  },
+  {
+   "word": "diag",
+   "start": 2.53,
+   "end": 2.693
+  },
+  {
+   "word": "Topdon",
+   "start": 2.761,
+   "end": 3.235
+  },
+  {
+   "word": "avec",
+   "start": 3.317,
+   "end": 3.642
+  },
+  {
+   "word": "sa",
+   "start": 3.687,
+   "end": 3.778
+  },
+  {
+   "word": "sacoche",
+   "start": 3.845,
+   "end": 4.455
+  },
+  {
+   "word": "moteur",
+   "start": 4.74,
+   "end": 4.998
+  },
+  {
+   "word": "boîte",
+   "start": 5.043,
+   "end": 5.337
+  },
+  {
+   "word": "airbag",
+   "start": 5.388,
+   "end": 5.947
+  },
+  {
+   "word": "ABS",
+   "start": 5.998,
+   "end": 6.422
+  },
+  {
+   "word": "cent",
+   "start": 6.611,
+   "end": 6.625
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 6.664,
+   "end": 7.238
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 7.257,
+   "end": 7.78
+  },
+  {
+   "word": "au",
+   "start": 7.848,
+   "end": 7.983
+  },
+  {
+   "word": "lieu",
+   "start": 8.011,
+   "end": 8.119
+  },
+  {
+   "word": "de",
+   "start": 8.164,
+   "end": 8.255
+  },
+  {
+   "word": "deux",
+   "start": 8.282,
+   "end": 8.39
+  },
+  {
+   "word": "cent",
+   "start": 8.417,
+   "end": 8.526
+  },
+  {
+   "word": "neuf",
+   "start": 8.571,
+   "end": 8.933
+  },
+  {
+   "word": "livraison",
+   "start": 9.068,
+   "end": 9.297
+  },
+  {
+   "word": "gratuite",
+   "start": 9.342,
+   "end": 9.772
+  },
+  {
+   "word": "panier",
+   "start": 9.856,
+   "end": 10.179
+  },
+  {
+   "word": "orange",
+   "start": 10.227,
+   "end": 10.856
+  },
+  {
+   "word": "FONCE",
+   "start": 10.89,
+   "end": 11.263
+  }
+ ],
+ "durationSec": 11.442,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

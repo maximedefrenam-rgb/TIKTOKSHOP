@@ -1,0 +1,196 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.147,
+   "end": 0.16
+  },
+  {
+   "word": "Cortisol",
+   "start": 0.24,
+   "end": 0.8
+  },
+  {
+   "word": "Manager",
+   "start": 0.88,
+   "end": 1.44
+  },
+  {
+   "word": "au",
+   "start": 1.52,
+   "end": 1.68
+  },
+  {
+   "word": "prix",
+   "start": 1.744,
+   "end": 2
+  },
+  {
+   "word": "le",
+   "start": 2.053,
+   "end": 2.16
+  },
+  {
+   "word": "plus",
+   "start": 2.208,
+   "end": 2.4
+  },
+  {
+   "word": "bas",
+   "start": 2.46,
+   "end": 2.64
+  },
+  {
+   "word": "de",
+   "start": 2.667,
+   "end": 2.72
+  },
+  {
+   "word": "l'année",
+   "start": 2.76,
+   "end": 3.04
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.832,
+   "end": 4.48
+  },
+  {
+   "word": "vingt",
+   "start": 4.68,
+   "end": 4.96
+  },
+  {
+   "word": "euros",
+   "start": 5,
+   "end": 5.2
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 5.234,
+   "end": 5.76
+  },
+  {
+   "word": "les",
+   "start": 5.8,
+   "end": 5.92
+  },
+  {
+   "word": "trente",
+   "start": 5.96,
+   "end": 6.16
+  },
+  {
+   "word": "sachets",
+   "start": 6.208,
+   "end": 6.96
+  },
+  {
+   "word": "soixante-dix",
+   "start": 7.013,
+   "end": 7.6
+  },
+  {
+   "word": "centimes",
+   "start": 7.664,
+   "end": 8.08
+  },
+  {
+   "word": "par",
+   "start": 8.1,
+   "end": 8.16
+  },
+  {
+   "word": "jour",
+   "start": 8.224,
+   "end": 8.96
+  },
+  {
+   "word": "ashwagandha",
+   "start": 9.18,
+   "end": 10.08
+  },
+  {
+   "word": "elle-théanine",
+   "start": 10.112,
+   "end": 11.12
+  },
+  {
+   "word": "magnésium",
+   "start": 11.184,
+   "end": 12.16
+  },
+  {
+   "word": "vitamine",
+   "start": 12.22,
+   "end": 12.64
+  },
+  {
+   "word": "D",
+   "start": 12.76,
+   "end": 13.6
+  },
+  {
+   "word": "le",
+   "start": 13.82,
+   "end": 13.86
+  },
+  {
+   "word": "magnésium",
+   "start": 13.872,
+   "end": 14.32
+  },
+  {
+   "word": "contribue",
+   "start": 14.4,
+   "end": 15.12
+  },
+  {
+   "word": "à",
+   "start": 15.16,
+   "end": 15.2
+  },
+  {
+   "word": "réduire",
+   "start": 15.253,
+   "end": 15.52
+  },
+  {
+   "word": "la",
+   "start": 15.547,
+   "end": 15.6
+  },
+  {
+   "word": "fatigue",
+   "start": 15.66,
+   "end": 16.8
+  },
+  {
+   "word": "livraison",
+   "start": 16.909,
+   "end": 17.289
+  },
+  {
+   "word": "gratuite",
+   "start": 17.351,
+   "end": 18.169
+  },
+  {
+   "word": "panier",
+   "start": 18.229,
+   "end": 18.489
+  },
+  {
+   "word": "orange",
+   "start": 18.546,
+   "end": 19.289
+  },
+  {
+   "word": "FONCE",
+   "start": 19.369,
+   "end": 19.769
+  }
+ ],
+ "durationSec": 20.036,
+ "model": "eleven_v3"
+}

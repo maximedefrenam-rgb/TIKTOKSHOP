@@ -1,0 +1,211 @@
+{
+ "words": [
+  {
+   "word": "Ma",
+   "start": 0.125,
+   "end": 0.136
+  },
+  {
+   "word": "routine",
+   "start": 0.178,
+   "end": 0.475
+  },
+  {
+   "word": "du",
+   "start": 0.497,
+   "end": 0.542
+  },
+  {
+   "word": "soir",
+   "start": 0.597,
+   "end": 1.017
+  },
+  {
+   "word": "je",
+   "start": 1.04,
+   "end": 1.085
+  },
+  {
+   "word": "te",
+   "start": 1.108,
+   "end": 1.153
+  },
+  {
+   "word": "la",
+   "start": 1.197,
+   "end": 1.288
+  },
+  {
+   "word": "montre",
+   "start": 1.315,
+   "end": 1.492
+  },
+  {
+   "word": "un",
+   "start": 1.631,
+   "end": 1.638
+  },
+  {
+   "word": "sachet",
+   "start": 1.692,
+   "end": 2.045
+  },
+  {
+   "word": "de",
+   "start": 2.068,
+   "end": 2.113
+  },
+  {
+   "word": "Cortisol",
+   "start": 2.167,
+   "end": 2.587
+  },
+  {
+   "word": "Manager",
+   "start": 2.638,
+   "end": 2.994
+  },
+  {
+   "word": "dans",
+   "start": 3.021,
+   "end": 3.13
+  },
+  {
+   "word": "un",
+   "start": 3.153,
+   "end": 3.197
+  },
+  {
+   "word": "verre",
+   "start": 3.231,
+   "end": 3.367
+  },
+  {
+   "word": "d'eau",
+   "start": 3.384,
+   "end": 3.536
+  },
+  {
+   "word": "goût",
+   "start": 3.707,
+   "end": 3.798
+  },
+  {
+   "word": "litchi-fraise",
+   "start": 3.831,
+   "end": 4.543
+  },
+  {
+   "word": "framboise-citron",
+   "start": 4.584,
+   "end": 5.289
+  },
+  {
+   "word": "ou",
+   "start": 5.38,
+   "end": 5.56
+  },
+  {
+   "word": "pêche",
+   "start": 5.594,
+   "end": 5.764
+  },
+  {
+   "word": "blanche",
+   "start": 5.787,
+   "end": 6.713
+  },
+  {
+   "word": "le",
+   "start": 6.833,
+   "end": 6.848
+  },
+  {
+   "word": "magnésium",
+   "start": 6.889,
+   "end": 7.391
+  },
+  {
+   "word": "contribue",
+   "start": 7.425,
+   "end": 7.73
+  },
+  {
+   "word": "à",
+   "start": 7.764,
+   "end": 7.798
+  },
+  {
+   "word": "des",
+   "start": 7.831,
+   "end": 7.933
+  },
+  {
+   "word": "fonctions",
+   "start": 7.967,
+   "end": 8.272
+  },
+  {
+   "word": "psychologiques",
+   "start": 8.306,
+   "end": 8.882
+  },
+  {
+   "word": "normales",
+   "start": 8.937,
+   "end": 9.764
+  },
+  {
+   "word": "soixante-dix",
+   "start": 9.905,
+   "end": 10.381
+  },
+  {
+   "word": "centimes",
+   "start": 10.408,
+   "end": 10.584
+  },
+  {
+   "word": "par",
+   "start": 10.618,
+   "end": 10.72
+  },
+  {
+   "word": "jour",
+   "start": 10.76,
+   "end": 11.262
+  },
+  {
+   "word": "livraison",
+   "start": 11.296,
+   "end": 11.669
+  },
+  {
+   "word": "gratuite",
+   "start": 11.714,
+   "end": 12.279
+  },
+  {
+   "word": "panier",
+   "start": 12.313,
+   "end": 12.55
+  },
+  {
+   "word": "orange",
+   "start": 12.598,
+   "end": 13.228
+  },
+  {
+   "word": "FONCE",
+   "start": 13.262,
+   "end": 13.567
+  }
+ ],
+ "durationSec": 13.74,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

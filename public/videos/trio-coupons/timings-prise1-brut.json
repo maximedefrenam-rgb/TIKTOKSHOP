@@ -1,0 +1,211 @@
+{
+ "words": [
+  {
+   "word": "Ouatte-de-fuck",
+   "start": 0.15,
+   "end": 1.2
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 1.232,
+   "end": 1.84
+  },
+  {
+   "word": "euros",
+   "start": 1.907,
+   "end": 2.56
+  },
+  {
+   "word": "et",
+   "start": 2.587,
+   "end": 2.64
+  },
+  {
+   "word": "trente-cinq",
+   "start": 2.68,
+   "end": 3.12
+  },
+  {
+   "word": "vingt",
+   "start": 3.2,
+   "end": 3.36
+  },
+  {
+   "word": "avec",
+   "start": 3.408,
+   "end": 3.6
+  },
+  {
+   "word": "les",
+   "start": 3.64,
+   "end": 3.76
+  },
+  {
+   "word": "coupons",
+   "start": 3.81,
+   "end": 4.16
+  },
+  {
+   "word": "le",
+   "start": 5.027,
+   "end": 5.04
+  },
+  {
+   "word": "set",
+   "start": 5.14,
+   "end": 5.44
+  },
+  {
+   "word": "Medicube",
+   "start": 5.533,
+   "end": 6.16
+  },
+  {
+   "word": "de",
+   "start": 6.187,
+   "end": 6.24
+  },
+  {
+   "word": "trois",
+   "start": 6.28,
+   "end": 6.48
+  },
+  {
+   "word": "toner",
+   "start": 6.54,
+   "end": 6.88
+  },
+  {
+   "word": "pads",
+   "start": 6.944,
+   "end": 7.28
+  },
+  {
+   "word": "vitamine",
+   "start": 7.74,
+   "end": 8
+  },
+  {
+   "word": "C",
+   "start": 8.16,
+   "end": 8.4
+  },
+  {
+   "word": "AHA",
+   "start": 8.56,
+   "end": 9.32
+  },
+  {
+   "word": "BHA",
+   "start": 9.42,
+   "end": 10.08
+  },
+  {
+   "word": "acide",
+   "start": 10.16,
+   "end": 10.4
+  },
+  {
+   "word": "succinique",
+   "start": 10.464,
+   "end": 11.12
+  },
+  {
+   "word": "pour",
+   "start": 11.589,
+   "end": 11.6
+  },
+  {
+   "word": "une",
+   "start": 11.62,
+   "end": 11.68
+  },
+  {
+   "word": "peau",
+   "start": 11.733,
+   "end": 11.92
+  },
+  {
+   "word": "nette",
+   "start": 12,
+   "end": 12.4
+  },
+  {
+   "word": "selon",
+   "start": 12.467,
+   "end": 12.8
+  },
+  {
+   "word": "la",
+   "start": 12.827,
+   "end": 12.88
+  },
+  {
+   "word": "marque",
+   "start": 12.937,
+   "end": 13.36
+  },
+  {
+   "word": "prix",
+   "start": 14.048,
+   "end": 14.08
+  },
+  {
+   "word": "le",
+   "start": 14.133,
+   "end": 14.24
+  },
+  {
+   "word": "plus",
+   "start": 14.288,
+   "end": 14.48
+  },
+  {
+   "word": "bas",
+   "start": 14.54,
+   "end": 14.72
+  },
+  {
+   "word": "sur",
+   "start": 14.78,
+   "end": 14.96
+  },
+  {
+   "word": "trente",
+   "start": 15.02,
+   "end": 15.28
+  },
+  {
+   "word": "jours",
+   "start": 15.347,
+   "end": 15.76
+  },
+  {
+   "word": "jusqu'à",
+   "start": 15.84,
+   "end": 16.32
+  },
+  {
+   "word": "dimanche",
+   "start": 16.38,
+   "end": 16.96
+  },
+  {
+   "word": "panier",
+   "start": 17.06,
+   "end": 17.44
+  },
+  {
+   "word": "orange",
+   "start": 17.52,
+   "end": 18.08
+  },
+  {
+   "word": "FONCE",
+   "start": 18.32,
+   "end": 18.96
+  }
+ ],
+ "durationSec": 19.331,
+ "model": "eleven_v3"
+}

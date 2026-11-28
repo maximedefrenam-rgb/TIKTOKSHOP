@@ -1,0 +1,186 @@
+{
+ "words": [
+  {
+   "word": "Tes",
+   "start": 0.14,
+   "end": 0.16
+  },
+  {
+   "word": "journées",
+   "start": 0.2,
+   "end": 0.48
+  },
+  {
+   "word": "au",
+   "start": 0.507,
+   "end": 0.56
+  },
+  {
+   "word": "taf",
+   "start": 0.64,
+   "end": 0.88
+  },
+  {
+   "word": "te",
+   "start": 0.933,
+   "end": 1.04
+  },
+  {
+   "word": "vident",
+   "start": 1.12,
+   "end": 1.44
+  },
+  {
+   "word": "complètement",
+   "start": 1.48,
+   "end": 2
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.184,
+   "end": 3.52
+  },
+  {
+   "word": "Cortisol",
+   "start": 3.584,
+   "end": 4.16
+  },
+  {
+   "word": "Manager",
+   "start": 4.22,
+   "end": 5.12
+  },
+  {
+   "word": "un",
+   "start": 5.147,
+   "end": 5.2
+  },
+  {
+   "word": "sachet",
+   "start": 5.248,
+   "end": 5.52
+  },
+  {
+   "word": "par",
+   "start": 5.56,
+   "end": 5.68
+  },
+  {
+   "word": "jour",
+   "start": 5.744,
+   "end": 6.4
+  },
+  {
+   "word": "le",
+   "start": 6.627,
+   "end": 6.698
+  },
+  {
+   "word": "magnésium",
+   "start": 6.72,
+   "end": 7.125
+  },
+  {
+   "word": "contribue",
+   "start": 7.185,
+   "end": 7.685
+  },
+  {
+   "word": "à",
+   "start": 7.725,
+   "end": 7.765
+  },
+  {
+   "word": "réduire",
+   "start": 7.818,
+   "end": 8.085
+  },
+  {
+   "word": "la",
+   "start": 8.138,
+   "end": 8.245
+  },
+  {
+   "word": "fatigue",
+   "start": 8.295,
+   "end": 9.205
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 9.43,
+   "end": 10.005
+  },
+  {
+   "word": "mille",
+   "start": 10.045,
+   "end": 10.245
+  },
+  {
+   "word": "vendus",
+   "start": 10.293,
+   "end": 11.045
+  },
+  {
+   "word": "quatre",
+   "start": 11.079,
+   "end": 11.285
+  },
+  {
+   "word": "virgule",
+   "start": 11.345,
+   "end": 11.605
+  },
+  {
+   "word": "cinq",
+   "start": 11.725,
+   "end": 11.965
+  },
+  {
+   "word": "étoiles",
+   "start": 12.025,
+   "end": 12.885
+  },
+  {
+   "word": "vingt",
+   "start": 13.021,
+   "end": 13.045
+  },
+  {
+   "word": "euros",
+   "start": 13.098,
+   "end": 13.365
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 13.399,
+   "end": 14.325
+  },
+  {
+   "word": "livraison",
+   "start": 14.385,
+   "end": 14.805
+  },
+  {
+   "word": "gratuite",
+   "start": 14.858,
+   "end": 15.605
+  },
+  {
+   "word": "panier",
+   "start": 15.645,
+   "end": 15.925
+  },
+  {
+   "word": "orange",
+   "start": 15.982,
+   "end": 16.645
+  },
+  {
+   "word": "FONCE",
+   "start": 16.725,
+   "end": 17.205
+  }
+ ],
+ "durationSec": 17.398,
+ "model": "eleven_v3"
+}

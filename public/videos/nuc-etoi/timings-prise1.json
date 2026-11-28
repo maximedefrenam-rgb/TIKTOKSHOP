@@ -1,0 +1,196 @@
+{
+ "words": [
+  {
+   "word": "Cinquante-cinq",
+   "start": 0.149,
+   "end": 0.655
+  },
+  {
+   "word": "mille",
+   "start": 0.701,
+   "end": 0.881
+  },
+  {
+   "word": "personnes",
+   "start": 0.915,
+   "end": 1.356
+  },
+  {
+   "word": "l'ont",
+   "start": 1.39,
+   "end": 1.559
+  },
+  {
+   "word": "pris",
+   "start": 1.6,
+   "end": 2.102
+  },
+  {
+   "word": "et",
+   "start": 2.147,
+   "end": 2.237
+  },
+  {
+   "word": "toi",
+   "start": 2.288,
+   "end": 2.441
+  },
+  {
+   "word": "le",
+   "start": 2.609,
+   "end": 2.62
+  },
+  {
+   "word": "Cortisol",
+   "start": 2.687,
+   "end": 3.23
+  },
+  {
+   "word": "Manager",
+   "start": 3.289,
+   "end": 3.704
+  },
+  {
+   "word": "de",
+   "start": 3.749,
+   "end": 3.84
+  },
+  {
+   "word": "Nuclever",
+   "start": 3.874,
+   "end": 4.382
+  },
+  {
+   "word": "quatre",
+   "start": 4.45,
+   "end": 4.857
+  },
+  {
+   "word": "virgule",
+   "start": 4.908,
+   "end": 5.128
+  },
+  {
+   "word": "cinq",
+   "start": 5.162,
+   "end": 5.264
+  },
+  {
+   "word": "étoiles",
+   "start": 5.365,
+   "end": 5.738
+  },
+  {
+   "word": "ashwagandha",
+   "start": 5.887,
+   "end": 6.582
+  },
+  {
+   "word": "elle-théanine",
+   "start": 6.609,
+   "end": 7.327
+  },
+  {
+   "word": "magnésium",
+   "start": 7.368,
+   "end": 8.073
+  },
+  {
+   "word": "vitamine",
+   "start": 8.124,
+   "end": 8.48
+  },
+  {
+   "word": "D",
+   "start": 8.582,
+   "end": 9.294
+  },
+  {
+   "word": "le",
+   "start": 9.414,
+   "end": 9.429
+  },
+  {
+   "word": "magnésium",
+   "start": 9.47,
+   "end": 9.904
+  },
+  {
+   "word": "contribue",
+   "start": 9.946,
+   "end": 10.311
+  },
+  {
+   "word": "à",
+   "start": 10.344,
+   "end": 10.378
+  },
+  {
+   "word": "réduire",
+   "start": 10.423,
+   "end": 10.65
+  },
+  {
+   "word": "la",
+   "start": 10.672,
+   "end": 10.717
+  },
+  {
+   "word": "fatigue",
+   "start": 10.76,
+   "end": 11.192
+  },
+  {
+   "word": "prix",
+   "start": 11.336,
+   "end": 11.363
+  },
+  {
+   "word": "le",
+   "start": 11.386,
+   "end": 11.431
+  },
+  {
+   "word": "plus",
+   "start": 11.472,
+   "end": 11.634
+  },
+  {
+   "word": "bas",
+   "start": 11.685,
+   "end": 11.838
+  },
+  {
+   "word": "de",
+   "start": 11.883,
+   "end": 11.973
+  },
+  {
+   "word": "l'année",
+   "start": 12.007,
+   "end": 12.312
+  },
+  {
+   "word": "panier",
+   "start": 12.414,
+   "end": 12.787
+  },
+  {
+   "word": "orange",
+   "start": 12.845,
+   "end": 13.465
+  },
+  {
+   "word": "FONCE",
+   "start": 13.567,
+   "end": 14.007
+  }
+ ],
+ "durationSec": 14.211,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

@@ -1,0 +1,246 @@
+{
+ "words": [
+  {
+   "word": "Voyant",
+   "start": 0.275,
+   "end": 0.4
+  },
+  {
+   "word": "moteur",
+   "start": 0.448,
+   "end": 0.72
+  },
+  {
+   "word": "allumé",
+   "start": 0.74,
+   "end": 1.04
+  },
+  {
+   "word": "Branche",
+   "start": 1.307,
+   "end": 2.16
+  },
+  {
+   "word": "lis",
+   "start": 2.26,
+   "end": 2.8
+  },
+  {
+   "word": "efface",
+   "start": 2.86,
+   "end": 3.36
+  },
+  {
+   "word": "La",
+   "start": 4.113,
+   "end": 4.166
+  },
+  {
+   "word": "Topdon",
+   "start": 4.246,
+   "end": 4.726
+  },
+  {
+   "word": "se",
+   "start": 4.806,
+   "end": 4.966
+  },
+  {
+   "word": "branche",
+   "start": 5.019,
+   "end": 5.366
+  },
+  {
+   "word": "sur",
+   "start": 5.406,
+   "end": 5.526
+  },
+  {
+   "word": "ta",
+   "start": 5.579,
+   "end": 5.686
+  },
+  {
+   "word": "prise",
+   "start": 5.726,
+   "end": 5.926
+  },
+  {
+   "word": "OBD",
+   "start": 6.046,
+   "end": 7.046
+  },
+  {
+   "word": "elle",
+   "start": 7.265,
+   "end": 7.286
+  },
+  {
+   "word": "lit",
+   "start": 7.366,
+   "end": 7.606
+  },
+  {
+   "word": "et",
+   "start": 7.713,
+   "end": 7.926
+  },
+  {
+   "word": "efface",
+   "start": 7.986,
+   "end": 8.406
+  },
+  {
+   "word": "les",
+   "start": 8.446,
+   "end": 8.566
+  },
+  {
+   "word": "codes",
+   "start": 8.593,
+   "end": 8.726
+  },
+  {
+   "word": "défaut",
+   "start": 8.806,
+   "end": 9.606
+  },
+  {
+   "word": "écran",
+   "start": 9.75,
+   "end": 9.926
+  },
+  {
+   "word": "cinq",
+   "start": 10.006,
+   "end": 10.166
+  },
+  {
+   "word": "pouces",
+   "start": 10.226,
+   "end": 10.646
+  },
+  {
+   "word": "mises",
+   "start": 10.766,
+   "end": 10.966
+  },
+  {
+   "word": "à",
+   "start": 11.006,
+   "end": 11.046
+  },
+  {
+   "word": "jour",
+   "start": 11.094,
+   "end": 11.286
+  },
+  {
+   "word": "gratuites",
+   "start": 11.342,
+   "end": 11.846
+  },
+  {
+   "word": "à",
+   "start": 11.926,
+   "end": 12.006
+  },
+  {
+   "word": "vie",
+   "start": 12.046,
+   "end": 12.886
+  },
+  {
+   "word": "cent",
+   "start": 13.03,
+   "end": 13.046
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 13.08,
+   "end": 13.606
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 13.64,
+   "end": 14.486
+  },
+  {
+   "word": "au",
+   "start": 14.539,
+   "end": 14.646
+  },
+  {
+   "word": "lieu",
+   "start": 14.694,
+   "end": 14.886
+  },
+  {
+   "word": "de",
+   "start": 14.939,
+   "end": 15.046
+  },
+  {
+   "word": "deux",
+   "start": 15.078,
+   "end": 15.206
+  },
+  {
+   "word": "cent",
+   "start": 15.238,
+   "end": 15.366
+  },
+  {
+   "word": "neuf",
+   "start": 15.419,
+   "end": 15.926
+  },
+  {
+   "word": "Black",
+   "start": 16.373,
+   "end": 16.406
+  },
+  {
+   "word": "Friday",
+   "start": 16.475,
+   "end": 16.886
+  },
+  {
+   "word": "jusqu'au",
+   "start": 16.926,
+   "end": 17.206
+  },
+  {
+   "word": "trente",
+   "start": 17.266,
+   "end": 17.926
+  },
+  {
+   "word": "livraison",
+   "start": 17.966,
+   "end": 18.406
+  },
+  {
+   "word": "gratuite",
+   "start": 18.468,
+   "end": 19.206
+  },
+  {
+   "word": "panier",
+   "start": 19.246,
+   "end": 19.526
+  },
+  {
+   "word": "orange",
+   "start": 19.583,
+   "end": 20.406
+  },
+  {
+   "word": "FONCE",
+   "start": 20.446,
+   "end": 20.886
+  }
+ ],
+ "durationSec": 21.002,
+ "model": "eleven_v3"
+}

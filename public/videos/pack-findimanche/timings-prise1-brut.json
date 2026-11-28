@@ -1,0 +1,191 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.208,
+   "end": 0.24
+  },
+  {
+   "word": "pack",
+   "start": 0.304,
+   "end": 0.56
+  },
+  {
+   "word": "créatine",
+   "start": 0.62,
+   "end": 1.04
+  },
+  {
+   "word": "et",
+   "start": 1.093,
+   "end": 1.2
+  },
+  {
+   "word": "collagène",
+   "start": 1.232,
+   "end": 1.68
+  },
+  {
+   "word": "à",
+   "start": 1.76,
+   "end": 1.84
+  },
+  {
+   "word": "ce",
+   "start": 1.893,
+   "end": 2
+  },
+  {
+   "word": "prix",
+   "start": 2.048,
+   "end": 2.48
+  },
+  {
+   "word": "c'est",
+   "start": 2.52,
+   "end": 2.64
+  },
+  {
+   "word": "jusqu'à",
+   "start": 2.68,
+   "end": 2.96
+  },
+  {
+   "word": "dimanche",
+   "start": 3.02,
+   "end": 3.52
+  },
+  {
+   "word": "la",
+   "start": 4.149,
+   "end": 4.16
+  },
+  {
+   "word": "créatine",
+   "start": 4.24,
+   "end": 4.72
+  },
+  {
+   "word": "Creapure",
+   "start": 4.8,
+   "end": 5.52
+  },
+  {
+   "word": "cinq",
+   "start": 5.56,
+   "end": 5.68
+  },
+  {
+   "word": "cents",
+   "start": 5.707,
+   "end": 5.84
+  },
+  {
+   "word": "grammes",
+   "start": 5.88,
+   "end": 6.56
+  },
+  {
+   "word": "et",
+   "start": 6.747,
+   "end": 6.768
+  },
+  {
+   "word": "le",
+   "start": 6.779,
+   "end": 6.8
+  },
+  {
+   "word": "collagène",
+   "start": 6.864,
+   "end": 7.36
+  },
+  {
+   "word": "marin",
+   "start": 7.413,
+   "end": 7.84
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 7.874,
+   "end": 8.4
+  },
+  {
+   "word": "gélules",
+   "start": 8.44,
+   "end": 9.2
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 9.408,
+   "end": 9.84
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 9.897,
+   "end": 10.72
+  },
+  {
+   "word": "au",
+   "start": 10.773,
+   "end": 10.88
+  },
+  {
+   "word": "lieu",
+   "start": 10.896,
+   "end": 10.96
+  },
+  {
+   "word": "de",
+   "start": 11.04,
+   "end": 11.2
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 11.24,
+   "end": 11.68
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 11.726,
+   "end": 12.64
+  },
+  {
+   "word": "livraison",
+   "start": 12.85,
+   "end": 13.12
+  },
+  {
+   "word": "gratuite",
+   "start": 13.173,
+   "end": 13.68
+  },
+  {
+   "word": "panier",
+   "start": 13.72,
+   "end": 14
+  },
+  {
+   "word": "orange",
+   "start": 14.057,
+   "end": 14.64
+  },
+  {
+   "word": "prends",
+   "start": 14.667,
+   "end": 14.88
+  },
+  {
+   "word": "le",
+   "start": 14.907,
+   "end": 14.96
+  },
+  {
+   "word": "pack",
+   "start": 15.008,
+   "end": 15.2
+  }
+ ],
+ "durationSec": 15.386,
+ "model": "eleven_v3"
+}

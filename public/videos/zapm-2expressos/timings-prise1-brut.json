@@ -1,0 +1,186 @@
+{
+ "words": [
+  {
+   "word": "Deux",
+   "start": 0.207,
+   "end": 0.24
+  },
+  {
+   "word": "expressos",
+   "start": 0.32,
+   "end": 0.96
+  },
+  {
+   "word": "dans",
+   "start": 1.024,
+   "end": 1.28
+  },
+  {
+   "word": "un",
+   "start": 1.333,
+   "end": 1.44
+  },
+  {
+   "word": "seul",
+   "start": 1.504,
+   "end": 1.76
+  },
+  {
+   "word": "sachet",
+   "start": 1.824,
+   "end": 2.24
+  },
+  {
+   "word": "wesh",
+   "start": 2.28,
+   "end": 2.56
+  },
+  {
+   "word": "Le",
+   "start": 3.6,
+   "end": 3.632
+  },
+  {
+   "word": "ZAP",
+   "start": 3.656,
+   "end": 3.84
+  },
+  {
+   "word": "menthe",
+   "start": 3.888,
+   "end": 4.16
+  },
+  {
+   "word": "verte",
+   "start": 4.213,
+   "end": 4.88
+  },
+  {
+   "word": "cent",
+   "start": 4.912,
+   "end": 5.04
+  },
+  {
+   "word": "cinquante",
+   "start": 5.08,
+   "end": 5.44
+  },
+  {
+   "word": "milligrammes",
+   "start": 5.472,
+   "end": 5.92
+  },
+  {
+   "word": "de",
+   "start": 5.947,
+   "end": 6
+  },
+  {
+   "word": "caféine",
+   "start": 6.08,
+   "end": 6.64
+  },
+  {
+   "word": "elle-théanine",
+   "start": 7.179,
+   "end": 8
+  },
+  {
+   "word": "vitamines",
+   "start": 8.06,
+   "end": 8.48
+  },
+  {
+   "word": "B",
+   "start": 8.6,
+   "end": 9.12
+  },
+  {
+   "word": "tu",
+   "start": 9.173,
+   "end": 9.28
+  },
+  {
+   "word": "le",
+   "start": 9.307,
+   "end": 9.36
+  },
+  {
+   "word": "cales",
+   "start": 9.44,
+   "end": 9.68
+  },
+  {
+   "word": "sous",
+   "start": 9.712,
+   "end": 9.84
+  },
+  {
+   "word": "la",
+   "start": 9.867,
+   "end": 9.92
+  },
+  {
+   "word": "lèvre",
+   "start": 9.96,
+   "end": 10.64
+  },
+  {
+   "word": "quarante",
+   "start": 10.774,
+   "end": 10.96
+  },
+  {
+   "word": "centimes",
+   "start": 11.024,
+   "end": 11.44
+  },
+  {
+   "word": "le",
+   "start": 11.467,
+   "end": 11.52
+  },
+  {
+   "word": "sachet",
+   "start": 11.568,
+   "end": 12
+  },
+  {
+   "word": "Black",
+   "start": 12.75,
+   "end": 12.8
+  },
+  {
+   "word": "Friday",
+   "start": 12.857,
+   "end": 13.2
+  },
+  {
+   "word": "jusqu'à",
+   "start": 13.253,
+   "end": 13.64
+  },
+  {
+   "word": "dimanche",
+   "start": 13.67,
+   "end": 14.4
+  },
+  {
+   "word": "panier",
+   "start": 14.44,
+   "end": 14.72
+  },
+  {
+   "word": "orange",
+   "start": 14.777,
+   "end": 15.6
+  },
+  {
+   "word": "FONCE",
+   "start": 15.64,
+   "end": 16.16
+  }
+ ],
+ "durationSec": 16.274,
+ "model": "eleven_v3"
+}

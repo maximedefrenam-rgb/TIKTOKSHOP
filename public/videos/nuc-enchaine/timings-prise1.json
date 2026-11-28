@@ -1,0 +1,171 @@
+{
+ "words": [
+  {
+   "word": "Salle",
+   "start": 0.263,
+   "end": 0.407
+  },
+  {
+   "word": "taf",
+   "start": 0.441,
+   "end": 0.746
+  },
+  {
+   "word": "études",
+   "start": 0.814,
+   "end": 1.288
+  },
+  {
+   "word": "t'enchaînes",
+   "start": 1.322,
+   "end": 1.695
+  },
+  {
+   "word": "tout",
+   "start": 1.722,
+   "end": 1.831
+  },
+  {
+   "word": "Nuclever",
+   "start": 2.044,
+   "end": 2.45
+  },
+  {
+   "word": "Cortisol",
+   "start": 2.505,
+   "end": 2.925
+  },
+  {
+   "word": "Manager",
+   "start": 2.976,
+   "end": 3.4
+  },
+  {
+   "word": "ashwagandha",
+   "start": 3.501,
+   "end": 4.349
+  },
+  {
+   "word": "elle-théanine",
+   "start": 4.376,
+   "end": 5.094
+  },
+  {
+   "word": "magnésium",
+   "start": 5.135,
+   "end": 6.111
+  },
+  {
+   "word": "la",
+   "start": 6.232,
+   "end": 6.247
+  },
+  {
+   "word": "vitamine",
+   "start": 6.281,
+   "end": 6.586
+  },
+  {
+   "word": "D",
+   "start": 6.688,
+   "end": 6.789
+  },
+  {
+   "word": "contribue",
+   "start": 6.823,
+   "end": 7.128
+  },
+  {
+   "word": "au",
+   "start": 7.151,
+   "end": 7.196
+  },
+  {
+   "word": "maintien",
+   "start": 7.23,
+   "end": 7.467
+  },
+  {
+   "word": "d'une",
+   "start": 7.501,
+   "end": 7.671
+  },
+  {
+   "word": "fonction",
+   "start": 7.694,
+   "end": 7.874
+  },
+  {
+   "word": "musculaire",
+   "start": 7.925,
+   "end": 8.281
+  },
+  {
+   "word": "normale",
+   "start": 8.335,
+   "end": 9.027
+  },
+  {
+   "word": "cinquante-cinq",
+   "start": 9.217,
+   "end": 9.705
+  },
+  {
+   "word": "mille",
+   "start": 9.772,
+   "end": 9.908
+  },
+  {
+   "word": "vendus",
+   "start": 9.962,
+   "end": 10.789
+  },
+  {
+   "word": "vingt",
+   "start": 10.905,
+   "end": 10.925
+  },
+  {
+   "word": "euros",
+   "start": 10.959,
+   "end": 11.128
+  },
+  {
+   "word": "quatre-vingt-douze",
+   "start": 11.157,
+   "end": 11.603
+  },
+  {
+   "word": "le",
+   "start": 11.648,
+   "end": 11.739
+  },
+  {
+   "word": "mois",
+   "start": 11.779,
+   "end": 12.145
+  },
+  {
+   "word": "panier",
+   "start": 12.179,
+   "end": 12.417
+  },
+  {
+   "word": "orange",
+   "start": 12.456,
+   "end": 12.959
+  },
+  {
+   "word": "FONCE",
+   "start": 13.061,
+   "end": 13.433
+  }
+ ],
+ "durationSec": 13.558,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

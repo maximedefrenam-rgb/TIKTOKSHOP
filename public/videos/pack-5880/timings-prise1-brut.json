@@ -1,0 +1,261 @@
+{
+ "words": [
+  {
+   "word": "Quarante-cinq",
+   "start": 0.144,
+   "end": 0.48
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 0.514,
+   "end": 1.04
+  },
+  {
+   "word": "le",
+   "start": 1.093,
+   "end": 1.2
+  },
+  {
+   "word": "pack",
+   "start": 1.248,
+   "end": 1.44
+  },
+  {
+   "word": "de",
+   "start": 1.467,
+   "end": 1.52
+  },
+  {
+   "word": "la",
+   "start": 1.547,
+   "end": 1.6
+  },
+  {
+   "word": "salle",
+   "start": 1.653,
+   "end": 2.16
+  },
+  {
+   "word": "au",
+   "start": 2.213,
+   "end": 2.32
+  },
+  {
+   "word": "lieu",
+   "start": 2.352,
+   "end": 2.48
+  },
+  {
+   "word": "de",
+   "start": 2.56,
+   "end": 2.72
+  },
+  {
+   "word": "cinquante-huit",
+   "start": 2.74,
+   "end": 3.28
+  },
+  {
+   "word": "quatre-vingts",
+   "start": 3.303,
+   "end": 3.96
+  },
+  {
+   "word": "dedans",
+   "start": 4.388,
+   "end": 4.88
+  },
+  {
+   "word": "la",
+   "start": 4.933,
+   "end": 5.04
+  },
+  {
+   "word": "créatine",
+   "start": 5.1,
+   "end": 5.52
+  },
+  {
+   "word": "Creapure",
+   "start": 5.6,
+   "end": 6.24
+  },
+  {
+   "word": "testée",
+   "start": 6.288,
+   "end": 6.56
+  },
+  {
+   "word": "antidopage",
+   "start": 6.613,
+   "end": 7.599
+  },
+  {
+   "word": "et",
+   "start": 7.667,
+   "end": 7.68
+  },
+  {
+   "word": "le",
+   "start": 7.707,
+   "end": 7.76
+  },
+  {
+   "word": "collagène",
+   "start": 7.824,
+   "end": 8.32
+  },
+  {
+   "word": "marin",
+   "start": 8.36,
+   "end": 8.56
+  },
+  {
+   "word": "type",
+   "start": 8.608,
+   "end": 8.8
+  },
+  {
+   "word": "un",
+   "start": 8.88,
+   "end": 9.2
+  },
+  {
+   "word": "trois",
+   "start": 9.716,
+   "end": 9.76
+  },
+  {
+   "word": "grammes",
+   "start": 9.813,
+   "end": 10.187
+  },
+  {
+   "word": "de",
+   "start": 10.204,
+   "end": 10.24
+  },
+  {
+   "word": "créatine",
+   "start": 10.3,
+   "end": 10.64
+  },
+  {
+   "word": "par",
+   "start": 10.7,
+   "end": 10.88
+  },
+  {
+   "word": "jour",
+   "start": 10.944,
+   "end": 11.2
+  },
+  {
+   "word": "augmentent",
+   "start": 11.26,
+   "end": 11.72
+  },
+  {
+   "word": "la",
+   "start": 11.733,
+   "end": 11.76
+  },
+  {
+   "word": "performance",
+   "start": 11.807,
+   "end": 12.32
+  },
+  {
+   "word": "physique",
+   "start": 12.364,
+   "end": 12.72
+  },
+  {
+   "word": "lors",
+   "start": 12.752,
+   "end": 12.88
+  },
+  {
+   "word": "d'exercices",
+   "start": 12.92,
+   "end": 13.36
+  },
+  {
+   "word": "courts",
+   "start": 13.417,
+   "end": 14.08
+  },
+  {
+   "word": "intenses",
+   "start": 14.16,
+   "end": 14.64
+  },
+  {
+   "word": "et",
+   "start": 14.72,
+   "end": 14.88
+  },
+  {
+   "word": "répétés",
+   "start": 14.933,
+   "end": 15.44
+  },
+  {
+   "word": "le",
+   "start": 16.067,
+   "end": 16.08
+  },
+  {
+   "word": "plus",
+   "start": 16.128,
+   "end": 16.32
+  },
+  {
+   "word": "bas",
+   "start": 16.4,
+   "end": 16.64
+  },
+  {
+   "word": "sur",
+   "start": 16.7,
+   "end": 16.88
+  },
+  {
+   "word": "trente",
+   "start": 16.92,
+   "end": 17.12
+  },
+  {
+   "word": "jours",
+   "start": 17.16,
+   "end": 17.76
+  },
+  {
+   "word": "livraison",
+   "start": 17.82,
+   "end": 18.24
+  },
+  {
+   "word": "gratuite",
+   "start": 18.293,
+   "end": 19.04
+  },
+  {
+   "word": "panier",
+   "start": 19.1,
+   "end": 19.36
+  },
+  {
+   "word": "orange",
+   "start": 19.417,
+   "end": 20.16
+  },
+  {
+   "word": "FONCE",
+   "start": 20.2,
+   "end": 20.64
+  }
+ ],
+ "durationSec": 20.846,
+ "model": "eleven_v3"
+}

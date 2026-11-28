@@ -1,0 +1,191 @@
+{
+ "words": [
+  {
+   "word": "Winter",
+   "start": 0.288,
+   "end": 0.361
+  },
+  {
+   "word": "arc",
+   "start": 0.446,
+   "end": 0.903
+  },
+  {
+   "word": "ton",
+   "start": 0.937,
+   "end": 1.039
+  },
+  {
+   "word": "stock",
+   "start": 1.084,
+   "end": 1.31
+  },
+  {
+   "word": "de",
+   "start": 1.333,
+   "end": 1.378
+  },
+  {
+   "word": "l'hiver",
+   "start": 1.395,
+   "end": 1.717
+  },
+  {
+   "word": "dans",
+   "start": 1.771,
+   "end": 1.988
+  },
+  {
+   "word": "un",
+   "start": 2.011,
+   "end": 2.056
+  },
+  {
+   "word": "seul",
+   "start": 2.11,
+   "end": 2.327
+  },
+  {
+   "word": "pack",
+   "start": 2.381,
+   "end": 2.598
+  },
+  {
+   "word": "cent",
+   "start": 2.817,
+   "end": 2.83
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 2.857,
+   "end": 3.305
+  },
+  {
+   "word": "doses",
+   "start": 3.35,
+   "end": 3.576
+  },
+  {
+   "word": "de",
+   "start": 3.599,
+   "end": 3.644
+  },
+  {
+   "word": "créatine",
+   "start": 3.678,
+   "end": 3.983
+  },
+  {
+   "word": "Creapure",
+   "start": 4.034,
+   "end": 4.796
+  },
+  {
+   "word": "plus",
+   "start": 4.91,
+   "end": 4.932
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 4.98,
+   "end": 5.542
+  },
+  {
+   "word": "gélules",
+   "start": 5.576,
+   "end": 5.813
+  },
+  {
+   "word": "de",
+   "start": 5.836,
+   "end": 5.881
+  },
+  {
+   "word": "collagène",
+   "start": 5.922,
+   "end": 6.22
+  },
+  {
+   "word": "marin",
+   "start": 6.265,
+   "end": 6.897
+  },
+  {
+   "word": "moins",
+   "start": 6.929,
+   "end": 7.041
+  },
+  {
+   "word": "vingt-deux",
+   "start": 7.109,
+   "end": 7.482
+  },
+  {
+   "word": "pour",
+   "start": 7.502,
+   "end": 7.584
+  },
+  {
+   "word": "cent",
+   "start": 7.611,
+   "end": 8.058
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 8.085,
+   "end": 8.465
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 8.494,
+   "end": 9.256
+  },
+  {
+   "word": "jusqu'au",
+   "start": 9.522,
+   "end": 9.685
+  },
+  {
+   "word": "trente",
+   "start": 9.702,
+   "end": 9.821
+  },
+  {
+   "word": "novembre",
+   "start": 9.866,
+   "end": 10.296
+  },
+  {
+   "word": "livraison",
+   "start": 10.38,
+   "end": 10.838
+  },
+  {
+   "word": "gratuite",
+   "start": 10.883,
+   "end": 11.516
+  },
+  {
+   "word": "panier",
+   "start": 11.55,
+   "end": 11.787
+  },
+  {
+   "word": "orange",
+   "start": 11.835,
+   "end": 12.397
+  },
+  {
+   "word": "FONCE",
+   "start": 12.431,
+   "end": 12.736
+  }
+ ],
+ "durationSec": 12.852,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

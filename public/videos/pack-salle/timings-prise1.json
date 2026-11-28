@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Avant",
+   "start": 0.125,
+   "end": 0.203
+  },
+  {
+   "word": "la",
+   "start": 0.226,
+   "end": 0.271
+  },
+  {
+   "word": "salle",
+   "start": 0.328,
+   "end": 0.814
+  },
+  {
+   "word": "ta",
+   "start": 0.858,
+   "end": 0.949
+  },
+  {
+   "word": "dose",
+   "start": 1.003,
+   "end": 1.22
+  },
+  {
+   "word": "de",
+   "start": 1.265,
+   "end": 1.356
+  },
+  {
+   "word": "créa",
+   "start": 1.407,
+   "end": 1.966
+  },
+  {
+   "word": "et",
+   "start": 2.011,
+   "end": 2.102
+  },
+  {
+   "word": "tes",
+   "start": 2.153,
+   "end": 2.305
+  },
+  {
+   "word": "gélules",
+   "start": 2.339,
+   "end": 2.508
+  },
+  {
+   "word": "de",
+   "start": 2.553,
+   "end": 2.644
+  },
+  {
+   "word": "collagène",
+   "start": 2.671,
+   "end": 3.051
+  },
+  {
+   "word": "trois",
+   "start": 3.243,
+   "end": 3.271
+  },
+  {
+   "word": "grammes",
+   "start": 3.305,
+   "end": 3.542
+  },
+  {
+   "word": "de",
+   "start": 3.565,
+   "end": 3.61
+  },
+  {
+   "word": "créatine",
+   "start": 3.66,
+   "end": 4.016
+  },
+  {
+   "word": "par",
+   "start": 4.05,
+   "end": 4.152
+  },
+  {
+   "word": "jour",
+   "start": 4.206,
+   "end": 4.423
+  },
+  {
+   "word": "augmentent",
+   "start": 4.474,
+   "end": 4.898
+  },
+  {
+   "word": "la",
+   "start": 4.921,
+   "end": 4.966
+  },
+  {
+   "word": "performance",
+   "start": 5.005,
+   "end": 5.44
+  },
+  {
+   "word": "physique",
+   "start": 5.477,
+   "end": 5.779
+  },
+  {
+   "word": "lors",
+   "start": 5.806,
+   "end": 5.915
+  },
+  {
+   "word": "d'exercices",
+   "start": 5.949,
+   "end": 6.525
+  },
+  {
+   "word": "courts",
+   "start": 6.564,
+   "end": 6.999
+  },
+  {
+   "word": "intenses",
+   "start": 7.033,
+   "end": 7.474
+  },
+  {
+   "word": "et",
+   "start": 7.519,
+   "end": 7.61
+  },
+  {
+   "word": "répétés",
+   "start": 7.655,
+   "end": 8.627
+  },
+  {
+   "word": "la",
+   "start": 8.755,
+   "end": 8.766
+  },
+  {
+   "word": "créatine",
+   "start": 8.816,
+   "end": 9.24
+  },
+  {
+   "word": "Creapure",
+   "start": 9.291,
+   "end": 9.918
+  },
+  {
+   "word": "et",
+   "start": 9.941,
+   "end": 9.986
+  },
+  {
+   "word": "le",
+   "start": 10.009,
+   "end": 10.054
+  },
+  {
+   "word": "collagène",
+   "start": 10.094,
+   "end": 10.46
+  },
+  {
+   "word": "marin",
+   "start": 10.505,
+   "end": 10.732
+  },
+  {
+   "word": "de",
+   "start": 10.777,
+   "end": 10.867
+  },
+  {
+   "word": "Nutrimea",
+   "start": 10.901,
+   "end": 11.41
+  },
+  {
+   "word": "marque",
+   "start": 11.468,
+   "end": 11.816
+  },
+  {
+   "word": "française",
+   "start": 11.864,
+   "end": 12.901
+  },
+  {
+   "word": "quatre",
+   "start": 13.076,
+   "end": 13.105
+  },
+  {
+   "word": "virgule",
+   "start": 13.172,
+   "end": 13.444
+  },
+  {
+   "word": "six",
+   "start": 13.494,
+   "end": 13.647
+  },
+  {
+   "word": "étoiles",
+   "start": 13.749,
+   "end": 14.325
+  },
+  {
+   "word": "presque",
+   "start": 14.379,
+   "end": 14.732
+  },
+  {
+   "word": "cinq",
+   "start": 14.833,
+   "end": 15.003
+  },
+  {
+   "word": "mille",
+   "start": 15.071,
+   "end": 15.206
+  },
+  {
+   "word": "packs",
+   "start": 15.251,
+   "end": 15.477
+  },
+  {
+   "word": "vendus",
+   "start": 15.505,
+   "end": 15.884
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 15.969,
+   "end": 16.267
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 16.296,
+   "end": 17.013
+  },
+  {
+   "word": "Black",
+   "start": 17.058,
+   "end": 17.284
+  },
+  {
+   "word": "Friday",
+   "start": 17.323,
+   "end": 17.556
+  },
+  {
+   "word": "jusqu'au",
+   "start": 17.589,
+   "end": 17.827
+  },
+  {
+   "word": "trente",
+   "start": 17.861,
+   "end": 18.301
+  },
+  {
+   "word": "panier",
+   "start": 18.335,
+   "end": 18.505
+  },
+  {
+   "word": "orange",
+   "start": 18.553,
+   "end": 19.047
+  },
+  {
+   "word": "FONCE",
+   "start": 19.115,
+   "end": 19.454
+  }
+ ],
+ "durationSec": 19.644,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

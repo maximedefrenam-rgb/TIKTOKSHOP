@@ -1,0 +1,186 @@
+{
+ "words": [
+  {
+   "word": "L'effet",
+   "start": 0.115,
+   "end": 0.407
+  },
+  {
+   "word": "glass",
+   "start": 0.464,
+   "end": 0.746
+  },
+  {
+   "word": "skin",
+   "start": 0.8,
+   "end": 1.017
+  },
+  {
+   "word": "à",
+   "start": 1.085,
+   "end": 1.153
+  },
+  {
+   "word": "la",
+   "start": 1.175,
+   "end": 1.22
+  },
+  {
+   "word": "coréenne",
+   "start": 1.288,
+   "end": 1.898
+  },
+  {
+   "word": "selon",
+   "start": 1.932,
+   "end": 2.102
+  },
+  {
+   "word": "la",
+   "start": 2.147,
+   "end": 2.237
+  },
+  {
+   "word": "marque",
+   "start": 2.276,
+   "end": 2.508
+  },
+  {
+   "word": "le",
+   "start": 2.676,
+   "end": 2.691
+  },
+  {
+   "word": "Zero",
+   "start": 2.745,
+   "end": 2.962
+  },
+  {
+   "word": "Pore",
+   "start": 3.03,
+   "end": 3.233
+  },
+  {
+   "word": "pour",
+   "start": 3.26,
+   "end": 3.369
+  },
+  {
+   "word": "les",
+   "start": 3.403,
+   "end": 3.505
+  },
+  {
+   "word": "pores",
+   "start": 3.561,
+   "end": 3.911
+  },
+  {
+   "word": "le",
+   "start": 4.213,
+   "end": 4.244
+  },
+  {
+   "word": "Red",
+   "start": 4.255,
+   "end": 4.289
+  },
+  {
+   "word": "Peeling",
+   "start": 4.334,
+   "end": 4.696
+  },
+  {
+   "word": "pour",
+   "start": 4.736,
+   "end": 4.899
+  },
+  {
+   "word": "les",
+   "start": 4.916,
+   "end": 4.967
+  },
+  {
+   "word": "marques",
+   "start": 5.018,
+   "end": 5.306
+  },
+  {
+   "word": "post-imperfections",
+   "start": 5.346,
+   "end": 6.594
+  },
+  {
+   "word": "vingt-trois",
+   "start": 6.845,
+   "end": 7.068
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 7.107,
+   "end": 7.814
+  },
+  {
+   "word": "avec",
+   "start": 7.841,
+   "end": 7.95
+  },
+  {
+   "word": "les",
+   "start": 7.984,
+   "end": 8.085
+  },
+  {
+   "word": "coupons",
+   "start": 8.128,
+   "end": 8.899
+  },
+  {
+   "word": "cadeau",
+   "start": 9.075,
+   "end": 9.17
+  },
+  {
+   "word": "offert",
+   "start": 9.221,
+   "end": 9.645
+  },
+  {
+   "word": "jusqu'au",
+   "start": 9.701,
+   "end": 10.051
+  },
+  {
+   "word": "trente",
+   "start": 10.085,
+   "end": 10.255
+  },
+  {
+   "word": "novembre",
+   "start": 10.3,
+   "end": 10.729
+  },
+  {
+   "word": "panier",
+   "start": 10.814,
+   "end": 11.136
+  },
+  {
+   "word": "orange",
+   "start": 11.185,
+   "end": 11.814
+  },
+  {
+   "word": "FONCE",
+   "start": 11.882,
+   "end": 12.289
+  }
+ ],
+ "durationSec": 12.487,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

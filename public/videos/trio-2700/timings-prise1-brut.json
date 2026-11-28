@@ -1,0 +1,201 @@
+{
+ "words": [
+  {
+   "word": "Deux",
+   "start": 0.315,
+   "end": 0.368
+  },
+  {
+   "word": "mille",
+   "start": 0.384,
+   "end": 0.48
+  },
+  {
+   "word": "sept",
+   "start": 0.544,
+   "end": 0.8
+  },
+  {
+   "word": "cents",
+   "start": 0.84,
+   "end": 1.04
+  },
+  {
+   "word": "vendus",
+   "start": 1.104,
+   "end": 2
+  },
+  {
+   "word": "quatre",
+   "start": 2.034,
+   "end": 2.24
+  },
+  {
+   "word": "virgule",
+   "start": 2.32,
+   "end": 2.64
+  },
+  {
+   "word": "six",
+   "start": 2.72,
+   "end": 2.96
+  },
+  {
+   "word": "étoiles",
+   "start": 3.08,
+   "end": 3.52
+  },
+  {
+   "word": "le",
+   "start": 4.385,
+   "end": 4.403
+  },
+  {
+   "word": "set",
+   "start": 4.483,
+   "end": 4.723
+  },
+  {
+   "word": "de",
+   "start": 4.75,
+   "end": 4.803
+  },
+  {
+   "word": "trois",
+   "start": 4.856,
+   "end": 5.123
+  },
+  {
+   "word": "toner",
+   "start": 5.163,
+   "end": 5.443
+  },
+  {
+   "word": "pads",
+   "start": 5.491,
+   "end": 5.683
+  },
+  {
+   "word": "Medicube",
+   "start": 5.75,
+   "end": 6.563
+  },
+  {
+   "word": "pores",
+   "start": 6.919,
+   "end": 7.043
+  },
+  {
+   "word": "marques",
+   "start": 7.083,
+   "end": 7.363
+  },
+  {
+   "word": "post-imperfections",
+   "start": 7.411,
+   "end": 8.323
+  },
+  {
+   "word": "éclat",
+   "start": 8.403,
+   "end": 8.803
+  },
+  {
+   "word": "selon",
+   "start": 8.843,
+   "end": 9.043
+  },
+  {
+   "word": "la",
+   "start": 9.07,
+   "end": 9.123
+  },
+  {
+   "word": "marque",
+   "start": 9.169,
+   "end": 10.003
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 10.211,
+   "end": 10.643
+  },
+  {
+   "word": "euros",
+   "start": 10.696,
+   "end": 10.963
+  },
+  {
+   "word": "au",
+   "start": 11.016,
+   "end": 11.123
+  },
+  {
+   "word": "lieu",
+   "start": 11.155,
+   "end": 11.283
+  },
+  {
+   "word": "de",
+   "start": 11.336,
+   "end": 11.443
+  },
+  {
+   "word": "quarante-neuf",
+   "start": 11.475,
+   "end": 12.083
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 12.106,
+   "end": 12.724
+  },
+  {
+   "word": "cadeau",
+   "start": 13.475,
+   "end": 13.643
+  },
+  {
+   "word": "offert",
+   "start": 13.673,
+   "end": 14.083
+  },
+  {
+   "word": "Black",
+   "start": 14.136,
+   "end": 14.403
+  },
+  {
+   "word": "Friday",
+   "start": 14.46,
+   "end": 14.803
+  },
+  {
+   "word": "jusqu'à",
+   "start": 14.843,
+   "end": 15.123
+  },
+  {
+   "word": "dimanche",
+   "start": 15.163,
+   "end": 15.923
+  },
+  {
+   "word": "panier",
+   "start": 15.963,
+   "end": 16.243
+  },
+  {
+   "word": "orange",
+   "start": 16.3,
+   "end": 16.883
+  },
+  {
+   "word": "FONCE",
+   "start": 17.003,
+   "end": 17.523
+  }
+ ],
+ "durationSec": 17.711,
+ "model": "eleven_v3"
+}
