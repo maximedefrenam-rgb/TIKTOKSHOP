@@ -188,7 +188,7 @@ export const SPECS: Record<string, {p: ProductKey; jacket: number; blocks: Block
   'zapc-camp': {p: 'zapc', jacket: 2, blocks: [
     B("[excited] Cerise noire ou menthe verte, c'est quoi ton camp ?!", hook('CERISE 🍒 OU\nMENTHE 🌿 ?', 180)),
     B('[enthusiastic] la cerise, cent milligrammes par sachet,', big('CERISE NOIRE\n100 MG', 180)),
-    B('[amazed] la menthe, cent cinquante milligrammes,', big('MENTHE VERTE\n150 MG', 180, {color: 'white'})),
+    B('[amazed] la menthe, cent cinquante milligrammes,', cmp('CAFÉINE PAR SACHET', [['ZAP cerise noire (ce produit)', 100, '100 MG', true, 'la'], ['ZAP menthe verte', 150, '150 MG', false, 'cent']])),
     B('[mischievously] dis-moi ton camp en commentaire,', big('TON CAMP ?\nEN COMMENTAIRE 👇', 150)),
     B('[shouting] la cerise, trente-six sachets, panier orange, FONCE !', cta([['ZAP CERISE · 36 SACHETS', 'trente-six']], WARN_CAFEINE)),
   ]},
