@@ -44,7 +44,7 @@ const ZDEAL = (from: number, badgeAt: number, strikeAt: number, newAt: number, k
 const EXPR2 = (from: number, zapAt: number, exprAt: number) => ({kind: 'compare' as const, from, title: 'CAFÉINE', at: zapAt, rows: [
   {label: 'ZAP menthe (1 sachet)', value: 150, display: '150 MG', highlight: true, at: zapAt},
   {label: '2 expressos (repère EFSA)', value: 160, display: '≈ 160 MG', at: exprAt}]});
-const ZCUT = (from: number, items: It[]) => CUT(from, items);
+const ZCUT = (from: number, items: It[]) => CUT(from, items, 'zoom');
 
 export const zapm150 = variant({
   id: 'zapm-150', timings: z1, ...ZAP, jacket: JACKETS[0],
