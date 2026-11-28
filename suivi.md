@@ -151,3 +151,18 @@
 | 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 6 · Comparatif croissant + calcul prix/dose | Ta dose de glucides moins chère qu'un croissant ! | v1 (riz-croissant) |  |  |  |
 | 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 6 · Situation (séance jambes) + avis | Séance jambes ce soir, rien mangé depuis midi ?! | v1 (riz-jambes) |  |  |  |
 | 2026-11-27 | Nutrimea crème de riz 2 kg | Lot 6 · Prise de masse (galère à manger) + usage | Tu galères à manger assez pour ta prise de masse ?! | v1 (riz-gainer) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 7 · 150 mg + comparatif 2 expressos + promo | 150 mg de caféine dans un seul sachet ?! | v1 (zapm-150) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 7 · Prix choc (0,40 €/sachet) + calcul | 40 centimes le sachet ?! | v1 (zapm-40cts) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 7 · Cerise vs menthe (150 vs 100 mg) | T'as kiffé la cerise noire ? | v1 (zapm-cerise) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 7 · Situation salle 7 h + expresso | Séance à 7 h du mat' en mode zombie ?! | v1 (zapm-seance) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 7 · Astuce -20 % au-delà de 25 € | Petite astuce pour le Black Friday ! | v1 (zapm-deux) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 7 · Prix choc (35,20 € coupons) + en coupe | 3 pots coréens pour 35 balles ?! | v1 (trio-ouatte) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 7 · 3 pads qui se complètent | Pourquoi un seul pad quand t'en as trois ?! | v1 (trio-complete) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 7 · 210 pads + prix/pad + avis | 210 pads dans un seul set ! | v1 (trio-210) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 7 · Cadeau de Noël + cadeau offert | Le cadeau de Noël pour ta copine ! | v1 (trio-noel) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 7 · Prix le plus bas 30 j + prix barré | Prix le plus bas sur 30 jours, ça se rate pas ! | v1 (trio-plusbas) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 7 · Prix choc (23,99 € coupons) + en coupe | Le duo Medicube à 23,99 € ?! | v1 (duo-ouatte) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 7 · Le duo qui part + 70 pads/pot | Le bleu et le rouge, c'est LE duo ! | v1 (duo-bleurouge) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 7 · Prix choc (0,17 €/pad) + calcul + avis | 17 centimes le pad coréen ! | v1 (duo-17cts) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 7 · Problème pores + 1 geste | Tes pores se voient à 3 mètres ?! | v1 (duo-pores) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 7 · -20 % prix barré + plus bas 30 j | -20 % sur le duo Medicube ! | v1 (duo-20) |  |  |  |
