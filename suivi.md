@@ -166,3 +166,56 @@
 | 2026-11-28 | medicube duo bleu + rouge | Lot 7 · Prix choc (0,17 €/pad) + calcul + avis | 17 centimes le pad coréen ! | v1 (duo-17cts) |  |  |  |
 | 2026-11-28 | medicube duo bleu + rouge | Lot 7 · Problème pores + 1 geste | Tes pores se voient à 3 mètres ?! | v1 (duo-pores) |  |  |  |
 | 2026-11-28 | medicube duo bleu + rouge | Lot 7 · -20 % prix barré + plus bas 30 j | -20 % sur le duo Medicube ! | v1 (duo-20) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | Le Black Friday ZAP se termine dimanche | v1 (zapm-dimanche) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | Presque 2 expressos dans un seul sachet 🌿 ZAP menthe verte, 0,40 € le  | v1 (zapm-2expressos) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | Tu payes encore ton café en terrasse ? ZAP menthe, 150 mg de caféine,  | v1 (zapm-terrasse) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | Leg day à 7 h et t'es encore au lit ? Un sachet ZAP menthe, 150 mg de  | v1 (zapm-legday) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | Partiels et à plat dès 10 h ? ZAP menthe, 150 mg de caféine, discret s | v1 (zapm-partiels) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | 1 h de trajet avant la salle ? ZAP menthe tient dans ta poche, 150 mg  | v1 (zapm-trajet) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | Astuce : -20 % au-delà de 25 € chez ZAP, 2 duos menthe = 72 sachets ≈  | v1 (zapm-72) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | Goût menthe verte + 150 mg de caféine 🌿 ZAP fabriqué en Suède, 0,40 €  | v1 (zapm-frais) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | 0,40 € le sachet de caféine, qui a validé ? ZAP menthe, le plus bas su | v1 (zapm-valide) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | Ta pré-séance dans ta poche de jogging 🏃 ZAP menthe, 150 mg, 0,40 € la | v1 (zapm-jogging) |  |  |  |
+| 2026-11-28 | ZAP cerise noire DUO | Lot 8 (blocs) | De la caféine goût cerise noire 🍒 ZAP, 100 mg par sachet, 36 sachets d | v1 (zapc-gout) |  |  |  |
+| 2026-11-28 | ZAP cerise noire DUO | Lot 8 (blocs) | Cerise noire ou menthe verte ? Dis-moi ton camp en commentaire 🍒🌿 | v1 (zapc-camp) |  |  |  |
+| 2026-11-28 | ZAP cerise noire DUO | Lot 8 (blocs) | Ton réveil sonne et t'es déjà KO ? Un ZAP cerise noire, 100 mg de café | v1 (zapc-reveil) |  |  |  |
+| 2026-11-28 | ZAP cerise noire DUO | Lot 8 (blocs) | Avant ta séance, oublie le shaker : un sachet ZAP cerise noire, 100 mg | v1 (zapc-shaker) |  |  |  |
+| 2026-11-28 | ZAP cerise noire DUO | Lot 8 (blocs) | 15 h au bureau, cerveau en pause ? ZAP cerise noire, discret sous la l | v1 (zapc-bureau) |  |  |  |
+| 2026-11-28 | ZAP cerise noire DUO | Lot 8 (blocs) | 100 mg de caféine au goût cerise noire 😳 Le duo ZAP, 2 × 18 sachets | v1 (zapc-ouatte) |  |  |  |
+| 2026-11-28 | Nuclever Cortisol Manager | Lot 8 (blocs) | Cortisol Manager Nuclever au prix le plus bas de l'année 🔥 0,70 € par  | v1 (nuc-plusbas) |  |  |  |
+| 2026-11-28 | Nuclever Cortisol Manager | Lot 8 (blocs) | Un sachet de Cortisol Manager dans ta gourde 💧 3 goûts, 0,70 € par jou | v1 (nuc-gourde) |  |  |  |
+| 2026-11-28 | Nuclever Cortisol Manager | Lot 8 (blocs) | Tes journées au taf te vident ? Cortisol Manager Nuclever, 1 sachet pa | v1 (nuc-taf) |  |  |  |
+| 2026-11-28 | Nuclever Cortisol Manager | Lot 8 (blocs) | Ma routine du soir 🌙 Un sachet de Cortisol Manager dans l'eau, 3 goûts | v1 (nuc-routine) |  |  |  |
+| 2026-11-28 | Nuclever Cortisol Manager | Lot 8 (blocs) | 55 000 vendus, 4,5★ : le Cortisol Manager Nuclever 🌿 Prix le plus bas  | v1 (nuc-etoi) |  |  |  |
+| 2026-11-28 | Nuclever Cortisol Manager | Lot 8 (blocs) | 0,70 € par jour, qui a validé ? Cortisol Manager Nuclever, livraison g | v1 (nuc-valide) |  |  |  |
+| 2026-11-28 | Nuclever Cortisol Manager | Lot 8 (blocs) | Lundi, mardi… déjà rincé ? Un sachet de Cortisol Manager par jour, 0,7 | v1 (nuc-rince) |  |  |  |
+| 2026-11-28 | Nuclever Cortisol Manager | Lot 8 (blocs) | Salle, taf, études : t'enchaînes tout ? Cortisol Manager Nuclever, 20, | v1 (nuc-enchaine) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 8 (blocs) | Set de 3 toner pads Medicube à 35,20 € avec coupons, fini dimanche | v1 (trio-dimanche) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 8 (blocs) | 3 toner pads coréens dans un seul set 🇰🇷 210 pads, 35,20 € avec les co | v1 (trio-coreens) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 8 (blocs) | 44 € → 35,20 € avec les coupons 😱 Set de 3 toner pads Medicube, cadeau | v1 (trio-coupons) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 8 (blocs) | Un cadeau… avec un cadeau offert dedans 🎁 Set Medicube de 3 toner pads | v1 (trio-cadeau) |  |  |  |
+| 2026-11-28 | medicube set de 3 toner pads | Lot 8 (blocs) | 2 700 vendus, 4,6★ : le set de 3 toner pads Medicube à 44 € 💖 | v1 (trio-2700) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 8 (blocs) | Le duo Medicube à 23,99 € avec coupons, ça s'arrête dimanche | v1 (duo-dimanche) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 8 (blocs) | Le pot bleu, c'est le Zero Pore 💙 Le rouge, le Red Peeling ❤️ Duo Medi | v1 (duo-pots) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 8 (blocs) | 37,50 € le duo Medicube ? Attends : 29,99 €, et 23,99 € avec les coupo | v1 (duo-attends) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 8 (blocs) | L'effet glass skin à la coréenne ✨ Duo Medicube Zero Pore + Red Peelin | v1 (duo-glass) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 8 (blocs) | 0,17 € le pad coréen 🤯 Duo Medicube, 140 pads, 23,99 € avec les coupon | v1 (duo-pad17) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | Promo Topdon finie dimanche | v1 (top-dimanche) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | Voyant moteur allumé ? Branche, lis, efface 🔧 Topdon ArtiDiag 600 S à  | v1 (top-efface) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | Tu vas voir une occasion les mains vides ? Lis les codes avec la Topdo | v1 (top-mainsvides) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | L'hiver arrive ❄️ Check ta caisse toi-même avec la Topdon, 151,99 € av | v1 (top-hiver) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | Ton daron bricole sa caisse ? Son cadeau de Noël 🎁 Topdon ArtiDiag 600 | v1 (top-daron) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | 151 € la valise diag avec les coupons, qui a validé ? 😳 Topdon ArtiDia | v1 (top-valide) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | Regarde l'écran 👀 Codes défaut, données en temps réel, test capteur O2 | v1 (top-ecran) |  |  |  |
+| 2026-11-28 | Nutrimea Pack Force (créatine + collagène) | Lot 8 (blocs) | Créatine + collagène à 45,90 € jusqu'à dimanche | v1 (pack-findimanche) |  |  |  |
+| 2026-11-28 | Nutrimea Pack Force (créatine + collagène) | Lot 8 (blocs) | 2 produits, 1 seul colis, -22 % 💪 Créatine Creapure + collagène marin  | v1 (pack-colis) |  |  |  |
+| 2026-11-28 | Nutrimea Pack Force (créatine + collagène) | Lot 8 (blocs) | 45,90 € au lieu de 58,80 € : créatine Creapure + collagène marin 🔥 Le  | v1 (pack-5880) |  |  |  |
+| 2026-11-28 | Nutrimea Pack Force (créatine + collagène) | Lot 8 (blocs) | Winter arc ❄️ Ton stock d'hiver : 144 doses de créatine + 90 gélules d | v1 (pack-stock) |  |  |  |
+| 2026-11-28 | Nutrimea Pack Force (créatine + collagène) | Lot 8 (blocs) | Créa + collagène, le duo de la salle 💪 Pack Force Nutrimea, 4,6★, 45,9 | v1 (pack-salle) |  |  |  |
+| 2026-11-28 | Nutrimea Pack Force (créatine + collagène) | Lot 8 (blocs) | Ton pote vit à la salle ? Son cadeau de Noël 🎁 Pack créatine + collagè | v1 (pack-potesalle) |  |  |  |
+| 2026-11-28 | Nutrimea Pack Force (créatine + collagène) | Lot 8 (blocs) | Pourquoi payer créatine et collagène séparément ? Le Pack Force, les d | v1 (pack-separement) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | Derniers jours du Black Friday Topdon | v1 (top-dernier) |  |  |  |
+| 2026-11-28 | Topdon ArtiDiag 600 S | Lot 8 (blocs) | Le garage juste pour lire un code ? La Topdon lit et efface 🔧 151,99 € | v1 (top-garage3) |  |  |  |
+| 2026-11-28 | medicube duo bleu + rouge | Lot 8 (blocs) | Duo Medicube -20 %, derniers jours | v1 (duo-dernier) |  |  |  |
+| 2026-11-28 | ZAP menthe verte DUO (150 mg) | Lot 8 (blocs) | ZAP menthe en Black Friday jusqu'au 30/11 | v1 (zapm-dernier) |  |  |  |
+| 2026-11-28 | Nutrimea Pack Force (créatine + collagène) | Lot 8 (blocs) | Créatine + collagène -22 %, derniers jours | v1 (pack-dernier) |  |  |  |
