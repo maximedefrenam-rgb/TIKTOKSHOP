@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Pourquoi",
+   "start": 0.202,
+   "end": 0.4
+  },
+  {
+   "word": "un",
+   "start": 0.453,
+   "end": 0.56
+  },
+  {
+   "word": "seul",
+   "start": 0.608,
+   "end": 0.8
+  },
+  {
+   "word": "pad",
+   "start": 0.88,
+   "end": 1.12
+  },
+  {
+   "word": "quand",
+   "start": 1.147,
+   "end": 1.28
+  },
+  {
+   "word": "t'en",
+   "start": 1.32,
+   "end": 1.44
+  },
+  {
+   "word": "as",
+   "start": 1.493,
+   "end": 1.6
+  },
+  {
+   "word": "trois",
+   "start": 1.64,
+   "end": 1.84
+  },
+  {
+   "word": "qui",
+   "start": 1.88,
+   "end": 2
+  },
+  {
+   "word": "se",
+   "start": 2.027,
+   "end": 2.08
+  },
+  {
+   "word": "complètent",
+   "start": 2.133,
+   "end": 2.56
+  },
+  {
+   "word": "Le",
+   "start": 3.592,
+   "end": 3.663
+  },
+  {
+   "word": "Deep",
+   "start": 3.685,
+   "end": 3.77
+  },
+  {
+   "word": "Vita",
+   "start": 3.85,
+   "end": 4.17
+  },
+  {
+   "word": "C",
+   "start": 4.29,
+   "end": 4.73
+  },
+  {
+   "word": "à",
+   "start": 4.77,
+   "end": 4.81
+  },
+  {
+   "word": "la",
+   "start": 4.837,
+   "end": 4.89
+  },
+  {
+   "word": "vitamine",
+   "start": 4.95,
+   "end": 5.29
+  },
+  {
+   "word": "C",
+   "start": 5.49,
+   "end": 5.69
+  },
+  {
+   "word": "et",
+   "start": 5.717,
+   "end": 5.77
+  },
+  {
+   "word": "niacinamide",
+   "start": 5.85,
+   "end": 7.21
+  },
+  {
+   "word": "le",
+   "start": 7.534,
+   "end": 7.564
+  },
+  {
+   "word": "Zero",
+   "start": 7.573,
+   "end": 7.61
+  },
+  {
+   "word": "Pore",
+   "start": 7.73,
+   "end": 8.25
+  },
+  {
+   "word": "AHA",
+   "start": 8.33,
+   "end": 8.81
+  },
+  {
+   "word": "BHA",
+   "start": 8.93,
+   "end": 9.29
+  },
+  {
+   "word": "et",
+   "start": 9.343,
+   "end": 9.45
+  },
+  {
+   "word": "panthénol",
+   "start": 9.51,
+   "end": 10.09
+  },
+  {
+   "word": "et",
+   "start": 11.012,
+   "end": 11.027
+  },
+  {
+   "word": "le",
+   "start": 11.035,
+   "end": 11.05
+  },
+  {
+   "word": "Red",
+   "start": 11.11,
+   "end": 11.29
+  },
+  {
+   "word": "Peeling",
+   "start": 11.343,
+   "end": 11.85
+  },
+  {
+   "word": "acide",
+   "start": 11.983,
+   "end": 12.41
+  },
+  {
+   "word": "succinique",
+   "start": 12.474,
+   "end": 12.97
+  },
+  {
+   "word": "et",
+   "start": 13.05,
+   "end": 13.21
+  },
+  {
+   "word": "niacinamide",
+   "start": 13.263,
+   "end": 14.329
+  },
+  {
+   "word": "pour",
+   "start": 14.439,
+   "end": 14.503
+  },
+  {
+   "word": "l'effet",
+   "start": 14.543,
+   "end": 14.983
+  },
+  {
+   "word": "glass",
+   "start": 15.05,
+   "end": 15.383
+  },
+  {
+   "word": "skin",
+   "start": 15.447,
+   "end": 15.903
+  },
+  {
+   "word": "selon",
+   "start": 15.936,
+   "end": 16.103
+  },
+  {
+   "word": "la",
+   "start": 16.156,
+   "end": 16.263
+  },
+  {
+   "word": "marque",
+   "start": 16.309,
+   "end": 17.303
+  },
+  {
+   "word": "le",
+   "start": 17.45,
+   "end": 17.463
+  },
+  {
+   "word": "set",
+   "start": 17.523,
+   "end": 17.703
+  },
+  {
+   "word": "de",
+   "start": 17.783,
+   "end": 17.943
+  },
+  {
+   "word": "trois",
+   "start": 17.97,
+   "end": 18.383
+  },
+  {
+   "word": "trente-cinq",
+   "start": 18.453,
+   "end": 18.983
+  },
+  {
+   "word": "vingt",
+   "start": 19.063,
+   "end": 19.223
+  },
+  {
+   "word": "avec",
+   "start": 19.271,
+   "end": 19.463
+  },
+  {
+   "word": "les",
+   "start": 19.483,
+   "end": 19.543
+  },
+  {
+   "word": "coupons",
+   "start": 19.593,
+   "end": 20.343
+  },
+  {
+   "word": "livraison",
+   "start": 20.553,
+   "end": 20.823
+  },
+  {
+   "word": "gratuite",
+   "start": 20.876,
+   "end": 21.383
+  },
+  {
+   "word": "panier",
+   "start": 21.463,
+   "end": 21.783
+  },
+  {
+   "word": "orange",
+   "start": 21.852,
+   "end": 22.343
+  },
+  {
+   "word": "FONCE",
+   "start": 22.583,
+   "end": 23.223
+  }
+ ],
+ "durationSec": 23.406,
+ "model": "eleven_v3"
+}

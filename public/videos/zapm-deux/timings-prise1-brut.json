@@ -1,0 +1,256 @@
+{
+ "words": [
+  {
+   "word": "Petite",
+   "start": 0.354,
+   "end": 0.4
+  },
+  {
+   "word": "astuce",
+   "start": 0.44,
+   "end": 0.72
+  },
+  {
+   "word": "pour",
+   "start": 0.752,
+   "end": 0.88
+  },
+  {
+   "word": "le",
+   "start": 0.907,
+   "end": 0.96
+  },
+  {
+   "word": "Black",
+   "start": 1,
+   "end": 1.2
+  },
+  {
+   "word": "Friday",
+   "start": 1.257,
+   "end": 1.76
+  },
+  {
+   "word": "écoute",
+   "start": 1.813,
+   "end": 2.08
+  },
+  {
+   "word": "bien",
+   "start": 2.112,
+   "end": 2.24
+  },
+  {
+   "word": "Sur",
+   "start": 3.096,
+   "end": 3.12
+  },
+  {
+   "word": "ZAP",
+   "start": 3.2,
+   "end": 3.6
+  },
+  {
+   "word": "c'est",
+   "start": 3.64,
+   "end": 3.84
+  },
+  {
+   "word": "moins",
+   "start": 3.88,
+   "end": 4.08
+  },
+  {
+   "word": "vingt",
+   "start": 4.12,
+   "end": 4.24
+  },
+  {
+   "word": "pour",
+   "start": 4.272,
+   "end": 4.4
+  },
+  {
+   "word": "cent",
+   "start": 4.448,
+   "end": 4.64
+  },
+  {
+   "word": "au-delà",
+   "start": 4.747,
+   "end": 5.2
+  },
+  {
+   "word": "de",
+   "start": 5.253,
+   "end": 5.36
+  },
+  {
+   "word": "vingt-cinq",
+   "start": 5.4,
+   "end": 5.84
+  },
+  {
+   "word": "euros",
+   "start": 5.88,
+   "end": 6.72
+  },
+  {
+   "word": "donc",
+   "start": 6.928,
+   "end": 6.96
+  },
+  {
+   "word": "deux",
+   "start": 7.024,
+   "end": 7.28
+  },
+  {
+   "word": "duos",
+   "start": 7.387,
+   "end": 7.68
+  },
+  {
+   "word": "menthe",
+   "start": 7.696,
+   "end": 7.84
+  },
+  {
+   "word": "verte",
+   "start": 7.907,
+   "end": 8.4
+  },
+  {
+   "word": "soixante-douze",
+   "start": 8.427,
+   "end": 8.88
+  },
+  {
+   "word": "sachets",
+   "start": 8.944,
+   "end": 9.68
+  },
+  {
+   "word": "et",
+   "start": 9.707,
+   "end": 9.76
+  },
+  {
+   "word": "t'es",
+   "start": 9.8,
+   "end": 10
+  },
+  {
+   "word": "à",
+   "start": 10.12,
+   "end": 10.24
+  },
+  {
+   "word": "environ",
+   "start": 10.27,
+   "end": 10.48
+  },
+  {
+   "word": "vingt-trois",
+   "start": 10.56,
+   "end": 11.16
+  },
+  {
+   "word": "euros",
+   "start": 11.193,
+   "end": 12
+  },
+  {
+   "word": "cent",
+   "start": 12.149,
+   "end": 12.16
+  },
+  {
+   "word": "cinquante",
+   "start": 12.2,
+   "end": 12.56
+  },
+  {
+   "word": "milligrammes",
+   "start": 12.592,
+   "end": 13.04
+  },
+  {
+   "word": "de",
+   "start": 13.067,
+   "end": 13.12
+  },
+  {
+   "word": "caféine",
+   "start": 13.184,
+   "end": 13.6
+  },
+  {
+   "word": "par",
+   "start": 13.64,
+   "end": 13.76
+  },
+  {
+   "word": "sachet",
+   "start": 13.808,
+   "end": 14.24
+  },
+  {
+   "word": "elle-théanine",
+   "start": 14.336,
+   "end": 15.44
+  },
+  {
+   "word": "vitamines",
+   "start": 15.48,
+   "end": 15.92
+  },
+  {
+   "word": "B",
+   "start": 16,
+   "end": 16.48
+  },
+  {
+   "word": "livraison",
+   "start": 16.666,
+   "end": 17.046
+  },
+  {
+   "word": "gratuite",
+   "start": 17.099,
+   "end": 17.606
+  },
+  {
+   "word": "jusqu'au",
+   "start": 17.699,
+   "end": 18.366
+  },
+  {
+   "word": "trente",
+   "start": 18.396,
+   "end": 18.646
+  },
+  {
+   "word": "novembre",
+   "start": 18.699,
+   "end": 19.206
+  },
+  {
+   "word": "panier",
+   "start": 19.306,
+   "end": 19.766
+  },
+  {
+   "word": "orange",
+   "start": 19.823,
+   "end": 20.246
+  },
+  {
+   "word": "FONCE",
+   "start": 20.486,
+   "end": 21.046
+  }
+ ],
+ "durationSec": 21.394,
+ "model": "eleven_v3"
+}

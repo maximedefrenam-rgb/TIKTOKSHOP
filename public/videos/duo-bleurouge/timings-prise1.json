@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.091,
+   "end": 0.136
+  },
+  {
+   "word": "bleu",
+   "start": 0.186,
+   "end": 0.407
+  },
+  {
+   "word": "et",
+   "start": 0.43,
+   "end": 0.475
+  },
+  {
+   "word": "le",
+   "start": 0.497,
+   "end": 0.542
+  },
+  {
+   "word": "rouge",
+   "start": 0.587,
+   "end": 1.153
+  },
+  {
+   "word": "c'est",
+   "start": 1.186,
+   "end": 1.424
+  },
+  {
+   "word": "LE",
+   "start": 1.469,
+   "end": 1.559
+  },
+  {
+   "word": "duo",
+   "start": 1.644,
+   "end": 1.898
+  },
+  {
+   "word": "qui",
+   "start": 1.932,
+   "end": 2.034
+  },
+  {
+   "word": "part",
+   "start": 2.088,
+   "end": 2.305
+  },
+  {
+   "word": "en",
+   "start": 2.328,
+   "end": 2.373
+  },
+  {
+   "word": "ce",
+   "start": 2.396,
+   "end": 2.441
+  },
+  {
+   "word": "moment",
+   "start": 2.48,
+   "end": 2.712
+  },
+  {
+   "word": "Zero",
+   "start": 2.994,
+   "end": 3.021
+  },
+  {
+   "word": "Pore",
+   "start": 3.089,
+   "end": 3.292
+  },
+  {
+   "word": "Pad",
+   "start": 3.343,
+   "end": 3.563
+  },
+  {
+   "word": "pour",
+   "start": 3.59,
+   "end": 3.699
+  },
+  {
+   "word": "les",
+   "start": 3.733,
+   "end": 3.835
+  },
+  {
+   "word": "pores",
+   "start": 3.879,
+   "end": 4.174
+  },
+  {
+   "word": "et",
+   "start": 4.235,
+   "end": 4.295
+  },
+  {
+   "word": "Red",
+   "start": 4.363,
+   "end": 4.566
+  },
+  {
+   "word": "Succinic",
+   "start": 4.62,
+   "end": 5.041
+  },
+  {
+   "word": "Acid",
+   "start": 5.095,
+   "end": 5.312
+  },
+  {
+   "word": "Peeling",
+   "start": 5.357,
+   "end": 5.583
+  },
+  {
+   "word": "Pad",
+   "start": 5.651,
+   "end": 6.058
+  },
+  {
+   "word": "pour",
+   "start": 6.085,
+   "end": 6.193
+  },
+  {
+   "word": "les",
+   "start": 6.21,
+   "end": 6.261
+  },
+  {
+   "word": "marques",
+   "start": 6.295,
+   "end": 6.532
+  },
+  {
+   "word": "post-imperfections",
+   "start": 6.587,
+   "end": 7.481
+  },
+  {
+   "word": "selon",
+   "start": 7.504,
+   "end": 7.617
+  },
+  {
+   "word": "la",
+   "start": 7.662,
+   "end": 7.753
+  },
+  {
+   "word": "marque",
+   "start": 7.792,
+   "end": 8.092
+  },
+  {
+   "word": "soixante-dix",
+   "start": 8.341,
+   "end": 8.831
+  },
+  {
+   "word": "pads",
+   "start": 8.885,
+   "end": 9.102
+  },
+  {
+   "word": "dans",
+   "start": 9.129,
+   "end": 9.238
+  },
+  {
+   "word": "chaque",
+   "start": 9.277,
+   "end": 9.509
+  },
+  {
+   "word": "pot",
+   "start": 9.56,
+   "end": 10.119
+  },
+  {
+   "word": "moins",
+   "start": 10.295,
+   "end": 10.323
+  },
+  {
+   "word": "vingt",
+   "start": 10.424,
+   "end": 10.594
+  },
+  {
+   "word": "pour",
+   "start": 10.635,
+   "end": 10.797
+  },
+  {
+   "word": "cent",
+   "start": 10.838,
+   "end": 11.407
+  },
+  {
+   "word": "vingt-neuf",
+   "start": 11.441,
+   "end": 11.814
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 11.853,
+   "end": 12.797
+  },
+  {
+   "word": "et",
+   "start": 12.876,
+   "end": 13.035
+  },
+  {
+   "word": "vingt-trois",
+   "start": 13.102,
+   "end": 13.679
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 13.703,
+   "end": 14.323
+  },
+  {
+   "word": "avec",
+   "start": 14.404,
+   "end": 14.729
+  },
+  {
+   "word": "les",
+   "start": 14.763,
+   "end": 14.865
+  },
+  {
+   "word": "coupons",
+   "start": 14.899,
+   "end": 15.679
+  },
+  {
+   "word": "plus",
+   "start": 15.923,
+   "end": 15.95
+  },
+  {
+   "word": "un",
+   "start": 16.018,
+   "end": 16.153
+  },
+  {
+   "word": "cadeau",
+   "start": 16.207,
+   "end": 16.492
+  },
+  {
+   "word": "offert",
+   "start": 16.526,
+   "end": 17.306
+  },
+  {
+   "word": "panier",
+   "start": 17.484,
+   "end": 17.645
+  },
+  {
+   "word": "orange",
+   "start": 17.693,
+   "end": 18.255
+  },
+  {
+   "word": "FONCE",
+   "start": 18.323,
+   "end": 18.662
+  }
+ ],
+ "durationSec": 18.834,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

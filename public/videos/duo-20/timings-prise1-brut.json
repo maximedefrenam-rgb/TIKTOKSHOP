@@ -1,0 +1,241 @@
+{
+ "words": [
+  {
+   "word": "Moins",
+   "start": 0.147,
+   "end": 0.4
+  },
+  {
+   "word": "vingt",
+   "start": 0.42,
+   "end": 0.48
+  },
+  {
+   "word": "pour",
+   "start": 0.528,
+   "end": 0.72
+  },
+  {
+   "word": "cent",
+   "start": 0.768,
+   "end": 0.96
+  },
+  {
+   "word": "sur",
+   "start": 1.02,
+   "end": 1.2
+  },
+  {
+   "word": "le",
+   "start": 1.227,
+   "end": 1.28
+  },
+  {
+   "word": "duo",
+   "start": 1.36,
+   "end": 1.6
+  },
+  {
+   "word": "Medicube",
+   "start": 1.667,
+   "end": 2.56
+  },
+  {
+   "word": "et",
+   "start": 2.587,
+   "end": 2.64
+  },
+  {
+   "word": "c'est",
+   "start": 2.68,
+   "end": 2.8
+  },
+  {
+   "word": "le",
+   "start": 2.827,
+   "end": 2.88
+  },
+  {
+   "word": "prix",
+   "start": 2.928,
+   "end": 3.12
+  },
+  {
+   "word": "le",
+   "start": 3.173,
+   "end": 3.28
+  },
+  {
+   "word": "plus",
+   "start": 3.312,
+   "end": 3.44
+  },
+  {
+   "word": "bas",
+   "start": 3.52,
+   "end": 3.76
+  },
+  {
+   "word": "sur",
+   "start": 3.82,
+   "end": 4
+  },
+  {
+   "word": "trente",
+   "start": 4.04,
+   "end": 4.24
+  },
+  {
+   "word": "jours",
+   "start": 4.28,
+   "end": 4.48
+  },
+  {
+   "word": "Trente-sept",
+   "start": 5.343,
+   "end": 5.6
+  },
+  {
+   "word": "cinquante",
+   "start": 5.64,
+   "end": 6.28
+  },
+  {
+   "word": "barré",
+   "start": 6.32,
+   "end": 7.04
+  },
+  {
+   "word": "vingt-neuf",
+   "start": 7.08,
+   "end": 7.44
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 7.474,
+   "end": 8.48
+  },
+  {
+   "word": "et",
+   "start": 8.697,
+   "end": 8.724
+  },
+  {
+   "word": "vingt-trois",
+   "start": 8.844,
+   "end": 9.444
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 9.467,
+   "end": 10.204
+  },
+  {
+   "word": "avec",
+   "start": 10.228,
+   "end": 10.324
+  },
+  {
+   "word": "les",
+   "start": 10.364,
+   "end": 10.484
+  },
+  {
+   "word": "coupons",
+   "start": 10.524,
+   "end": 11.364
+  },
+  {
+   "word": "Zero",
+   "start": 11.598,
+   "end": 11.694
+  },
+  {
+   "word": "Pore",
+   "start": 11.774,
+   "end": 12.094
+  },
+  {
+   "word": "et",
+   "start": 12.174,
+   "end": 12.334
+  },
+  {
+   "word": "Red",
+   "start": 12.394,
+   "end": 12.574
+  },
+  {
+   "word": "Peeling",
+   "start": 12.601,
+   "end": 13.054
+  },
+  {
+   "word": "cent",
+   "start": 13.15,
+   "end": 13.534
+  },
+  {
+   "word": "quarante",
+   "start": 13.582,
+   "end": 13.854
+  },
+  {
+   "word": "pads",
+   "start": 13.934,
+   "end": 14.334
+  },
+  {
+   "word": "cadeau",
+   "start": 14.873,
+   "end": 14.974
+  },
+  {
+   "word": "offert",
+   "start": 15.014,
+   "end": 16.014
+  },
+  {
+   "word": "Black",
+   "start": 16.284,
+   "end": 16.334
+  },
+  {
+   "word": "Friday",
+   "start": 16.403,
+   "end": 16.814
+  },
+  {
+   "word": "jusqu'au",
+   "start": 16.854,
+   "end": 17.134
+  },
+  {
+   "word": "trente",
+   "start": 17.194,
+   "end": 17.534
+  },
+  {
+   "word": "novembre",
+   "start": 17.578,
+   "end": 18.334
+  },
+  {
+   "word": "panier",
+   "start": 18.374,
+   "end": 18.654
+  },
+  {
+   "word": "orange",
+   "start": 18.711,
+   "end": 19.454
+  },
+  {
+   "word": "FONCE",
+   "start": 19.534,
+   "end": 20.014
+  }
+ ],
+ "durationSec": 20.193,
+ "model": "eleven_v3"
+}

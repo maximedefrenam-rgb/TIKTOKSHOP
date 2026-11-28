@@ -1,0 +1,306 @@
+{
+ "words": [
+  {
+   "word": "T'en",
+   "start": 0.042,
+   "end": 0.096
+  },
+  {
+   "word": "as",
+   "start": 0.141,
+   "end": 0.231
+  },
+  {
+   "word": "pas",
+   "start": 0.248,
+   "end": 0.299
+  },
+  {
+   "word": "marre",
+   "start": 0.35,
+   "end": 0.57
+  },
+  {
+   "word": "de",
+   "start": 0.593,
+   "end": 0.638
+  },
+  {
+   "word": "tes",
+   "start": 0.672,
+   "end": 0.774
+  },
+  {
+   "word": "pores",
+   "start": 0.807,
+   "end": 0.977
+  },
+  {
+   "word": "qui",
+   "start": 0.994,
+   "end": 1.045
+  },
+  {
+   "word": "se",
+   "start": 1.068,
+   "end": 1.113
+  },
+  {
+   "word": "voient",
+   "start": 1.135,
+   "end": 1.248
+  },
+  {
+   "word": "à",
+   "start": 1.282,
+   "end": 1.316
+  },
+  {
+   "word": "trois",
+   "start": 1.339,
+   "end": 1.452
+  },
+  {
+   "word": "mètres",
+   "start": 1.519,
+   "end": 1.723
+  },
+  {
+   "word": "Le",
+   "start": 1.952,
+   "end": 1.967
+  },
+  {
+   "word": "duo",
+   "start": 2.035,
+   "end": 2.238
+  },
+  {
+   "word": "Medicube",
+   "start": 2.295,
+   "end": 2.984
+  },
+  {
+   "word": "le",
+   "start": 3.007,
+   "end": 3.052
+  },
+  {
+   "word": "Zero",
+   "start": 3.106,
+   "end": 3.323
+  },
+  {
+   "word": "Pore",
+   "start": 3.391,
+   "end": 3.526
+  },
+  {
+   "word": "Pad",
+   "start": 3.594,
+   "end": 3.865
+  },
+  {
+   "word": "AHA",
+   "start": 4.069,
+   "end": 4.815
+  },
+  {
+   "word": "BHA",
+   "start": 4.916,
+   "end": 5.526
+  },
+  {
+   "word": "panthénol",
+   "start": 5.569,
+   "end": 6.103
+  },
+  {
+   "word": "et",
+   "start": 6.218,
+   "end": 6.227
+  },
+  {
+   "word": "le",
+   "start": 6.25,
+   "end": 6.295
+  },
+  {
+   "word": "Peeling",
+   "start": 6.34,
+   "end": 6.634
+  },
+  {
+   "word": "à",
+   "start": 6.668,
+   "end": 6.702
+  },
+  {
+   "word": "l'acide",
+   "start": 6.736,
+   "end": 6.973
+  },
+  {
+   "word": "succinique",
+   "start": 7.027,
+   "end": 7.583
+  },
+  {
+   "word": "niacinamide",
+   "start": 7.628,
+   "end": 8.126
+  },
+  {
+   "word": "deux",
+   "start": 8.139,
+   "end": 8.193
+  },
+  {
+   "word": "pour",
+   "start": 8.234,
+   "end": 8.397
+  },
+  {
+   "word": "cent",
+   "start": 8.437,
+   "end": 9.007
+  },
+  {
+   "word": "des",
+   "start": 9.133,
+   "end": 9.143
+  },
+  {
+   "word": "pores",
+   "start": 9.2,
+   "end": 9.482
+  },
+  {
+   "word": "nets",
+   "start": 9.537,
+   "end": 9.957
+  },
+  {
+   "word": "selon",
+   "start": 9.991,
+   "end": 10.16
+  },
+  {
+   "word": "la",
+   "start": 10.183,
+   "end": 10.228
+  },
+  {
+   "word": "marque",
+   "start": 10.276,
+   "end": 10.838
+  },
+  {
+   "word": "un",
+   "start": 11.031,
+   "end": 11.042
+  },
+  {
+   "word": "pad",
+   "start": 11.126,
+   "end": 11.448
+  },
+  {
+   "word": "un",
+   "start": 11.527,
+   "end": 11.577
+  },
+  {
+   "word": "geste",
+   "start": 11.644,
+   "end": 12.051
+  },
+  {
+   "word": "c'est",
+   "start": 12.123,
+   "end": 12.23
+  },
+  {
+   "word": "réglé",
+   "start": 12.275,
+   "end": 13.044
+  },
+  {
+   "word": "vingt-neuf",
+   "start": 13.171,
+   "end": 13.45
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 13.479,
+   "end": 14.23
+  },
+  {
+   "word": "au",
+   "start": 14.287,
+   "end": 14.4
+  },
+  {
+   "word": "lieu",
+   "start": 14.427,
+   "end": 14.535
+  },
+  {
+   "word": "de",
+   "start": 14.58,
+   "end": 14.671
+  },
+  {
+   "word": "trente-sept",
+   "start": 14.688,
+   "end": 14.943
+  },
+  {
+   "word": "cinquante",
+   "start": 14.993,
+   "end": 15.654
+  },
+  {
+   "word": "moins",
+   "start": 15.705,
+   "end": 15.959
+  },
+  {
+   "word": "vingt",
+   "start": 15.976,
+   "end": 16.027
+  },
+  {
+   "word": "pour",
+   "start": 16.067,
+   "end": 16.23
+  },
+  {
+   "word": "cent",
+   "start": 16.257,
+   "end": 16.705
+  },
+  {
+   "word": "panier",
+   "start": 16.755,
+   "end": 16.976
+  },
+  {
+   "word": "orange",
+   "start": 17.024,
+   "end": 17.383
+  },
+  {
+   "word": "FONCE",
+   "start": 17.62,
+   "end": 18.128
+  }
+ ],
+ "durationSec": 18.39,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 6
+ }
+}

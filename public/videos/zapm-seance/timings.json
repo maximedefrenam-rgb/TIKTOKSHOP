@@ -1,0 +1,276 @@
+{
+ "words": [
+  {
+   "word": "Séance",
+   "start": 0.125,
+   "end": 0.271
+  },
+  {
+   "word": "à",
+   "start": 0.339,
+   "end": 0.407
+  },
+  {
+   "word": "sept",
+   "start": 0.434,
+   "end": 0.542
+  },
+  {
+   "word": "heures",
+   "start": 0.571,
+   "end": 0.746
+  },
+  {
+   "word": "du",
+   "start": 0.78,
+   "end": 0.858
+  },
+  {
+   "word": "mat'",
+   "start": 0.904,
+   "end": 1.017
+  },
+  {
+   "word": "et",
+   "start": 1.051,
+   "end": 1.108
+  },
+  {
+   "word": "t'es",
+   "start": 1.13,
+   "end": 1.22
+  },
+  {
+   "word": "encore",
+   "start": 1.249,
+   "end": 1.424
+  },
+  {
+   "word": "en",
+   "start": 1.447,
+   "end": 1.492
+  },
+  {
+   "word": "mode",
+   "start": 1.519,
+   "end": 1.627
+  },
+  {
+   "word": "zombie",
+   "start": 1.666,
+   "end": 1.898
+  },
+  {
+   "word": "Un",
+   "start": 2.047,
+   "end": 2.07
+  },
+  {
+   "word": "sachet",
+   "start": 2.111,
+   "end": 2.409
+  },
+  {
+   "word": "ZAP",
+   "start": 2.477,
+   "end": 2.68
+  },
+  {
+   "word": "menthe",
+   "start": 2.707,
+   "end": 2.883
+  },
+  {
+   "word": "verte",
+   "start": 2.928,
+   "end": 3.155
+  },
+  {
+   "word": "sous",
+   "start": 3.168,
+   "end": 3.222
+  },
+  {
+   "word": "la",
+   "start": 3.267,
+   "end": 3.358
+  },
+  {
+   "word": "lèvre",
+   "start": 3.392,
+   "end": 3.968
+  },
+  {
+   "word": "cent",
+   "start": 4.158,
+   "end": 4.172
+  },
+  {
+   "word": "cinquante",
+   "start": 4.222,
+   "end": 4.578
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.605,
+   "end": 4.985
+  },
+  {
+   "word": "de",
+   "start": 5.008,
+   "end": 5.053
+  },
+  {
+   "word": "caféine",
+   "start": 5.121,
+   "end": 5.799
+  },
+  {
+   "word": "presque",
+   "start": 5.839,
+   "end": 6.138
+  },
+  {
+   "word": "deux",
+   "start": 6.192,
+   "end": 6.409
+  },
+  {
+   "word": "expressos",
+   "start": 6.46,
+   "end": 7.358
+  },
+  {
+   "word": "avec",
+   "start": 7.544,
+   "end": 7.561
+  },
+  {
+   "word": "elle-théanine",
+   "start": 7.602,
+   "end": 8.239
+  },
+  {
+   "word": "et",
+   "start": 8.284,
+   "end": 8.375
+  },
+  {
+   "word": "vitamines",
+   "start": 8.409,
+   "end": 8.714
+  },
+  {
+   "word": "B",
+   "start": 8.816,
+   "end": 9.324
+  },
+  {
+   "word": "zéro",
+   "start": 9.522,
+   "end": 9.663
+  },
+  {
+   "word": "café",
+   "start": 9.717,
+   "end": 9.934
+  },
+  {
+   "word": "à",
+   "start": 9.968,
+   "end": 10.002
+  },
+  {
+   "word": "préparer",
+   "start": 10.053,
+   "end": 10.68
+  },
+  {
+   "word": "ça",
+   "start": 10.725,
+   "end": 10.816
+  },
+  {
+   "word": "tient",
+   "start": 10.883,
+   "end": 11.019
+  },
+  {
+   "word": "dans",
+   "start": 11.046,
+   "end": 11.155
+  },
+  {
+   "word": "ta",
+   "start": 11.2,
+   "end": 11.29
+  },
+  {
+   "word": "poche",
+   "start": 11.335,
+   "end": 11.968
+  },
+  {
+   "word": "trente-six",
+   "start": 12.091,
+   "end": 12.375
+  },
+  {
+   "word": "sachets",
+   "start": 12.429,
+   "end": 12.782
+  },
+  {
+   "word": "à",
+   "start": 12.85,
+   "end": 12.917
+  },
+  {
+   "word": "quatorze",
+   "start": 12.94,
+   "end": 13.324
+  },
+  {
+   "word": "euros",
+   "start": 13.347,
+   "end": 13.46
+  },
+  {
+   "word": "trente-sept",
+   "start": 13.477,
+   "end": 14.205
+  },
+  {
+   "word": "livraison",
+   "start": 14.256,
+   "end": 14.612
+  },
+  {
+   "word": "gratuite",
+   "start": 14.657,
+   "end": 15.29
+  },
+  {
+   "word": "panier",
+   "start": 15.324,
+   "end": 15.561
+  },
+  {
+   "word": "orange",
+   "start": 15.61,
+   "end": 16.172
+  },
+  {
+   "word": "FONCE",
+   "start": 16.273,
+   "end": 16.646
+  }
+ ],
+ "durationSec": 16.927,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

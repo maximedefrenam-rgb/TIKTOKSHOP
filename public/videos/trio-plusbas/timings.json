@@ -1,0 +1,291 @@
+{
+ "words": [
+  {
+   "word": "Prix",
+   "start": 0.113,
+   "end": 0.14
+  },
+  {
+   "word": "le",
+   "start": 0.163,
+   "end": 0.208
+  },
+  {
+   "word": "plus",
+   "start": 0.248,
+   "end": 0.411
+  },
+  {
+   "word": "bas",
+   "start": 0.462,
+   "end": 0.614
+  },
+  {
+   "word": "sur",
+   "start": 0.648,
+   "end": 0.75
+  },
+  {
+   "word": "trente",
+   "start": 0.818,
+   "end": 1.089
+  },
+  {
+   "word": "jours",
+   "start": 1.146,
+   "end": 1.428
+  },
+  {
+   "word": "sur",
+   "start": 1.479,
+   "end": 1.631
+  },
+  {
+   "word": "le",
+   "start": 1.654,
+   "end": 1.699
+  },
+  {
+   "word": "set",
+   "start": 1.767,
+   "end": 1.97
+  },
+  {
+   "word": "Medicube",
+   "start": 2.027,
+   "end": 2.648
+  },
+  {
+   "word": "ça",
+   "start": 2.693,
+   "end": 2.784
+  },
+  {
+   "word": "se",
+   "start": 2.807,
+   "end": 2.852
+  },
+  {
+   "word": "rate",
+   "start": 2.892,
+   "end": 3.055
+  },
+  {
+   "word": "pas",
+   "start": 3.089,
+   "end": 3.191
+  },
+  {
+   "word": "Trois",
+   "start": 3.383,
+   "end": 3.476
+  },
+  {
+   "word": "pots",
+   "start": 3.517,
+   "end": 3.68
+  },
+  {
+   "word": "de",
+   "start": 3.703,
+   "end": 3.748
+  },
+  {
+   "word": "toner",
+   "start": 3.799,
+   "end": 4.019
+  },
+  {
+   "word": "pads",
+   "start": 4.087,
+   "end": 4.629
+  },
+  {
+   "word": "quarante-neuf",
+   "start": 4.751,
+   "end": 5.171
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.191,
+   "end": 6.03
+  },
+  {
+   "word": "barré",
+   "start": 6.062,
+   "end": 6.324
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 6.392,
+   "end": 6.934
+  },
+  {
+   "word": "euros",
+   "start": 6.979,
+   "end": 7.612
+  },
+  {
+   "word": "et",
+   "start": 7.635,
+   "end": 7.68
+  },
+  {
+   "word": "trente-cinq",
+   "start": 7.731,
+   "end": 8.154
+  },
+  {
+   "word": "vingt",
+   "start": 8.222,
+   "end": 8.358
+  },
+  {
+   "word": "avec",
+   "start": 8.412,
+   "end": 8.629
+  },
+  {
+   "word": "les",
+   "start": 8.663,
+   "end": 8.765
+  },
+  {
+   "word": "coupons",
+   "start": 8.799,
+   "end": 9.307
+  },
+  {
+   "word": "vitamine",
+   "start": 9.493,
+   "end": 9.714
+  },
+  {
+   "word": "C",
+   "start": 9.849,
+   "end": 10.053
+  },
+  {
+   "word": "AHA",
+   "start": 10.256,
+   "end": 10.799
+  },
+  {
+   "word": "BHA",
+   "start": 10.94,
+   "end": 11.448
+  },
+  {
+   "word": "acide",
+   "start": 11.561,
+   "end": 11.923
+  },
+  {
+   "word": "succinique",
+   "start": 11.977,
+   "end": 12.533
+  },
+  {
+   "word": "pour",
+   "start": 12.601,
+   "end": 12.872
+  },
+  {
+   "word": "une",
+   "start": 12.906,
+   "end": 13.008
+  },
+  {
+   "word": "peau",
+   "start": 13.031,
+   "end": 13.211
+  },
+  {
+   "word": "nette",
+   "start": 13.262,
+   "end": 13.55
+  },
+  {
+   "word": "selon",
+   "start": 13.595,
+   "end": 13.821
+  },
+  {
+   "word": "la",
+   "start": 13.844,
+   "end": 13.889
+  },
+  {
+   "word": "marque",
+   "start": 13.937,
+   "end": 14.296
+  },
+  {
+   "word": "quatre",
+   "start": 14.452,
+   "end": 14.51
+  },
+  {
+   "word": "virgule",
+   "start": 14.561,
+   "end": 14.782
+  },
+  {
+   "word": "six",
+   "start": 14.832,
+   "end": 14.985
+  },
+  {
+   "word": "étoiles",
+   "start": 15.053,
+   "end": 15.46
+  },
+  {
+   "word": "jusqu'au",
+   "start": 15.7,
+   "end": 15.843
+  },
+  {
+   "word": "trente",
+   "start": 15.894,
+   "end": 16.114
+  },
+  {
+   "word": "novembre",
+   "start": 16.159,
+   "end": 16.589
+  },
+  {
+   "word": "livraison",
+   "start": 16.657,
+   "end": 17.063
+  },
+  {
+   "word": "gratuite",
+   "start": 17.116,
+   "end": 17.707
+  },
+  {
+   "word": "panier",
+   "start": 17.75,
+   "end": 17.945
+  },
+  {
+   "word": "orange",
+   "start": 17.993,
+   "end": 18.352
+  },
+  {
+   "word": "FONCE",
+   "start": 18.521,
+   "end": 18.962
+  }
+ ],
+ "durationSec": 19.148,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 5
+ }
+}

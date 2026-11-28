@@ -125,7 +125,7 @@ export const CutawayScene: React.FC<P<'cutaway'>> = ({scene, cfg, offset}) => {
       {/* lueur qui sort du produit ouvert */}
       <div style={{position: 'absolute', left: productCx(cfg, scene), top: cy - h * 0.05, width: 700, height: 700, transform: 'translate(-50%, -50%)',
         background: `radial-gradient(circle, ${cfg.accent}AA 0%, ${cfg.accent}00 65%)`, opacity: glow}} />
-      <Product offset={offset} src={cfg.productImage} scale={cutScale * (zoom ? 1 + 0.22 * openS : 1)} height={h} cx={productCx(cfg, scene)} cy={zoom ? cy + 40 : cy} enterAt={s2f(scene.from)} open={open} seed="cut" sweeps={[s2f(scene.from) + 6]} />
+      <Product offset={offset} src={cfg.productImage} scale={cutScale * (zoom ? 1 + 0.22 * openS : 1)} height={h} cx={productCx(cfg, scene)} cy={zoom ? 1150 + lift - (1 - cutScale) * 120 : cy} enterAt={s2f(scene.from)} open={open} seed="cut" sweeps={[s2f(scene.from) + 6]} />
       <Particles frame={f} start={oA} cx={productCx(cfg, scene)} cy={cy - h * 0.04} accent={cfg.accent} />
       {scene.items.map((it, i) => {
         const a = s2f(it.at);

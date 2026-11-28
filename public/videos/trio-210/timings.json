@@ -1,0 +1,286 @@
+{
+ "words": [
+  {
+   "word": "Deux",
+   "start": 0.125,
+   "end": 0.305
+  },
+  {
+   "word": "cent",
+   "start": 0.339,
+   "end": 0.475
+  },
+  {
+   "word": "dix",
+   "start": 0.576,
+   "end": 0.915
+  },
+  {
+   "word": "pads",
+   "start": 0.963,
+   "end": 1.153
+  },
+  {
+   "word": "dans",
+   "start": 1.207,
+   "end": 1.424
+  },
+  {
+   "word": "un",
+   "start": 1.492,
+   "end": 1.627
+  },
+  {
+   "word": "seul",
+   "start": 1.668,
+   "end": 1.831
+  },
+  {
+   "word": "set",
+   "start": 1.915,
+   "end": 2.237
+  },
+  {
+   "word": "wesh",
+   "start": 2.271,
+   "end": 2.508
+  },
+  {
+   "word": "Trois",
+   "start": 2.721,
+   "end": 2.748
+  },
+  {
+   "word": "pots",
+   "start": 2.788,
+   "end": 2.95
+  },
+  {
+   "word": "Medicube",
+   "start": 3.007,
+   "end": 3.357
+  },
+  {
+   "word": "de",
+   "start": 3.425,
+   "end": 3.56
+  },
+  {
+   "word": "soixante-dix",
+   "start": 3.583,
+   "end": 4.137
+  },
+  {
+   "word": "pads",
+   "start": 4.171,
+   "end": 4.577
+  },
+  {
+   "word": "et",
+   "start": 4.781,
+   "end": 4.808
+  },
+  {
+   "word": "avec",
+   "start": 4.816,
+   "end": 4.849
+  },
+  {
+   "word": "les",
+   "start": 4.882,
+   "end": 4.984
+  },
+  {
+   "word": "coupons",
+   "start": 5.018,
+   "end": 5.255
+  },
+  {
+   "word": "c'est",
+   "start": 5.391,
+   "end": 5.73
+  },
+  {
+   "word": "trente-cinq",
+   "start": 5.764,
+   "end": 6.137
+  },
+  {
+   "word": "euros",
+   "start": 6.182,
+   "end": 6.408
+  },
+  {
+   "word": "vingt",
+   "start": 6.442,
+   "end": 6.882
+  },
+  {
+   "word": "ça",
+   "start": 7.007,
+   "end": 7.018
+  },
+  {
+   "word": "fait",
+   "start": 7.045,
+   "end": 7.154
+  },
+  {
+   "word": "même",
+   "start": 7.194,
+   "end": 7.357
+  },
+  {
+   "word": "pas",
+   "start": 7.391,
+   "end": 7.493
+  },
+  {
+   "word": "dix-sept",
+   "start": 7.594,
+   "end": 8.035
+  },
+  {
+   "word": "centimes",
+   "start": 8.089,
+   "end": 8.442
+  },
+  {
+   "word": "le",
+   "start": 8.465,
+   "end": 8.51
+  },
+  {
+   "word": "pad",
+   "start": 8.594,
+   "end": 9.255
+  },
+  {
+   "word": "vitamine",
+   "start": 9.439,
+   "end": 9.663
+  },
+  {
+   "word": "C",
+   "start": 9.765,
+   "end": 9.934
+  },
+  {
+   "word": "zéro",
+   "start": 10.104,
+   "end": 10.409
+  },
+  {
+   "word": "pore",
+   "start": 10.49,
+   "end": 10.815
+  },
+  {
+   "word": "et",
+   "start": 10.86,
+   "end": 10.951
+  },
+  {
+   "word": "peeling",
+   "start": 10.996,
+   "end": 11.426
+  },
+  {
+   "word": "plus",
+   "start": 11.583,
+   "end": 11.592
+  },
+  {
+   "word": "de",
+   "start": 11.66,
+   "end": 11.795
+  },
+  {
+   "word": "deux",
+   "start": 11.849,
+   "end": 12.066
+  },
+  {
+   "word": "mille",
+   "start": 12.134,
+   "end": 12.27
+  },
+  {
+   "word": "sept",
+   "start": 12.324,
+   "end": 12.541
+  },
+  {
+   "word": "cents",
+   "start": 12.564,
+   "end": 12.677
+  },
+  {
+   "word": "vendus",
+   "start": 12.731,
+   "end": 13.422
+  },
+  {
+   "word": "quatre",
+   "start": 13.442,
+   "end": 13.558
+  },
+  {
+   "word": "virgule",
+   "start": 13.609,
+   "end": 13.829
+  },
+  {
+   "word": "six",
+   "start": 13.863,
+   "end": 13.965
+  },
+  {
+   "word": "étoiles",
+   "start": 14.033,
+   "end": 14.643
+  },
+  {
+   "word": "Black",
+   "start": 14.872,
+   "end": 14.914
+  },
+  {
+   "word": "Friday",
+   "start": 14.962,
+   "end": 15.321
+  },
+  {
+   "word": "livraison",
+   "start": 15.422,
+   "end": 15.931
+  },
+  {
+   "word": "gratuite",
+   "start": 15.968,
+   "end": 16.338
+  },
+  {
+   "word": "panier",
+   "start": 16.422,
+   "end": 16.812
+  },
+  {
+   "word": "orange",
+   "start": 16.861,
+   "end": 17.422
+  },
+  {
+   "word": "FONCE",
+   "start": 17.524,
+   "end": 17.965
+  }
+ ],
+ "durationSec": 18.207,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

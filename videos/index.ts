@@ -133,6 +133,21 @@ import {config as l6_riz_fromageblanc} from './riz-fromageblanc/config';
 import {config as l6_riz_croissant} from './riz-croissant/config';
 import {config as l6_riz_jambes} from './riz-jambes/config';
 import {config as l6_riz_gainer} from './riz-gainer/config';
+import {config as l7_zapm_150} from './zapm-150/config';
+import {config as l7_zapm_40cts} from './zapm-40cts/config';
+import {config as l7_zapm_cerise} from './zapm-cerise/config';
+import {config as l7_zapm_seance} from './zapm-seance/config';
+import {config as l7_zapm_deux} from './zapm-deux/config';
+import {config as l7_trio_ouatte} from './trio-ouatte/config';
+import {config as l7_trio_complete} from './trio-complete/config';
+import {config as l7_trio_210} from './trio-210/config';
+import {config as l7_trio_noel} from './trio-noel/config';
+import {config as l7_trio_plusbas} from './trio-plusbas/config';
+import {config as l7_duo_ouatte} from './duo-ouatte/config';
+import {config as l7_duo_bleurouge} from './duo-bleurouge/config';
+import {config as l7_duo_17cts} from './duo-17cts/config';
+import {config as l7_duo_pores} from './duo-pores/config';
+import {config as l7_duo_20} from './duo-20/config';
 
 export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil,
   v_creatine_coach, v_creatine_kebab, v_creatine_serie, v_zap_poubelle, v_zap_cardio, v_zap_poche, v_vitavea_fantome, v_vitavea_dubai, v_vitavea_uv, v_novoma_genoux, v_novoma_28000, v_novoma_3en1, v_lashile_casse, v_lashile_meuf, v_lashile_bonbons, v_medicube_ton_nez, v_medicube_coreenne, v_medicube_miroir, v_karacare_salaire, v_karacare_paille, v_karacare_elu, v_nuclever_oreiller, v_nuclever_stress, v_nuclever_55000,
@@ -141,4 +156,5 @@ export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAu
   l3_zap_ouatte, l3_zap_cafe_bar, l3_zap_calcul, l3_zap_seances, l3_zap_blackfriday, l3_novoma_ouatte, l3_novoma_mois, l3_novoma_58, l3_novoma_kebab, l3_novoma_28k, l3_creatine_ouatte, l3_creatine_moyenne, l3_creatine_gouts2, l3_creatine_566, l3_creatine_centdoses,
   l4_zap_poches, l4_zap_cours, l4_zap_reunion, l4_zap_deuxboites, l4_zap_cerise, l4_novoma_gelule, l4_novoma_onze, l4_novoma_deux, l4_novoma_derniers, l4_novoma_etoiles, l4_creatine_troismois, l4_creatine_officielle, l4_creatine_series, l4_creatine_cinqgouts, l4_creatine_pote, l4_medicube_ouatte, l4_medicube_choisis, l4_medicube_avis, l4_medicube_cadeau, l4_medicube_matin, l4_nuclever_70cts, l4_nuclever_prixbas, l4_nuclever_lundi, l4_nuclever_deuxieme, l4_meelito_ouatte, l4_meelito_63k, l4_meelito_copine, l4_topdon_ouatte, l4_topdon_ct, l4_topdon_airbag,
   l5_pack_winterarc, l5_pack_22, l5_pack_144, l5_pack_bulk, l5_pack_retour, l5_riz_masse, l5_riz_winterarc, l5_riz_dose, l5_riz_recette, l5_riz_9000,
-  l6_pack_duo, l6_pack_routine, l6_pack_economie, l6_pack_placard, l6_pack_noel, l6_riz_flan, l6_riz_fromageblanc, l6_riz_croissant, l6_riz_jambes, l6_riz_gainer];
+  l6_pack_duo, l6_pack_routine, l6_pack_economie, l6_pack_placard, l6_pack_noel, l6_riz_flan, l6_riz_fromageblanc, l6_riz_croissant, l6_riz_jambes, l6_riz_gainer,
+  l7_zapm_150, l7_zapm_40cts, l7_zapm_cerise, l7_zapm_seance, l7_zapm_deux, l7_trio_ouatte, l7_trio_complete, l7_trio_210, l7_trio_noel, l7_trio_plusbas, l7_duo_ouatte, l7_duo_bleurouge, l7_duo_17cts, l7_duo_pores, l7_duo_20];

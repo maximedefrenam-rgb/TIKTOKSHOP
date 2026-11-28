@@ -1,0 +1,271 @@
+{
+ "words": [
+  {
+   "word": "Quarante",
+   "start": 0.134,
+   "end": 0.24
+  },
+  {
+   "word": "centimes",
+   "start": 0.304,
+   "end": 0.72
+  },
+  {
+   "word": "le",
+   "start": 0.747,
+   "end": 0.8
+  },
+  {
+   "word": "sachet",
+   "start": 0.848,
+   "end": 1.52
+  },
+  {
+   "word": "et",
+   "start": 1.573,
+   "end": 1.68
+  },
+  {
+   "word": "t'as",
+   "start": 1.7,
+   "end": 1.92
+  },
+  {
+   "word": "cent",
+   "start": 1.936,
+   "end": 2
+  },
+  {
+   "word": "cinquante",
+   "start": 2.04,
+   "end": 2.4
+  },
+  {
+   "word": "milligrammes",
+   "start": 2.432,
+   "end": 2.88
+  },
+  {
+   "word": "de",
+   "start": 2.907,
+   "end": 2.96
+  },
+  {
+   "word": "caféine",
+   "start": 3.008,
+   "end": 3.36
+  },
+  {
+   "word": "dedans",
+   "start": 3.4,
+   "end": 3.6
+  },
+  {
+   "word": "ZAP",
+   "start": 4.672,
+   "end": 4.72
+  },
+  {
+   "word": "menthe",
+   "start": 4.752,
+   "end": 4.96
+  },
+  {
+   "word": "verte",
+   "start": 5.013,
+   "end": 5.44
+  },
+  {
+   "word": "le",
+   "start": 5.467,
+   "end": 5.52
+  },
+  {
+   "word": "duo",
+   "start": 5.62,
+   "end": 6.4
+  },
+  {
+   "word": "quatorze",
+   "start": 6.547,
+   "end": 7.04
+  },
+  {
+   "word": "euros",
+   "start": 7.067,
+   "end": 7.2
+  },
+  {
+   "word": "trente-sept",
+   "start": 7.22,
+   "end": 7.76
+  },
+  {
+   "word": "au",
+   "start": 7.813,
+   "end": 7.92
+  },
+  {
+   "word": "lieu",
+   "start": 7.952,
+   "end": 8.08
+  },
+  {
+   "word": "de",
+   "start": 8.133,
+   "end": 8.24
+  },
+  {
+   "word": "quinze",
+   "start": 8.267,
+   "end": 8.56
+  },
+  {
+   "word": "treize",
+   "start": 8.6,
+   "end": 9.28
+  },
+  {
+   "word": "divisé",
+   "start": 9.333,
+   "end": 9.68
+  },
+  {
+   "word": "par",
+   "start": 9.74,
+   "end": 9.92
+  },
+  {
+   "word": "trente-six",
+   "start": 9.94,
+   "end": 10.24
+  },
+  {
+   "word": "sachets",
+   "start": 10.304,
+   "end": 11.04
+  },
+  {
+   "word": "même",
+   "start": 11.339,
+   "end": 11.36
+  },
+  {
+   "word": "pas",
+   "start": 11.44,
+   "end": 11.68
+  },
+  {
+   "word": "quarante",
+   "start": 11.728,
+   "end": 12
+  },
+  {
+   "word": "centimes",
+   "start": 12.08,
+   "end": 12.96
+  },
+  {
+   "word": "moins",
+   "start": 13.178,
+   "end": 13.2
+  },
+  {
+   "word": "cher",
+   "start": 13.248,
+   "end": 13.44
+  },
+  {
+   "word": "que",
+   "start": 13.48,
+   "end": 13.6
+  },
+  {
+   "word": "n'importe",
+   "start": 13.68,
+   "end": 14.08
+  },
+  {
+   "word": "quel",
+   "start": 14.112,
+   "end": 14.24
+  },
+  {
+   "word": "café",
+   "start": 14.288,
+   "end": 14.48
+  },
+  {
+   "word": "en",
+   "start": 14.507,
+   "end": 14.56
+  },
+  {
+   "word": "terrasse",
+   "start": 14.608,
+   "end": 15.52
+  },
+  {
+   "word": "livraison",
+   "start": 15.647,
+   "end": 16.007
+  },
+  {
+   "word": "gratuite",
+   "start": 16.06,
+   "end": 16.807
+  },
+  {
+   "word": "prix",
+   "start": 16.839,
+   "end": 16.967
+  },
+  {
+   "word": "le",
+   "start": 16.994,
+   "end": 17.047
+  },
+  {
+   "word": "plus",
+   "start": 17.095,
+   "end": 17.287
+  },
+  {
+   "word": "bas",
+   "start": 17.327,
+   "end": 17.447
+  },
+  {
+   "word": "sur",
+   "start": 17.487,
+   "end": 17.607
+  },
+  {
+   "word": "trente",
+   "start": 17.647,
+   "end": 17.847
+  },
+  {
+   "word": "jours",
+   "start": 17.9,
+   "end": 18.407
+  },
+  {
+   "word": "panier",
+   "start": 18.447,
+   "end": 18.727
+  },
+  {
+   "word": "orange",
+   "start": 18.784,
+   "end": 19.527
+  },
+  {
+   "word": "FONCE",
+   "start": 19.607,
+   "end": 20.087
+  }
+ ],
+ "durationSec": 20.271,
+ "model": "eleven_v3"
+}

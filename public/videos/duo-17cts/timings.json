@@ -1,0 +1,281 @@
+{
+ "words": [
+  {
+   "word": "Dix-sept",
+   "start": 0.178,
+   "end": 0.475
+  },
+  {
+   "word": "centimes",
+   "start": 0.542,
+   "end": 0.949
+  },
+  {
+   "word": "le",
+   "start": 0.972,
+   "end": 1.017
+  },
+  {
+   "word": "pad",
+   "start": 1.085,
+   "end": 1.288
+  },
+  {
+   "word": "coréen",
+   "start": 1.339,
+   "end": 1.695
+  },
+  {
+   "word": "wesh",
+   "start": 1.729,
+   "end": 1.966
+  },
+  {
+   "word": "Le",
+   "start": 2.166,
+   "end": 2.177
+  },
+  {
+   "word": "duo",
+   "start": 2.228,
+   "end": 2.38
+  },
+  {
+   "word": "Medicube",
+   "start": 2.437,
+   "end": 2.923
+  },
+  {
+   "word": "cent",
+   "start": 3.017,
+   "end": 3.397
+  },
+  {
+   "word": "quarante",
+   "start": 3.451,
+   "end": 3.804
+  },
+  {
+   "word": "pads",
+   "start": 3.872,
+   "end": 4.685
+  },
+  {
+   "word": "vingt-trois",
+   "start": 4.848,
+   "end": 5.262
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.286,
+   "end": 5.939
+  },
+  {
+   "word": "avec",
+   "start": 5.96,
+   "end": 6.041
+  },
+  {
+   "word": "les",
+   "start": 6.075,
+   "end": 6.177
+  },
+  {
+   "word": "coupons",
+   "start": 6.211,
+   "end": 6.99
+  },
+  {
+   "word": "le",
+   "start": 7.118,
+   "end": 7.126
+  },
+  {
+   "word": "Zero",
+   "start": 7.18,
+   "end": 7.397
+  },
+  {
+   "word": "Pore",
+   "start": 7.465,
+   "end": 7.736
+  },
+  {
+   "word": "AHA",
+   "start": 7.872,
+   "end": 8.211
+  },
+  {
+   "word": "et",
+   "start": 8.234,
+   "end": 8.278
+  },
+  {
+   "word": "BHA",
+   "start": 8.38,
+   "end": 8.753
+  },
+  {
+   "word": "et",
+   "start": 8.829,
+   "end": 8.838
+  },
+  {
+   "word": "le",
+   "start": 8.883,
+   "end": 8.974
+  },
+  {
+   "word": "Peeling",
+   "start": 9.019,
+   "end": 9.448
+  },
+  {
+   "word": "acide",
+   "start": 9.561,
+   "end": 9.923
+  },
+  {
+   "word": "succinique",
+   "start": 9.964,
+   "end": 10.33
+  },
+  {
+   "word": "et",
+   "start": 10.375,
+   "end": 10.465
+  },
+  {
+   "word": "panthénol",
+   "start": 10.499,
+   "end": 11.211
+  },
+  {
+   "word": "l'effet",
+   "start": 11.526,
+   "end": 11.764
+  },
+  {
+   "word": "glass",
+   "start": 11.831,
+   "end": 12.17
+  },
+  {
+   "word": "skin",
+   "start": 12.225,
+   "end": 12.509
+  },
+  {
+   "word": "selon",
+   "start": 12.543,
+   "end": 12.713
+  },
+  {
+   "word": "la",
+   "start": 12.758,
+   "end": 12.848
+  },
+  {
+   "word": "marque",
+   "start": 12.887,
+   "end": 13.187
+  },
+  {
+   "word": "quatre",
+   "start": 13.411,
+   "end": 13.44
+  },
+  {
+   "word": "virgule",
+   "start": 13.508,
+   "end": 13.847
+  },
+  {
+   "word": "six",
+   "start": 13.898,
+   "end": 14.05
+  },
+  {
+   "word": "étoiles",
+   "start": 14.152,
+   "end": 14.999
+  },
+  {
+   "word": "plus",
+   "start": 15.04,
+   "end": 15.203
+  },
+  {
+   "word": "de",
+   "start": 15.27,
+   "end": 15.406
+  },
+  {
+   "word": "deux",
+   "start": 15.42,
+   "end": 15.474
+  },
+  {
+   "word": "mille",
+   "start": 15.542,
+   "end": 15.677
+  },
+  {
+   "word": "sept",
+   "start": 15.732,
+   "end": 15.948
+  },
+  {
+   "word": "cents",
+   "start": 15.971,
+   "end": 16.084
+  },
+  {
+   "word": "vendus",
+   "start": 16.125,
+   "end": 16.423
+  },
+  {
+   "word": "Black",
+   "start": 16.559,
+   "end": 16.728
+  },
+  {
+   "word": "Friday",
+   "start": 16.776,
+   "end": 17.067
+  },
+  {
+   "word": "jusqu'au",
+   "start": 17.101,
+   "end": 17.338
+  },
+  {
+   "word": "trente",
+   "start": 17.389,
+   "end": 17.948
+  },
+  {
+   "word": "panier",
+   "start": 17.982,
+   "end": 18.22
+  },
+  {
+   "word": "orange",
+   "start": 18.268,
+   "end": 18.898
+  },
+  {
+   "word": "FONCE",
+   "start": 18.999,
+   "end": 19.372
+  }
+ ],
+ "durationSec": 19.487,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 4
+ }
+}

@@ -1,0 +1,321 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.176,
+   "end": 0.203
+  },
+  {
+   "word": "cadeau",
+   "start": 0.244,
+   "end": 0.475
+  },
+  {
+   "word": "de",
+   "start": 0.497,
+   "end": 0.542
+  },
+  {
+   "word": "Noël",
+   "start": 0.61,
+   "end": 0.814
+  },
+  {
+   "word": "qui",
+   "start": 0.847,
+   "end": 0.949
+  },
+  {
+   "word": "va",
+   "start": 0.994,
+   "end": 1.085
+  },
+  {
+   "word": "faire",
+   "start": 1.13,
+   "end": 1.356
+  },
+  {
+   "word": "plaisir",
+   "start": 1.398,
+   "end": 1.695
+  },
+  {
+   "word": "à",
+   "start": 1.729,
+   "end": 1.763
+  },
+  {
+   "word": "ta",
+   "start": 1.808,
+   "end": 1.898
+  },
+  {
+   "word": "copine",
+   "start": 1.932,
+   "end": 2.441
+  },
+  {
+   "word": "je",
+   "start": 2.486,
+   "end": 2.576
+  },
+  {
+   "word": "te",
+   "start": 2.621,
+   "end": 2.712
+  },
+  {
+   "word": "le",
+   "start": 2.735,
+   "end": 2.78
+  },
+  {
+   "word": "donne",
+   "start": 2.814,
+   "end": 2.983
+  },
+  {
+   "word": "Le",
+   "start": 3.205,
+   "end": 3.212
+  },
+  {
+   "word": "set",
+   "start": 3.296,
+   "end": 3.551
+  },
+  {
+   "word": "de",
+   "start": 3.619,
+   "end": 3.754
+  },
+  {
+   "word": "trois",
+   "start": 3.788,
+   "end": 3.957
+  },
+  {
+   "word": "toner",
+   "start": 4.008,
+   "end": 4.296
+  },
+  {
+   "word": "pads",
+   "start": 4.337,
+   "end": 4.5
+  },
+  {
+   "word": "Medicube",
+   "start": 4.557,
+   "end": 5.042
+  },
+  {
+   "word": "Deep",
+   "start": 5.124,
+   "end": 5.449
+  },
+  {
+   "word": "Vita",
+   "start": 5.49,
+   "end": 5.652
+  },
+  {
+   "word": "C",
+   "start": 5.788,
+   "end": 6.059
+  },
+  {
+   "word": "Zero",
+   "start": 6.1,
+   "end": 6.263
+  },
+  {
+   "word": "Pore",
+   "start": 6.364,
+   "end": 6.669
+  },
+  {
+   "word": "et",
+   "start": 6.714,
+   "end": 6.805
+  },
+  {
+   "word": "Red",
+   "start": 6.856,
+   "end": 7.008
+  },
+  {
+   "word": "Peeling",
+   "start": 7.031,
+   "end": 7.686
+  },
+  {
+   "word": "avec",
+   "start": 7.917,
+   "end": 7.957
+  },
+  {
+   "word": "un",
+   "start": 8.048,
+   "end": 8.229
+  },
+  {
+   "word": "cadeau",
+   "start": 8.283,
+   "end": 8.501
+  },
+  {
+   "word": "offert",
+   "start": 8.551,
+   "end": 8.771
+  },
+  {
+   "word": "en",
+   "start": 8.794,
+   "end": 8.839
+  },
+  {
+   "word": "plus",
+   "start": 8.907,
+   "end": 9.246
+  },
+  {
+   "word": "livré",
+   "start": 9.364,
+   "end": 9.856
+  },
+  {
+   "word": "du",
+   "start": 9.901,
+   "end": 9.991
+  },
+  {
+   "word": "deux",
+   "start": 10.032,
+   "end": 10.195
+  },
+  {
+   "word": "au",
+   "start": 10.285,
+   "end": 10.466
+  },
+  {
+   "word": "sept",
+   "start": 10.507,
+   "end": 10.669
+  },
+  {
+   "word": "décembre",
+   "start": 10.737,
+   "end": 11.483
+  },
+  {
+   "word": "quarante-quatre",
+   "start": 11.659,
+   "end": 11.957
+  },
+  {
+   "word": "euros",
+   "start": 12.014,
+   "end": 12.635
+  },
+  {
+   "word": "et",
+   "start": 12.703,
+   "end": 12.839
+  },
+  {
+   "word": "trente-cinq",
+   "start": 12.873,
+   "end": 13.246
+  },
+  {
+   "word": "vingt",
+   "start": 13.313,
+   "end": 13.449
+  },
+  {
+   "word": "avec",
+   "start": 13.503,
+   "end": 13.72
+  },
+  {
+   "word": "les",
+   "start": 13.754,
+   "end": 13.856
+  },
+  {
+   "word": "coupons",
+   "start": 13.898,
+   "end": 14.602
+  },
+  {
+   "word": "prix",
+   "start": 14.728,
+   "end": 14.737
+  },
+  {
+   "word": "le",
+   "start": 14.782,
+   "end": 14.873
+  },
+  {
+   "word": "plus",
+   "start": 14.913,
+   "end": 15.076
+  },
+  {
+   "word": "bas",
+   "start": 15.11,
+   "end": 15.212
+  },
+  {
+   "word": "sur",
+   "start": 15.263,
+   "end": 15.415
+  },
+  {
+   "word": "trente",
+   "start": 15.449,
+   "end": 15.619
+  },
+  {
+   "word": "jours",
+   "start": 15.675,
+   "end": 16.229
+  },
+  {
+   "word": "livraison",
+   "start": 16.407,
+   "end": 16.635
+  },
+  {
+   "word": "gratuite",
+   "start": 16.688,
+   "end": 17.178
+  },
+  {
+   "word": "panier",
+   "start": 17.246,
+   "end": 17.585
+  },
+  {
+   "word": "orange",
+   "start": 17.633,
+   "end": 17.991
+  },
+  {
+   "word": "FONCE",
+   "start": 18.229,
+   "end": 18.805
+  }
+ ],
+ "durationSec": 18.939,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

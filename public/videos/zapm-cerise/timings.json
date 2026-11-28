@@ -1,0 +1,251 @@
+{
+ "words": [
+  {
+   "word": "T'as",
+   "start": 0.061,
+   "end": 0.136
+  },
+  {
+   "word": "kiffé",
+   "start": 0.169,
+   "end": 0.407
+  },
+  {
+   "word": "la",
+   "start": 0.43,
+   "end": 0.475
+  },
+  {
+   "word": "cerise",
+   "start": 0.525,
+   "end": 0.746
+  },
+  {
+   "word": "noire",
+   "start": 0.791,
+   "end": 1.017
+  },
+  {
+   "word": "Attends",
+   "start": 1.226,
+   "end": 1.396
+  },
+  {
+   "word": "de",
+   "start": 1.419,
+   "end": 1.464
+  },
+  {
+   "word": "goûter",
+   "start": 1.487,
+   "end": 1.735
+  },
+  {
+   "word": "la",
+   "start": 1.758,
+   "end": 1.803
+  },
+  {
+   "word": "menthe",
+   "start": 1.843,
+   "end": 2.074
+  },
+  {
+   "word": "verte",
+   "start": 2.142,
+   "end": 2.481
+  },
+  {
+   "word": "ZAP",
+   "start": 2.725,
+   "end": 2.933
+  },
+  {
+   "word": "menthe",
+   "start": 2.988,
+   "end": 3.408
+  },
+  {
+   "word": "et",
+   "start": 3.521,
+   "end": 3.747
+  },
+  {
+   "word": "là",
+   "start": 3.792,
+   "end": 3.883
+  },
+  {
+   "word": "c'est",
+   "start": 4.052,
+   "end": 4.357
+  },
+  {
+   "word": "cent",
+   "start": 4.384,
+   "end": 4.493
+  },
+  {
+   "word": "cinquante",
+   "start": 4.544,
+   "end": 4.899
+  },
+  {
+   "word": "milligrammes",
+   "start": 4.927,
+   "end": 5.306
+  },
+  {
+   "word": "de",
+   "start": 5.329,
+   "end": 5.374
+  },
+  {
+   "word": "caféine",
+   "start": 5.428,
+   "end": 5.781
+  },
+  {
+   "word": "par",
+   "start": 5.815,
+   "end": 5.916
+  },
+  {
+   "word": "sachet",
+   "start": 5.957,
+   "end": 6.594
+  },
+  {
+   "word": "cinquante",
+   "start": 6.785,
+   "end": 7.001
+  },
+  {
+   "word": "de",
+   "start": 7.046,
+   "end": 7.137
+  },
+  {
+   "word": "plus",
+   "start": 7.177,
+   "end": 7.34
+  },
+  {
+   "word": "que",
+   "start": 7.374,
+   "end": 7.476
+  },
+  {
+   "word": "la",
+   "start": 7.499,
+   "end": 7.544
+  },
+  {
+   "word": "cerise",
+   "start": 7.594,
+   "end": 8.425
+  },
+  {
+   "word": "elle-théanine",
+   "start": 8.545,
+   "end": 9.238
+  },
+  {
+   "word": "vitamines",
+   "start": 9.289,
+   "end": 9.645
+  },
+  {
+   "word": "B",
+   "start": 9.747,
+   "end": 10.255
+  },
+  {
+   "word": "goût",
+   "start": 10.356,
+   "end": 10.469
+  },
+  {
+   "word": "frais",
+   "start": 10.514,
+   "end": 10.808
+  },
+  {
+   "word": "discret",
+   "start": 10.893,
+   "end": 11.486
+  },
+  {
+   "word": "sous",
+   "start": 11.499,
+   "end": 11.554
+  },
+  {
+   "word": "la",
+   "start": 11.577,
+   "end": 11.622
+  },
+  {
+   "word": "lèvre",
+   "start": 11.689,
+   "end": 11.96
+  },
+  {
+   "word": "trente-six",
+   "start": 12.176,
+   "end": 12.532
+  },
+  {
+   "word": "sachets",
+   "start": 12.586,
+   "end": 13.142
+  },
+  {
+   "word": "quatorze",
+   "start": 13.165,
+   "end": 13.549
+  },
+  {
+   "word": "euros",
+   "start": 13.572,
+   "end": 13.685
+  },
+  {
+   "word": "trente-sept",
+   "start": 13.702,
+   "end": 14.363
+  },
+  {
+   "word": "livraison",
+   "start": 14.397,
+   "end": 14.702
+  },
+  {
+   "word": "gratuite",
+   "start": 14.754,
+   "end": 15.38
+  },
+  {
+   "word": "panier",
+   "start": 15.414,
+   "end": 15.651
+  },
+  {
+   "word": "orange",
+   "start": 15.699,
+   "end": 16.329
+  },
+  {
+   "word": "FONCE",
+   "start": 16.431,
+   "end": 16.871
+  }
+ ],
+ "durationSec": 17.058,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}

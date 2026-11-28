@@ -1,0 +1,271 @@
+{
+ "words": [
+  {
+   "word": "Cent",
+   "start": 0.122,
+   "end": 0.136
+  },
+  {
+   "word": "cinquante",
+   "start": 0.186,
+   "end": 0.542
+  },
+  {
+   "word": "milligrammes",
+   "start": 0.569,
+   "end": 1.017
+  },
+  {
+   "word": "de",
+   "start": 1.04,
+   "end": 1.085
+  },
+  {
+   "word": "caféine",
+   "start": 1.153,
+   "end": 1.559
+  },
+  {
+   "word": "dans",
+   "start": 1.641,
+   "end": 1.966
+  },
+  {
+   "word": "un",
+   "start": 1.989,
+   "end": 2.034
+  },
+  {
+   "word": "seul",
+   "start": 2.088,
+   "end": 2.305
+  },
+  {
+   "word": "sachet",
+   "start": 2.346,
+   "end": 2.712
+  },
+  {
+   "word": "wesh",
+   "start": 2.746,
+   "end": 2.915
+  },
+  {
+   "word": "Le",
+   "start": 3.153,
+   "end": 3.176
+  },
+  {
+   "word": "nouveau",
+   "start": 3.219,
+   "end": 3.515
+  },
+  {
+   "word": "ZAP",
+   "start": 3.583,
+   "end": 3.786
+  },
+  {
+   "word": "menthe",
+   "start": 3.813,
+   "end": 3.99
+  },
+  {
+   "word": "verte",
+   "start": 4.035,
+   "end": 4.6
+  },
+  {
+   "word": "c'est",
+   "start": 4.715,
+   "end": 4.736
+  },
+  {
+   "word": "presque",
+   "start": 4.79,
+   "end": 5.142
+  },
+  {
+   "word": "deux",
+   "start": 5.21,
+   "end": 5.481
+  },
+  {
+   "word": "expressos",
+   "start": 5.532,
+   "end": 6.295
+  },
+  {
+   "word": "avec",
+   "start": 6.475,
+   "end": 6.498
+  },
+  {
+   "word": "elle-théanine",
+   "start": 6.539,
+   "end": 7.108
+  },
+  {
+   "word": "et",
+   "start": 7.153,
+   "end": 7.244
+  },
+  {
+   "word": "vitamines",
+   "start": 7.278,
+   "end": 7.583
+  },
+  {
+   "word": "B",
+   "start": 7.685,
+   "end": 7.99
+  },
+  {
+   "word": "fabriqué",
+   "start": 8.024,
+   "end": 8.329
+  },
+  {
+   "word": "en",
+   "start": 8.352,
+   "end": 8.397
+  },
+  {
+   "word": "Suède",
+   "start": 8.441,
+   "end": 9.142
+  },
+  {
+   "word": "tu",
+   "start": 9.203,
+   "end": 9.21
+  },
+  {
+   "word": "le",
+   "start": 9.255,
+   "end": 9.346
+  },
+  {
+   "word": "cales",
+   "start": 9.369,
+   "end": 9.481
+  },
+  {
+   "word": "sous",
+   "start": 9.508,
+   "end": 9.617
+  },
+  {
+   "word": "la",
+   "start": 9.64,
+   "end": 9.685
+  },
+  {
+   "word": "lèvre",
+   "start": 9.719,
+   "end": 9.956
+  },
+  {
+   "word": "goût",
+   "start": 10.069,
+   "end": 10.363
+  },
+  {
+   "word": "menthe",
+   "start": 10.39,
+   "end": 10.634
+  },
+  {
+   "word": "bien",
+   "start": 10.688,
+   "end": 10.905
+  },
+  {
+   "word": "frais",
+   "start": 10.939,
+   "end": 11.65
+  },
+  {
+   "word": "trente-six",
+   "start": 11.706,
+   "end": 11.99
+  },
+  {
+   "word": "sachets",
+   "start": 12.03,
+   "end": 12.329
+  },
+  {
+   "word": "à",
+   "start": 12.363,
+   "end": 12.397
+  },
+  {
+   "word": "quatorze",
+   "start": 12.441,
+   "end": 12.736
+  },
+  {
+   "word": "euros",
+   "start": 12.78,
+   "end": 13.007
+  },
+  {
+   "word": "trente-sept",
+   "start": 13.024,
+   "end": 13.685
+  },
+  {
+   "word": "livraison",
+   "start": 13.736,
+   "end": 14.091
+  },
+  {
+   "word": "gratuite",
+   "start": 14.136,
+   "end": 14.769
+  },
+  {
+   "word": "Black",
+   "start": 14.814,
+   "end": 15.041
+  },
+  {
+   "word": "Friday",
+   "start": 15.089,
+   "end": 15.38
+  },
+  {
+   "word": "jusqu'au",
+   "start": 15.413,
+   "end": 15.719
+  },
+  {
+   "word": "trente",
+   "start": 15.736,
+   "end": 15.99
+  },
+  {
+   "word": "panier",
+   "start": 16.075,
+   "end": 16.464
+  },
+  {
+   "word": "orange",
+   "start": 16.513,
+   "end": 16.871
+  },
+  {
+   "word": "FONCE",
+   "start": 17.108,
+   "end": 17.617
+  }
+ ],
+ "durationSec": 17.868,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

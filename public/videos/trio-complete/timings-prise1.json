@@ -1,0 +1,296 @@
+{
+ "words": [
+  {
+   "word": "Pourquoi",
+   "start": 0.171,
+   "end": 0.339
+  },
+  {
+   "word": "un",
+   "start": 0.384,
+   "end": 0.475
+  },
+  {
+   "word": "seul",
+   "start": 0.515,
+   "end": 0.678
+  },
+  {
+   "word": "pad",
+   "start": 0.746,
+   "end": 0.949
+  },
+  {
+   "word": "quand",
+   "start": 0.972,
+   "end": 1.085
+  },
+  {
+   "word": "t'en",
+   "start": 1.119,
+   "end": 1.22
+  },
+  {
+   "word": "as",
+   "start": 1.265,
+   "end": 1.356
+  },
+  {
+   "word": "trois",
+   "start": 1.39,
+   "end": 1.559
+  },
+  {
+   "word": "qui",
+   "start": 1.593,
+   "end": 1.695
+  },
+  {
+   "word": "se",
+   "start": 1.718,
+   "end": 1.763
+  },
+  {
+   "word": "complètent",
+   "start": 1.808,
+   "end": 2.169
+  },
+  {
+   "word": "Le",
+   "start": 2.445,
+   "end": 2.505
+  },
+  {
+   "word": "Deep",
+   "start": 2.524,
+   "end": 2.596
+  },
+  {
+   "word": "Vita",
+   "start": 2.664,
+   "end": 2.935
+  },
+  {
+   "word": "C",
+   "start": 3.036,
+   "end": 3.409
+  },
+  {
+   "word": "à",
+   "start": 3.443,
+   "end": 3.477
+  },
+  {
+   "word": "la",
+   "start": 3.5,
+   "end": 3.545
+  },
+  {
+   "word": "vitamine",
+   "start": 3.596,
+   "end": 3.884
+  },
+  {
+   "word": "C",
+   "start": 4.053,
+   "end": 4.223
+  },
+  {
+   "word": "et",
+   "start": 4.246,
+   "end": 4.291
+  },
+  {
+   "word": "niacinamide",
+   "start": 4.359,
+   "end": 5.511
+  },
+  {
+   "word": "le",
+   "start": 5.786,
+   "end": 5.811
+  },
+  {
+   "word": "Zero",
+   "start": 5.819,
+   "end": 5.85
+  },
+  {
+   "word": "Pore",
+   "start": 5.952,
+   "end": 6.392
+  },
+  {
+   "word": "AHA",
+   "start": 6.46,
+   "end": 6.867
+  },
+  {
+   "word": "BHA",
+   "start": 6.969,
+   "end": 7.274
+  },
+  {
+   "word": "et",
+   "start": 7.319,
+   "end": 7.409
+  },
+  {
+   "word": "panthénol",
+   "start": 7.46,
+   "end": 7.952
+  },
+  {
+   "word": "et",
+   "start": 8.161,
+   "end": 8.174
+  },
+  {
+   "word": "le",
+   "start": 8.181,
+   "end": 8.194
+  },
+  {
+   "word": "Red",
+   "start": 8.244,
+   "end": 8.397
+  },
+  {
+   "word": "Peeling",
+   "start": 8.442,
+   "end": 8.871
+  },
+  {
+   "word": "acide",
+   "start": 8.984,
+   "end": 9.346
+  },
+  {
+   "word": "succinique",
+   "start": 9.4,
+   "end": 9.821
+  },
+  {
+   "word": "et",
+   "start": 9.888,
+   "end": 10.024
+  },
+  {
+   "word": "niacinamide",
+   "start": 10.069,
+   "end": 10.972
+  },
+  {
+   "word": "pour",
+   "start": 11.066,
+   "end": 11.12
+  },
+  {
+   "word": "l'effet",
+   "start": 11.154,
+   "end": 11.527
+  },
+  {
+   "word": "glass",
+   "start": 11.583,
+   "end": 11.866
+  },
+  {
+   "word": "skin",
+   "start": 11.92,
+   "end": 12.306
+  },
+  {
+   "word": "selon",
+   "start": 12.334,
+   "end": 12.476
+  },
+  {
+   "word": "la",
+   "start": 12.521,
+   "end": 12.611
+  },
+  {
+   "word": "marque",
+   "start": 12.65,
+   "end": 13.493
+  },
+  {
+   "word": "le",
+   "start": 13.617,
+   "end": 13.628
+  },
+  {
+   "word": "set",
+   "start": 13.679,
+   "end": 13.832
+  },
+  {
+   "word": "de",
+   "start": 13.899,
+   "end": 14.035
+  },
+  {
+   "word": "trois",
+   "start": 14.058,
+   "end": 14.408
+  },
+  {
+   "word": "trente-cinq",
+   "start": 14.467,
+   "end": 14.916
+  },
+  {
+   "word": "vingt",
+   "start": 14.984,
+   "end": 15.12
+  },
+  {
+   "word": "avec",
+   "start": 15.16,
+   "end": 15.323
+  },
+  {
+   "word": "les",
+   "start": 15.34,
+   "end": 15.391
+  },
+  {
+   "word": "coupons",
+   "start": 15.433,
+   "end": 16.069
+  },
+  {
+   "word": "livraison",
+   "start": 16.247,
+   "end": 16.476
+  },
+  {
+   "word": "gratuite",
+   "start": 16.521,
+   "end": 16.95
+  },
+  {
+   "word": "panier",
+   "start": 17.018,
+   "end": 17.289
+  },
+  {
+   "word": "orange",
+   "start": 17.348,
+   "end": 17.764
+  },
+  {
+   "word": "FONCE",
+   "start": 17.967,
+   "end": 18.51
+  }
+ ],
+ "durationSec": 18.678,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}
