@@ -21,7 +21,7 @@ const B = (say: string, scene?: SceneFn): Block => ({say, scene});
 
 /* ------------------------------------------------------------------ scènes génériques */
 const hook = (text: string, size = 160, sub?: string): SceneFn => () => ({kind: 'hook', from: 0, keywords: [
-  T1(text, 0, {size, stack: !!sub}), ...(sub ? [SM(sub, 0.1, text.includes('\n') ? 520 : 420)] : [])]});
+  T1(text, 0, {size, stack: !!sub}), ...(sub ? [SM(sub, 0.1, (text.includes('\n') ? (size >= 190 ? 395 : size >= 170 ? 365 : 340) : 300) + size + 25)] : [])]});
 const hook2 = (text: string, size: number, t2: string, w2: string, o2: O = {}): SceneFn => (a) => ({kind: 'hook', from: 0, keywords: [
   T1(text, 0, {size, stack: true, y: 300}), ST(t2, a(w2), 650, {size: 120, color: 'white', impact: true, ...o2})]});
 const big = (text: string, size = 170, o: O = {}, extra: (a: Anchor) => K[] = () => []): SceneFn => (a, t0) => ({kind: 'benefit', keywords: [
@@ -305,7 +305,7 @@ export const SPECS: Record<string, {p: ProductKey; jacket: number; blocks: Block
     B('[excited] Le cadeau de Noël, avec un cadeau offert dedans !', hook('UN CADEAU…\nAVEC UN CADEAU 🎁', 170)),
     B('[enthusiastic] le set Medicube, trois pots de soixante-dix pads,', two('SET MEDICUBE', '3 × 70 PADS', 'trois', 150, 180)),
     B('[amazed] Deep Vita C, Zero Pore, Red Peeling,', T3('Deep', 'Zero', 'Red')),
-    B('[shouting] trente-cinq vingt avec les coupons, au lieu de quarante-neuf quatre-vingt-dix-neuf,', big('35,20 €\nAVEC COUPONS', 190, {}, (a) => [SM('au lieu de 49,99 €', a('quarante-neuf'), 520)])),
+    B('[shouting] trente-cinq vingt avec les coupons, au lieu de quarante-neuf quatre-vingt-dix-neuf,', big('35,20 €\nAVEC COUPONS', 190, {}, (a) => [SM('au lieu de 49,99 €', a('quarante-neuf'), 625)])),
     B("[shouting] jusqu'au trente novembre, panier orange, FONCE !", cta([["JUSQU'AU 30/11", "jusqu'au"]])),
   ]},
   'trio-2700': {p: 'trio', jacket: 2, blocks: [
@@ -359,7 +359,7 @@ export const SPECS: Record<string, {p: ProductKey; jacket: number; blocks: Block
     B('[excited] la ArtiDiag six cents S,', big('ARTIDIAG\n600 S', 220)),
     B('[enthusiastic] moteur, boîte, airbag, ABS,', SYS4),
     B('[amazed] cent quatre-vingt-neuf quatre-vingt-dix-neuf au lieu de deux cent neuf,', TDEAL2()),
-    B('[shouting] et cent cinquante et un avec les coupons,', big('151,99 €\nAVEC COUPONS', 190, {}, (a) => [SM('selon les coupons disponibles', a('coupons'), 520)])),
+    B('[shouting] et cent cinquante et un avec les coupons,', big('151,99 €\nAVEC COUPONS', 190, {}, (a) => [SM('selon les coupons disponibles', a('coupons'), 625)])),
     B('[shouting] livraison gratuite, panier orange, FONCE !', cta([['LIVRAISON GRATUITE', 'livraison']])),
   ]},
   'top-efface': {p: 'top', jacket: 1, blocks: [
@@ -381,7 +381,7 @@ export const SPECS: Record<string, {p: ProductKey; jacket: number; blocks: Block
     B("[excited] L'hiver arrive, fais le check de ta caisse toi-même !", hook("L'HIVER ARRIVE ❄️\nCHECK TA CAISSE", 160)),
     B('[enthusiastic] la Topdon ArtiDiag six cents S,', big('TOPDON\nARTIDIAG 600 S', 170)),
     B("[amazed] lecture et effacement des codes, neuf services d'entretien,", two('LECTURE + EFFACEMENT', "9 SERVICES D'ENTRETIEN", 'neuf', 120, 100)),
-    B('[shouting] cent cinquante et un quatre-vingt-dix-neuf avec les coupons,', big('151,99 €\nAVEC COUPONS', 190, {}, (a) => [SM('selon les coupons disponibles', a('coupons'), 520)])),
+    B('[shouting] cent cinquante et un quatre-vingt-dix-neuf avec les coupons,', big('151,99 €\nAVEC COUPONS', 190, {}, (a) => [SM('selon les coupons disponibles', a('coupons'), 625)])),
     B("[shouting] jusqu'au trente novembre, livraison gratuite, panier orange, FONCE !", cta([["JUSQU'AU 30/11", "jusqu'au"], ['LIVRAISON GRATUITE', 'livraison']])),
   ]},
   'top-daron': {p: 'top', jacket: 1, blocks: [
@@ -467,7 +467,7 @@ export const SPECS: Record<string, {p: ProductKey; jacket: number; blocks: Block
   'top-garage3': {p: 'top', jacket: 2, blocks: [
     B('[sarcastic] Le garage veut te voir juste pour lire un code ?!', hook('LE GARAGE JUSTE\nPOUR LIRE UN CODE ?!', 140)),
     B('[excited] la Topdon le lit et l’efface, toute seule,', photo(TPHOTO, 'LIT + EFFACE LES CODES', 'lit')),
-    B('[shouting] cent cinquante et un avec les coupons,', big('151,99 €\nAVEC COUPONS', 190, {}, (a) => [SM('selon les coupons disponibles', a('coupons'), 520)])),
+    B('[shouting] cent cinquante et un avec les coupons,', big('151,99 €\nAVEC COUPONS', 190, {}, (a) => [SM('selon les coupons disponibles', a('coupons'), 625)])),
     B('[shouting] livraison gratuite, panier orange, FONCE !', cta([['LIVRAISON GRATUITE', 'livraison']])),
   ]},
   'duo-dernier': {p: 'duo', jacket: 2, blocks: [
