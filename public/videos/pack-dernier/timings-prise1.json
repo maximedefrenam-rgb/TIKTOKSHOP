@@ -1,0 +1,151 @@
+{
+ "words": [
+  {
+   "word": "Créatine",
+   "start": 0.125,
+   "end": 0.407
+  },
+  {
+   "word": "et",
+   "start": 0.43,
+   "end": 0.475
+  },
+  {
+   "word": "collagène",
+   "start": 0.515,
+   "end": 0.881
+  },
+  {
+   "word": "à",
+   "start": 0.949,
+   "end": 1.017
+  },
+  {
+   "word": "moins",
+   "start": 1.04,
+   "end": 1.153
+  },
+  {
+   "word": "vingt-deux",
+   "start": 1.186,
+   "end": 1.424
+  },
+  {
+   "word": "pour",
+   "start": 1.451,
+   "end": 1.559
+  },
+  {
+   "word": "cent",
+   "start": 1.6,
+   "end": 1.966
+  },
+  {
+   "word": "derniers",
+   "start": 2.007,
+   "end": 2.237
+  },
+  {
+   "word": "jours",
+   "start": 2.282,
+   "end": 2.508
+  },
+  {
+   "word": "créatine",
+   "start": 2.795,
+   "end": 3.024
+  },
+  {
+   "word": "Creapure",
+   "start": 3.075,
+   "end": 3.498
+  },
+  {
+   "word": "cinq",
+   "start": 3.566,
+   "end": 3.702
+  },
+  {
+   "word": "cents",
+   "start": 3.725,
+   "end": 3.837
+  },
+  {
+   "word": "grammes",
+   "start": 3.871,
+   "end": 4.448
+  },
+  {
+   "word": "collagène",
+   "start": 4.475,
+   "end": 4.787
+  },
+  {
+   "word": "marin",
+   "start": 4.82,
+   "end": 4.99
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 5.038,
+   "end": 5.602
+  },
+  {
+   "word": "gélules",
+   "start": 5.636,
+   "end": 6.212
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 6.334,
+   "end": 6.856
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 6.881,
+   "end": 7.297
+  },
+  {
+   "word": "les",
+   "start": 7.365,
+   "end": 7.568
+  },
+  {
+   "word": "deux",
+   "start": 7.581,
+   "end": 8.042
+  },
+  {
+   "word": "livraison",
+   "start": 8.093,
+   "end": 8.449
+  },
+  {
+   "word": "gratuite",
+   "start": 8.502,
+   "end": 9.127
+  },
+  {
+   "word": "panier",
+   "start": 9.161,
+   "end": 9.398
+  },
+  {
+   "word": "orange",
+   "start": 9.447,
+   "end": 9.805
+  },
+  {
+   "word": "FONCE",
+   "start": 10.009,
+   "end": 10.551
+  }
+ ],
+ "durationSec": 10.736,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

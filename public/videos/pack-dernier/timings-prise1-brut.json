@@ -1,0 +1,146 @@
+{
+ "words": [
+  {
+   "word": "Créatine",
+   "start": 0.147,
+   "end": 0.48
+  },
+  {
+   "word": "et",
+   "start": 0.507,
+   "end": 0.56
+  },
+  {
+   "word": "collagène",
+   "start": 0.608,
+   "end": 1.04
+  },
+  {
+   "word": "à",
+   "start": 1.12,
+   "end": 1.2
+  },
+  {
+   "word": "moins",
+   "start": 1.227,
+   "end": 1.36
+  },
+  {
+   "word": "vingt-deux",
+   "start": 1.4,
+   "end": 1.68
+  },
+  {
+   "word": "pour",
+   "start": 1.712,
+   "end": 1.84
+  },
+  {
+   "word": "cent",
+   "start": 1.888,
+   "end": 2.32
+  },
+  {
+   "word": "derniers",
+   "start": 2.368,
+   "end": 2.64
+  },
+  {
+   "word": "jours",
+   "start": 2.693,
+   "end": 2.96
+  },
+  {
+   "word": "créatine",
+   "start": 3.81,
+   "end": 4.08
+  },
+  {
+   "word": "Creapure",
+   "start": 4.14,
+   "end": 4.64
+  },
+  {
+   "word": "cinq",
+   "start": 4.72,
+   "end": 4.88
+  },
+  {
+   "word": "cents",
+   "start": 4.907,
+   "end": 5.04
+  },
+  {
+   "word": "grammes",
+   "start": 5.08,
+   "end": 5.76
+  },
+  {
+   "word": "collagène",
+   "start": 5.792,
+   "end": 6.16
+  },
+  {
+   "word": "marin",
+   "start": 6.2,
+   "end": 6.4
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 6.457,
+   "end": 7.122
+  },
+  {
+   "word": "gélules",
+   "start": 7.162,
+   "end": 7.842
+  },
+  {
+   "word": "quarante-cinq",
+   "start": 7.986,
+   "end": 8.602
+  },
+  {
+   "word": "quatre-vingt-dix",
+   "start": 8.631,
+   "end": 9.122
+  },
+  {
+   "word": "les",
+   "start": 9.202,
+   "end": 9.442
+  },
+  {
+   "word": "deux",
+   "start": 9.458,
+   "end": 10.002
+  },
+  {
+   "word": "livraison",
+   "start": 10.062,
+   "end": 10.482
+  },
+  {
+   "word": "gratuite",
+   "start": 10.544,
+   "end": 11.282
+  },
+  {
+   "word": "panier",
+   "start": 11.322,
+   "end": 11.602
+  },
+  {
+   "word": "orange",
+   "start": 11.659,
+   "end": 12.082
+  },
+  {
+   "word": "FONCE",
+   "start": 12.322,
+   "end": 12.962
+  }
+ ],
+ "durationSec": 13.166,
+ "model": "eleven_v3"
+}

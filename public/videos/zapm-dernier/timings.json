@@ -1,0 +1,146 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.125,
+   "end": 0.136
+  },
+  {
+   "word": "ZAP",
+   "start": 0.203,
+   "end": 0.407
+  },
+  {
+   "word": "menthe",
+   "start": 0.447,
+   "end": 0.746
+  },
+  {
+   "word": "en",
+   "start": 0.814,
+   "end": 0.949
+  },
+  {
+   "word": "Black",
+   "start": 0.983,
+   "end": 1.153
+  },
+  {
+   "word": "Friday",
+   "start": 1.211,
+   "end": 1.763
+  },
+  {
+   "word": "plus",
+   "start": 1.817,
+   "end": 2.034
+  },
+  {
+   "word": "que",
+   "start": 2.068,
+   "end": 2.169
+  },
+  {
+   "word": "ce",
+   "start": 2.214,
+   "end": 2.305
+  },
+  {
+   "word": "week-end",
+   "start": 2.346,
+   "end": 2.78
+  },
+  {
+   "word": "cent",
+   "start": 3.07,
+   "end": 3.125
+  },
+  {
+   "word": "cinquante",
+   "start": 3.175,
+   "end": 3.531
+  },
+  {
+   "word": "milligrammes",
+   "start": 3.559,
+   "end": 4.006
+  },
+  {
+   "word": "de",
+   "start": 4.029,
+   "end": 4.074
+  },
+  {
+   "word": "caféine",
+   "start": 4.142,
+   "end": 4.887
+  },
+  {
+   "word": "quarante",
+   "start": 4.914,
+   "end": 5.159
+  },
+  {
+   "word": "centimes",
+   "start": 5.213,
+   "end": 5.565
+  },
+  {
+   "word": "le",
+   "start": 5.588,
+   "end": 5.633
+  },
+  {
+   "word": "sachet",
+   "start": 5.674,
+   "end": 6.379
+  },
+  {
+   "word": "livraison",
+   "start": 6.616,
+   "end": 6.921
+  },
+  {
+   "word": "gratuite",
+   "start": 6.974,
+   "end": 7.464
+  },
+  {
+   "word": "jusqu’au",
+   "start": 7.531,
+   "end": 8.04
+  },
+  {
+   "word": "trente",
+   "start": 8.065,
+   "end": 8.209
+  },
+  {
+   "word": "novembre",
+   "start": 8.254,
+   "end": 9.023
+  },
+  {
+   "word": "panier",
+   "start": 9.057,
+   "end": 9.294
+  },
+  {
+   "word": "orange",
+   "start": 9.342,
+   "end": 9.972
+  },
+  {
+   "word": "FONCE",
+   "start": 10.074,
+   "end": 10.514
+  }
+ ],
+ "durationSec": 10.71,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

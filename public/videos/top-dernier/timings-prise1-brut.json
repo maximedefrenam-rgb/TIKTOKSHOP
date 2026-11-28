@@ -1,0 +1,146 @@
+{
+ "words": [
+  {
+   "word": "Derniers",
+   "start": 0.192,
+   "end": 0.4
+  },
+  {
+   "word": "jours",
+   "start": 0.453,
+   "end": 0.72
+  },
+  {
+   "word": "du",
+   "start": 0.773,
+   "end": 0.88
+  },
+  {
+   "word": "Black",
+   "start": 0.933,
+   "end": 1.2
+  },
+  {
+   "word": "Friday",
+   "start": 1.269,
+   "end": 1.68
+  },
+  {
+   "word": "sur",
+   "start": 1.74,
+   "end": 1.92
+  },
+  {
+   "word": "la",
+   "start": 1.947,
+   "end": 2
+  },
+  {
+   "word": "Topdon",
+   "start": 2.06,
+   "end": 2.56
+  },
+  {
+   "word": "moteur",
+   "start": 3.296,
+   "end": 3.6
+  },
+  {
+   "word": "boîte",
+   "start": 3.68,
+   "end": 4.24
+  },
+  {
+   "word": "airbag",
+   "start": 4.3,
+   "end": 4.8
+  },
+  {
+   "word": "ABS",
+   "start": 4.94,
+   "end": 5.76
+  },
+  {
+   "word": "cent",
+   "start": 5.968,
+   "end": 6
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 6.034,
+   "end": 6.72
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 6.743,
+   "end": 7.56
+  },
+  {
+   "word": "au",
+   "start": 7.627,
+   "end": 7.76
+  },
+  {
+   "word": "lieu",
+   "start": 7.792,
+   "end": 7.92
+  },
+  {
+   "word": "de",
+   "start": 8,
+   "end": 8.16
+  },
+  {
+   "word": "deux",
+   "start": 8.176,
+   "end": 8.24
+  },
+  {
+   "word": "cent",
+   "start": 8.288,
+   "end": 8.48
+  },
+  {
+   "word": "neuf",
+   "start": 8.533,
+   "end": 9
+  },
+  {
+   "word": "livraison",
+   "start": 9.41,
+   "end": 9.76
+  },
+  {
+   "word": "gratuite",
+   "start": 9.813,
+   "end": 10.56
+  },
+  {
+   "word": "jusqu'au",
+   "start": 10.613,
+   "end": 11.04
+  },
+  {
+   "word": "trente",
+   "start": 11.06,
+   "end": 11.6
+  },
+  {
+   "word": "panier",
+   "start": 11.66,
+   "end": 11.92
+  },
+  {
+   "word": "orange",
+   "start": 11.989,
+   "end": 12.72
+  },
+  {
+   "word": "FONCE",
+   "start": 12.8,
+   "end": 13.2
+  }
+ ],
+ "durationSec": 13.401,
+ "model": "eleven_v3"
+}

@@ -451,4 +451,34 @@ export const SPECS: Record<string, {p: ProductKey; jacket: number; blocks: Block
     B('[enthusiastic] collagène marin type un, sans lactose,', photo(COLL, 'COLLAGÈNE MARIN', 'collagène', 'TYPE I · SANS LACTOSE', 'type')),
     B('[shouting] moins vingt-deux pour cent, livraison gratuite, panier orange, FONCE !', cta([['-22 % · BLACK FRIDAY', 'moins'], ['LIVRAISON GRATUITE', 'livraison']], WARN_PACK)),
   ]},
+
+  /* ============================== BONUS (reste des crédits) */
+  'top-dernier': {p: 'top', jacket: 1, blocks: [
+    B("[shouting] Derniers jours du Black Friday sur la Topdon !", hook('DERNIERS JOURS\nBLACK FRIDAY ⏳', 160)),
+    B('[excited] moteur, boîte, airbag, ABS,', SYS4),
+    B('[amazed] cent quatre-vingt-neuf quatre-vingt-dix-neuf au lieu de deux cent neuf,', TDEAL2()),
+    B("[shouting] livraison gratuite, jusqu'au trente, panier orange, FONCE !", cta([['LIVRAISON GRATUITE', 'livraison'], ["JUSQU'AU 30/11", "jusqu'au"]])),
+  ]},
+  'top-garage3': {p: 'top', jacket: 2, blocks: [
+    B('[sarcastic] Le garage veut te voir juste pour lire un code ?!', hook('LE GARAGE JUSTE\nPOUR LIRE UN CODE ?!', 140)),
+    B('[excited] la Topdon le lit et l’efface, toute seule,', photo(TPHOTO, 'LIT + EFFACE LES CODES', 'lit')),
+    B('[shouting] cent cinquante et un avec les coupons,', big('151,99 €\nAVEC COUPONS', 190, {}, (a) => [SM('selon les coupons disponibles', a('coupons'), 520)])),
+    B('[shouting] livraison gratuite, panier orange, FONCE !', cta([['LIVRAISON GRATUITE', 'livraison']])),
+  ]},
+  'duo-dernier': {p: 'duo', jacket: 2, blocks: [
+    B('[shouting] Le duo Medicube à moins vingt pour cent, derniers jours !', hook('DUO MEDICUBE -20 %\nDERNIERS JOURS ⏳', 140)),
+    B('[excited] Zero Pore et Red Peeling,', D2('Zero', 'Red')),
+    B('[amazed] vingt-trois quatre-vingt-dix-neuf avec les coupons,', big('23,99 €\nAVEC COUPONS', 190)),
+    B("[shouting] cadeau offert, jusqu'au trente, panier orange, FONCE !", cta([['+ CADEAU OFFERT 🎁', 'cadeau'], ["JUSQU'AU 30/11", "jusqu'au"]])),
+  ]},
+  'zapm-dernier': {p: 'zapm', jacket: 2, blocks: [
+    B('[shouting] Le ZAP menthe en Black Friday, plus que ce week-end !', hook('ZAP MENTHE\nBLACK FRIDAY ⏳', 170)),
+    B('[amazed] cent cinquante milligrammes de caféine, quarante centimes le sachet,', two('150 MG', '0,40 € LE SACHET', 'quarante', 200, 150)),
+    B('[shouting] livraison gratuite, jusqu’au trente novembre, panier orange, FONCE !', cta([['LIVRAISON GRATUITE', 'livraison'], ["JUSQU'AU 30/11", 'trente']], WARN150)),
+  ]},
+  'pack-dernier': {p: 'pack', jacket: 2, blocks: [
+    B('[shouting] Créatine et collagène à moins vingt-deux pour cent, derniers jours !', hook('CRÉATINE + COLLAGÈNE\n-22 % · DERNIERS JOURS', 130)),
+    B('[excited] créatine Creapure cinq cents grammes, collagène marin quatre-vingt-dix gélules,', cut([['CRÉATINE CREAPURE®', '500 g', 'créatine'], ['COLLAGÈNE MARIN', '90 gélules', 'collagène']])),
+    B('[shouting] quarante-cinq quatre-vingt-dix les deux, livraison gratuite, panier orange, FONCE !', cta([['45,90 € LES DEUX', 'quarante-cinq'], ['LIVRAISON GRATUITE', 'livraison']], WARN_PACK)),
+  ]},
 };

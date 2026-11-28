@@ -1,0 +1,161 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.126,
+   "end": 0.136
+  },
+  {
+   "word": "garage",
+   "start": 0.213,
+   "end": 0.678
+  },
+  {
+   "word": "veut",
+   "start": 0.705,
+   "end": 0.814
+  },
+  {
+   "word": "te",
+   "start": 0.858,
+   "end": 0.949
+  },
+  {
+   "word": "voir",
+   "start": 1.017,
+   "end": 1.288
+  },
+  {
+   "word": "juste",
+   "start": 1.379,
+   "end": 1.831
+  },
+  {
+   "word": "pour",
+   "start": 1.898,
+   "end": 2.169
+  },
+  {
+   "word": "lire",
+   "start": 2.21,
+   "end": 2.373
+  },
+  {
+   "word": "un",
+   "start": 2.396,
+   "end": 2.441
+  },
+  {
+   "word": "code",
+   "start": 2.508,
+   "end": 2.78
+  },
+  {
+   "word": "la",
+   "start": 3.028,
+   "end": 3.039
+  },
+  {
+   "word": "Topdon",
+   "start": 3.107,
+   "end": 3.446
+  },
+  {
+   "word": "le",
+   "start": 3.513,
+   "end": 3.649
+  },
+  {
+   "word": "lit",
+   "start": 3.7,
+   "end": 3.852
+  },
+  {
+   "word": "et",
+   "start": 3.897,
+   "end": 3.988
+  },
+  {
+   "word": "l’efface",
+   "start": 4.022,
+   "end": 4.53
+  },
+  {
+   "word": "toute",
+   "start": 4.564,
+   "end": 4.734
+  },
+  {
+   "word": "seule",
+   "start": 4.779,
+   "end": 5.344
+  },
+  {
+   "word": "cent",
+   "start": 5.466,
+   "end": 5.48
+  },
+  {
+   "word": "cinquante",
+   "start": 5.513,
+   "end": 5.819
+  },
+  {
+   "word": "et",
+   "start": 5.841,
+   "end": 5.886
+  },
+  {
+   "word": "un",
+   "start": 5.909,
+   "end": 5.954
+  },
+  {
+   "word": "avec",
+   "start": 5.995,
+   "end": 6.158
+  },
+  {
+   "word": "les",
+   "start": 6.175,
+   "end": 6.225
+  },
+  {
+   "word": "coupons",
+   "start": 6.268,
+   "end": 6.768
+  },
+  {
+   "word": "livraison",
+   "start": 6.946,
+   "end": 7.175
+  },
+  {
+   "word": "gratuite",
+   "start": 7.227,
+   "end": 7.785
+  },
+  {
+   "word": "panier",
+   "start": 7.836,
+   "end": 8.056
+  },
+  {
+   "word": "orange",
+   "start": 8.114,
+   "end": 8.734
+  },
+  {
+   "word": "FONCE",
+   "start": 8.802,
+   "end": 9.276
+  }
+ ],
+ "durationSec": 9.456,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 1
+ }
+}

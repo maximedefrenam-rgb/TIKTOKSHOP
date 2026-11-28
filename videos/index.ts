@@ -196,6 +196,11 @@ import {config as l8_pack_stock} from './pack-stock/config';
 import {config as l8_pack_salle} from './pack-salle/config';
 import {config as l8_pack_potesalle} from './pack-potesalle/config';
 import {config as l8_pack_separement} from './pack-separement/config';
+import {config as l8_top_dernier} from './top-dernier/config';
+import {config as l8_top_garage3} from './top-garage3/config';
+import {config as l8_duo_dernier} from './duo-dernier/config';
+import {config as l8_zapm_dernier} from './zapm-dernier/config';
+import {config as l8_pack_dernier} from './pack-dernier/config';
 
 export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAutobronzant, creatineBraquage, zapSnus, vitaveaPromo, novomaDonne, novomaSquat, zapCreve, lashileFleurs, lashileBaddies, medicubePointsNoirs, medicubePromo, karacareCasquette, karacareFilles, nucleverFace, nucleverSommeil,
   v_creatine_coach, v_creatine_kebab, v_creatine_serie, v_zap_poubelle, v_zap_cardio, v_zap_poche, v_vitavea_fantome, v_vitavea_dubai, v_vitavea_uv, v_novoma_genoux, v_novoma_28000, v_novoma_3en1, v_lashile_casse, v_lashile_meuf, v_lashile_bonbons, v_medicube_ton_nez, v_medicube_coreenne, v_medicube_miroir, v_karacare_salaire, v_karacare_paille, v_karacare_elu, v_nuclever_oreiller, v_nuclever_stress, v_nuclever_55000,
@@ -206,4 +211,5 @@ export const VIDEOS: VideoConfig[] = [demo, creatineCitron, zapCerise, vitaveaAu
   l5_pack_winterarc, l5_pack_22, l5_pack_144, l5_pack_bulk, l5_pack_retour, l5_riz_masse, l5_riz_winterarc, l5_riz_dose, l5_riz_recette, l5_riz_9000,
   l6_pack_duo, l6_pack_routine, l6_pack_economie, l6_pack_placard, l6_pack_noel, l6_riz_flan, l6_riz_fromageblanc, l6_riz_croissant, l6_riz_jambes, l6_riz_gainer,
   l7_zapm_150, l7_zapm_40cts, l7_zapm_cerise, l7_zapm_seance, l7_zapm_deux, l7_trio_ouatte, l7_trio_complete, l7_trio_210, l7_trio_noel, l7_trio_plusbas, l7_duo_ouatte, l7_duo_bleurouge, l7_duo_17cts, l7_duo_pores, l7_duo_20,
-  l8_zapm_dimanche, l8_zapm_2expressos, l8_zapm_terrasse, l8_zapm_legday, l8_zapm_partiels, l8_zapm_trajet, l8_zapm_72, l8_zapm_frais, l8_zapm_valide, l8_zapm_jogging, l8_zapc_gout, l8_zapc_camp, l8_zapc_reveil, l8_zapc_shaker, l8_zapc_bureau, l8_zapc_ouatte, l8_nuc_plusbas, l8_nuc_gourde, l8_nuc_taf, l8_nuc_routine, l8_nuc_etoi, l8_nuc_valide, l8_nuc_rince, l8_nuc_enchaine, l8_trio_dimanche, l8_trio_coreens, l8_trio_coupons, l8_trio_cadeau, l8_trio_2700, l8_duo_dimanche, l8_duo_pots, l8_duo_attends, l8_duo_glass, l8_duo_pad17, l8_top_dimanche, l8_top_efface, l8_top_mainsvides, l8_top_hiver, l8_top_daron, l8_top_valide, l8_top_ecran, l8_pack_findimanche, l8_pack_colis, l8_pack_5880, l8_pack_stock, l8_pack_salle, l8_pack_potesalle, l8_pack_separement];
+  l8_zapm_dimanche, l8_zapm_2expressos, l8_zapm_terrasse, l8_zapm_legday, l8_zapm_partiels, l8_zapm_trajet, l8_zapm_72, l8_zapm_frais, l8_zapm_valide, l8_zapm_jogging, l8_zapc_gout, l8_zapc_camp, l8_zapc_reveil, l8_zapc_shaker, l8_zapc_bureau, l8_zapc_ouatte, l8_nuc_plusbas, l8_nuc_gourde, l8_nuc_taf, l8_nuc_routine, l8_nuc_etoi, l8_nuc_valide, l8_nuc_rince, l8_nuc_enchaine, l8_trio_dimanche, l8_trio_coreens, l8_trio_coupons, l8_trio_cadeau, l8_trio_2700, l8_duo_dimanche, l8_duo_pots, l8_duo_attends, l8_duo_glass, l8_duo_pad17, l8_top_dimanche, l8_top_efface, l8_top_mainsvides, l8_top_hiver, l8_top_daron, l8_top_valide, l8_top_ecran, l8_pack_findimanche, l8_pack_colis, l8_pack_5880, l8_pack_stock, l8_pack_salle, l8_pack_potesalle, l8_pack_separement,
+  l8_top_dernier, l8_top_garage3, l8_duo_dernier, l8_zapm_dernier, l8_pack_dernier];

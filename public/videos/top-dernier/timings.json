@@ -1,0 +1,151 @@
+{
+ "words": [
+  {
+   "word": "Derniers",
+   "start": 0.163,
+   "end": 0.339
+  },
+  {
+   "word": "jours",
+   "start": 0.384,
+   "end": 0.61
+  },
+  {
+   "word": "du",
+   "start": 0.655,
+   "end": 0.746
+  },
+  {
+   "word": "Black",
+   "start": 0.791,
+   "end": 1.017
+  },
+  {
+   "word": "Friday",
+   "start": 1.075,
+   "end": 1.424
+  },
+  {
+   "word": "sur",
+   "start": 1.475,
+   "end": 1.627
+  },
+  {
+   "word": "la",
+   "start": 1.65,
+   "end": 1.695
+  },
+  {
+   "word": "Topdon",
+   "start": 1.746,
+   "end": 2.169
+  },
+  {
+   "word": "moteur",
+   "start": 2.542,
+   "end": 2.8
+  },
+  {
+   "word": "boîte",
+   "start": 2.868,
+   "end": 3.342
+  },
+  {
+   "word": "airbag",
+   "start": 3.393,
+   "end": 3.817
+  },
+  {
+   "word": "ABS",
+   "start": 3.935,
+   "end": 4.63
+  },
+  {
+   "word": "cent",
+   "start": 4.806,
+   "end": 4.834
+  },
+  {
+   "word": "quatre-vingt-neuf",
+   "start": 4.862,
+   "end": 5.444
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 5.463,
+   "end": 6.156
+  },
+  {
+   "word": "au",
+   "start": 6.212,
+   "end": 6.325
+  },
+  {
+   "word": "lieu",
+   "start": 6.352,
+   "end": 6.461
+  },
+  {
+   "word": "de",
+   "start": 6.529,
+   "end": 6.664
+  },
+  {
+   "word": "deux",
+   "start": 6.678,
+   "end": 6.732
+  },
+  {
+   "word": "cent",
+   "start": 6.773,
+   "end": 6.935
+  },
+  {
+   "word": "neuf",
+   "start": 6.98,
+   "end": 7.376
+  },
+  {
+   "word": "livraison",
+   "start": 7.494,
+   "end": 7.79
+  },
+  {
+   "word": "gratuite",
+   "start": 7.835,
+   "end": 8.468
+  },
+  {
+   "word": "jusqu'au",
+   "start": 8.513,
+   "end": 8.875
+  },
+  {
+   "word": "trente",
+   "start": 8.892,
+   "end": 9.349
+  },
+  {
+   "word": "panier",
+   "start": 9.4,
+   "end": 9.621
+  },
+  {
+   "word": "orange",
+   "start": 9.679,
+   "end": 10.299
+  },
+  {
+   "word": "FONCE",
+   "start": 10.366,
+   "end": 10.705
+  }
+ ],
+ "durationSec": 10.893,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 2
+ }
+}

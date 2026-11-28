@@ -1,0 +1,146 @@
+{
+ "words": [
+  {
+   "word": "Le",
+   "start": 0.089,
+   "end": 0.1
+  },
+  {
+   "word": "duo",
+   "start": 0.167,
+   "end": 0.371
+  },
+  {
+   "word": "Medicube",
+   "start": 0.439,
+   "end": 0.913
+  },
+  {
+   "word": "à",
+   "start": 1.015,
+   "end": 1.117
+  },
+  {
+   "word": "moins",
+   "start": 1.15,
+   "end": 1.32
+  },
+  {
+   "word": "vingt",
+   "start": 1.354,
+   "end": 1.456
+  },
+  {
+   "word": "pour",
+   "start": 1.483,
+   "end": 1.591
+  },
+  {
+   "word": "cent",
+   "start": 1.632,
+   "end": 1.93
+  },
+  {
+   "word": "derniers",
+   "start": 1.971,
+   "end": 2.201
+  },
+  {
+   "word": "jours",
+   "start": 2.246,
+   "end": 2.473
+  },
+  {
+   "word": "Zero",
+   "start": 2.805,
+   "end": 2.832
+  },
+  {
+   "word": "Pore",
+   "start": 2.934,
+   "end": 3.171
+  },
+  {
+   "word": "et",
+   "start": 3.216,
+   "end": 3.306
+  },
+  {
+   "word": "Red",
+   "start": 3.357,
+   "end": 3.51
+  },
+  {
+   "word": "Peeling",
+   "start": 3.533,
+   "end": 3.917
+  },
+  {
+   "word": "vingt-trois",
+   "start": 4.133,
+   "end": 4.458
+  },
+  {
+   "word": "quatre-vingt-dix-neuf",
+   "start": 4.473,
+   "end": 5.035
+  },
+  {
+   "word": "avec",
+   "start": 5.102,
+   "end": 5.374
+  },
+  {
+   "word": "les",
+   "start": 5.407,
+   "end": 5.509
+  },
+  {
+   "word": "coupons",
+   "start": 5.543,
+   "end": 6.052
+  },
+  {
+   "word": "cadeau",
+   "start": 6.228,
+   "end": 6.323
+  },
+  {
+   "word": "offert",
+   "start": 6.39,
+   "end": 6.865
+  },
+  {
+   "word": "jusqu'au",
+   "start": 6.91,
+   "end": 7.272
+  },
+  {
+   "word": "trente",
+   "start": 7.289,
+   "end": 7.746
+  },
+  {
+   "word": "panier",
+   "start": 7.78,
+   "end": 8.018
+  },
+  {
+   "word": "orange",
+   "start": 8.066,
+   "end": 8.628
+  },
+  {
+   "word": "FONCE",
+   "start": 8.696,
+   "end": 9.035
+  }
+ ],
+ "durationSec": 9.221,
+ "model": "eleven_v3",
+ "tightened": {
+  "maxGap": 0.1,
+  "tempo": 1.18,
+  "cuts": 3
+ }
+}
