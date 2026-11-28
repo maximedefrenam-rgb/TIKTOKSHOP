@@ -195,7 +195,7 @@ const DDEAL = (from: number, badgeAt: number, strikeAt: number, newAt: number, k
 const DCOUP = (at: number) => kw('23,99 € AVEC LES COUPONS', at, {y: 840, size: 80, color: 'accent', stack: true});
 const D2 = (from: number, a: number, b: number, keywords: K[] = []) => CUT(from, [
   {label: 'ZERO PORE PAD', sub: 'AHA · BHA · panthénol', at: a},
-  {label: 'RED PEELING PAD', sub: 'acide succinique · niacinamide 2 %', at: b}], 'zoom', keywords);
+  {label: 'RED PEELING PAD', sub: 'acide succinique', at: b}], 'zoom', keywords);
 const DAVIS = (from: number, ratingAt: number, soldAt: number) => ({kind: 'reviews' as const, from, rating: 4.6, reviews: 178, sold: 2724, ratingAt, soldAt});
 
 export const duoOuatte = variant({
@@ -213,7 +213,7 @@ export const duoOuatte = variant({
 export const duoBleuRouge = variant({
   id: 'duo-bleurouge', timings: d2, ...DUO, jacket: JACKETS[2],
   build: (r) => [
-    {kind: 'hook', from: 0, keywords: [T1('LE BLEU\n+ LE ROUGE', 0, {size: 200, stack: true}), ST("C'EST LE DUO\nQUI PART ! 🔥", r('duo'), 620, {size: 120, color: 'white'})]},
+    {kind: 'hook', from: 0, keywords: [T1('LE BLEU\n+ LE ROUGE', 0, {size: 200, stack: true}), ST("C'EST LE DUO\nQUI PART ! 🔥", r('duo'), 700, {size: 110, color: 'white'})]},
     D2(r('Zero') - 0.08, r('Zero'), r('Red'), [SELON(r('selon'), 600)]),
     B(r('soixante-dix') - 0.08, [T1('70 PADS\nPAR POT', r('soixante-dix'), {size: 200})]),
     DDEAL(r('moins') - 0.08, r('moins'), r('moins') + 0.25, r('vingt-neuf'), [DCOUP(r('vingt-trois'))]),
